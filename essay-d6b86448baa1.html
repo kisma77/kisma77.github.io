@@ -107,40 +107,29 @@
 		<p>记录本博客的配置</p>
 <span id="more"></span>
 <p>一步一步来</p>
-<h2 id="1配置永久连接"><a class="markdownIt-Anchor" href="#1配置永久连接"></a> 1.配置“永久连接”</h2>
-<h3 id="11-安装abbrlink插件"><a class="markdownIt-Anchor" href="#11-安装abbrlink插件"></a> 1.1 <strong>安装abbrlink插件</strong></h3>
-<p>在博客根目录（执行hexo命令的地方）安装插件：</p>
+<h2 id="1-配置“永久连接”"><a href="#1-配置“永久连接”" class="headerlink" title="1.配置“永久连接”"></a>1.配置“永久连接”</h2><h3 id="1-1-安装abbrlink插件"><a href="#1-1-安装abbrlink插件" class="headerlink" title="1.1 安装abbrlink插件"></a>1.1 <strong>安装abbrlink插件</strong></h3><p>在博客根目录（执行hexo命令的地方）安装插件：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
-<h3 id="12-编辑站点配置文件"><a class="markdownIt-Anchor" href="#12-编辑站点配置文件"></a> 1.2 <strong>编辑站点配置文件</strong></h3>
-<p>打开博客根目录下的<code>站点配置文件_config.yml</code>，修改如下配置：</p>
+<h3 id="1-2-编辑站点配置文件"><a href="#1-2-编辑站点配置文件" class="headerlink" title="1.2 编辑站点配置文件"></a>1.2 <strong>编辑站点配置文件</strong></h3><p>打开博客根目录下的<code>站点配置文件_config.yml</code>，修改如下配置：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">#permalink: :year/:month/:day/:title/</span><br><span class="line">#permalink_defaults:</span><br><span class="line">permalink: posts/:abbrlink/</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32 #support crc16(default) and crc32</span><br><span class="line">  rep: dec   #support dec(default) and hex</span><br></pre></td></tr></table></figure>
-<h3 id="13-重新生成部署"><a class="markdownIt-Anchor" href="#13-重新生成部署"></a> 1.3 重新生成部署</h3>
-<p>使用<code>hexo clean &amp;&amp; hexo g</code>重新生成博客，在博客源文件可以看到<strong>自动生成</strong>的abbrlink编号,接下来使用<code>hexo  d</code>部署，使用浏览器查看：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300914504.png" alt="永久连接示意" /></p>
-<h2 id="2数学公式"><a class="markdownIt-Anchor" href="#2数学公式"></a> 2.数学公式</h2>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><msup><mi>a</mi><mi>x</mi></msup></mrow><annotation encoding="application/x-tex">y=a^x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.664392em;vertical-align:0em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span></span></span></span></span></span></span></p>
+<h3 id="1-3-重新生成部署"><a href="#1-3-重新生成部署" class="headerlink" title="1.3 重新生成部署"></a>1.3 重新生成部署</h3><p>使用<code>hexo clean &amp;&amp; hexo g</code>重新生成博客，在博客源文件可以看到<strong>自动生成</strong>的abbrlink编号,接下来使用<code>hexo  d</code>部署，使用浏览器查看：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300914504.png" alt="永久连接示意"></p>
+<h2 id="2-数学公式"><a href="#2-数学公式" class="headerlink" title="2.数学公式"></a>2.数学公式</h2><p>$y=a^x$</p>
 <p>和</p>
-<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>y</mi><mo>=</mo><msub><mi>a</mi><mi>x</mi></msub></mrow><annotation encoding="application/x-tex">y=a_x
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.58056em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span></p>
-<h2 id="3显示本地图片"><a class="markdownIt-Anchor" href="#3显示本地图片"></a> 3.显示本地图片</h2>
-<h3 id="31-安装插件"><a class="markdownIt-Anchor" href="#31-安装插件"></a> 3.1 安装插件</h3>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-asset-image -- save</span><br></pre></td></tr></table></figure>
-<h3 id="32-配置_configyml"><a class="markdownIt-Anchor" href="#32-配置_configyml"></a> 3.2 配置_config.yml</h3>
-<p>把_config.yml中的post_asset_folder设为true，这个配置的意思是每次new post一个博客，会增加一个和博客同名的文件夹，之后新建了一篇文章，就会同时在hexo/source/_post文件夹下生成一个.md文件和一个同名文件夹，文件夹存放文章中的图片。</p>
-<h3 id="33-使用规则"><a class="markdownIt-Anchor" href="#33-使用规则"></a> 3.3 使用规则</h3>
-<p>把图片放到.md文件的同名文件夹&quot;first-page&quot;里，最后在.md文件中引用图片</p>
+<script type="math/tex; mode=display">y=a_x</script><h2 id="3-显示本地图片"><a href="#3-显示本地图片" class="headerlink" title="3.显示本地图片"></a>3.显示本地图片</h2><h3 id="3-1-安装插件"><a href="#3-1-安装插件" class="headerlink" title="3.1 安装插件"></a>3.1 安装插件</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-asset-image -- save</span><br></pre></td></tr></table></figure>
+<h3 id="3-2-配置-config-yml"><a href="#3-2-配置-config-yml" class="headerlink" title="3.2 配置_config.yml"></a>3.2 配置_config.yml</h3><p>把_config.yml中的post_asset_folder设为true，这个配置的意思是每次new post一个博客，会增加一个和博客同名的文件夹，之后新建了一篇文章，就会同时在hexo/source/_post文件夹下生成一个.md文件和一个同名文件夹，文件夹存放文章中的图片。</p>
+<h3 id="3-3-使用规则"><a href="#3-3-使用规则" class="headerlink" title="3.3 使用规则"></a>3.3 使用规则</h3><p>把图片放到.md文件的同名文件夹”first-page”里，最后在.md文件中引用图片</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片描述]（./文章同标题文件夹/编号.jpg）</span><br></pre></td></tr></table></figure>
 <p>我不喜欢每篇文章都有一个同名文件夹，这样时间长了后比较麻烦，我采用的是图床，这样可以直接截图粘贴进文章就可以</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300933250.png" alt="GitHub图床" style="zoom: 50%;" />
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300933250.png" alt="GitHub图床" style="zoom: 50%;" /></p>
 <p>或者将需要的图片直接“拉”进文章也可以</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300932290.jpg" alt="采用图床" style="zoom: 50%;" />
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300932290.jpg" alt="采用图床" style="zoom: 50%;" /></p>
 
       
     </div>
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-d6b86448baa1.html" data-id="clfug1fvw0000h4j9ehdl121x" data-title="博客配置记录" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-d6b86448baa1.html" data-id="clfug3p1z00002oj9eudkfkrh" data-title="博客配置记录" class="article-share-link">分享</a>
       
       
       
@@ -149,6 +138,15 @@
   
     
 <nav id="article-nav">
+  
+    <a href="/essay-ff65f9933999.html" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">前一篇</strong>
+      <div class="article-nav-title">
+        
+          聪明人为什么会下笨功夫？
+        
+      </div>
+    </a>
   
   
     <a href="/essay-cf2f41f3a9f9.html" id="article-nav-older" class="article-nav-link-wrap">
@@ -173,6 +171,10 @@
       <ul>
         
           <li>
+            <a href="/essay-ff65f9933999.html">聪明人为什么会下笨功夫？</a>
+          </li>
+        
+          <li>
             <a href="/essay-d6b86448baa1.html">博客配置记录</a>
           </li>
         
@@ -182,10 +184,6 @@
         
           <li>
             <a href="/essay-74053ed441df.html">Hello World</a>
-          </li>
-        
-          <li>
-            <a href="/essay-f70003ff2a96.html">聪明人为什么会下笨功夫？</a>
           </li>
         
       </ul>
