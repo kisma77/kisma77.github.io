@@ -118,7 +118,7 @@
 <p>概率是先有模型的，“概率三元组”就是我们的模型，我们通过模型来对统计实验进行抽象。任何一个统计实验，任何一个实际当中所发生的具有不确定性的事情，我们都可以用概率三元组进行抽象，其中把所有可能的实验结果先放在一堆，然后在这一堆所形成的样本空间当中寻找合适的概率的定义域，包括它的各种各样有意义的可以计算概率的子集，然后在这个基础上我们把概率是要定义出来。</p>
 <h2 id="这里的概率怎么定义的呢"><a class="markdownIt-Anchor" href="#这里的概率怎么定义的呢"></a> 这里的概率怎么定义的呢？</h2>
 <p>它包含的就是我们长时间进行统计实验所积累下来的什么样的结果出现的可能性大，什么样的结果出现的可能性小的经验和感觉。比如掷硬币，如果是均匀的，我们经过长时间的实践，我们发现正反两遍的概率应该是相等的，那么这样的一种相等是我们经验的总结，它在我研究概率论之前就已经定下来了。我们掷骰子也一样（只要那个骰子不是专门用来抽老千的“专用骰子），它自然应当六个面是等概的，这也是我们的经验积累，我们的经验积累要全部浓缩融汇到这个模型里面来。然后，概率论研究的问题，模型是前提，它是由模型到决策，这个过程是概率论。</p>
-<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303052339826.png" alt="模型→决策的过程是概率论" style="zoom:50%;">
+<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303052339826.png" alt="模型→决策的过程是概率论" style="zoom:50%;" />
 <p>就是说有了基本模型之后，我们能从中得到什么样的结果，我们利用基本模型，研究我们不太清楚的和不确定性有关的问题的答案。</p>
 <p>这个答案并不是百分百的，因为我们算出来的也是一个概率，但是概率和概率之间我们是可以比较的，我们最终选择概率最大的方案。</p>
 <p>概率它是由模型到决策，模型是先验的。现在的问题在于，模型是怎么来的呢？</p>
@@ -126,7 +126,7 @@
 <p>模型都是从数据当中来的。</p>
 </blockquote>
 <p>从数据当中去总结、提炼模型这是统计的作用，是统计干的事。</p>
-<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303052345105.png" alt="模型来自数据" style="zoom:50%;">
+<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303052345105.png" alt="模型来自数据" style="zoom:50%;" />
 <h1 id="概率小结"><a class="markdownIt-Anchor" href="#概率小结"></a> 概率小结：</h1>
 <p>概念一定要清楚，概率的核心是概率三元组，它就是我们说的模型。里面包括了样本空间、概率的定义域、概率函数本身。概率函数本身是先验的给出的，反应的是人们长期生产生活实践的积累，人们对不确定性的一种刻画与描述。</p>
 <p>从概率三元组的构成我们可以看出，样本空间是概率论里重要的元素，事实上这是概率论中最最重要的元素，恐怕没有之一。样本空间如果事先没有进行准确的界定，我们的概率问题就没有办法很好的进行解决。任何概率问题，只要样本空间一变，一切都变了。样本空间在整个概率论的大厦里是处于基石地位，如果样本空间不一样了，整个概率论都改写了。</p>
@@ -157,9 +157,9 @@
 </li>
 <li>
 <p><strong>泊松分布</strong>。小概率事件。 如果是密集出现的事件，我们处理起来用的是大数定理，如果是稀有事件，我们处理起来用的是小数定理。泊松分布就是小数定理的一种体现。稀有的，因此我们需要有统计模型来帮助我们考察这一类事件。</p>
-<p>描述一段时间内，事件发生多少次的概率分布。<br>
+<p>描述一段时间内，事件发生多少次的概率分布。<br />
 泊松过程是一个等待的过程，如图</p>
-<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303021056985.png" alt="泊松过程" style="zoom:50%;">
+<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303021056985.png" alt="泊松过程" style="zoom:50%;" />
 </li>
 </ol>
 <h5 id="人生就是一个泊松过程"><a class="markdownIt-Anchor" href="#人生就是一个泊松过程"></a> 人生就是一个泊松过程</h5>
@@ -171,13 +171,13 @@
 <p>2.<strong>指数分布</strong>  指数分布刻画的是一种<strong>等待过程</strong>，等待某个时间的出现，等待某个时刻的来临，等待某个人的出现。指数分布的特性是<strong>无记忆性</strong>。灯泡使用寿命的案例。在离散里，几何分布和这里的指数分布非常契合的对应，几何分布是连续分布中指数分布的离散版本。指数分布是在正半轴上分布。</p>
 <p>3.<strong>高斯分布</strong></p>
 <p>高斯是在整条实数轴上分布的。高斯的密度是典型的钟型。μ代表中心位置，未必是0点，可以左右移动，σ代表胖瘦。我们对于概率论的认识，一大半都来自高斯分布，是特别重要的分布。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303021043663.gif" alt></p>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303021043663.gif" alt="" /></p>
 <p>高斯分布的重要性还表现在，如概率论里有一个中心极限定理，该定理是说<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>X</mi><mn>1</mn></msub><mo separator="true">,</mo><msub><mi>X</mi><mn>2</mn></msub><mo separator="true">,</mo><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><msub><mi>X</mi><mi>n</mi></msub></mrow><annotation encoding="application/x-tex">X_1,X_2,...X_n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">X</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">X</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord">.</span><span class="mord">.</span><span class="mord">.</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">X</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>,他们是独立同分布的，并且他们都做了归一化（均值为0，方差为1），那么把它们加在一起，用根号n一除，在n趋向无穷大的情况下，左边这个若干个随机变量的和，它们就会体现出一种整体的规律的分布上的响应，这个响应就是高斯分布。这意味这高斯的普遍存在是有事实依据的，因为大量的微小的随机因素叠加在一起，所呈现出来的整体效应和这些随机因素原有的分布就没太大关系了，它们的整体的效应就是高斯的样子。</p>
 <p>我们为什么喜欢用高斯去描绘噪声（Noise），其原因就在于此。</p>
 <table>
 <thead>
 <tr>
-<th>噪声的来源。<br>你是一下子说不清的，影响它的因素也不能一个一个数出来，因此，在这里我们所涉及到的这么一种场景，有很多很多的影响因素，这些影响因素数量非常巨大，且每一个因素的影响都十分微小，大量的微小的随机因素叠加在一起，它们的整体效应就是高斯。<br>类似的想法，在科研中，屡见不鲜。<br>比方说，统计物理学里研究分子运动。分子运动有自身的规律，你可以每一个分子都列出一个运动方程，而它们在自由空间的运动，你是可以完全把握的，可是当它们大量的分子在一起时，它们会发生相互碰撞，这会涉及到方程式的复杂性，一旦碰撞，你就很难说清楚了，而且它数量还很庞大，成千上万，你说你能用什么宏观的视角来看待分子运动呢？（这里涉及到一个概念，叫初值敏感<br>你就用温度就能一言一概之——温度就是宏观上反应分子运动剧烈程度的一种表征。这就这么来看高斯，高斯就相当于那个温度。你原有的运动不管多复杂，你在宏观上总有一个总体表象，你原有这些随机因素不管如何变化，你叠加在一起之后，就呈现出的是高斯的样子。可见高斯的普适性有多好！因此它作为概率论的中心话题，绝对不是偶然。</th>
+<th>噪声的来源。<br />你是一下子说不清的，影响它的因素也不能一个一个数出来，因此，在这里我们所涉及到的这么一种场景，有很多很多的影响因素，这些影响因素数量非常巨大，且每一个因素的影响都十分微小，大量的微小的随机因素叠加在一起，它们的整体效应就是高斯。<br />类似的想法，在科研中，屡见不鲜。<br />比方说，统计物理学里研究分子运动。分子运动有自身的规律，你可以每一个分子都列出一个运动方程，而它们在自由空间的运动，你是可以完全把握的，可是当它们大量的分子在一起时，它们会发生相互碰撞，这会涉及到方程式的复杂性，一旦碰撞，你就很难说清楚了，而且它数量还很庞大，成千上万，你说你能用什么宏观的视角来看待分子运动呢？（这里涉及到一个概念，叫初值敏感<br />你就用温度就能一言一概之——温度就是宏观上反应分子运动剧烈程度的一种表征。这就这么来看高斯，高斯就相当于那个温度。你原有的运动不管多复杂，你在宏观上总有一个总体表象，你原有这些随机因素不管如何变化，你叠加在一起之后，就呈现出的是高斯的样子。可见高斯的普适性有多好！因此它作为概率论的中心话题，绝对不是偶然。</th>
 </tr>
 </thead>
 </table>
@@ -187,7 +187,7 @@
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-faad2b0fb9ae.html" data-id="clfuj5jrs00256gj9c0lf2j1p" data-title="概率的核心[简]" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-faad2b0fb9ae.html" data-id="clfujmftw003v6kj9cqys5ty6" data-title="概率的核心[简]" class="article-share-link">分享</a>
       
       
       
@@ -231,6 +231,14 @@
       <ul>
         
           <li>
+            <a href="/essay-976c9d8e7caf.html">能别动就别动</a>
+          </li>
+        
+          <li>
+            <a href="/essay-954cc374e61e.html">如果它能运行，就别动</a>
+          </li>
+        
+          <li>
             <a href="/essay-d768a9f427b0.html">将概率思维落实到投资中去</a>
           </li>
         
@@ -240,14 +248,6 @@
         
           <li>
             <a href="/essay-2144114c97dd.html">谈世界观</a>
-          </li>
-        
-          <li>
-            <a href="/essay-47237375276c.html">容错的雅量</a>
-          </li>
-        
-          <li>
-            <a href="/essay-0582154d0835.html">聪明人为什么会下笨功夫？</a>
           </li>
         
       </ul>
