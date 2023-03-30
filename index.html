@@ -67,9 +67,9 @@
       <div class="outer">
         <section id="main">
   
-    <article id="post-聪明人为什么会下笨功夫？" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <article id="post-认知思维/聪明人为什么会下笨功夫？" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/essay-ff65f9933999.html" class="article-date">
+    <a href="/essay-c20dd316d892.html" class="article-date">
   <time class="dt-published" datetime="2023-03-30T01:36:42.000Z" itemprop="datePublished">2023-03-30</time>
 </a>
     <!--
@@ -85,7 +85,7 @@
        
   
     <h1 itemprop="name">
-      <a class="p-name article-title" href="/essay-ff65f9933999.html">聪明人为什么会下笨功夫？</a>
+      <a class="p-name article-title" href="/essay-c20dd316d892.html">聪明人为什么会下笨功夫？</a>
     </h1>
   
 
@@ -132,196 +132,12 @@
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-ff65f9933999.html" data-id="clfuhmj4s0001hgj9543xa0yx" data-title="聪明人为什么会下笨功夫？" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-c20dd316d892.html" data-id="clfuht2r3003fckj968hofayt" data-title="聪明人为什么会下笨功夫？" class="article-share-link">分享</a>
       
       
       
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%99%BA%E6%85%A7/" rel="tag">智慧</a></li></ul>
 
-    </footer>
-  </div>
-  
-</article>
-
-
-
-  
-    <article id="post-第一篇博客，博客配置记录" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
-  <div class="article-meta">
-    <a href="/essay-461ad15bab77.html" class="article-date">
-  <time class="dt-published" datetime="2023-03-29T17:42:35.000Z" itemprop="datePublished">2023-03-30</time>
-</a>
-    <!--
-  <div class="article-category">
-    <a class="article-category-link" href="/categories/hexo%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/">hexo博客建设</a>
-  </div>
-首页文章日期后面不显示分类-->
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-       
-  
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/essay-461ad15bab77.html">第一篇博客，博客配置记录</a>
-    </h1>
-  
-
-      </header>
-    
-	
-	
-    <div class="article-entry" itemprop="articleBody">
-      
-        <!-- 目录 -->
-        
-        <!-- Table of Contents -->        
-		<p>记录本博客的配置</p>
-<h2 id="1配置永久连接"><a class="markdownIt-Anchor" href="#1配置永久连接"></a> 1.配置“永久连接”</h2>
-<h3 id="11-安装abbrlink插件"><a class="markdownIt-Anchor" href="#11-安装abbrlink插件"></a> 1.1 <strong>安装abbrlink插件</strong></h3>
-<p>在博客根目录（执行hexo命令的地方）安装插件：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
-<h3 id="12-编辑站点配置文件"><a class="markdownIt-Anchor" href="#12-编辑站点配置文件"></a> 1.2 <strong>编辑站点配置文件</strong></h3>
-<p>打开博客根目录下的<code>站点配置文件_config.yml</code>，修改如下配置：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">#permalink: :year/:month/:day/:title/</span><br><span class="line">#permalink_defaults:</span><br><span class="line">permalink: posts/:abbrlink/</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32 #support crc16(default) and crc32</span><br><span class="line">  rep: dec   #support dec(default) and hex</span><br></pre></td></tr></table></figure>
-<h3 id="13-重新生成部署"><a class="markdownIt-Anchor" href="#13-重新生成部署"></a> 1.3 重新生成部署</h3>
-<p>使用<code>hexo clean &amp;&amp; hexo g</code>重新生成博客，在博客源文件可以看到<strong>自动生成</strong>的abbrlink编号,接下来使用<code>hexo  d</code>部署，使用浏览器查看：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300914504.png" alt="永久连接示意"></p>
-<p>这样优化后的优点是：</p>
-<ul>
-<li>纯英文和数字链接非常有利于SEO；</li>
-<li>只要abbrlink编号不变，该文章的url就不变，可以随意修改文件名，文章标题。</li>
-</ul>
-<h2 id="2数学公式"><a class="markdownIt-Anchor" href="#2数学公式"></a> 2.数学公式</h2>
-<p>以默认的 landscape主题为例，</p>
-<h3 id="21-安装公式渲染插件"><a class="markdownIt-Anchor" href="#21-安装公式渲染插件"></a> 2.1 安装公式渲染插件</h3>
-<p>先卸载掉自带的 <code>hexo-renderer-marked</code> ，替换为 <code>hexo-renderer-markdown-it-plus</code></p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ npm un hexo-renderer-marked --save</span><br><span class="line">$ npm i hexo-renderer-markdown-it-plus --save</span><br></pre></td></tr></table></figure>
-<h3 id="22-修改文章模板"><a class="markdownIt-Anchor" href="#22-修改文章模板"></a> 2.2 修改文章模板</h3>
-<p>修改/scaffolds/post.md 文件，在 — 前添加一行 math: false 。故如果某篇文章想启用数学公式支持，需将 false 改为 true 。</p>
-<h3 id="23-修改主题布局模板"><a class="markdownIt-Anchor" href="#23-修改主题布局模板"></a> 2.3 修改主题布局模板</h3>
-<p>有以下两种选择：</p>
-<h4 id="231-阅读全文后启用支持"><a class="markdownIt-Anchor" href="#231-阅读全文后启用支持"></a> 2.3.1 阅读全文后启用支持</h4>
-<p>编辑 <code>&lt;hexo dir&gt;/themes/landscape/layout/_partial/article.ejs</code> ，在 <code>&lt;/article&gt;</code> 前加入一行代码，添加后效果如下：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">/themes/landscape/layout/_partial/head.ejs  &lt;% if (!index &amp;&amp; post.math)&#123; %&gt;</span><br><span class="line">    &lt;script&gt;</span><br><span class="line">      var assetsString = &#x27;&lt;link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;&#x27;</span><br><span class="line">      var pHead = document.getElementsByTagName(&#x27;head&#x27;)[0];</span><br><span class="line">      pHead.innerHTML = pHead.innerHTML + assetsString;</span><br><span class="line">    &lt;/script&gt;</span><br><span class="line">  &lt;% &#125; %&gt;</span><br><span class="line">&lt;/article&gt;</span><br></pre></td></tr></table></figure>
-<p>故需将 <code>&lt;!--more--&gt;</code> 放在公式之前。</p>
-<h4 id="232-直接全部启用支持"><a class="markdownIt-Anchor" href="#232-直接全部启用支持"></a> 2.3.2 直接全部启用支持</h4>
-<p>编辑 <code>&lt;hexo dir&gt;/themes/landscape/layout/_partial/head.ejs</code> ，在 <code>&lt;/head&gt;</code> 前加入一行代码，添加后效果如下：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">/themes/landscape/layout/_partial/head.ejs  &lt;link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;</span><br><span class="line">&lt;/head&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="编辑配置文件"><a class="markdownIt-Anchor" href="#编辑配置文件"></a> 编辑配置文件</h3>
-<p>在站点配置文件 <code>_config.yml</code> 中加入如下配置：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">/_config.ymlmarkdown_it_plus:</span><br><span class="line">  highlight: true</span><br><span class="line">  html: true</span><br><span class="line">  xhtmlOut: true</span><br><span class="line">  breaks: true</span><br><span class="line">  langPrefix:</span><br><span class="line">  linkify: true</span><br><span class="line">  typographer:</span><br><span class="line">  quotes: “”‘’</span><br><span class="line">  pre_class: highlight</span><br></pre></td></tr></table></figure>
-<h3 id="用法"><a class="markdownIt-Anchor" href="#用法"></a> 用法</h3>
-<p>整行：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$$sin^2\theta + cos^2\theta = 1$$</span><br></pre></td></tr></table></figure>
-<p>效果：$$sin^2\theta + cos^2\theta = 1$$</p>
-<p>行内，开头和结尾用一个<code>$</code>就行：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$sin^2\theta + cos^2\theta = 1$</span><br></pre></td></tr></table></figure>
-<p>行内效果：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mi>θ</mi><mo>+</mo><mi>c</mi><mi>o</mi><msup><mi>s</mi><mn>2</mn></msup><mi>θ</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">sin^2\theta + cos^2\theta = 1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.897438em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">i</span><span class="mord"><span class="mord mathnormal">n</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord mathnormal">c</span><span class="mord mathnormal">o</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span></p>
-<p>测试用例：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">$$</span><br><span class="line">\begin&#123;aligned&#125;</span><br><span class="line">f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]</span><br><span class="line">&amp; = f_X[h(y)]h&#x27;(y) \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;-\frac&#123;x&#125;&#123;\theta&#125;&#125;[\frac&#123;dx&#125;&#123;dy&#125;(-\frac&#123;\theta&#125;&#123;ln(1-y)&#125;)] \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;-\frac&#123;-\frac&#123;\theta&#125;&#123;ln(1-y)&#125;&#125;&#123;\theta&#125;&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;ln(1-y)&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1-y&#125;&#123;\theta&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = 1</span><br><span class="line">\end&#123;aligned&#125;</span><br><span class="line">\tag&#123;1&#125;</span><br><span class="line">$$</span><br><span class="line">$$</span><br><span class="line">\frac&#123;1&#125;&#123;\sigma&#125; </span><br><span class="line">\tag&#123;this is a test&#125;</span><br><span class="line">$$</span><br></pre></td></tr></table></figure>
-<p>测试效果：</p>
-<p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><msub><mi>f</mi><mi>Y</mi></msub><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><msub><mi>f</mi><mi>X</mi></msub><mo stretchy="false">[</mo><mi>h</mi><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><mi mathvariant="normal">∣</mi><msup><mi>h</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mi mathvariant="normal">∣</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><msub><mi>f</mi><mi>X</mi></msub><mo stretchy="false">[</mo><mi>h</mi><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><msup><mi>h</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>x</mi><mi>θ</mi></mfrac></mrow></msup><mo stretchy="false">[</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>y</mi></mrow></mfrac><mo stretchy="false">(</mo><mo>−</mo><mfrac><mi>θ</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mfrac><mo stretchy="false">)</mo><mo stretchy="false">]</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mrow><mo>−</mo><mfrac><mi>θ</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mfrac></mrow><mi>θ</mi></mfrac></mrow></msup><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></msup><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow><mi>θ</mi></mfrac><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mn>1</mn></mrow></mstyle></mtd></mtr></mtable></mtd><mtd width="50%"></mtd><mtd><mtext>(1)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
-f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
-&amp; = f_X[h(y)]h&#x27;(y) \\[2ex]
-&amp; = \frac{1}{\theta}e^{-\frac{x}{\theta}}[\frac{dx}{dy}(-\frac{\theta}{ln(1-y)})] \\[2ex]
-&amp; = \frac{1}{\theta}e^{-\frac{-\frac{\theta}{ln(1-y)}}{\theta}}\frac{\theta}{1-y} \\[2ex]
-&amp; = \frac{1}{\theta}e^{ln(1-y)}\frac{\theta}{1-y} \\[2ex]
-&amp; = \frac{1-y}{\theta}\frac{\theta}{1-y} \\[2ex]
-&amp; = 1
-\end{aligned}
-\tag{1}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:18.01824em;vertical-align:-8.75912em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:9.25912em;"><span style="top:-12.01104em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.22222em;">Y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-9.64904em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-6.755599999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-3.641679999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-0.7482399999999989em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:2.145200000000001em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:4.507199999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:8.75912em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:9.25912em;"><span style="top:-12.01104em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord mathnormal">h</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mclose">]</span><span class="mord">∣</span><span class="mord"><span class="mord mathnormal">h</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mord">∣</span></span></span><span style="top:-9.64904em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord mathnormal">h</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mclose">]</span><span class="mord"><span class="mord mathnormal">h</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-6.755599999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.89708em;"><span style="top:-3.4130000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6915428571428572em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.384em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span></span></span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mopen">(</span><span class="mord">−</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">n</span><span class="mopen">(</span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose">)</span><span class="mclose">]</span></span></span><span style="top:-3.641679999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.59192em;"><span style="top:-3.59192em;margin-right:0.05em;"><span class="pstrut" style="height:3.1789199999999997em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.6841714285714287em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.911714285714286em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size1 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.08144em;"><span style="top:-2.4265em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mord mathnormal mtight">n</span><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="mclose mtight">)</span></span></span><span style="top:-3.2255em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.387em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8235em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size1 size6"></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span></span></span></span></span></span></span></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-0.7482399999999989em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.938em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mord mathnormal mtight">n</span><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="mclose mtight">)</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:2.145200000000001em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:4.507199999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:8.75912em;"><span></span></span></span></span></span></span></span></span><span class="tag"><span class="strut" style="height:18.01824em;vertical-align:-8.75912em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">1</span></span><span class="mord">)</span></span></span></span></span></span></p>
-<p>和</p>
-<p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>y</mi><mo>=</mo><msub><mi>a</mi><mi>x</mi></msub></mrow><annotation encoding="application/x-tex">y=a_x
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.58056em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span></p>
-<p><strong>公式这块我还没搞懂，弄出来的公式显示不正常，是“双影”，如下图所示，还不知道该怎么弄</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301009151.png" alt="公式显示异常"></p>
-<p>由于公式使用不多，问题暂时先挂起。</p>
-<h2 id="3显示本地图片"><a class="markdownIt-Anchor" href="#3显示本地图片"></a> 3.显示本地图片</h2>
-<h3 id="31-安装插件"><a class="markdownIt-Anchor" href="#31-安装插件"></a> 3.1 安装插件</h3>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-asset-image -- save</span><br></pre></td></tr></table></figure>
-<h3 id="32-配置_configyml"><a class="markdownIt-Anchor" href="#32-配置_configyml"></a> 3.2 配置_config.yml</h3>
-<p>把_config.yml中的post_asset_folder设为true，这个配置的意思是每次new post一个博客，会增加一个和博客同名的文件夹，之后新建了一篇文章，就会同时在hexo/source/_post文件夹下生成一个.md文件和一个同名文件夹，文件夹存放文章中的图片。</p>
-<h3 id="33-使用规则"><a class="markdownIt-Anchor" href="#33-使用规则"></a> 3.3 使用规则</h3>
-<p>把图片放到.md文件的同名文件夹&quot;first-page&quot;里，最后在.md文件中引用图片</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片描述]（./文章同标题文件夹/编号.jpg）</span><br></pre></td></tr></table></figure>
-<p>我不喜欢每篇文章都有一个同名文件夹，这样时间长了后比较麻烦，我采用的是图床，这样可以直接截图粘贴进文章就可以</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300933250.png" alt="GitHub图床" style="zoom: 50%;">
-<p>或者将需要的图片直接“拉”进文章也可以</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300932290.jpg" alt="采用图床" style="zoom: 50%;">
-
-      
-    </div>
-	
-	
-    <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-461ad15bab77.html" data-id="clfuhmj4p0000hgj9gc0h8i2y" data-title="第一篇博客，博客配置记录" class="article-share-link">分享</a>
-      
-      
-      
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE/" rel="tag">博客配置</a></li></ul>
-
-    </footer>
-  </div>
-  
-</article>
-
-
-
-  
-    <article id="post-hello-world" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
-  <div class="article-meta">
-    <a href="/essay-74053ed441df.html" class="article-date">
-  <time class="dt-published" datetime="2023-03-29T17:41:17.639Z" itemprop="datePublished">2023-03-30</time>
-</a>
-    <!--首页文章日期后面不显示分类-->
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-       
-  
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/essay-74053ed441df.html">Hello World</a>
-    </h1>
-  
-
-      </header>
-    
-	
-	
-    <div class="article-entry" itemprop="articleBody">
-      
-        <!-- 目录 -->
-        
-        <!-- Table of Contents -->        
-		<p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2>
-<h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-
-      
-    </div>
-	
-	
-    <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-74053ed441df.html" data-id="clfuhmj4v0004hgj9djidfwaa" data-title="Hello World" class="article-share-link">分享</a>
-      
-      
-      
     </footer>
   </div>
   
@@ -369,7 +185,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-d768a9f427b0.html" data-id="clfuhmj57001chgj962hfderz" data-title="将概率思维落实到投资中去" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-d768a9f427b0.html" data-id="clfuht2qj0012ckj994djf8m8" data-title="将概率思维落实到投资中去" class="article-share-link">分享</a>
       
       
       
@@ -422,7 +238,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-322aac698b70.html" data-id="clfuhmj4v0005hgj9d2gegds0" data-title="不该浮亏加仓（摊平亏损）" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-322aac698b70.html" data-id="clfuht2qa0005ckj96t8xgbyb" data-title="不该浮亏加仓（摊平亏损）" class="article-share-link">分享</a>
       
       
       
@@ -475,7 +291,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-2144114c97dd.html" data-id="clfuhmj5o003qhgj99lxng858" data-title="谈世界观" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-2144114c97dd.html" data-id="clfuht2r5003tckj9fh2349dd" data-title="谈世界观" class="article-share-link">分享</a>
       
       
       
@@ -528,7 +344,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-47237375276c.html" data-id="clfuhmj560019hgj9bgk2gh8q" data-title="容错的雅量" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-47237375276c.html" data-id="clfuht2ql001dckj94yk57ls5" data-title="容错的雅量" class="article-share-link">分享</a>
       
       
       
@@ -579,7 +395,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-a6cd0a54f016.html" data-id="clfuhmj5b001rhgj9aec8h99v" data-title="面对未知与不确定性时，我们应该做什么？" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-a6cd0a54f016.html" data-id="clfuht2qm001hckj9bv8g1n71" data-title="面对未知与不确定性时，我们应该做什么？" class="article-share-link">分享</a>
       
       
       
@@ -632,7 +448,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-3b3cb1aa7894.html" data-id="clfuhmj4w0006hgj98pv1engz" data-title="周末小结" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-3b3cb1aa7894.html" data-id="clfuht2q70001ckj91oqk7poh" data-title="周末小结" class="article-share-link">分享</a>
       
       
       
@@ -685,11 +501,115 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-34835e05d333.html" data-id="clfuhmj5d0026hgj990iseem8" data-title="今天去选孕妇照，回来两人下了馆子" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-34835e05d333.html" data-id="clfuht2qr0021ckj9gsno2kus" data-title="今天去选孕妇照，回来两人下了馆子" class="article-share-link">分享</a>
       
       
       
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E7%85%A7%E7%9B%B8/" rel="tag">照相</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-生活日记/【见证】星星和月亮在一起啦" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/essay-105920f88844.html" class="article-date">
+  <time class="dt-published" datetime="2023-03-24T13:07:32.000Z" itemprop="datePublished">2023-03-24</time>
+</a>
+    <!--
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/">生活日记</a>
+  </div>
+首页文章日期后面不显示分类-->
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+       
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/essay-105920f88844.html">【见证】星星和月亮在一起啦</a>
+    </h1>
+  
+
+      </header>
+    
+	
+	
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>孩子，今天（2023.3.24），“月掩金星”天象亮相天宇。金星会从月亮的暗边缘被掩盖，消失一阵后，再从月牙的亮边缘复现。此外，还能见到比较明显的“新月抱旧月”。下一次我国能看到的月掩金星要等到2026年了。</p>
+        
+          <p class="article-more-link">
+            <a href="/essay-105920f88844.html#more">Read More</a>
+          </p>
+        
+      
+    </div>
+	
+	
+    <footer class="article-footer">
+      <a data-url="http://kisma77.github.io/essay-105920f88844.html" data-id="clfuht2qr001xckj9gu4fa7aw" data-title="【见证】星星和月亮在一起啦" class="article-share-link">分享</a>
+      
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-认知思维/财富观" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/essay-978ce9c26a54.html" class="article-date">
+  <time class="dt-published" datetime="2023-03-24T03:15:49.000Z" itemprop="datePublished">2023-03-24</time>
+</a>
+    <!--
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E8%AE%A4%E7%9F%A5%E6%80%9D%E7%BB%B4/">认知思维</a>
+  </div>
+首页文章日期后面不显示分类-->
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+       
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/essay-978ce9c26a54.html">财富观</a>
+    </h1>
+  
+
+      </header>
+    
+	
+	
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>财富的本质是什么？该如何管理 / 如何达到这些目标？</p>
+        
+          <p class="article-more-link">
+            <a href="/essay-978ce9c26a54.html#more">Read More</a>
+          </p>
+        
+      
+    </div>
+	
+	
+    <footer class="article-footer">
+      <a data-url="http://kisma77.github.io/essay-978ce9c26a54.html" data-id="clfuht2r6003yckj91jhn4d6q" data-title="财富观" class="article-share-link">分享</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/" rel="tag">商品期货</a></li></ul>
 
     </footer>
   </div>
@@ -718,15 +638,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       <ul>
         
           <li>
-            <a href="/essay-ff65f9933999.html">聪明人为什么会下笨功夫？</a>
-          </li>
-        
-          <li>
-            <a href="/essay-461ad15bab77.html">第一篇博客，博客配置记录</a>
-          </li>
-        
-          <li>
-            <a href="/essay-74053ed441df.html">Hello World</a>
+            <a href="/essay-c20dd316d892.html">聪明人为什么会下笨功夫？</a>
           </li>
         
           <li>
@@ -735,6 +647,14 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
         
           <li>
             <a href="/essay-322aac698b70.html">不该浮亏加仓（摊平亏损）</a>
+          </li>
+        
+          <li>
+            <a href="/essay-2144114c97dd.html">谈世界观</a>
+          </li>
+        
+          <li>
+            <a href="/essay-47237375276c.html">容错的雅量</a>
           </li>
         
       </ul>
