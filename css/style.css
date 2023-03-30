@@ -270,7 +270,7 @@ code {
 .article-entry h6,
 .widget h6 {
   font-size: 1em;
-  color: #999;
+  color: #e6e6fa;
 }
 .article-entry hr,
 .widget hr {
@@ -1063,7 +1063,7 @@ div.article-meta-button a:hover {
   margin-left: 1em;
 }
 .article-entry .caption {
-  color: #999;
+  color: #e6e6fa;
   display: block;
   font-size: 0.9em;
   margin-top: 0.5em;
@@ -1095,7 +1095,7 @@ div .article-more-link {
   padding: 6px 15px;
   border-radius: 15px;
   background: #ebeef1;
-  color: #999;
+  color: #e6e6fa;
   text-shadow: 0 1px #fff;
   text-decoration: none;
 }
@@ -1121,7 +1121,7 @@ div .article-more-link {
   clear: both;
 }
 .article-footer a {
-  color: #999;
+  color: #e6e6fa;
   text-decoration: none;
 }
 .article-footer a:hover {
@@ -1176,7 +1176,7 @@ div .article-more-link {
 }
 .article-nav-link-wrap {
   text-decoration: none;
-  color: #999;
+  color: #e6e6fa;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -1621,7 +1621,7 @@ ol.toc {
 #page-nav {
   margin: 40px auto;
   text-align: center;
-  color: #999;
+  color: #e6e6fa;
   overflow: hidden;
 }
 #page-nav:before,
@@ -1642,7 +1642,7 @@ ol.toc {
   border-radius: 2px;
 }
 #page-nav a {
-  color: #999;
+  color: #e6e6fa;
   text-decoration: none;
 }
 #page-nav a:hover {
@@ -1811,7 +1811,7 @@ ol.toc {
 .tag-list-count,
 .archive-list-count {
   padding-left: 5px;
-  color: #999;
+  color: #e6e6fa;
   font-size: 0.85em;
 }
 .category-list-count:before,
