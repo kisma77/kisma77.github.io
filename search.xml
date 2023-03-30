@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>如果它能运行，就别动</title>
-    <url>//essay-954cc374e61e.html</url>
-    <content><![CDATA[<p>有文件夹，新建完后关闭了post_asset_folder: false，测试图片</p>
-<span id="more"></span>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301111856.PNG" alt="有文件夹"></p>
-<p>顺便测试行内公式<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><msup><mi>a</mi><mi>x</mi></msup></mrow><annotation encoding="application/x-tex">y=a^x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.664392em;vertical-align:0em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span></span></span></span></span></span></span></p>
-<p>看看</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301128634.png" alt></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303240155963.JPG" alt></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](https://cdn.jsdelivr.net/gh/kisma77/pic/202303301114397.PNG)</span><br></pre></td></tr></table></figure>
-]]></content>
-  </entry>
-  <entry>
     <title>博客配置记录</title>
     <url>//essay-b8c9c6428a5a.html</url>
     <content><![CDATA[<p>记录本博客的配置</p>
@@ -100,13 +87,16 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>能别动就别动</title>
-    <url>//essay-976c9d8e7caf.html</url>
-    <content><![CDATA[<p>这是在post_asset_folder: false后新建页面，测试图片</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301114397.PNG" alt="ces"></p>
-<p>顺便测试行内公式<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><msup><mi>a</mi><mi>x</mi></msup></mrow><annotation encoding="application/x-tex">y=a^x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.664392em;vertical-align:0em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span></span></span></span></span></span></span></p>
-<p>看看</p>
+    <title>将概率思维落实到投资中去</title>
+    <url>//essay-d768a9f427b0.html</url>
+    <content><![CDATA[<p>学了那么久的概率、统计，就应落实到投资中去！</p>
 ]]></content>
+      <categories>
+        <category>天马行空</category>
+      </categories>
+      <tags>
+        <tag>投资</tag>
+      </tags>
   </entry>
   <entry>
     <title>不该浮亏加仓（摊平亏损）</title>
@@ -143,9 +133,33 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
+    <title>股市似拍卖专场</title>
+    <url>//essay-25553c83bcf8.html</url>
+    <content><![CDATA[<p>股市如同拍卖所。</p>
+<h3 id="最糟糕的投资习惯有哪些"><a class="markdownIt-Anchor" href="#最糟糕的投资习惯有哪些"></a> 最糟糕的投资习惯有哪些</h3>
+<p>听天听威廉·欧奈尔所著的《股票投资的24堂必修课》时，在第三课里听到“<strong>最糟糕的投资习惯有哪些？</strong>”的论述：</p>
+<blockquote>
+<p>第一个习惯是爱买低价股。买入大量2美元、5美元或10美元一股的股票。看着股价翻倍听上去是个不错的主意。但问题是，你亏钱概率可能更大。<br>
+事实上，投资股票和买打折的裙子或汽车不同。股市如同拍卖所。股价体现的是股票在某个时刻的价值。如果你买入便宜的股票，要记住一分钱一分货。<br>
+过去45年，那些股价上涨一倍、两倍甚至更多的股票平均股价是28美元一股。这是历史事实。便宜的股票风险更大。</p>
+</blockquote>
+<p>这个比喻很有意思，我以前也喜欢买低价的股票，认为便宜，而对于一些好公司，比如茅台、五粮液、比亚迪等的股价，因“太贵了”不敢买而错过。</p>
+<blockquote>
+<p>新手花大部份时间在如何进场，老手花时间在如何出场</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>天马行空</category>
+      </categories>
+      <tags>
+        <tag>股市</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>周末小结</title>
     <url>//essay-3b3cb1aa7894.html</url>
     <content><![CDATA[<p>本周盈利4804元，共交了264元佣金，净利润4540元，算下来收益率是7%。</p>
+<span id="more"></span>
 <p>共交了264元佣金，与利润相比，高了。主要是因为我操作的频率高了！</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250116294.png" alt="账户规模图"></p>
 ]]></content>
@@ -160,6 +174,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>如何锻炼交易中不紧张的能力？</title>
     <url>//essay-b8935d427837.html</url>
     <content><![CDATA[<p>操盘中时常会紧张，担心亏钱，如何锻炼交易中不紧张的能力呢？</p>
+<span id="more"></span>
 <p>剖析问题：</p>
 <p>紧张是担心亏钱；亏钱的原因是做反了方向……一步一步递归下去。</p>
 <p>事实上递归下去是表面，深层次的是面对不确定的焦虑，进而，将紧张进行抽象、定义：<strong>紧张是对可能会出现坏到你无法承受的后果的焦虑</strong>。</p>
@@ -204,6 +219,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <content><![CDATA[<p>There are two primacy says we make money trading, catching a big price move with a small position or having a large position and catching a small move.</p>
 <p>交易获利基本上有两种方法：用小的头寸捕捉到一次大的价格波动；或者用大的头寸捕捉一次小的价格波动。</p>
 <p>期货交易的诀窍是：别做短线。你交易的时间周期越短，赚的钱越少。</p>
+<span id="more"></span>
 <p>这听起来很让人失望，但却是真的。想想你以前的交易，有哪天获得过超额利润呢？如果你够走运，这种事情又能重复多少次呢？</p>
 <p>获利的普遍规则和投机的普遍规则是一样的：</p>
 <p><strong>获利需要靠时间来积累</strong></p>
@@ -226,10 +242,64 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
+    <title>思考“拿住不乱抛”</title>
+    <url>//essay-a160268c660d.html</url>
+    <content><![CDATA[<p>很多人买入后拿不住股票。怎样才能拿的住？你从何时能做到的？从最初交易经历了多久？哪些关键事改变了你？</p>
+<span id="more"></span>
+<p>如果是你算好了该抛，你自然就抛了。所谓的“拿不住”，一定是指你其实没有任何确切的理由，仅仅只是怀疑自己看得不准。</p>
+<p>没有理由，就是不相信了，信不足了。</p>
+<p>理由你都查过了，怎么说呢——说一定有威胁吧，谈不上；说一定没威胁吧，也谈不上。</p>
+<p>要算出这事到底发生概率有多大，办不到。情报永远不够——话说，什么叫“情报够”？</p>
+<p>就算一个威胁也没发现，那又如何？难道我没发现威胁就是真的没威胁了？要是世上有这等便宜事，市场上的企业不都是我家的了，还交易个空气啊。</p>
+<p>看得到的威胁，已经把我推到悬崖边上了。</p>
+<p>看不到的威胁在我背后开足了小宇宙天马流星拳。</p>
+<p>我想一轮就挨一拳，cnm黄金圣斗士啊你是。</p>
+<p>我现在坐在谷底，想这个问题——我怎么能做到怀疑而不害怕？</p>
+<hr>
+<p>如果你的投资的目的是为了避免损失，你是不可能不害怕的。你也是不可能拿得住的。</p>
+<p>不要听那些成功的山顶卖出的人吹嘘什么经验。</p>
+<p>那都是六合彩的经验。</p>
+<p>你记住，只有一种立场可以让你真的“拿得住”<strong>——投资不是为了盈利，是为了花得值得。</strong></p>
+<p><strong>我之所以“投资”某甲，根本不是因为这可以给我回报，而是因为某甲做的事情是对的，结果是我乐见的，ta需要这些东西的帮助去做这件事。</strong></p>
+<p>举个例子，我想要帮助中国拥有芯片，于是我挑了若干家我认为真的想做这事、有理想、有决心、有希望的企业，把钱投给他们。</p>
+<p>他亏掉了，我心甘情愿。因为我一开始就是准备捐掉了。</p>
+<p><strong>我就是这么傻，所以我才这么幸福。</strong></p>
+<p>啥时候我觉得有什么人干的什么事会让这个世界更好一些，比“让中国拥有芯片”还重要了——比如让我这样美好的人治好病多活一段时间，或者让我爱的人开心一小下。我会打开我的小猪扑满看看这家芯片企业用完了没。</p>
+<p>剩多少就是多少，没了就没了。</p>
+<p>“投资”不是拿来赚钱的，而是拿来花钱的。</p>
+<p>**你的聪明，要放在寻找那个“失而无憾的选择”上。**要培养洞察力、发展观察的方法和技巧去察觉对方做事是为什么。不要选那些“一切围绕为股东赚取最多利润”的人，要选那些“想做点事”的人。</p>
+<p>我要听的不是“财富故事”，因为我的钱你可以花掉而不还给我。</p>
+<p>我要听的是它为什么值得这样花。</p>
+<p>你如果确实是净造福于世界，你应该自然会有额外的净剩余存在。这无关乎我是不是要保本得利，而关系到这值不值得。你有有效的方法能通过掌握和分发这份额外的剩余而使我的钱出现增值，那只是额外的添头，是我丢出这笔钱的额外奖励，<strong>不是我的第一诉求</strong>。</p>
+<p>只要值得，那么花掉了我也已经保本。</p>
+<p>这种“值得”，救赎了一切“损失的风险”。</p>
+<p>是因为已被“救赎”，所以我才拿得住。</p>
+<p>所以我根本不在乎什么市场风险国际局势变幻。</p>
+<p>我相信世界的规则里已经写定了这样的好意，<strong>那些“想做事”而不是“想赚钱”的人，总会有足够的运气和勇气</strong>。</p>
+<p>ta们拿得住ta们的理想，我就“拿得住”我的“赌注”。</p>
+<p>我投资的东西，是我想好了不准备再拥有的东西。我已经放开了，还有什么“拿不拿得住”？</p>
+<p>你投资的东西，是你不能接受失去的东西，我坦白告诉你——<strong>你永远也“拿不住”</strong>。</p>
+<p>你几点想明白，你就可以几点睡。</p>
+<p>想不明白你就接着睁着眼睛想——你从此再无睡眠可言，只有晕倒。</p>
+<hr>
+<p>如果你不认可这个“投资”的定义，那么我的“投资经验”就是0。</p>
+<p>我的答案你不需要参考了。</p>
+<hr>
+<p>那，我们该如何树立正确的财富观呢？→《<a href="https://kisma77.github.io/essay-978ce9c26a54.html">财富观</a>》</p>
+]]></content>
+      <categories>
+        <category>商贾贸易</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>打雪仗思维</title>
     <url>//essay-69b40379164f.html</url>
     <content><![CDATA[<p>这是理解成功的交易者在交易中的思维方式，如果你想成为一个成功的交易者，本章的内容是至关重要的。因此，我决定在很多不同的场合通过不同的比喻来反复进行阐述，但是你必须一次就领会它，理解这些因素能够带给你令人难以置信的收益。</p>
 <p>在我看来，一个成功的交易系统，有六个关键可变因素必须要理解。</p>
+<span id="more"></span>
 <p>下面一起来探究这六个可变因素以及它们如何影响每一位投资者的利润或亏损。</p>
 <p>（1）可靠度。或者百分之多少的时间你是赚钱的。比如，你的投资是否有60%是赚钱的，而有40%是赔钱的呢？可以参考《<a href="https://kisma77.github.io/essay-813b4f49003b.html">百分百红灯策略</a>》。</p>
 <p>（2）利润与损失的相对占比(盈亏比）。进行交易时，相对于损失而言，利润水平的相对规模。例如，假如交易失败每股赔1元，而交易成功每股赚1元，那么利润水平的相对规模是一样的。然而，如果交易成功，每股赚到了10元，而交易失败，每股只赔1元，那么相对规模的盈亏比就非常不同。</p>
@@ -306,62 +376,10 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>有赚，开心</title>
     <url>//essay-8996184cfd9a.html</url>
     <content><![CDATA[<p>今晚赚了450元。</p>
+<span id="more"></span>
 <p>明天（24号）上午估计不会出摊，下午要去五路居选孕妇照，完事后要去金源看看婴儿车。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303240148248.png" alt="3.23夜盘收益"></p>
 <p>截止目前孕检、产包必需品花费￥9000左右</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303240155963.JPG" alt></p>
-]]></content>
-      <categories>
-        <category>商贾贸易</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>思考“拿住不乱抛”</title>
-    <url>//essay-a160268c660d.html</url>
-    <content><![CDATA[<p>很多人买入后拿不住股票。怎样才能拿的住？你从何时能做到的？从最初交易经历了多久？哪些关键事改变了你？</p>
-<p>如果是你算好了该抛，你自然就抛了。所谓的“拿不住”，一定是指你其实没有任何确切的理由，仅仅只是怀疑自己看得不准。</p>
-<p>没有理由，就是不相信了，信不足了。</p>
-<p>理由你都查过了，怎么说呢——说一定有威胁吧，谈不上；说一定没威胁吧，也谈不上。</p>
-<p>要算出这事到底发生概率有多大，办不到。情报永远不够——话说，什么叫“情报够”？</p>
-<p>就算一个威胁也没发现，那又如何？难道我没发现威胁就是真的没威胁了？要是世上有这等便宜事，市场上的企业不都是我家的了，还交易个空气啊。</p>
-<p>看得到的威胁，已经把我推到悬崖边上了。</p>
-<p>看不到的威胁在我背后开足了小宇宙天马流星拳。</p>
-<p>我想一轮就挨一拳，cnm黄金圣斗士啊你是。</p>
-<p>我现在坐在谷底，想这个问题——我怎么能做到怀疑而不害怕？</p>
-<hr>
-<p>如果你的投资的目的是为了避免损失，你是不可能不害怕的。你也是不可能拿得住的。</p>
-<p>不要听那些成功的山顶卖出的人吹嘘什么经验。</p>
-<p>那都是六合彩的经验。</p>
-<p>你记住，只有一种立场可以让你真的“拿得住”<strong>——投资不是为了盈利，是为了花得值得。</strong></p>
-<p><strong>我之所以“投资”某甲，根本不是因为这可以给我回报，而是因为某甲做的事情是对的，结果是我乐见的，ta需要这些东西的帮助去做这件事。</strong></p>
-<p>举个例子，我想要帮助中国拥有芯片，于是我挑了若干家我认为真的想做这事、有理想、有决心、有希望的企业，把钱投给他们。</p>
-<p>他亏掉了，我心甘情愿。因为我一开始就是准备捐掉了。</p>
-<p><strong>我就是这么傻，所以我才这么幸福。</strong></p>
-<p>啥时候我觉得有什么人干的什么事会让这个世界更好一些，比“让中国拥有芯片”还重要了——比如让我这样美好的人治好病多活一段时间，或者让我爱的人开心一小下。我会打开我的小猪扑满看看这家芯片企业用完了没。</p>
-<p>剩多少就是多少，没了就没了。</p>
-<p>“投资”不是拿来赚钱的，而是拿来花钱的。</p>
-<p>**你的聪明，要放在寻找那个“失而无憾的选择”上。**要培养洞察力、发展观察的方法和技巧去察觉对方做事是为什么。不要选那些“一切围绕为股东赚取最多利润”的人，要选那些“想做点事”的人。</p>
-<p>我要听的不是“财富故事”，因为我的钱你可以花掉而不还给我。</p>
-<p>我要听的是它为什么值得这样花。</p>
-<p>你如果确实是净造福于世界，你应该自然会有额外的净剩余存在。这无关乎我是不是要保本得利，而关系到这值不值得。你有有效的方法能通过掌握和分发这份额外的剩余而使我的钱出现增值，那只是额外的添头，是我丢出这笔钱的额外奖励，<strong>不是我的第一诉求</strong>。</p>
-<p>只要值得，那么花掉了我也已经保本。</p>
-<p>这种“值得”，救赎了一切“损失的风险”。</p>
-<p>是因为已被“救赎”，所以我才拿得住。</p>
-<p>所以我根本不在乎什么市场风险国际局势变幻。</p>
-<p>我相信世界的规则里已经写定了这样的好意，<strong>那些“想做事”而不是“想赚钱”的人，总会有足够的运气和勇气</strong>。</p>
-<p>ta们拿得住ta们的理想，我就“拿得住”我的“赌注”。</p>
-<p>我投资的东西，是我想好了不准备再拥有的东西。我已经放开了，还有什么“拿不拿得住”？</p>
-<p>你投资的东西，是你不能接受失去的东西，我坦白告诉你——<strong>你永远也“拿不住”</strong>。</p>
-<p>你几点想明白，你就可以几点睡。</p>
-<p>想不明白你就接着睁着眼睛想——你从此再无睡眠可言，只有晕倒。</p>
-<hr>
-<p>如果你不认可这个“投资”的定义，那么我的“投资经验”就是0。</p>
-<p>我的答案你不需要参考了。</p>
-<hr>
-<p>那，我们该如何树立正确的财富观呢？→《<a href="https://kisma77.github.io/essay-978ce9c26a54.html">财富观</a>》</p>
 ]]></content>
       <categories>
         <category>商贾贸易</category>
@@ -374,6 +392,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>百分百红灯策略</title>
     <url>//essay-813b4f49003b.html</url>
     <content><![CDATA[<p>投资要面对不确定的市场，在波动的金钱面前我们都是难以克服人性的弱点（完全的程序化交易可去除人性）。心理学对我的投资有极大的帮助，这里记录一个对我帮助比较大的认知心理学实验，它帮我处理了一次又一次的人性决策的弱点。</p>
+<span id="more"></span>
 <p>在试图解释世界上发生的所有事，同时又拒绝承认偶然因素的作用，实际上会降低我们对现实世界的预测能力。在某个领域中，承认偶然因素的作用意味着研究者必须接受这样一个事实，即我们的预测不可能百分之百准确，预测中总是会犯一些错误。但有趣的是，承认我们的预测达不到百分之百的准确度，实际上反而有助于我们提高整体预测的精确性。</p>
 <p>这听起来好像有点儿矛盾，但是事实确是如此：为了减少错误，就必须接受错误（Einhorn, 1986）。</p>
 <p>在认知心理学领域，有一个被重复研究了数十年的实验，一次次说明“我们必须接受错误以减少错误”这一信念。</p>
@@ -420,6 +439,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>虽盈利，还是丢了西瓜</title>
     <url>//essay-7268bc98fbc6.html</url>
     <content><![CDATA[<p>今天虽然盈利，但还是拣了芝麻丢了西瓜。</p>
+<span id="more"></span>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231601843.png" alt="账户"></p>
 <img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231603772.png" alt="p2305" style="zoom:50%;">
 <p>总是喜欢动，这是瘾，是病！</p>
@@ -438,6 +458,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>记一次成功地从“红灯策略”中获利</title>
     <url>//essay-4ff47ccf8896.html</url>
     <content><![CDATA[<p>今天是周一，上午开始做空棕榈油2305合约，每张单子盈利1980元。但过程并不容易。</p>
+<span id="more"></span>
 <p>早上9点开盘后，价格上涨至0.3%附近，我看涨起来了，去做多，随后快速出现了亏损，于是，做空，但随后又出现了亏损，我胡乱操作了两次，都是亏损.</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538448.png" alt="棕榈交易"></p>
 <p>后来我突然想起<a href="https://kisma77.github.io/essay-51251dc99aab.html">百分百红灯策略</a>,转而做空，随后盈利，一直到收盘都没平仓。</p>
@@ -456,6 +477,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>账户到7万了</title>
     <url>//essay-861e90ea0c8f.html</url>
     <content><![CDATA[<p>今天账户站上7万</p>
+<span id="more"></span>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303211505609.png" alt="账户0321"></p>
 <p>交易频率还是比较高，频率太高会导致佣金增加，而且亏损次数增加后整体盈利会减少，最主要的，会养成坏习惯，要再降低。</p>
 ]]></content>
@@ -467,44 +489,522 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>股市似拍卖专场</title>
-    <url>//essay-25553c83bcf8.html</url>
-    <content><![CDATA[<p>股市如同拍卖所。</p>
-<h3 id="最糟糕的投资习惯有哪些"><a class="markdownIt-Anchor" href="#最糟糕的投资习惯有哪些"></a> 最糟糕的投资习惯有哪些</h3>
-<p>听天听威廉·欧奈尔所著的《股票投资的24堂必修课》时，在第三课里听到“<strong>最糟糕的投资习惯有哪些？</strong>”的论述：</p>
-<blockquote>
-<p>第一个习惯是爱买低价股。买入大量2美元、5美元或10美元一股的股票。看着股价翻倍听上去是个不错的主意。但问题是，你亏钱概率可能更大。<br>
-事实上，投资股票和买打折的裙子或汽车不同。股市如同拍卖所。股价体现的是股票在某个时刻的价值。如果你买入便宜的股票，要记住一分钱一分货。<br>
-过去45年，那些股价上涨一倍、两倍甚至更多的股票平均股价是28美元一股。这是历史事实。便宜的股票风险更大。</p>
-</blockquote>
-<p>这个比喻很有意思，我以前也喜欢买低价的股票，认为便宜，而对于一些好公司，比如茅台、五粮液、比亚迪等的股价，因“太贵了”不敢买而错过。</p>
-<blockquote>
-<p>新手花大部份时间在如何进场，老手花时间在如何出场</p>
-</blockquote>
+    <title>Hello World</title>
+    <url>//essay-692e031d4e54.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2>
+<h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: [Deployment</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>【见证】星星和月亮在一起啦</title>
+    <url>//essay-105920f88844.html</url>
+    <content><![CDATA[<p>孩子，今天（2023.3.24），“月掩金星”天象亮相天宇。金星会从月亮的暗边缘被掩盖，消失一阵后，再从月牙的亮边缘复现。此外，还能见到比较明显的“新月抱旧月”。下一次我国能看到的月掩金星要等到2026年了。</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242108791.jpg" alt="图1 星星月亮在一起了.自己摄"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242109773.jpg" alt="图2 星星月亮在一起.Allen Sison/ふらっと/Angie Adamson 摄"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250139607.png" alt="群友拍的·山西的月亮"></p>
 ]]></content>
       <categories>
-        <category>天马行空</category>
+        <category>生活日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>《毛选》里的真知灼见</title>
+    <url>//essay-e8dd7777a045.html</url>
+    <content><![CDATA[<p>“谁是我们的朋友？谁是我们的敌人？这个问题是革命的首要问题。”这句话字面意思看似简单，却放在《毛选》开卷的首要位置，足见这个问题是关乎革命成败的大问题。</p>
+<span id="more"></span>
+<p>投资也一样，谁是我们的敌人？谁是我们的朋友？</p>
+<p>比如：从我们账户里抽水的券商是我们的敌人，趋势是我们的朋友，我们要尽可能保护账户不被抽水，同时要尽可能与趋势做朋友。</p>
+<p>投资要想获得成功，我们的旧认知、就行为必须改，要</p>
+<h1 id="重构自己的思想和行为"><a class="markdownIt-Anchor" href="#重构自己的思想和行为"></a> 重构自己的思想和行为</h1>
+<p>人们要想得到工作的胜利即得到预想的结果，一定要使自己的思想合于客观外界的规律性，如果不合，就会在实践中失败 。——《实践论：论认识和实践的关系——知和行的关系》</p>
+<p>应用到交易里就是在市场上，你得把自己的频率改变去匹配市场，必须要匹配，否则就会吃亏——亏钱。而如何匹配，是统计知识，寻找一个<code>较优解</code>，而不是<code>最优解</code>，要防止过度拟合。</p>
+<p>Table 1.1 shows Barclay’s top 20 Commodity Trading Advisors (CTAs) for the five‐year period of July 1, 2005, through June 30, 2010. It was compiled by Barclay’s from the 290 CTAs that submit performance information to them.</p>
+<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303090154311.png" alt="TAB" style="zoom:50%;">
+<h2 id="表11向我们展示了一些值得思考的点"><a class="markdownIt-Anchor" href="#表11向我们展示了一些值得思考的点"></a> 表1.1向我们展示了一些值得思考的点：</h2>
+<ul>
+<li>全部的20只基金中，27.98%的年均表现仅比最大撤资的平均值高出约3.5%。</li>
+<li>在这20只基金中，有17只基金的整个一年期没有任何收益。</li>
+<li>The best 12‐month period heavily skewed the average five‐year return performance numbers. If you compound a starting amount by 27.98 percent per year (the average annual return across the 20 entities) for five years, the ending equity is about 243 percent higher than the starting amount. The average best 12‐month average return of 125.3 percent is over half that amount.</li>
+</ul>
+<h2 id="表11反应出以下事实"><a class="markdownIt-Anchor" href="#表11反应出以下事实"></a> 表1.1反应出以下事实：</h2>
+<p>· 你不可能每年都赚1倍，上表中排名第一的基金虽然取得了5年平均44.54%的回报，但曾在12个月里只取得1%的回报。</p>
+<p>· 如果你要求较高的回报，在某个时期面临比较大的回撤；反之，如果你追求的回报较低，回撤可能会相对较小。</p>
+<p>· 如果你够幸运，获得一大笔超额回报，（别乱挥霍，别乱下注）它可能会支撑你多年.（也就是可能会有很长的一段时间赚不到钱，靠这笔超额回报养活，见下一条）。</p>
+<p>· 你可能在很长的一段时间里不能赚钱。（这里不是指“你的水平不行”，而是指市场不提供赚钱的机会。这样的事经常发生，即便是在多空都可以做的期货市场，很多时候市场都处于宽广的窄幅区间震荡（横向整理），此时市场并没给我们提供容易赚钱的机会，比如下图这样长达200多天的横向整理）<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303090205509.png" alt="棕榈油指数"></p>
+<p><em>@棕榈指数 截图时间：2023年3月1号凌晨</em></p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>今天去崇文门找房子</title>
+    <url>//essay-3c5e047621d0.html</url>
+    <content><![CDATA[<p>今天去崇文门那边找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。</p>
+<span id="more"></span>
+<p>上午起来后去姐姐家给姐过程日，一大家子吃的火锅。</p>
+<p>吃完饭后姐姐带着两个孩子陪我们去找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。我们的要求是朝南或者要有阳光，然后是必须要有电梯，两居室。看了一天，就富贵园那边有个“黑8”户还算可以，朝西，但在高层，能晒到太阳。</p>
+<p>在另一个商品房小区（忘了名字了）看了一套，很好，价格也合适，但这个小区居然所有的顶层都没电梯——电梯到次顶层，所有的顶层都要走楼梯上去，一共16个台阶，这给以后的婴儿车、岳母上下楼带来困难，不能要。</p>
+<p>可惜了，不然户型（全朝南）、价格、采光、客厅大小都很好。</p>
+<p>晚上回来后帮媳妇洗了个脚，走了一天她很累，泡个热水脚舒服些，跟着我受苦了。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
       </categories>
       <tags>
-        <tag>股市</tag>
+        <tag>租房</tag>
       </tags>
   </entry>
   <entry>
-    <title>将概率思维落实到投资中去</title>
-    <url>//essay-d768a9f427b0.html</url>
-    <content><![CDATA[<p>学了那么久的概率、统计，就应落实到投资中去！</p>
+    <title>不得不承认，无法量化的运气很重要</title>
+    <url>//essay-bd5afed5967c.html</url>
+    <content><![CDATA[<p>绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。</p>
+<span id="more"></span>
+<p>看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情况，如果把人生看作一个一个的阶段，用简化的转移矩阵去模拟，你会发现，初始阶段约优越的条件，越容易得到大收益，也可以理解位成功。因而可以将人生简化为两种：一种是穷n+1代，一种类是n+1代，经过若干次迭代，富n+1代达到的财富值，穷n+1代穷尽一生，甚至是N代都无法企及。学习是我难以用语言来表述。无论是马尔科夫链还是意大利这样的科学研究得出的结果令人悲伤，甚至绝望。</p>
+<h2 id="成功需要什么"><a class="markdownIt-Anchor" href="#成功需要什么"></a> 成功需要什么</h2>
+<p>成功人士都有那些秘诀？从《成功》、《福布斯》、《企业家》等杂志的流行程度来看，人们对成功这一话题从不乏热情。一种深层次的假设认为：**成功是可以习得的。**这一假设基于成功人士身上具备的、促使他们走到今天的那些个性特征，例如天赋、才能、意志力、勤奋、韧性、乐观、成长型思维以及情商。这一假设不仅是这些成功学杂志得以流行的基础，也影响了我们的社会进行资源分配的方式。从工作机会到荣誉，再到政府补助，再到公共政策决策，我们都习惯于假设最成功的人也是最能干的，并将资源分配给那些有成功过往的人，而倾向于忽略那些不成功的人。</p>
+<p>但这一假设正确吗？在整个职业生涯中，我一直致力于研究能预测成就和创造力的心理特征。虽然我已经发现，有一些心理特征（例如：激情、毅力、想象力、求知欲和开放性）确实能很好地解释成功之间的差异，但我更感兴趣的是，有多少差异是这些特征无法解释的。</p>
+<p>近几年里，有不少研究和书籍都认为，在包括金融交易、商业、体育、艺术、音乐、文学和科学在内的多个领域中，运气和机会可能比我们以为的更重要。他们的观点是：虽然天赋也很重要，但数据表明，在试图找出成功的决定因素时，如果我们只专注于个人特征，那么就会错过成功图景中真正重要的一片拼图。</p>
+<p>以下是一些新发现（2018）：</p>
+<blockquote>
+<p>全世界人民的收入差异有一半可以由他们所在的居住国和该国的收入分配差异来解释；</p>
+<p>科研成果的影响力是随机分布的，在科研生涯中，仅高生产力这一个因素对高影响力的研究成果产生的影响是有限的；</p>
+<p>能否成为CEO会受到你叫什么名字或出生在几月的影响，在六月或七月出生的CEO比其他月份要少得多；</p>
+<p>姓氏首字母在字母表中更靠前的人更有可能获得最高部门的职位，有中间名缩写的人更容易在智力和成就方面获得更多的正面评价；</p>
+<p>名字更易拼写的人比名字难拼写的人更容易获得肯定；</p>
+<p>姓名听起来更阳刚（男性化）的女性，更易在法律职业生涯中获得成功。</p>
+</blockquote>
+<p>运气这一隐藏维度的重要性引出了一个有趣的问题：我们社会中那些成功人士取得了成就，仅仅是因为他们比较幸运吗？这一假设哪怕只是部分正确，都将对我们如何分配有限的资源产生重大影响，也将帮助富人和成功人士更有效地回报社会。</p>
+<p>为了试图阐明这一重大问题，意大利物理学家Allesandro Pluchino、Andrea Raspisarda和意大利经济学家Alessio Biondo组成研究小组，第一次尝试量化运气和天赋对成功的影响。在他们开创性的工作中，他们提醒那些“天真的精英”，**人们低估了随机因素的作用，而实际上并没有把荣誉和奖励赋予最有能力的人。**为了进一步解释这一现象，他们提出了“玩具数学模型”，模拟了一群人在40年的工作生涯中（从20岁到60岁）职业的发展变化。</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg" alt="Pluchino,Biondo, & Rapisarda 2018" style="zoom:100%;">
+<p>​                                                           <em>模拟初始化设定图（N=1000） Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>意大利研究者们设定了大量“天赋”水平不同的假设个体（“代号1”至“代号1000”），将这些个体置于一个正方形的世界中，让他们在其中经历他们的整个工作生涯。他们将“天赋”定义为<strong>让一个人能够抓住机遇的任何一组个性特征</strong>。天赋可以包括智力、技能、动机、决心、创造性思维、情商等等。这里的关键在于，<strong>更有天赋的人会更倾向于从各种机会中找出最适合他们的那一个</strong>。</p>
+<p>在模拟开始时，所有的个体拥有相同的成功值（10“成功单位”）。每六个月，这些个体会遇到特定数量的<strong>幸运事件（绿色）<strong>和特定数量的</strong>不幸事件（红色）</strong>。当个体遇到不幸事件时，其成功值减半；当个体遇到幸运事件时，其成功值根据其天赋水平按比例增加（以反映真实世界中天赋与机会之间的关系）。</p>
+<p>他们的发现是什么？首先，他们重现了著名的“帕雷托原理”，即二八原理。这一原理认为，少数人最终将获得大多数人的成功（Richard Koch又将其引用为“80/20原理”）。在40年模拟的最终结果中，虽然初始设定的天赋呈正态分布，成功却不是。<strong>20名最成功的个体合计占有了44%的成功值</strong>，而将近半数人的成功值维持在10单位以下（与初始设定值相同）。这一结果和来自真实世界的数据相同，甚至有迹象表明，财富成功在真实世界中的分布要更加不平衡：最富有的8个人拥有的财富等于世界上最贫穷的一半人的财富总和。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212350697.jpg" alt="天赋的正态分布"></p>
+<p>​                                                                                     <em>天赋的正态分布 Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212351902.jpg" alt="高度不平衡的成功值分布"></p>
+<p>​                                                                                          <em>高度不平衡的成功值分布</em></p>
+<p>尽管如此不平衡的分布看起来很不公平，如果那些最成功的人也是最有天赋最有能力的人，那么这一结果也可以合理化。那模拟结果是否是这样的呢？一方面，天赋并不是与成功毫不相干。通常情况下，天赋更高的人更有可能抓住运气提供的机遇。并且，模拟中最成功的个体天赋水平大多至少在平均值以上。所以<strong>天赋确实重要</strong>。</p>
+<p>然而，<strong>只有天赋是绝对不够的</strong>，因为那些最有天赋的个体只有极少数也是最成功的。通常情况下，<strong>平凡却幸运的个体要比有天赋而不幸的个体更加成功</strong>。那些最成功的个体往往只有稍高于平均值的天赋水平，却在生活中充满了运气。</p>
+<p>以下是他们模拟实验中最成功个体和最不成功个体的成功值演变图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212352492.jpg" alt="最成功和最不成功个体的成功值演变图"></p>
+<p>​                                                             <em>最成功和最不成功个体的成功值演变图  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>正如你所见，绿色线条表示的最成功的个体在其生命中遇到了一系列非常幸运的事件，而红色线条表示的最不成功的个体（他们甚至比那些最成功的个体天赋更高）在生命中经历的不幸事件难以想象地多。正如论文作者所说，“在不幸的怒火面前，即使拥有极高的天赋也无济于事。”</p>
+<p>怀才不遇无论对个体还是社会而言都是不幸的。因此，我们可以做些什么来让那些最有能力利用机会的人得到他们最需要的发展机会呢？</p>
+<h2 id="stimulating-serendipity更有效的资助策略"><a class="markdownIt-Anchor" href="#stimulating-serendipity更有效的资助策略"></a> Stimulating  Serendipity（更有效的资助策略）</h2>
+<p>许多“精英主义”用以分配荣誉、资金或奖励的策略，通常基于某个人过去的成功经历。以这样的方式进行选拔无疑会导致富人更富、穷人更穷，这也被称作“<strong>马太效应</strong>”。但这是激发潜力的最有效策略吗？如果你是决策人，哪一种投资策略会更为有效呢？向几位以前有成功经历的申请人提供大笔资助，还是将资金分成很多份分给许多不那么成功的普通人？</p>
+<p>Jean-Michel Fortin和 David Currie 曾研究过更大规模的资助是否会带来更大的成果。他们发现在研究资金和科研成果影响力之间的确存在一定的正相关，<strong>但这种关联非常微弱</strong>。更重要的是，那些获得第二笔资助的人并不比那些只获得一笔资助的人更多产，而且对于这些人而言成果通常是资助的递减函数。</p>
+<p>论文作者们认为，<strong>比起那些以“优秀”作为遴选标准的项目，更关注目标多样性的资助策略可能会对社会产生更大的影响</strong>。在一项更新的研究中，研究人员研究了魁北克在15年期间内对12720名研究人员提供的资金。他们得出的结论是，“在论文数量和科学影响方面，研究资金集中在所谓的‘精英’研究人员手中，通常会产生边际收益递减”。</p>
+<p>基于这项工作，模拟了运气对成功的影响的意大利研究组进行了进一步模拟。他们从上帝视角探讨了许多不同资助策略的有效性。在模拟个体的40年工作生涯中，他们每隔5年就换用一次不同的资助策略。我们已经发现，在没有任何资助的情况下，最成功的个体是那些拥有平均天赋水平却非常幸运的人。当研究组向模拟中引入多种资助策略后，会有什么结果呢？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212353517.jpg" alt="不同资助策略的效率"></p>
+<p>​                                                              <em>不同资助策略的效率  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>这一表格按效率递减的排序列出了40年间最有效的资助策略（例如，需要的资金最少而获得的投资回报最大）。从下至上阅读列表，可以发现那些把一定比例的资金给已经非常成功的人的资助策略是最无效的。将一定比例的资金给那些已经非常成功的个体而将余下的资金平均分配的“混合”策略相比之下要更有效一点，但这些都还不如随机分配资金的策略高效。最后这一项发现非常有趣，因为它与其他一些研究结果一致，这些结果都表明，在复杂的社会和经济环境中，机会很可能发挥了一定的作用，在这一前提下，结合了随机性的策略比基于“精英主义”的策略表现更好。</p>
+<p>这表示，最佳资助策略应当是给每个人都分配同等数量的资金。当以每5个月1单位的速度分配资金时，60%的最有天赋个体获得了超过平均水平的成功值，以每6个月5单位的速度分配资金的结果是，100%的最有天赋个体都产生了影响力！这表明，如果一个资助机构或政府有更多的资金可供分配，那么将这些额外的资金均分给每个人，与只给一部分人相比是更明智的选择。</p>
+<p>正如研究者总结道：</p>
+<blockquote>
+<p>“如果投资目标是奖励最有天赋的人，以使他们最终获得更高的成就，那么向所有人定期等额提供资金，会比将大额资金提供给被选中的小部分人更有效。”</p>
+</blockquote>
+<h2 id="stimulating-the-environment什么样的社会更容易造就成功"><a class="markdownIt-Anchor" href="#stimulating-the-environment什么样的社会更容易造就成功"></a> Stimulating the Environment（什么样的社会更容易造就成功？）</h2>
+<p>这个不可思议的意大利研究组并没有就此止步！既然拥有了上帝视角，为什么不钻研到底呢。他们还做了一些改变了个体所处环境的模拟实验。使用之前搭建的框架，他们模拟了一个非常激励人的环境，对每个人而言都充满了机遇（比如像美国那样富裕而高度工业化的国家），也模拟了一个相比之下不那么激励人的环境，只有非常少的机会（比如第二次世界大战中的国家）。以下是他们的发现：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212355915.jpg" alt="最成功个体在充满机遇的环境和机遇不多的环境中的成功值"></p>
+<p>​                                <em>最成功个体在充满机遇的环境（上）和机遇不多的环境（下）中的成功值  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>观察比较充满机遇的环境（上）与机遇不多的环境（下）中结果分布的差异。在上半幅图模拟的环境中，一部分天赋水平中上的个体能够获得非常高的成功值，天赋较高的人获得较高成功值的可能性也比较高。相反，在第二幅图模拟的环境中，整个社会的总成功值水平很低，并且只有18个个体获得了比初始值更高的成功。</p>
+<h2 id="结论"><a class="markdownIt-Anchor" href="#结论"></a> 结论</h2>
+<p>以上模拟实验的结果与越来越多的基于真实世界数据的研究结果相吻合，所有的结果都强烈表明，**运气和机会在决定个人的最终成功水平方面扮演着重要角色。**正如研究者指出的，奖励和资源通常都被给予那些已经被高度赞扬的人们，而这往往会导致最有天赋的那些人（比如，最有潜力因这些资源真正受益的人）反而得不到机会。在进行这样的资源分配时我们忽视了运气扮演的重要角色，实际上，运气的影响在整个创造性的过程中难以避免。研究者们认为，为了给人们更多成功的机会，以下因素都很关键：<strong>一个充满机遇的环境、良好的教育、密集的培训和行之有效的资金与资源分配策略</strong>。他们认为，任何能够影响这些因素的政策都将有助于公民的个人实现，也会在宏观层面为全社会带来更大的集体进步和更多创新。</p>
+<p>正文来自：<a href="https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/">Scott Barry Kaufman：The Role of Luck in Life Success Is Far Greater Than We Realized</a></p>
+<h2 id="扩展阅读"><a class="markdownIt-Anchor" href="#扩展阅读"></a> 扩展阅读</h2>
+<p>我自己曾用R模拟过这个游戏，结果令人“冷静”，把一位网友的方法留在这里，他的方法比我的“科学”。</p>
+<p>用 Shiny 写的第一个小程序。这个 Shiny 呢，简单来说是 Rstudio 里面自带的一个网页程序的编辑器。安装并打开 Rstudio，从“新建”里面找到“Shiny Web App”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220005234.png" alt="Rstudio"></p>
+<p>给程序取个名字，就可以开始编写了。（最简单的做法是清空窗口，把我下面的代码拷贝进去）</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line">#</span><br><span class="line"># This is a Shiny web application. You can run the application by clicking</span><br><span class="line"># the &#x27;Run App&#x27; button above.</span><br><span class="line">#</span><br><span class="line"># Find out more about building applications with Shiny here:</span><br><span class="line">#</span><br><span class="line">#    http://shiny.rstudio.com/</span><br><span class="line">#</span><br><span class="line"></span><br><span class="line">library(shiny)</span><br><span class="line">library(gridExtra)</span><br><span class="line"># Define UI for application that draws a histogram</span><br><span class="line">ui &lt;- shinyUI(fluidPage(</span><br><span class="line"></span><br><span class="line">   # Application title</span><br><span class="line">   titlePanel(&quot;Gambler Simulation&quot;),</span><br><span class="line"></span><br><span class="line">   # Sidebar with a slider input for number of bins </span><br><span class="line">   sidebarLayout(</span><br><span class="line">      sidebarPanel(</span><br><span class="line">         sliderInput(&quot;size&quot;,</span><br><span class="line">                     &quot;Number of Gamblers:&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 1000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;winp&quot;,</span><br><span class="line">                     &quot;Winning Probability&quot;,</span><br><span class="line">                     min = 0,</span><br><span class="line">                     max = 1,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bid&quot;,</span><br><span class="line">                     &quot;Bid (per Game)&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 5000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;iter&quot;,</span><br><span class="line">                     &quot;Iterations&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 2000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bins&quot;,</span><br><span class="line">                     &quot;Number of Bins&quot;,</span><br><span class="line">                     min = 1,</span><br><span class="line">                     max = 50,</span><br><span class="line">                     value = 30)</span><br><span class="line">      ),</span><br><span class="line"></span><br><span class="line">      # Show a plot of the generated distribution</span><br><span class="line">      mainPanel(</span><br><span class="line">         plotOutput(&quot;distPlot&quot;),</span><br><span class="line">         plotOutput(&quot;distLine&quot;)</span><br><span class="line">      )</span><br><span class="line">   )</span><br><span class="line">))</span><br><span class="line"></span><br><span class="line"># Define server logic required to draw a histogram</span><br><span class="line">server &lt;- shinyServer(function(input, output) &#123;</span><br><span class="line"></span><br><span class="line">   output$distPlot &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">       &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">      # draw the histogram with the specified number of bins</span><br><span class="line">      hist(gamblers, breaks = bins, col = &#x27;darkgray&#x27;, border = &#x27;white&#x27;, ylim = c(0,input$size),</span><br><span class="line">           xlab = &quot;Wealth&quot;)</span><br><span class="line">   &#125;)</span><br><span class="line">   output$distLine &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">     &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">     # draw the histogram with the specified number of bins</span><br><span class="line">     plot(sort(gamblers), type = &#x27;l&#x27;, xlab= &quot;Wealth&quot;, ylab = &quot;Number of Gamblers&quot;)+</span><br><span class="line">       abline(h = 10000, col = &quot;red&quot;)</span><br><span class="line"></span><br><span class="line">   &#125;)</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line"># Run the application </span><br><span class="line">shinyApp(ui = ui, server = server)</span><br><span class="line"></span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+<p>之后点击右上角的 Run app，就可以出现属于自己的模拟器。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220007941.png" alt="Run-app"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008078.png" alt="Run-app"></p>
+<h2 id="设定"><a class="markdownIt-Anchor" href="#设定"></a> 设定</h2>
+<p>我们假设有 1000 个玩家，每人手里有 10000 元的筹码，可以用来赌博。</p>
+<ul>
+<li>每一局游戏，玩家都可以抵押 500 元的筹码。输了，筹码不退还；赢了，筹码翻倍。</li>
+<li>输赢的概率各占 50%。</li>
+<li>所有玩家一共进行 100 局游戏。一旦任何玩家筹码为0，必须中途退出游戏。</li>
+</ul>
+<p>好，开始了游戏设定，我们按照设定模拟一下，看看会发生什么吧。100次游戏之后，大家的财富分配是怎样的呢？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008084.png" alt="Run-app"></p>
+<p>右边的两张图分别是 1000 位玩家的财富柱状图和排位图。红线表示初始资金 10000元 的位置。我们看到，这个时候的财富分配还比较平均，<strong>有大约 55%的人财富在 10000 以上。</strong></p>
+<h2 id="实验"><a class="markdownIt-Anchor" href="#实验"></a> 实验</h2>
+<p>有了这个模拟器，我们可以改变原始游戏的一些参数，看看会发生什么不同的结果。<br>
+【实验一：加大赌注】</p>
+<p>之前我们说，每场游戏的赌注是500元。如果游戏的赌注增加，会对最后的结果有怎样的影响？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009055.png" alt="Pasted image 20230109103543"></p>
+<p>赌注增大到 1000 元。游戏结束时，有近 300 人余额为 0。余额 10000 以上的人数约为50%。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009186.png" alt="Pasted image 20230109103721"></p>
+<p>赌注增大到1500元，游戏结束时有近 600 人余额为 0。余额 10000 以上的人数小于40%。<br>
+现在我们增加赌注到 3000 元看看</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010222.png" alt="Pasted image 20230109103830"></p>
+<p>【讨论】</p>
+<ol>
+<li>赌场只需要极小地改变游戏胜率，就可以极大地改变游戏者的结果。<strong>把胜率从50%改到45%，游戏者回本的概率就从55%降低到 20%左右。</strong></li>
+<li>小胜率 × 多次玩= 倾家荡产</li>
+</ol>
+<p>【实验三：增加赌博持续时间】</p>
+<p>我们知道，赌博有其心理成瘾性，所以好赌之人往往很难戒掉赌博这个恶习。放在我们的例子中，如果我们让游戏持续 100 局以上，会发生什么呢？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010954.png" alt="Pasted image 20230109104432"></p>
+<p>游戏持续 1000 局，游戏结束时有500多人余额为0。余额 10000 以上的人数约为40%。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220011472.png" alt="Pasted image 20230109104618"></p>
+<p>游戏持续 2000 局，游戏结束时有600多人余额为 0。余额 10000 以上的人数在25%左右。</p>
+<p>【讨论】</p>
+<ol>
+<li>在赌场中，没有人是常胜将军。你从人生前 100 局游戏中获得的收入，很可能会在第 500 局之前消失殆尽。</li>
+<li>这个实验的局限性在于，我们假设赢钱的人要一直玩下去，玩到游戏结束为止。而输钱的人输到倾家荡产就会退出。这个假设，是不是合理呢？各位又怎么看？</li>
+</ol>
+<p>读到这，有不少读者朋友可能都会好奇这个模拟器的原理。其实，这是我刚才用半个多小时拿 Shiny 自己写的，大家可以通过<a href="https://jiafeili.shinyapps.io/Gamblers_Simulation/">这个链接，自己改改参数，随手玩一玩</a></p>
+<p>这是赌徒之殇（Gambler’s Ruin Problem ），从某种意义上来讲，赌资大小决定胜率。这招叫以力破巧，俗称<strong>用钱砸死你</strong>。</p>
+<blockquote>
+<p>长袖善舞，多财善贾——韩非子</p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>天马行空</category>
+        <category>生活日记</category>
       </categories>
       <tags>
-        <tag>投资</tag>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>今天开始申请准生证</title>
+    <url>//essay-70b142be3104.html</url>
+    <content><![CDATA[<p>今天开始申请孩子的准生证。</p>
+<p>老婆填的表。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>育儿</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从西二旗搬到了崇文门</title>
+    <url>//essay-b65344bf85a5.html</url>
+    <content><![CDATA[<p>昨天（3.18.周六）从西二旗搬到了崇文门新世界这边，为了在北京医院生产方便。</p>
+<span id="more"></span>
+<p>我们在西二旗住了将近9年，一开始是住在融泽嘉园，后来去年业主卖房，我们搬到了金域华府。金域住着挺好，但因为采暖不好，冬天太冷，加上平时来北京医院产检以及五月份要生孩子，过来太远，不方便，于是就决定搬过来住。</p>
+<p>为了便利，我们要求必须符合：</p>
+<ul>
+<li>
+<p>朝南且阳光要充足——将来宝宝出生后晒黄疸很重要；</p>
+</li>
+<li>
+<p>有电梯——岳父岳母要过来照顾，他们年龄大了，加上孕妇行动不是很方便，老式的六层板楼虽然采光、户型都没问题，但上下楼不方便。所以必须要有电梯。</p>
+</li>
+<li>
+<p>至少是两居室，少了住不下。</p>
+<p>崇文门这边靠近“中心”了，建设比较早，房子大多是七八十年代建的，老房子小区比较多，户型也不好。最后在一个较新的商品房小区里找到一个两居室，客厅、两个卧室都朝南，这边也有不少回民，还有清真寺，倒是不错！月租金9300元。房子不错，就是不知道当时开发商是不是脑子进水了，电梯只到次顶层，我需要再上一层的楼梯，一共16个台阶。其它房子实在是没满意的——北京的居住体验实在不怎么样，尤其是那些老式塔楼，这是目前能承受的价格范围内的最优选择了。</p>
+</li>
+</ul>
+<p>找的搬家公司，搬家费用780元，但因不能跟车走，我自己打车跟着过来，花了140元。</p>
+<p>780+140=920（元）</p>
+<p>现在搬家公司是新能源车，车厢没有窗户，因此车厢不能坐人，搬家的人有三个，我就坐不下，不能跟车了，我只好打车，我让中介等搬家公司，到了中介小哥帮我开门先搬着，我到的时候搬的差不多了。我到了30分钟他们就搬上楼去了。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250001479.png" alt="搬家车卸完"></p>
+<p>媳妇没有和我一起打车来，她留在原来的房子里等房东做物业交割，加上怀孕后她打车会晕车，选择做地铁来。搬完后我简单把床弄好后，媳妇也到了，我俩就下楼吃东西。</p>
+<p>单元门前就是一个小区运动场地</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250007634.png" alt="小区运动场地"></p>
+<p>这个场地还挺好，有羽毛球、乒乓球，以后岳父就可以在这里打球了。</p>
+<p>随后我俩去国瑞城吃饭，看到路上车水马龙的，有一种农民第一次进城的感觉。</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303192332299.jpg" alt="新世界购物中心" style="zoom:50%;">
+<p>我俩住在西二旗那边那么多年，晚上就没出来逛过——那边实在没有什么可逛的，到了晚上就一个昌发展商业大楼有点人气，四周都不热闹，也就都在家待着了。</p>
+<p>今早醒来见到外面的天空和云，很开心</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303192328556.jpg" alt="天空和云" style="zoom:50%;">
+<p>昨天开始到今天都是归置收拾东西，再是半天一天的就收拾好了。累得我全身散了架一样，媳妇也跟着弄点小件零碎，估计也很累。</p>
+<p>晚上给媳妇洗了个脚，她也跟着收拾了一些，热水泡泡脚能解乏。我给她洗脚时她偷偷拍照或者录视频，我偷着乐，哈哈。</p>
+<p>这两天点点在肚子里活动的力度有点大，一天比一天大了，五月份就要生了，哈哈，一定是胖乎乎的小可爱。</p>
+<p>很累了，晚安。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>搬家</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>今天收拾东西，准备搬家</title>
+    <url>//essay-c5aa536f7bc4.html</url>
+    <content><![CDATA[<p>准备搬家了，今天开始收拾东西打包，目前还没收拾完，但已经有50多个箱子了，东西还是蛮多的。</p>
+<span id="more"></span>
+<p>希望早点能有钱买套自己的房子，这样就不用每年都为搬家发愁了。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250002301.png" alt="开始收拾东西打包"></p>
+<p>赚钱，其实蛮难的，尽管学了概率，但赚钱还是不容易，甚至还是很难，我真后悔这三四年挥霍掉的那大百万，现在后悔晚了，以后要好好珍惜。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>投机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>今天去选孕妇照，回来两人下了馆子</title>
+    <url>//essay-34835e05d333.html</url>
+    <content><![CDATA[<p>今天去选孕妇照，又路过8年前住过的小区，媳妇走到河边发现上次干枯的河里居然有了水。</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242347685.png" alt="今天拍到的，有了水的河"></p>
+<p>上次去时，干枯的</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242348546.png" alt="上次去时，干枯的河床"></p>
+<p>选照片的时候，商家一个劲的推她们的套餐，就是想让我们花钱，我们不想花这个钱，我跟销售说：“我们没钱，我和老婆都没工作两年了，想买套餐也力不从心。”，销售一下就找不到话说了，只好作罢，后来她们的店长又来推销了一次，巴拉巴拉的熟练地说着“…哎呀，我还记得你们上次来照相时，…你们聊这么熟，你（指刚才给我们推销的‘经理’）给他们按照3800元打8折，再送他们一个10张精修底片…”，我看着店长说：“我们没钱，我俩没工作两年了，疫情后我们的收入为0，实在没能力…”，店长也一下懵了，找不到话说，就出去了。</p>
+<p>最后，我们只花了800元（16张照片，一个8*8的相册）。</p>
+<p>这个照相的项目是上次去做五维时送的，6照片免费的照片，今天一看，有91张，我们挑选了16张，不想多花钱。</p>
+<p>回来的路上，媳妇说我刚刚把销售搞懵了，我说一无所有的人，做容易猝不及防了，她们没想到我这么真诚说自己没钱。</p>
+<p>媳妇哈哈大笑</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>照相</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用博客，容易掉入优化陷阱</title>
+    <url>//essay-bdc14f548e89.html</url>
+    <content><![CDATA[<p>容易掉入不断优化主题等陷阱，今天改改主题，明天改改字体，因为想加某个功能，搜索一圈下来就好几个小时。</p>
+<p>博客和以前的纸质笔记本是一样的，是工具，人使用工具的目的是解决问题以及提高效率，落入优化陷阱就成了工具使用人了。不要因为走的太远，而忘记为什么出发。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>忆一段往事</title>
+    <url>//essay-8f871ec8e785.html</url>
+    <content><![CDATA[<p>今天去拍孕妈照，地方在海淀西四环边上五路居那边，刚好就在我十多年前住的小区后面，有些东西可以记录在这里。</p>
+<span id="more"></span>
+<p>早上上了车后我就打盹，醒来时车子正好拐进小区的路口，我一眼就识别出来这个小区，2011年年底我搬离那里，我从车里看到了当年住的那房子的窗户。</p>
+<p>更多与这房子有关的人、物，不能在这里记录。时间过的真快，一晃十余年了，有些东西平日里已放下，但触景还是会动情。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303102359149.jpg" alt="小区后面已经干枯的河床"></p>
+<p><em>小区后面已经干枯的河床</em></p>
+<p>拍照后，看照片时，发现我脸上因过敏起了两颗红痘，</p>
+<p>工作人员：“别担心，我们会P一下。”</p>
+<p>“使用Photoshop吗？”我接话随口一问。</p>
+<p>“是的。…呀，先生您还知道Photoshop啊!”</p>
+<p>“以前我做过平面设计”我回答道。</p>
+<p>拍完照后老婆问我以前真做过平面设计？我跟她说了我刚毕业时的一段往事：</p>
+<p>大学毕业后一时找不到合适的工作，生活所迫就在紫竹桥附近找了一个电话业务，我倒不会电话业务，我贪图的是“无责任底薪1000块+提成”，1000块一个月，这对当时的我来说简直就是活命钱。两手空空的人，最容易妥协，最容易先顾眼前。</p>
+<p>那份工作的业务说起来很简单，老板（公司）以XX部委的名义，给我们写话术，我们就拿着话术打电话给外地做给排水行业相关的企业，拉广告，拉到广告后我们有提成一定的提成（多少%早忘了）。说是公司，其实是皮包公司，当时像这种打着国家XX部招牌拉广告的业务实在太多，还有许多电视购物的小公司也在北京，记得当时出过一本小书叫《恐怖的010》，说的就是北京电话业务和电视购物的事。</p>
+<p>看起来很简单，但对于刚毕业的我来说并不容易。刚开始的时候，电话接通后我连“您好”都不敢说，我当时的那种新手窘迫感在其后的数年里招牌员工时一次又一次的见到，我知道他们此时的心情，总会耐心把自己的心得、方法通过轻松的方式传授给他们。从结果看，效果不错。</p>
+<p>我在这个皮包公司干了1个月，一单没开，但我模仿学习很快，已经不害怕打电话了，我忘了自己名校毕业，竟然慢慢的融入了那种环境，开始每天为开单努力着。人在特定的环境中确实容易从众，失去自己原有的目标。</p>
+<p>过了两三个月，我和公司里的大多数人已经很熟悉了，我当时会抽烟，抽烟的时候认识了一位做设计的，一来二去熟悉后，跟他聊天，知道了他的工资比我们业务的高（他只有设计的工资，没有提成，不过这个业务在当时就已经被坐烂了，出单很难的）。出于真心，也出于交际，我总对他说羡慕他有本事，工资高，开始时他总是笑笑，对我说“你开一单够我干半年！”来安慰我。时间一长，熟悉后，我再羡慕他，他告诉我说那玩意不难，他做的是PS里最简单的，只需要会抠图和拉两下蒙版就行。</p>
+<p>说者无心，听者有意。下了班后我就在网上检索“抠图”、“Photoshop”这些关键字。我找到了Photoshop论坛，在论坛上看网友发的抠图教程，当时是Photoshop 7.0版本，搜到后就认真学习了一晚上。第二天我兴冲冲的去跟那位做设计的同事说我想学Photoshop，问他可不可以教我，并把自己头天晚上在论坛上学习的事跟他说了。他有些不愿意，说那是一门技术，不是在网上随便看看就能学会的。我知道关系不到位，但我当时没钱请他吃饭喝酒，只要自己晚上回去在网上学抠图。</p>
+<p>我想学抠图，于是就时不时的借机去设计室（公司是在住宅楼里，其实就是另一个房间，和财务一起）偷瞄他的屏幕，目的是看看他在抠什么样的图。然后下班后在网上搜类似的图下来，对照着论坛帖子里的教程一步一步的学着抠图。</p>
+<p>当时网络没现在这么好，我是ADSL，网速慢，但我学东西很快。花了一周不到的时间，我就明白了业务方需求的“抠图”大概框架。我了解了图层、蒙版、颜色通道、新建图层等功能，但跟着网上的教学步骤能使用钢笔工具、磁性套索、魔术棒工具等菜单项来抠图。虽然像个学走路的孩子那样歪歪扭扭，时而摔一跤，但当时的感受是“还行，会了点”。<br>
+新的一周开始后，我一狠心，打算出点血请那个设计吃拉面喝啤酒！（当时大碗拉面好像是3块钱一碗，具体的忘记了），下班后我请他在紫竹桥摩托罗拉大楼斜对面的一个小餐馆里喝酒。就着啤酒，我跟他说我打不来电话，还是想学抠图，学会了可以做点“轻松”的活，并告诉他我学会了会去别的公司找抠图的工作。几瓶啤酒下肚后，也许是我的真诚，也许是酒精的作用，在听完我的“一周学习经历”后他惊呆了，答应可以找机会教我。</p>
+<p>他确实在某些下班的时间里在公司的电脑上教我，但一直只教简单的钢笔工具和魔术棒。但他要求我一定要“熟练”，比如钢笔工具下切换移动工具的快捷键，总之就是每次都告诉我必须要熟练使用快捷键在不同的工具之间快速切换。</p>
+<p>我有些怀疑他在敷衍我，还好我自己在家里天天泡在论坛里学各种技能，甚至都学到了“进阶”了。</p>
+<p>快到年底的一个周五，下了班后他找我喝酒，我当时兜里没钱，有些措手不及。两手空空的人，最容易猝不及防啊，我不敢答应。他可能看出了我的窘迫，说他请客。喝了两瓶啤酒后他告诉我他要回老家结婚了，可能一时半会儿不回北京了，他说他知道我一直想做他的活儿，看我这人还算讲究，决定帮我一下，他说他走之前会向老板推荐我去替代他。<br>
+周一早上上班后老板进来就跟财务（他老婆）发脾气，后来旁边的人议论说还没放假但那个设计回老家结婚去了，工钱都自己PS老板的签名全结了，估计不会回来了，要赶进度却没有设计可用，老板着急。<br>
+他问我知不知道为啥他只教我简单的，没教很多。我说不知道。他说这份工作主要的是把那些水泵龙头从客户发来的照片上抠下来放在杂志上，其它的工具用到的时间少，只要能快速用钢笔工具把图抠出来，发给旁边的编辑杂志的同事就可以。</p>
+<p>他走后我做了两个月的设计后找到了新工作就辞职了，确实，90%以上的时间都只用到钢笔工具和魔术棒，连套索工具都很少用到。</p>
+<p>这位哥们当晚喝酒时说了很多，我印象最深的是他说的一句话，总结下来大概意思是说<strong>很多工作不需要什么都会，而且工作大都有一个规律，就是往往由少数高频使用的核心技能，和大量低频使用的边缘技能两个部分组成</strong>。</p>
+<p>从某种程度上来讲，大学四年里学的一些课都没有这句话给我的帮助大。我时长品味这句话，也不断地用实践证明了可行性，甚至还用到了学习一些新的学科上，确实效率很高，多年后我听到张颢教授上课讲学习理念时提到的“竹竿效应”时，我总会想起这位教我抠图的同事。</p>
+<p>我简单跟老婆讲完我当初的这段工作经历，我说：“虽然这哥们只教我简单的钢笔抠图，但我在论坛上学会了许多Photoshop的技能，后来在公司（指后来的正式工作）我们部分设计忙不过来时我还会帮她们做图，我还教我们的编辑们简单的Photoshop，这样她们做内容的时候就自己做海报。”</p>
+<p>老婆说：“原来这么回事，我还说你怎么会Photoshop的呢。”</p>
+<p>“我再没有见过这位教我抠图的哥们。”我说。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>平面设计</tag>
+        <tag>工作经验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>房子定下来了</title>
+    <url>//essay-20a994c65eeb.html</url>
+    <content><![CDATA[<p>今天上午去医院产检，完事后顺便去把房子租下来了。</p>
+<p>9300元/月，两居室</p>
+<span id="more"></span>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303131730328.jpg" alt="和中介签租房合约" style="zoom:33%;">
+<p>签完合同后我俩在国瑞城吃了个饭就做地铁回来了，到家15:30</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>租房</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>单日最大跌幅里赚点零头</title>
+    <url>//essay-befd07b4209d.html</url>
+    <content><![CDATA[<p>每一个做投机的人都希望自己抓住一波大行情，平日里也是天天如此渴望、幻想，但当机会来了时，却又因为各种自身主观的原因而错过，事后又会后悔不已！</p>
+<span id="more"></span>
+<p>棕榈最近这200多天一直都是横着走，今天好不容易向下走了，而且还是最近200天的最大跌幅</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303222337708.png" alt="P2305"></p>
+<p>我却没有把握住，只赚了点零头。</p>
+<p>账户昨天上了7万（70111），今天增加了2000多，但我错过了单日最大收益K，尾盘时我买了一张多单，是出于这种单日宽幅K之后，可能会有窄幅震荡（主观）的考虑。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221549331.png" alt="账户"></p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>着手搬家</title>
+    <url>//essay-1a0f56a25afb.html</url>
+    <content><![CDATA[<p>为了5月份的分娩，要搬到北京医院附近去住。</p>
+<span id="more"></span>
+<p>但我目前还没有找房子，明天开始找，周末去看房。北京医院那边的房子都比较老，价格也不低，新小区的价格更是高得离谱。</p>
+<p>看着中介网站上的房价，两手空空的人，最容易猝不及防了。</p>
+<h1 id="点点越来越大了"><a class="markdownIt-Anchor" href="#点点越来越大了"></a> 点点越来越大了</h1>
+<p>今天我从书房出去，走到客厅看到老婆在沙发上，发现肚子比昨天更大了，点点越来越大了，老婆给他测心跳，对我说：“点点好活泼啊！”</p>
+<p>最近几天天气不错，每天中午吃完饭都陪老婆出去遛弯。今天去盒马时，我说要买束花给她，结果她不让买。</p>
+<p>“三八节嘛，买一小把吧”</p>
+<p>“不买，我买草莓吃吧！嘿嘿”</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>搬家</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>曾有个人那么爱我</title>
+    <url>//essay-334561789a57.html</url>
+    <content><![CDATA[<p>翻看照片，曾经她是那么的爱我，可惜我不懂或者说我辜负了她的一片真心。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303152357500.jpg" alt></p>
+<p>后来 我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
+<p>后来 终于在眼泪中明白 有些人 一旦错过就不再</p>
+<p>多年前的那个仲夏 你吻我的那个夜晚 让我往后的时光 每当有感叹 总想起 当天的星光 那时候的爱情 为什么就能那样简单</p>
+<p>而又是为什么 人年少时 一定要让深爱的人受伤 在这相似的深夜里 你是否一样 也在静静追悔感伤 如果当时我们能不那么倔强 现在也 不那么遗憾</p>
+<p>你都如何回忆我 带着笑或是很沉默 这些年来 有没有人能让你不寂寞</p>
+<p>后来 我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
+<p>后来 终于在眼泪中明白 有些人 一旦错过就不再 你都如何回忆我</p>
+<p>带着笑或是很沉默 这些年来 有没有人能让你不寂寞 后来</p>
+<p>我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
+<p>后来 终于在眼泪中明白 有些人 一旦错过就不再 后来</p>
+<p>我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
+<p>后来 终于在眼泪中明白 有些人 一旦错过就不再</p>
+<p>永远不会再重来</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1447048373&auto=1&height=66"></iframe>
+<hr>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>情感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>聪明人为什么会下笨功夫？</title>
+    <url>//essay-5987df3999db.html</url>
+    <content><![CDATA[<p>聪明在人发现了一些<strong>绝对没有第二捷径可言，绝对绕不过去的苦路</strong>，所以才会<strong>下笨功夫</strong>。</p>
+<p>常听说“聪明人下笨功夫”，不妨往深了多思考一下，比如：这些聪明人怎么会做笨功夫？做笨功夫还怎么会是聪明人？</p>
+<p>细思之后，会发现，那些功夫只是看起来很笨，其实去做它们是最聪明的做法。</p>
+<p>聪明在哪呢？</p>
+<p>聪明在于<strong>除了如此，绝无第二捷径可走。这功夫是绝对绕不过去的苦路</strong>。</p>
+<span id="more"></span>
+<p>聪明人相当确信，这种功夫之难，难到了你如果早起步一个月，世界上任何的另一个人哪怕拿着无限的资本做后盾，也绝对没有可能在你不松懈的前提下超到你前面去。</p>
+<p><strong>因为这个功夫实在实在是太“笨”了，没有任何办法能投机取巧，没有任何办法能绕道，唯一最快的凿穿这厚厚的<a href="https://www.zhihu.com/search?q=%E7%8E%84%E6%AD%A6%E5%B2%A9%E5%B1%82&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1331306390%7D">玄武岩层</a>的办法，就是靠一个聪明到你这个程度、有同样罕见的机缘、有同样深厚的经验、有同样难得的资源的人、抱着绝不旁顾的决心，抗拒一切其它机会成本的诱惑，</strong></p>
+<p><strong>水滴石穿，直线前进。</strong></p>
+<p>这个世界上，</p>
+<p>与你同样的聪明的人有，</p>
+<p>同样聪明、有同样经验的人有，</p>
+<p>同样聪明、同样经验、且有同样资源的人有，</p>
+<p>同样聪明、同样经验、同样资源、且同样看见这件事了的人有，</p>
+<p>但是同样聪明、同样经验、同样资源、且同样看见这件事的、却和你**同样笨、**会选这件吃力不讨好、要抱定必死的觉悟、耗费巨大的心血去把墙磨穿的人，</p>
+<p><strong>罕有</strong>。</p>
+<p>你有的条件，他们全都有了，在这件事上，ta与你唯一的差距，就是<strong>他们没你这么笨</strong>，肯拿这么好的才智、这么好的资源、这么优势的地位，“<strong>干这个”</strong>。</p>
+<p>所以，你才比较大的希望会赢。</p>
+<p>满足上面这全部条件的“绝妙笨功夫”，是需要绝顶聪明、绝佳运气才有机会才有机会触摸得到的。</p>
+<p>不是绝顶聪明外加极端努力，你怎么知道这件事<strong>确确实实没有其他捷径可走</strong>？</p>
+<p>老天真的是爱聪明绝顶、却肯用来做人决不肯做的笨功夫的笨小孩的。</p>
+<p>上天给聪明人们安排了这样一种“不做笨事就别想赢”的天然禁制令，真的是对人类一种极大的仁慈。</p>
+<p>那些石墙，注定要靠这种极聪明的笨人才有可能凿穿。</p>
+<p><strong>那墙背后一片阳光普照，海阔天空。</strong></p>
+<p>这就是为什么真正的聪明人，心心念念都在梦想那件真正命定属于自己的笨事。</p>
+<p>这种绝妙的笨事，是聪明人可以心安之处。</p>
+<p>最平安的归宿，最恰如其分的死所。</p>
+<p>没有体会过的人，难以理解“没有与我一样聪明的人会和我一样傻”是一种什么样的<strong>幸福</strong>。</p>
+<p><strong>笨人比聪明，聪明人比笨</strong>。</p>
+<p>What a poetic irony.</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>智慧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>要聚焦，过多选择会降低幸福感</title>
+    <url>//essay-f9dc68b9d680.html</url>
+    <content><![CDATA[<p>“过多的自由”反而会导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会带来<strong>信息超载</strong>，会导致人们无所适从，带来更多后悔的机会。</p>
+<span id="more"></span>
+<h2 id="过多选择的代价"><a class="markdownIt-Anchor" href="#过多选择的代价"></a> 过多选择的代价</h2>
+<p>像自由和自我决定这样的好东西人们会嫌多吗?心理学家施瓦茨认为，个人主义的现代文化存在“过度的自由”，反而导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会导致人们无所适从，或像施瓦茨所说的“自由的专制”。从30种果酱或巧克力中做出选择的人们表示出的选择满意度，比那些从6种中做出选择的人们的反而低。更多的选择可能会带来信息超载，也带来更多后悔的机会。和那些仅仅依循课程学习的人相比，自己选择下学期学习课程的学生，更少为重要的考试而努力，且更容易被游戏和杂志所吸引。另一项研究发现，可以在一系列消费清单中进行选择的学生更少购买口味寻常却健康的饮料。所以，在从星巴克1900款产品组合或超级市场4000项产品中进行选择时，你将对自己的选择更不满意，反而更倾向回家吃冰箱里的冰淇淋。<br>
+心理学家阐释了选择是如何强化后悔的。如果让员工们免费去巴黎或者去夏威夷旅行，他们会非常高兴；但是，如果让他们在两者之间进行选择，他们可能就不那么高兴了。选择巴黎的人会后悔他们无法得到阳光的温暖和海水的滋润，选择夏威夷的人会后悔他们将欣赏不到那些壮观的博物馆。最近的另一项研究也发现了同样的问题：来自11所大学的毕业生花了很多时间去寻找和评价各种各样的工作机会，但却以高薪和低满足感而告终。<br>
+在其他实验中，人们对无法反悔的选择（比如“最后大甩卖”中的选择决定）的满意度比对可以反悔的选择（当允许退款和更换时）的满意度要高。可笑的是，人们似乎喜欢和愿意为推翻这种选择的自由而付出代价。尽管这种自由可能会让你产生不满意。<br>
+该原则可以解释一种奇怪的社会现象：美国国家调查数据显示，过去人们对无法反悔的婚姻(“一次性成交”) 表示了更高的满意度。现在，尽管有了更多的婚姻自由，人们却对他们拥有的婚姻表现出较低的满意度。<br>
+自我控制的研究让我们相信坚持不懈和希望等这样一些传统美德。但是，班杜拉认为[[自我效能感]] 由诸如“你拥有通往成功的一切”这样的社会说服和“我认为我能，我认为我能”这样的自我说服来支持榜样——也就是看到其他类似的努力获得成功的例子——也可以提高自我效能感。但自我效能的主要来源是对成功的体验。“成功构筑了有力的效能信念”。如果你在减肥、戒烟或提高学习成绩方面通过努力获得了成功，你的自我效能感就会增强。<br>
+一个由鲍迈斯特领导的研究小组主张“仅仅为他们是他们自己而称赞孩子，简直是在使赞扬贬值‘。最好通过“认可好的表现来表达赞扬和增强自尊······当个体行为表现更好时，自尊会得增强，而其结果又会强化好的行为和进步。那些结果同时也有益于个体的幸福和社会的进步。</p>
+<p>1.为人们提供较小的选择范围可能比为他们提供较大的选择范围更能给他们带来满足感。<br>
+2.心理学家认为，之所以不能达到最佳的决策水平，在很大程度上是由于认知超载（cognitive overload），即当可以利用的信息淹没了可以利用的认知加工过程时所发生的情景。<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">扩展阅读<br>哈佛丹尼尔·吉尔布特（Daniel Gilbert)论：不可撤销之承诺的益处<br>我以前认为做出决断之后还能改变主意是有好处的，在2002年，我改变了这一想法。我和简·艾伯特(JaneEbert)发现人们不能撤销他们的决定时通常会更快乐。实验中参与者能撤销他们的决定时，他们就会思考自己决定的利弊。而不能撤销决定时.他们就会将注意力集中于这个决定有利的一面，而忽视不利的一面。<br>同样，决定不可撤销比可以更改会令他们更满足。讽刺的是，参与者并未意识到这一点，他们都强烈倾向于希望可以改变决定。现在，直至这一刻我依然相信婚姻源自于爱。但是这些实验启示我，原来婚姻也可能引起爱。如果你认真地看待这些研究资料，你就要去实践它。所以我知道这个结果的时候，我就向女友求婚了。她答应了我。事实证明我做的决定是正确的当她变成我的老婆之后，我更爱她了。</th>
+</tr>
+</thead>
+</table>
+<h1 id="过多的选择会降低幸福感这一现象也可以用在学习上"><a class="markdownIt-Anchor" href="#过多的选择会降低幸福感这一现象也可以用在学习上"></a> “过多的选择会降低幸福感”这一现象也可以用在学习上。</h1>
+<p>学习任何一门学科，最好选择并且只选择一套体系化的教材，聚焦完成这套教材的学习。可能一开始的时候我们会对教材的语言风格不习惯，坚持学它一段时间后大脑就开始习惯了。我的经验是如果每天学习1、2个小时，一个来月就习惯了，如果每天的时间充裕一些，一周就可以。如果是看教学视频，先不着急一上来就拿个小本本跟着学，先听几P，不要在意听得懂听不懂，先让授课老师的声音在我们的脑子里跑马，很快就能习惯老师的说话风格。而且这种先听的方式，就像是看书时先看目录一样，听1、2遍后我们对课程的框架就有点眉目了，这时候再认真学就容易多了。当然这是我的经验之谈，不见得每个人都适用。</p>
+<p>学习时，教材、老师，切勿贪多。今天北大老师、明天清华教授、后天国科大教授、然后又到B站MIT、哈佛……网盘爆满、收藏夹爆满、资料太多，精力分散，最终没有一样能学成的。</p>
+<p>学习时间要保证1小时以上，务必连续且有利于集中注意力的环境，再且要每天坚持，学习赢者通吃，输者一无所有。必须坚持学习，必须累积直至从量变到质变。如果没有到达质变这一步，量变这一环节投入的再多再大，时间一过，会全部忘记，你根本记不住。</p>
+<p>参考：</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>《社会心理学（第11版）》作者 戴维·迈尔斯，人民邮电出版社。P59-60 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>认知</tag>
+        <tag>个人成长</tag>
       </tags>
   </entry>
   <entry>
     <title>什么可以被预测？</title>
     <url>//essay-2ecee605311b.html</url>
     <content><![CDATA[<p>想起《<a href="https://otexts.com/fppcn/">方法与实践</a>》里提到的“什么可以被预测？”，打开温故了一下第一章，现稍微节选一点上来.</p>
+<span id="more"></span>
 <h2 id="11-什么可以被预测"><a class="markdownIt-Anchor" href="#11-什么可以被预测"></a> 1.1 什么可以被预测？</h2>
 <p>许多情况下都需要预测：例如决定是否要在未来五年内建立另一个发电厂需要预测未来的用电需求量。下周呼叫中心的人员日程安排，需要对呼叫量进行预测。库存存货需要库存需求的预测 。预测可能是需要提前几年（如资本投资），或者是仅仅提前几分钟（如电信线路）。无论是涉及到什么情况或是时间范围，预测都是有效性和有效规划的重要帮助。</p>
 <p>有些事情相比于其他事情更容易预测，比如明天太阳升起的时间可以非常准确地预测出来。另一方面，明天的彩票中奖号码无法被准确预测。事件（或数量）的可预测性取决于以下几个因素：</p>
@@ -513,7 +1013,6 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 <li>有多少数据是可用的;</li>
 <li>预测是否会影响我们试图预测的事物。</li>
 </ol>
-<span id="more"></span>
 <p>例如，对电力需求可以非常准确地预测，因为通常这三个条件都可以满足的。我们很好地了解了它的影响因素：电力需求很大程度上受温度影响，也受经济状况和日期的影响，例如：假日，对电力需求的影响较小。假如有足够的电力需求和天气状况方面的历史数据，并且我们有能力建立一个合适的模型来连接电力需求和关键驱动变量的话，我们的预测可以非常准确。</p>
 <p>从另一个方面来讲，对于预测货币汇率的时候，它只满足了其中的一个条件：我们可以获取足够的可用的数据。但是我们对影响汇率的因素知之甚少，并且汇率的预测会对汇率本身产生影响。如果有明确的预测说汇率将会上涨，那么人们会立刻调整他们的心理价位，由此这些预测自然会自己就实现了。从某种意义上讲，这些汇率成为了他们自身的预测。这是“有效市场假说”的一个例子。因此，预言汇率明天会是上涨还是下跌，就如同预言抛一枚硬币它落下将会是正面还是反面一样不可预测。在这两种情形下，不论你预测什么，你将大概会有50%的概率是正确的。类似的情况下，预测者需要意识到情况本身的局限性，并且不要夸大其词。</p>
 <p>通常在预测中关键的一步是知道什么情形下能够进行准确预测，确定什么时候预测还不如抛个硬币来的准确。好的预测可以捕捉到历史数据中的真实模式和关系，而不是重复过去发生过未来不会再发生的事情。在本书中，我们将学习如何区分应该忽略的历史数据中的随机波动，和历史数据中应该建模推断的真实模式。</p>
@@ -657,33 +1156,11 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>笛卡尔的四条准则</title>
-    <url>//essay-b6628ab3bba6.html</url>
-    <content><![CDATA[<p>我们知道，在重建住宅之前，光把旧房拆掉，备上新料，请好建筑师，或者亲自设计，并且仔细绘出图纸，毕竟还是不够的，还应该另外准备一所房子，好在施工期间舒舒服服地住着。所以，当我受到理性的驱使、在判断上持犹疑态度的时候，为了不至于在行动上犹疑不决，为了今后还能十分幸运地活着，我给自己定下了一套临时行为规范，一共只有三四条准则，我愿意把它的内容告诉大家。</p>
-<h2 id="第一条准则"><a class="markdownIt-Anchor" href="#第一条准则"></a> 第一条准则</h2>
-<p>服从我国的法律和习俗，笃守我靠神保佑从小就领受的宗教，在其他一切事情上以周围最明智的人为榜样，遵奉他们在实践上一致接受的那些最合乎中道、最不走极端的意见，来约束自己。因为我虽然为了重新审查自己的全部意见，从那时起把它们一律当成一文不值，却深信最好还是遵从最明智的人的看法。尽管波斯和中国也许跟我们这里一样有很明智的人，我觉得还是效法自己周围的人好处最大。而且，要想知道他们真正的看法，一定要看他们的实际行动，不能光听他们说的话，这不仅是由于世风日下，有不少人不肯全说真心话，也是由于有不少人并不知道自己的真心是什么；因为相信一件事并不等于知道自己相信这件事，这是两种思想活动，常常分道扬镳。在那些有同样多的人接受的看法当中，我总是选择最合乎中道的。这样做，一方面是因为这种看法永远最便于实行，既然偏激通常总是坏的，大概这也就是最好的看法；另一方面也是因为可以在犯错误的时候不致离开正道过远：万一我选择了一极端，应当走的却是另一极端，那就糟了。而且我特别认为属于偏激的是各种限制我们某项自由的诺言。这并不是我不赞成法律允许人们赌咒发誓、订立必须信守不渝的契约，以防止不坚定的人反复无常，保证达到某种正当目的，如保证公平交易之类。正好相反。这只是因为我看到，世界上的一切，特别是我这个人，并不是永远保持原状的。拿我来说，就希望把自己的判断弄得越来越完善，并不希望把它弄糟，如果由于曾经赞成过某件事，后来事情变了样我还只好说它对，我认为那就是犯了违背良知的大错，我要变卦，不认为它对。</p>
-<h2 id="第二条准则"><a class="markdownIt-Anchor" href="#第二条准则"></a> 第二条准则</h2>
-<p>在行动上尽可能坚定果断，一旦选定某种看法，哪怕它十分可疑，也毫不动摇地坚决遵循，就像它十分可靠一样。这样做是效法森林里迷路的旅客，他们决不能胡乱地东走走西撞撞，也不能停在一个地方不动，必须始终朝着一个方向尽可能笔直地前进，尽管这个方向在开始的时候只是偶然选定的，也不要由于细小的理由改变方向，因为这样做即便不能恰好走到目的地，至少最后可以走到一个地方，总比困在树林里面强。为人处世也是这样，我们的行动常常必须当机立断，刻不容缓。有一条非常可靠的真理，就是在无法分辨哪种看法最正确的时候必须遵从或然性最大的看法，即便看不出哪种看法或然性大些也必须选定一种，然后在实践中不再把它看成可疑的，而把它当作最正确、最可靠的看法，因为我们选定这种看法的理由本来就是如此。我明白了这个道理，从那时起就不犯后悔的毛病，不像意志薄弱的人那样反复无常，一遇风吹草动就改变主意，今天当作好事去办的明天就认为很坏。</p>
-<h2 id="第三条准则"><a class="markdownIt-Anchor" href="#第三条准则"></a> 第三条准则</h2>
-<p>永远只求克服自己，不求克服命运，只求改变自己的愿望，不求改变世间的秩序。总之，要始终相信：除了我们自己的思想以外，没有一样事情可以完全由我们作主。所以，我们对自身以外的事情尽了全力之后，凡是没有办到的，对于我们来说，就是绝对办不到的事情。我觉得明白了这一点就可以消除痴心妄想，凡是得不到的东西就不要盼望将来把它弄到手；这样也就安分守己、心满意足了。因为我的意志所能要求的，本来只是我的理智认为大致可以办到的事情，如果我们把身外之物一律看成由不得我们自己作主的东西，那么，在平白无故地被削除封邑的时候，就决不会因为丧失那份应当分封给我这位贵族的采地而懊恼，就像不会因为没有当上中国皇帝或墨西哥国王而懊恼一样；推而广之，生了病也就不会妄想健康，坐了牢也就不会妄想自由，就像不会妄想生成金刚不坏之身、长出高飞远翥的翅膀一样。不过我也承认，一定要经过长期训练，反复思考，才能熟练地从这个角度去看万事万物。我相信，那些古代哲学家所以能够摆脱命运的干扰，漠视痛苦和贫困，安乐赛过神仙，其秘密主要就在于此。因为他们不断地考察自然给他们划定的界限，终于大彻大悟，确信除了自己的思想之外，没有一样东西可以由他们作主，确信只要认清这一点就可以心无挂碍，不为外物所动；他们对自己的思想作出了绝对的支配，因此也就有理由认为自己又富又强，逍遥安乐，胜过所有的别人，别人不懂这种哲学，不管得到自然和命运多大优待，还是不能支配一切、事事如愿以偿的。</p>
-<p>最后，为了结束这个行为规范，我曾经想到检视一下人们这一辈子从事的各行各业，以便挑选出最好的一行。对于别人的行业我不打算说什么话，我认为我最好还是继续自己所从事的那一行，也就是把我的一生用来培养我的理性，按照我所规定的那种方法尽全力增进我对真理的认识。自从使用这种方法以来，我尝到了极大的快乐，觉得人生在世所能得到的快乐没有比这更美妙、更纯洁的了。我凭着这种方法每天发现若干真理，觉得都相当重要，都是别人所不知道的，因此满心欢喜，别的事情全都不放在心上。此外，我建立上述三条准则只有一个目的，就是继续教育我自己。因为神既然已经赐给我们每人一份分辨真假的天然灵明，我觉得自己决不应该有片刻工夫满足于别人的看法，只有打定主意在条件成熟的时候用自己的判断去审查别人的看法；我决不能马马虎虎地跟在别人的看法后面转，只希望自己不放过任何机会尽可能地找出更好的看法。最后，我决不能限制自己的要求，也不能安于现状，只能走那样一条路，我认为照着这条路走下去，凡是我能够得到的知识都一定可以到手，凡是我能够得到的真正的好东西也就一定可以到手。因为我们的意志是不是追求一样东西，只是根据我们的理智把它看成好的还是坏的；有了正确的判断，就可以有正确的行动，判断得尽可能正确，行动也就尽可能正确，就是说，可以取得一切美德以及其他一切我们能够取得的好东西；知道自己一定可以这样，当然不能不高兴。</p>
-<p>我用这三条准则给自己保了险，把它们并列于信仰上的真理，我心中永远占首位的真理。这样做了之后，我认为可以放手把我的其他看法统统抛弃了。我把自己关在那间暖房里得到了这样一些思想，可是为了顺利完成我的清扫工作，我觉得与其在那里闭门长住下去还不如走出来跟人们交往，所以我不等冬天过完又开始游历了。以后整整九年，我只是在世界上转来转去，遇到热闹戏就看一看，只当观众，不当演员。对每一个问题我都仔细思考一番，特别注意其中可以引起怀疑、可以使我们弄错的地方，这样，就把我过去马马虎虎接受的错误一个一个连根拔掉了。我这并不是模仿怀疑论者，学他们为怀疑而怀疑，摆出永远犹疑不决的架势。因为事实正好相反，我的整个打算只是使自己得到确信的根据，把沙子和浮土挖掉，为的是找出磐石和硬土。这样做我觉得相当成功，因为我对命题进行审查、揭露其错误或不确之处的时候，用的并不是软弱无力的猜测，而是明白确切的推理；我发现任何一个命题，不管如何可疑，总可以从其中推出一点相当可靠的结论来，哪怕那个命题本身是一点都不可靠的。人们拆除旧房的时候，总是把拆下的旧料保存起来，利用它盖新房。我也是这样办的。我断定自己的某种看法根据不足，把它取消不要的时候，总是从各方面观察，取得若干经验，这些经验后来都有助于建立更可靠的看法。此外我还继续练习我所制定的那种方法，因为我不仅从一般的方面着手，按照那些规则仔细地运用我的全部思想，而且还随时留下一点时间，从特殊的方面着手，解决了某些数学上的难题，甚至解决了某些其他科学上的难题；我发现那些问题所依据的本原不够牢靠，使它们脱离了那些本原，就把它们弄得几乎跟数学问题差不多了。大家可以在这本书里见到许多实例，说明我是怎样做的。如此看来，我的生活方式表面上跟某些人没有什么两样：不做什么事情，只是愉快地、正派地过着日子，用心把欢乐和邪恶分开；为了不至于闲得无聊，从事着各种正当的娱乐。可是尽管如此，我仍然在执行我的计划，增进我对真理的认识，成绩也许比埋头读书、只跟读书人往来还要大些。</p>
-<p>然而，时间已经过了九年，我还没有对学者们争论不休的难题作出任何评判，还没有开始寻求任何比流行学说可靠的哲学原理。过去有许多高明的人曾经打算这样做，我觉得他们并没有成功。这种失败的先例使我想到这件工作困难很多，要不是听到人们传说纷纷，说我已经完成了这件工作，我大概还不敢这样早就去做它。我说不出那种传说的根据是什么，如果与我的言论有几分联系的话，那一定是由于我比一般有点学问的人老实些，有啥说啥，不知道的就说不知道；也可能是由于我举出种种理由说明我为什么对很多别人认为可靠的看法发生怀疑，而并不是由于我吹嘘某种学说。可是我还有点志气，不愿意有名无实，所以我认为自己无论如何一定要争口气，不负大家对我的器重。整整八年，我决心避开一切可能遇到熟人的场合，在一个地方隐居下来。那里在连年烽火之后已经建立了良好的秩序，驻军的作用看来仅仅在于保障人们享受和平成果，居民人口众多，积极肯干，对自己的事情非常关心，对别人的事情并不注意。我住在那些人当中可享受到各种便利，不亚于通都大邑，而又可以独自一人，就像住在荒无人烟的大沙漠里一样。</p>
-<p>—— 选择笛卡尔《谈谈方法》第三部分</p>
-]]></content>
-      <categories>
-        <category>它山之石</category>
-      </categories>
-      <tags>
-        <tag>准则</tag>
-        <tag>坐标</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>容错的雅量</title>
     <url>//essay-47237375276c.html</url>
     <content><![CDATA[<p>沉不住气的原因，追根到底是心里没有平安。</p>
 <p>没有底。</p>
+<span id="more"></span>
 <p>就像一个身高不够，踩不到泳池底的人，全靠不停的划水飘在水面上，手一停就感觉会被淹死，自然会焦虑的看着每一个浪头、每一个漩涡，执着于每一根救命稻草、每一个喘息机会。</p>
 <p>呛一口水就是很大的危机啊，因为要是没把气调顺，很快就会连呛直呛。多呛几口不就命都没了吗？</p>
 <p>岂能不急，岂能不慌？岂能不“努力”？</p>
@@ -722,9 +1199,34 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </categories>
   </entry>
   <entry>
+    <title>笛卡尔的四条准则</title>
+    <url>//essay-b6628ab3bba6.html</url>
+    <content><![CDATA[<p>我们知道，在重建住宅之前，光把旧房拆掉，备上新料，请好建筑师，或者亲自设计，并且仔细绘出图纸，毕竟还是不够的，还应该另外准备一所房子，好在施工期间舒舒服服地住着。所以，当我受到理性的驱使、在判断上持犹疑态度的时候，为了不至于在行动上犹疑不决，为了今后还能十分幸运地活着，我给自己定下了一套临时行为规范，一共只有三四条准则，我愿意把它的内容告诉大家。</p>
+<span id="more"></span>
+<h2 id="第一条准则"><a class="markdownIt-Anchor" href="#第一条准则"></a> 第一条准则</h2>
+<p>服从我国的法律和习俗，笃守我靠神保佑从小就领受的宗教，在其他一切事情上以周围最明智的人为榜样，遵奉他们在实践上一致接受的那些最合乎中道、最不走极端的意见，来约束自己。因为我虽然为了重新审查自己的全部意见，从那时起把它们一律当成一文不值，却深信最好还是遵从最明智的人的看法。尽管波斯和中国也许跟我们这里一样有很明智的人，我觉得还是效法自己周围的人好处最大。而且，要想知道他们真正的看法，一定要看他们的实际行动，不能光听他们说的话，这不仅是由于世风日下，有不少人不肯全说真心话，也是由于有不少人并不知道自己的真心是什么；因为相信一件事并不等于知道自己相信这件事，这是两种思想活动，常常分道扬镳。在那些有同样多的人接受的看法当中，我总是选择最合乎中道的。这样做，一方面是因为这种看法永远最便于实行，既然偏激通常总是坏的，大概这也就是最好的看法；另一方面也是因为可以在犯错误的时候不致离开正道过远：万一我选择了一极端，应当走的却是另一极端，那就糟了。而且我特别认为属于偏激的是各种限制我们某项自由的诺言。这并不是我不赞成法律允许人们赌咒发誓、订立必须信守不渝的契约，以防止不坚定的人反复无常，保证达到某种正当目的，如保证公平交易之类。正好相反。这只是因为我看到，世界上的一切，特别是我这个人，并不是永远保持原状的。拿我来说，就希望把自己的判断弄得越来越完善，并不希望把它弄糟，如果由于曾经赞成过某件事，后来事情变了样我还只好说它对，我认为那就是犯了违背良知的大错，我要变卦，不认为它对。</p>
+<h2 id="第二条准则"><a class="markdownIt-Anchor" href="#第二条准则"></a> 第二条准则</h2>
+<p>在行动上尽可能坚定果断，一旦选定某种看法，哪怕它十分可疑，也毫不动摇地坚决遵循，就像它十分可靠一样。这样做是效法森林里迷路的旅客，他们决不能胡乱地东走走西撞撞，也不能停在一个地方不动，必须始终朝着一个方向尽可能笔直地前进，尽管这个方向在开始的时候只是偶然选定的，也不要由于细小的理由改变方向，因为这样做即便不能恰好走到目的地，至少最后可以走到一个地方，总比困在树林里面强。为人处世也是这样，我们的行动常常必须当机立断，刻不容缓。有一条非常可靠的真理，就是在无法分辨哪种看法最正确的时候必须遵从或然性最大的看法，即便看不出哪种看法或然性大些也必须选定一种，然后在实践中不再把它看成可疑的，而把它当作最正确、最可靠的看法，因为我们选定这种看法的理由本来就是如此。我明白了这个道理，从那时起就不犯后悔的毛病，不像意志薄弱的人那样反复无常，一遇风吹草动就改变主意，今天当作好事去办的明天就认为很坏。</p>
+<h2 id="第三条准则"><a class="markdownIt-Anchor" href="#第三条准则"></a> 第三条准则</h2>
+<p>永远只求克服自己，不求克服命运，只求改变自己的愿望，不求改变世间的秩序。总之，要始终相信：除了我们自己的思想以外，没有一样事情可以完全由我们作主。所以，我们对自身以外的事情尽了全力之后，凡是没有办到的，对于我们来说，就是绝对办不到的事情。我觉得明白了这一点就可以消除痴心妄想，凡是得不到的东西就不要盼望将来把它弄到手；这样也就安分守己、心满意足了。因为我的意志所能要求的，本来只是我的理智认为大致可以办到的事情，如果我们把身外之物一律看成由不得我们自己作主的东西，那么，在平白无故地被削除封邑的时候，就决不会因为丧失那份应当分封给我这位贵族的采地而懊恼，就像不会因为没有当上中国皇帝或墨西哥国王而懊恼一样；推而广之，生了病也就不会妄想健康，坐了牢也就不会妄想自由，就像不会妄想生成金刚不坏之身、长出高飞远翥的翅膀一样。不过我也承认，一定要经过长期训练，反复思考，才能熟练地从这个角度去看万事万物。我相信，那些古代哲学家所以能够摆脱命运的干扰，漠视痛苦和贫困，安乐赛过神仙，其秘密主要就在于此。因为他们不断地考察自然给他们划定的界限，终于大彻大悟，确信除了自己的思想之外，没有一样东西可以由他们作主，确信只要认清这一点就可以心无挂碍，不为外物所动；他们对自己的思想作出了绝对的支配，因此也就有理由认为自己又富又强，逍遥安乐，胜过所有的别人，别人不懂这种哲学，不管得到自然和命运多大优待，还是不能支配一切、事事如愿以偿的。</p>
+<p>最后，为了结束这个行为规范，我曾经想到检视一下人们这一辈子从事的各行各业，以便挑选出最好的一行。对于别人的行业我不打算说什么话，我认为我最好还是继续自己所从事的那一行，也就是把我的一生用来培养我的理性，按照我所规定的那种方法尽全力增进我对真理的认识。自从使用这种方法以来，我尝到了极大的快乐，觉得人生在世所能得到的快乐没有比这更美妙、更纯洁的了。我凭着这种方法每天发现若干真理，觉得都相当重要，都是别人所不知道的，因此满心欢喜，别的事情全都不放在心上。此外，我建立上述三条准则只有一个目的，就是继续教育我自己。因为神既然已经赐给我们每人一份分辨真假的天然灵明，我觉得自己决不应该有片刻工夫满足于别人的看法，只有打定主意在条件成熟的时候用自己的判断去审查别人的看法；我决不能马马虎虎地跟在别人的看法后面转，只希望自己不放过任何机会尽可能地找出更好的看法。最后，我决不能限制自己的要求，也不能安于现状，只能走那样一条路，我认为照着这条路走下去，凡是我能够得到的知识都一定可以到手，凡是我能够得到的真正的好东西也就一定可以到手。因为我们的意志是不是追求一样东西，只是根据我们的理智把它看成好的还是坏的；有了正确的判断，就可以有正确的行动，判断得尽可能正确，行动也就尽可能正确，就是说，可以取得一切美德以及其他一切我们能够取得的好东西；知道自己一定可以这样，当然不能不高兴。</p>
+<p>我用这三条准则给自己保了险，把它们并列于信仰上的真理，我心中永远占首位的真理。这样做了之后，我认为可以放手把我的其他看法统统抛弃了。我把自己关在那间暖房里得到了这样一些思想，可是为了顺利完成我的清扫工作，我觉得与其在那里闭门长住下去还不如走出来跟人们交往，所以我不等冬天过完又开始游历了。以后整整九年，我只是在世界上转来转去，遇到热闹戏就看一看，只当观众，不当演员。对每一个问题我都仔细思考一番，特别注意其中可以引起怀疑、可以使我们弄错的地方，这样，就把我过去马马虎虎接受的错误一个一个连根拔掉了。我这并不是模仿怀疑论者，学他们为怀疑而怀疑，摆出永远犹疑不决的架势。因为事实正好相反，我的整个打算只是使自己得到确信的根据，把沙子和浮土挖掉，为的是找出磐石和硬土。这样做我觉得相当成功，因为我对命题进行审查、揭露其错误或不确之处的时候，用的并不是软弱无力的猜测，而是明白确切的推理；我发现任何一个命题，不管如何可疑，总可以从其中推出一点相当可靠的结论来，哪怕那个命题本身是一点都不可靠的。人们拆除旧房的时候，总是把拆下的旧料保存起来，利用它盖新房。我也是这样办的。我断定自己的某种看法根据不足，把它取消不要的时候，总是从各方面观察，取得若干经验，这些经验后来都有助于建立更可靠的看法。此外我还继续练习我所制定的那种方法，因为我不仅从一般的方面着手，按照那些规则仔细地运用我的全部思想，而且还随时留下一点时间，从特殊的方面着手，解决了某些数学上的难题，甚至解决了某些其他科学上的难题；我发现那些问题所依据的本原不够牢靠，使它们脱离了那些本原，就把它们弄得几乎跟数学问题差不多了。大家可以在这本书里见到许多实例，说明我是怎样做的。如此看来，我的生活方式表面上跟某些人没有什么两样：不做什么事情，只是愉快地、正派地过着日子，用心把欢乐和邪恶分开；为了不至于闲得无聊，从事着各种正当的娱乐。可是尽管如此，我仍然在执行我的计划，增进我对真理的认识，成绩也许比埋头读书、只跟读书人往来还要大些。</p>
+<p>然而，时间已经过了九年，我还没有对学者们争论不休的难题作出任何评判，还没有开始寻求任何比流行学说可靠的哲学原理。过去有许多高明的人曾经打算这样做，我觉得他们并没有成功。这种失败的先例使我想到这件工作困难很多，要不是听到人们传说纷纷，说我已经完成了这件工作，我大概还不敢这样早就去做它。我说不出那种传说的根据是什么，如果与我的言论有几分联系的话，那一定是由于我比一般有点学问的人老实些，有啥说啥，不知道的就说不知道；也可能是由于我举出种种理由说明我为什么对很多别人认为可靠的看法发生怀疑，而并不是由于我吹嘘某种学说。可是我还有点志气，不愿意有名无实，所以我认为自己无论如何一定要争口气，不负大家对我的器重。整整八年，我决心避开一切可能遇到熟人的场合，在一个地方隐居下来。那里在连年烽火之后已经建立了良好的秩序，驻军的作用看来仅仅在于保障人们享受和平成果，居民人口众多，积极肯干，对自己的事情非常关心，对别人的事情并不注意。我住在那些人当中可享受到各种便利，不亚于通都大邑，而又可以独自一人，就像住在荒无人烟的大沙漠里一样。</p>
+<p>—— 选择笛卡尔《谈谈方法》第三部分</p>
+]]></content>
+      <categories>
+        <category>它山之石</category>
+      </categories>
+      <tags>
+        <tag>准则</tag>
+        <tag>坐标</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>面对未知与不确定性时，我们应该做什么？</title>
     <url>//essay-a6cd0a54f016.html</url>
     <content><![CDATA[<p>一共两篇文章，第一篇是来自加利福尼亚大学伯克利分校Greater Good Magazine的研究，由清华大学社科学院积极心理学研究中心翻译。（因为是译文，所以读起来略微有点拗口。）</p>
+<span id="more"></span>
 <h1 id="第一篇"><a class="markdownIt-Anchor" href="#第一篇"></a> 第一篇</h1>
 <h2 id="面对未知与不确定性时我们应该做什么"><a class="markdownIt-Anchor" href="#面对未知与不确定性时我们应该做什么"></a> 面对未知与不确定性时，我们应该做什么？</h2>
 <p>人生道路坎坷不平，存在很多不确定性。人类渴望得到未来的信息就像我们渴望食物、性和其他主要回报一样。<strong>我们的大脑将模糊性视为威胁，它试图通过削弱我们在其他事物上的注意力，努力创造确定性来保护我们。</strong></p>
@@ -821,10 +1323,40 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
+    <title>见到宝宝的样子了！</title>
+    <url>//essay-d265286c8e40.html</url>
+    <content><![CDATA[<h1 id="宝宝27周了第一次见到了模样~"><a class="markdownIt-Anchor" href="#宝宝27周了第一次见到了模样~"></a> 宝宝27周了，第一次“见到”了模样！~</h1>
+<p>今天又摸着老婆的肚子，感受宝宝的跳动，实在太可爱了，马上27周了，是个男孩</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202302190000588.jpeg" alt></p>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202302182359150.jpg" alt="BB2"></p>
+<h1 id="身体开始出问题了"><a class="markdownIt-Anchor" href="#身体开始出问题了"></a> 身体开始出问题了</h1>
+<p>今天有些心悸，就是那种突然间闷闷的疼痛感，我赶紧使劲拍胸口并大口呼吸。</p>
+<p>跟爱人说了这事，她说要不要去医院，担心我心血管疾病，我说再观察几天，她说可不能生病，她和未出生的孩子还指望我。</p>
+<p>我听着听难受的。</p>
+<p>最近总是上不来气，走路喘、累，我和她都没“阳”过，但我怀疑自己阳过。</p>
+<p>我以后要早点休息，我的睡眠实在是很糟糕，现在不像年轻的时候了，今年41岁的人了，进入中年后，由于我不爱运动，可能会进入诸如高血糖、高血脂、心血管方面的等各种各样的疾病多发期。</p>
+<h1 id="人容易走出去回不来"><a class="markdownIt-Anchor" href="#人容易走出去回不来"></a> 人容易走出去回不来</h1>
+<p>最近几天都在弄这个博客，截止到现在基本算弄完了，但图片显示还是有些问题，我不打算继续在这件事上浪费时间了。</p>
+<p>多年来我发现自己以及观察到的人有个奇怪的现象，拿这个博客来说，本来可以写字、记录就可以，非要陷入“优化陷阱”，不停地各种折腾，最后“日记”没写几篇，时间都浪费在折腾上了。</p>
+<p>人容易走出去，但往往越走越远，最终回不来，只能在新的地方（远方）安家。</p>
+<p>这个博客就这么素素的写吧，不再浪费时间在“图片显示”上了，如果真必须要使用图片，到时候再看怎么。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202302182349322.png" alt></p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>孩子</tag>
+        <tag>健康</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>心灵的坐标</title>
     <url>//essay-bc7cad2472d0.html</url>
     <content><![CDATA[<p>没有框架的态度是没有意义的，没有价值观的价值判断是没有意义的。</p>
 <p>为什么呢？</p>
+<span id="more"></span>
 <p>因为人能从一种公开发表的价值判断里面所获得的最显然的收益有两个。</p>
 <p>第一个，是明确知道了一个人的态度。知道自己是多了一个“同意者”，还是多了一个“反对者”。从这个体验里面，人可以收获一些安慰或者一些警示。</p>
 <p>第二个，就是借着对那个价值观的深入理解和借镜。添加进自己的“价值观收藏”里面。知道“有这样的人存在，他们会这样看待这个问题。而这样看待这个问题，也就意味着会那样看到那样的问题”。</p>
@@ -848,139 +1380,10 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>怎么培养安全感？</title>
-    <url>//essay-d608b48fa352.html</url>
-    <content><![CDATA[<p>安全感是人的压舱石。没有安全感的人，有一个显著的特征，就是会在刺激面前做出高成本的反应。</p>
-<h2 id="为什么安全感很重要"><a class="markdownIt-Anchor" href="#为什么安全感很重要"></a> 为什么安全感很重要？</h2>
-<p><strong>安全感是人的压舱石</strong>。</p>
-<p>没有安全感的人，有一个显著的特征，就是<strong>会在刺激面前做出高成本的反应</strong>。</p>
-<p>典型的表现——</p>
-<p>如为了害怕受伤害的可能，疏远一切人际关系的可能；</p>
-<p>如为了害怕意外的可能性，足不出户。</p>
-<p>如极其容易受惊，而长期需要ta人大量的安慰来修补信心。</p>
-<p>如极其恐惧“背叛”，而有异乎寻常的疑心以及对安全证据的执着。</p>
-<p>安全感缺乏会导致生存的成本过高，这不但使得自己的生命干枯而难以丰盛，还会因为亲密关系的共生性而夺取亲人的精力和资源，最终可能迫使ta人不能不脱离亲密关系。而这种崩塌则会将本来就已经无法自己支付自己的生存成本的人抛入更加艰难的困境。</p>
-<p>它不但令自己不幸，也剥夺一切关爱自己的人的幸福。</p>
-<p>而另一方面，安全感过强也为害甚烈。</p>
-<blockquote>
-<p>所谓安全感过强，是指对风险的可能性不敏感，因此对未来的风险保障投资不足。而这种投资不足的后果往往是风险发生之后要么天崩地裂，要么就是同样由爱ta的人来支付。安全感过强的人，会轻易的招致难以预料的失败和损失，不断的导致关联者的损失，一样会对身边人形成攫取和驱散效应。而同样，如果身边人无法再承受这样的损失而离开，当事人自己也会一下陷入极大的困境。</p>
-</blockquote>
-<p>要注意的是，这两种问题并不是互相排除的。并不是一个安全感不足的人，就不会安全感过剩。</p>
-<p>这是一个非常不幸的事实——安全感不足和安全过剩，不但可以并存，而且恰恰常常是伴生在一起的。</p>
-<p><strong>正是因为人习惯了安全感过剩的常态、才会生出“这种常态如果不能继续维持怎么办”的额外恐惧，从而催生出安全感不足的高度焦虑。</strong></p>
-<p>这一点颇为类似自负与自卑的伴生关系——唯其自负，所以自卑。</p>
-<p>所以，构建自己的安全感，首先要从<strong>何谓最大安全</strong>来破题。</p>
-<p>首先，你要破除掉“绝对安全观”。什么叫绝对安全观？</p>
-<p>就是认为完全的安全是可以追求的（甚至是理所当然的），于是当然也就是应该追求的。</p>
-<p>事实上，如果我们把安全风险设为不失败概率，那么要支撑这个概率到达90%的成本，会比支撑80%的成本高得多。从90%升到95%，成本爬升的幅度更大。</p>
-<p>想从99.9999爬升到100%，就这0.0001%，把人类有史以来创造的全部财富都填进去，也根本不够。</p>
-<p>而另一方面，你要考虑到不可持续的安全是没有意义的。将全部的资源用来提高下一秒绝对不出风险的概率，随后变成一穷二白，那么接下去的第二秒要怎么办？光着身子赌天暖吗？</p>
-<p>因此，从一开始就要杜绝“越安全越好”的心态。<strong>对于安全的绝对追求，本身就会损害实际的安全水平</strong>。这在数学上就意味着你不可能通过学习如何避免风险，而免掉冒险这门课。</p>
-<p>意外一定会发生，绝对不允许它发生，它不但会更多的发生、而且会有更强的突然性和破坏性。要害在于要容纳意外，管理意外，而不是仅仅排除意外。</p>
-<p>正确的安全观，首先就以正确的、中性的、甚至是积极的看待风险为起点。</p>
-<hr>
-<p>现在我们来谈怎么构建你的安全感。</p>
-<p>安全来自两个方面：</p>
-<p>1）来自人与自然的良好关系。</p>
-<p>首先带给人威胁的是人对自然的无知。<strong>自然对人类是有要求的，并且自然对人的要求是不遵循所谓“不知者不罪”的法则的。</strong></p>
-<p><strong>自然的要求恒久存在，不符合要求就要遭受损失，直到你改变自己的行为至符合它的要求，或者损失到你死亡为止。要么悔改，要么受处罚，直至灭亡，没有第二种选择。</strong></p>
-<p>**不但如此，认清这些要求的责任也无条件的在人类一方。**你不了解空气有多重要，并不妨碍你失去空气就会窒息而死。你不相信重力的存在，并不妨碍你跌落悬崖会粉身碎骨。</p>
-<p><strong>自然不接受反驳、不接受上诉、不接受任何第三方的审判和修订。任何明知故犯的不顺从自然规律的行为，本质就是危险的，任何明知故犯的拒绝了解自然规律的行为，也是本质危险的。</strong></p>
-<p>了解到自己的行为和决策没有与任何已知的自然规律相抵触，并且也明了自己已经尽了最大的了解自然规律的可能，是人类健康的安全感体系的根基。</p>
-<p>这意味着坚持不懈的对自然规律的学习与探索、和不间断的对当下的行为是否符合一切已知的自然规律的反思。</p>
-<p>这里要尤其注意——<strong>自然，并不仅仅指金木水火土，人类本身就是自然的一部分。</strong></p>
-<p><strong>换言之，社会规律、经济规律……等等一切由自然法设定的关于人的法则，一样是自然律的一部分。</strong></p>
-<p>虽然这一部分的自然法则因为极为复杂而且有深刻的利害关系而受到大量的zz正确的干扰，但是它们仍然是不以个人的意志为转移的自然法则的一部分。</p>
-<p>一切属于规律的东西，都是你有<strong>无限的义务</strong>要去了解和顺应的东西。你对这些规律的了解和顺应，就构成你与自然的基本关系。</p>
-<p>与自然的关系良好，一个人就能获得更多的来自自然的馈赠，而少受到来自自然的惩罚。</p>
-<p>自然是极其守信的事物，你不用担心它突然脾气一变，就把某种自然规律改掉了。你顺应某种自然法则所习得的技能——例如骑车、游泳、奔跑、驾驶、种植、收割、开采、提炼、锻造、雕刻、速写、描述、测量、建筑、拆除、计算、计划、管理、组织……<strong>只要自然规律不做修改，就会一直有效。</strong></p>
-<p>你要注意，我上面列出了不少与人有关的技能，例如管理、组织。这意味着你要脱离具体人来思考你这些技能的本质——你的这些技能是不是只对这些人有用？只在这还行前提下有用？你所做的之中不受具体人、具体条件限制的成分越大，它就越成其为你与自然的关系的一部分，而并非与人关系的一部分。</p>
-<p>你对这些技能的学习和磨练，本身就是对自然的一种关系建设。这些技能的成就和有效，就是自然对你的友善的友善回应。</p>
-<p>你与自然的关系牢固，会是你安全感的最大的源泉。</p>
-<p><strong>你也将由此拥有安全感的最大底牌——</strong></p>
-<p><strong>“此处不留爷，自有留爷处”。</strong></p>
-<hr>
-<p>一旦你解决了与自然的关系，防范专业犯罪者的基本策略就自然容易理顺了。</p>
-<p>道理很简单——从开始，到现在，直至可以想象的将来，人类从来是、现在是、将来也仍会是<strong>抱团应对客观世界所带来的纷繁复杂的挑战的群体，而应对这种挑战的最基本的资本，就是拥有与自然关系密切的人。</strong></p>
-<p>因为这些人如同人类从自然中汲取价值的抽水机，是组织可以避免冻饿、威胁最基本的屏障。如同村子里的农夫和战士，公司里最有业绩的销售员，属于组织的核心资产。大到一个国家一个民族，小到一对男女组成的家庭，组织的生存和延续，最主要的使命就是发掘、创造、团结和维护这样的动力源泉，越多越好，越强越好。</p>
-<p>也因此，这样的人会受到ta所属的一切关系的慎重对待和对等保护，而这种广泛的礼遇和保护，就是你应对一切潜在恶意的最基本的筹码。</p>
-<p>对于专业犯罪者而言，你自己身体练得钢筋铁骨、十八般武艺精通，固然是有一定的吓阻作用，但是那仅仅适用于理智的、业余的侵犯者，几乎对理智的、专业的、有经验的侵犯者没有意义（对不理智的业余侵犯者也没意义）。如果对方是有系统、有计划、尤其是有经验的，所谓的“身强力壮”其实意义非常有限，很多伤害案乃至谋杀案都是身体瘦弱的专业罪犯使用很简单的工具杀伤了身强力壮的人。</p>
-<p>而且所谓身强力壮的人，反而容易因为安全感过强而意识松懈。</p>
-<p>你在明而他在暗，以有心算无心，虽有力亦不能胜。</p>
-<p><strong>真正能震慑ta们，令其不敢轻易以你为目标的要素，是ta们对伤害你之后的后果的顾虑</strong>——那些由你的同志、你的朋友、你的亲人、你的社区（这包括了公检法）必然发动的追查和惩罚。</p>
-<p>ta们即使有所谓可以对你实施伤害的机会，只要ta们没有把握逃脱这种追查，ta们就不会轻易的动手实施。</p>
-<p>而什么是保证专业犯罪者不能不有所顾忌的要害呢？</p>
-<p>第一，你自己展现出的能力是有价值的，足以让人意识到你多半是某种利益关系的重要环节。这在很简单的言谈举止里很容易流露出来——例如很难被套话、问的问题直指重点、叙述事件简洁清晰、知识宽阔、人情世故精通（礼貌得体从容）、行事交谈从容热情。</p>
-<p>这些自然流露的气质和素质，天生的能震慑人。因为这样的人是干练的人，干练的人没有背后没关系没背景的。</p>
-<p>一锤子打倒你容易，打倒之后不知道会有什么样的麻烦会在什么时候以什么形式找上门来，这就太不明智了。</p>
-<p>职业犯罪者不是为了纯兴趣而那样做，ta们做的是一门生意，ta们必须要奉行小心行得万年船的法则，不会无意义的冒过大的<strong>未知风险</strong>。</p>
-<p>第二，<strong>不要让任何人在任何时刻相信——哪怕是自以为是的误以为——你处在与一切人都断联的状态。</strong></p>
-<p>经典的例子就是对陌生人说你是从家里闹翻了跑出来的，“没有一个朋友可信”。</p>
-<p>在你说出这话的瞬间，你最好祈祷听这话的人（包括间接得知的）里没有任何人对你有恶意。因为这一瞬间你等于在自己身上画了一个靶子。</p>
-<p>人对其他人永远谈不上绝对了解，所以第一条禁忌只会导致想要对你下手的人把你列入观察对象，ta们还要做不少试探和侦查工作才能下定决心出手。</p>
-<p>但是得知你自己正处在绝对断线状态，没有任何线索可以追踪到此时此刻的你，那么即使对你不够知根知底，此时也会对有犯意的人产生很大的诱惑。</p>
-<p>这就是为什么类似金三角、战乱之地、蛮荒西部、戈壁无人区这类不法之地非常非常危险的主因。</p>
-<p>而这些技术性手段之上还有一个终极策略——</p>
-<p><strong>那就是让人意识到你身上有很强的爱的能力。</strong></p>
-<p>有爱的能力的人，有极大的可能正被爱着。这说的不是限于那种男女情爱，而是指Caritas。</p>
-<p><a href="https://www.zhihu.com/question/444126370/answer/1743255025">爱到底是什么 ？</a>以Caritas待人的人，有极大可能会被人寄以极大的关心和情感羁绊。这比起前面仅仅只是出于利益相关而给予的关注和照顾是不同的。</p>
-<p>仅仅出于利益相关而给予的照顾，是有止损线的，是可以交易的、也是有期限的，因而是可以计算、可以收买、可以指望通过制造实施成本而躲过的。</p>
-<p>而基于caritas而生成的关心和羁绊，是深入人性本能的，是人类底层机制所保证刻骨铭心的东西，是足以令人永世不忘、不计成败得失的、先于物质利益的、不是被价值观所决定，而是决定价值观的东西。</p>
-<p>你伤害了为人所深爱的人，你必定要面对被不计代价也要实施的追偿，因为这不只是被报复心所驱使的强烈冲动，也不只是被利益心所驱使的冲动算计，还包含了来自牵连者自身价值观所带来的深入骨髓的自我拷问。</p>
-<p>那就是<strong>正义。</strong></p>
-<p><strong>有无法确知身份和数量的人会冷静的、精密的、有计划的、有系统的、不计代价的、矢志不渝的向你不是复仇、不是求偿，而是索取正义。</strong></p>
-<p><strong>这才是震慑一切邪恶的达摩克利斯之剑。</strong></p>
-<p>真的打算动，就要抱定同归于尽的觉悟——世界上哪有同归于尽的生意经？</p>
-<p>相应的，就有这样一条禁忌——</p>
-<p>**不要在陌生人面前以实际身份流露愤世嫉俗的极端观点，**例如“世界上没有一个好人”，“人间不值得”，等等任何这类会让人估计你应该没有任何有质量的亲密关系可言的言论。</p>
-<p>有一些观点，如果你强烈的持有，一定意味着你恐怕既无任何亲密关系，也没什么可能去建立什么亲密关系，于是你消失了估计没有人会真的会来追查和关心，你就算受了损失哀嚎，你也只能靠单打独斗去报复。</p>
-<p>既然你都能说出这类话来了，谅你也只是一个无能之辈，既不理解人类社会是如何运转（于是根本制定不了有效的计划）、也没有足够的智力和耐心做什么有效坚持执行。</p>
-<p>这意味着你拥有的、以及你能借贷到的一切资源，都是随手就可以低风险获得的便利资源。</p>
-<p>你可能觉得自己说那些话很爽，但其实说完了你在有心人眼里就成了一堆肉。</p>
-<p><strong>如果你一定要说来发泄一下，切记要确保一切能听见这些话的人里面没有人有可能知道你是谁。</strong></p>
-<p>因为通过公开弃绝爱的可能，你自己丢掉了真正能根本庇护你的剑与盾。</p>
-<p>对付老练的、也是最危险的专业掠食者，这些策略已经是你可以负担的一种比较好的方案了。</p>
-<p>它要好过请一堆保镖。</p>
-<hr>
-<p>在上述几个要点之外，特别说一个点：警觉心是没有过逾的。</p>
-<p>在那个跳车女孩的案例中，无数的人嘲弄女孩的警觉心是“想象力丰富”，在我举出“有人在你面前举起铁锤，你要想想ta是不是会用来攻击你”，也有无数人群起讽刺。</p>
-<p>但其实这种嘲讽本身才是不健康、而且是<strong>不知死活</strong>的幼稚态度。</p>
-<p>任何在物理上可能对你构成威胁的事物，你不做出明显的反应，都应该是思考过预防和反制措施后的决定，而不应该是根本不经思考而断言“这不可能”“这是胡思乱想”后“放弃怀疑”的结果。</p>
-<p>其实，你们连想起“不可能”三个字的机会都没有，因为你们根本没有意识到这种可能性的存在，不是吗？</p>
-<p><strong>人生漫长得很，你们还有六七十年的机会去了解这种对威胁存在的可能性的迟钝、以及对这种迟钝的不以为耻、反以为荣，本身是一种会让你多么悔恨入骨的愚蠢。</strong></p>
-<p>只能希望这种教训对你不要是致命的。</p>
-<p>再说一遍，别人看不出来你的反应，只能是你思考之后决定不做特定反应或采取不易觉察的措施防御的结果，而不应该是你没有觉察到威胁的可能的结果。</p>
-<p>实际上，只有有这种警觉心和忧患意识的人，才会最终走上寻求某种有总体性的、全面性的、决定性的防御体系的路。因为你不可能再一事一策的分别应对你能意识到的威胁，你会意识到你只能总体性的高效的、有系统的防御全面的威胁。这会大大的有利于加深你思考的深度和整体性。</p>
-<p>这本身就是一种良好的思考训练。</p>
-<p><strong>那些喜欢把“你想太多”挂在嘴边上的人，有多少其实是因为自己空有警觉但其实束手无策，受不了这种无力感于是宁可选择鸵鸟政策求个虚假的心安而已？</strong></p>
-<p><strong>——如果ta们不是在尝试掩盖自己的攻击意图的话。</strong></p>
-<hr>
-<p>但是，仅仅通过心有底气、自然流露镇定自若的气质，以及有效展现自己与家人朋友保持着联系，仍然是不够安全的。</p>
-<p>因为你躲不开一些不在此列的威胁——蠢人、病人和无心之人。。</p>
-<p>愚蠢的人看不懂这些，ta们只是不知道自己在做什么，也不知道后果是什么。</p>
-<p>而一些病人——例如反社会人格——有机能上的障碍无法做出正常的反应。例如见不得人太幸福之类。</p>
-<p>而无心之人并非故意要威胁你，ta们对你造成伤害的确只是出于意外。你怎么能要求人绝无失误呢？</p>
-<p>因此，天长日久，你一定会发现一个问题——有足够的警觉心，有足够的应对的训练，也有足够的安全保障，并不足以完全保证你的安全感。</p>
-<p>因为你一定会遇到你警觉不到、应对不来、也无法震慑的危险，不但思之后怕，而且更暗自心惊——这类事情不知还有多少，即使就是这件事本身再来一次，也一样不知如何防范。</p>
-<p>危险是自然存在于天地之间的，它们并不能靠着“足够的防御措施”来完全免疫。</p>
-<p>真正给你带来最终安全的，是明了自己的人生价值，并全力以赴的加以努力，<strong>随时随地处在可以死而无憾的状态</strong>。</p>
-<p>我不是虚空，我是一种实在，我已造成改变，我已留下遗产，我的死亡将不是我的意义的消亡，我已经尽了我所能承受的最大的努力。我已尽我所能的尽力的生活。</p>
-<p>如我当现在被浇奠，是我离世的时候到了，我可以说那美好的仗我已经打过了，当跑的路我已经跑尽了，而且我会庆幸，我所信的道我已经尽量守了——幸亏这种艰苦的持守毕竟是有尽头的。</p>
-<p>向死而生，是人的勇气可能的最大的、也是最坚实的根底，是战胜贪念和恐惧的最后保证。</p>
-<p>真正保证你的安全感的，从来就不是什么武力或者实力——这就是为什么那些日夜忧虑的亿万富翁和疑神疑鬼的独裁君主即使富甲天下、权倾一时，却毫不性感的原因。因为性感的根源是安全感，而安全感的来源，并不是安全的“保障”。</p>
-<p><strong>安全感来自勇气。</strong></p>
-]]></content>
-      <categories>
-        <category>认知思维</category>
-      </categories>
-      <tags>
-        <tag>心理学</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>必须建立自己对事物认知的坐标系</title>
     <url>//essay-dcaba21fb79f.html</url>
     <content><![CDATA[<p>本文是央视的记者徐泓为了纪念其同事<a href="https://baike.baidu.com/item/%E9%99%88%E8%99%BB/9516020">陈虻</a>而写的<a href="https://xuhong.blog.caixin.com/archives/54703">《陈虻：我们听你讲》系列博文</a>，其中有很多陈虻关于创作、认知的真知灼见。文章对我的帮助很大，我摘录在这里。</p>
+<span id="more"></span>
 <h2 id="陈虻说必须建立自己对事物认知的坐标系"><a class="markdownIt-Anchor" href="#陈虻说必须建立自己对事物认知的坐标系"></a> 陈虻说：必须建立自己对事物认知的坐标系</h2>
 <p>陈虻抽烟，多年的习惯，身边总带着烟。后来只抽柔和的&quot;七星&quot;。</p>
 <p>他的烟盒，还有另一个用途。在指导新人的时候，或者在给栏目组讲课的时候，他会经常拍出这个烟盒：</p>
@@ -1049,6 +1452,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>概率的核心[简]</title>
     <url>//essay-faad2b0fb9ae.html</url>
     <content><![CDATA[<p>概率论最基本的概念是统计实验，结果是没法事先知道的，它具有不确定性。统计实验之后，就会有样本空间。所有可能出现的结果，我们把它放在一个集合里，这个集合就称作样本空间（Ω）。样本空间之后就有了“事件”，所谓事件，就是样本空间的子集，统统称它为事件。有了事件，就可以定义概率了。</p>
+<span id="more"></span>
 <h1 id="概率的概念"><a class="markdownIt-Anchor" href="#概率的概念"></a> 概率的概念：</h1>
 <p><strong>概率是一个定义在集合上的函数，它的自变量是样本空间里的子集，它以样本空间里的子集为自变量，值域是[0,1]区间。所以它是从样本空间的子集，映射到[0,1]区间的这么一种集合</strong>。</p>
 <p>有了概率，有了概率的定义域，有了样本空间，就形成了——概率论里最重要的概念：<strong>概率三元组（Ω、B，P）</strong>，也有人叫<strong>概率空间</strong>或者<strong>模型</strong>。</p>
@@ -1134,7 +1538,9 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
   <entry>
     <title>态度系统</title>
     <url>//essay-af8a92e64d79.html</url>
-    <content><![CDATA[<h1 id="心理学中态度的解释"><a class="markdownIt-Anchor" href="#心理学中态度的解释"></a> 心理学中“态度”的解释</h1>
+    <content><![CDATA[<p>从来，“态度决定一切”这样的话经常听到，一开始认为是百无一用的“鸡汤”，但当我看了心理学名作《态度系统与社会影响》后，知道了它不是鸡汤，或者说它是营养价值很高的鸡汤。</p>
+<span id="more"></span>
+<h1 id="心理学中态度的解释"><a class="markdownIt-Anchor" href="#心理学中态度的解释"></a> 心理学中“态度”的解释</h1>
 <p>是个体基于过去经验对其周围的人、事、物持有的比较持久而一致的心理准备状态或人格倾向。</p>
 <p>当态度是由于某种经验、学科理论而建立的，而不是道听途说，他们就更具有稳定性，更能引发行为。我们坚定我们所相信的，同样地，我们也会逐步相信我们坚持的东西。即态度能影响行为，反过来，行为也能决定我们的态度。</p>
 <h2 id="态度的组成部分"><a class="markdownIt-Anchor" href="#态度的组成部分"></a> 态度的组成部分</h2>
@@ -1184,11 +1590,26 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
+    <title>谈世界观</title>
+    <url>//essay-2144114c97dd.html</url>
+    <content><![CDATA[<p>这里不谈宏观层面的世界观，但说微观层面上，“我的”世界观。</p>
+<p>作为社会个体，生存在这世界上，除了宏观层面的世界观，也必须要掌握一种专属于你自己的看待世界的方法。</p>
+<p>你所见之物的世界是什么模样的？这便是个体微观上的世界观，简单说就是在你眼中，所看到的物质世界在是什么样子的。</p>
+]]></content>
+      <categories>
+        <category>认知思维</category>
+      </categories>
+      <tags>
+        <tag>认知</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>聪明人为什么会下笨功夫？</title>
     <url>//essay-0582154d0835.html</url>
     <content><![CDATA[<p>常听说“聪明人下笨功夫”，不妨往深了多思考一下，比如：这些聪明人怎么会做笨功夫？做笨功夫还怎么会是聪明人？</p>
 <p>细思之后，会发现，那些功夫只是看起来很笨，其实去做它们是最聪明的做法。</p>
 <p>聪明在哪呢？</p>
+<span id="more"></span>
 <p>聪明在于<strong>除了如此，绝无第二捷径可走。这功夫是绝对绕不过去的苦路</strong>。</p>
 <p>聪明人相当确信，这种功夫之难，难到了你如果早起步一个月，世界上任何的另一个人哪怕拿着无限的资本做后盾，也绝对没有可能在你不松懈的前提下超到你前面去。</p>
 <p><strong>因为这个功夫实在实在是太“笨”了，没有任何办法能投机取巧，没有任何办法能绕道，唯一最快的凿穿这厚厚的玄武岩层的办法，就是靠一个聪明到你这个程度、有同样罕见的机缘、有同样深厚的经验、有同样难得的资源的人、抱着绝不旁顾的决心，抗拒一切其它机会成本的诱惑，</strong></p>
@@ -1226,6 +1647,7 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
     <title>规划谬误</title>
     <url>//essay-bc6d9ea0f551.html</url>
     <content><![CDATA[<p>我低估了完成搭建博客这项任务所需要的时间——心理学上将这种现象称其为规划谬误(planning fallacy)。</p>
+<span id="more"></span>
 <p>如对让一些正在写毕业论文的本科生预测他们多久能写完的研究表明，一般大学生会比他们预计的“最现实的”时间晚三周，而会比他们预计的“最糟糕的情况”晚一周（Buehler ,2002)；微软的经理们会下意识地在软件开发者给出的预计完成时间上增加30%的时间，而如果项目中涉及新的操作系统，可能要增加50%的时间（Dunning,2006)。</p>
 <img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202302191203700.png" style="zoom:100%;">
 <p>有人认为，人们之所以会低估完成某件事的时间，是因为他们错误地记忆了之前完成任务实际所用的时间（Roy，2005）.然我认为这不是单纯的记忆出错的问题，一项任务往往不是单一的因素构成，而是由多个影响因子相互作用构成某个较大一些的模块，再由不同的模块组成这个项目所需的整体结构，我们往往高估了自己驾驭任何因子、模块的能力，这种盲目乐观使得我们不得不面对工期一再拖延。</p>
@@ -1260,23 +1682,38 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>谈世界观</title>
-    <url>//essay-2144114c97dd.html</url>
-    <content><![CDATA[<p>这里不谈宏观层面的世界观，但说微观层面上，“我的”世界观。</p>
-<p>作为社会个体，生存在这世界上，除了宏观层面的世界观，也必须要掌握一种专属于你自己的看待世界的方法。</p>
-<p>你所见之物的世界是什么模样的？这便是个体微观上的世界观，简单说就是在你眼中，所看到的物质世界在是什么样子的。</p>
+    <title>长袖善舞,多钱善贾</title>
+    <url>//essay-28b35b954e39.html</url>
+    <content><![CDATA[<blockquote>
+<p>长衣袖合于舞蹈，本钱多便于做生意。比喻有所凭藉，事业容易成功。出自《韩非子·五蠹》</p>
+</blockquote>
+<span id="more"></span>
+<p>原文：</p>
+<p>鄙谚曰：“长袖善舞，多钱善贾。”此言多资之易为工也。故治强易为谋，弱乱难为计。故用于秦者，十变而谋希失；用于燕者，一变而计希得。非用于秦者必智，用于燕者必愚也，盖治乱之资异也。故周去秦为从，期年而举；卫离魏为衡，半岁而亡。是周灭于从，卫亡于衡也。使周、卫缓其从衡之计，而严其境内之治，明其法禁，必其赏罚，尽其地力以多其积，致其民死以坚其城守，天下得其地则其利少，攻其国则其伤大，万乘之国莫敢自顿于坚城之下，而使强敌裁其弊也，此必不亡之术也。舍必不亡之术而道必灭之事，治国者之过也。智困于内而政乱于外，则亡不可振也。《韩非子·五蠹》</p>
+<p>译文:</p>
+<p>乡间谚语说：“长袖善舞，多钱善贾。”这就是说，物质条件越好，做生意就越容易取得成功。所以国家安定强盛，谋事就容易成功；国家衰弱混乱，计策就难以实现。所以用于秦国的计谋，即使改变十次也很少失败；用于燕国的计谋，即使改变一次也很难成功。这并不是被秦国任用的人智慧必高，被燕国任用的人脑子必笨，而是因为这两个国家的治乱条件大不相同。所以西周背弃秦国参予合纵，只一年工夫就被吞灾了；卫国背离魏国参与连横，仅半年工夫就被消灭了。这就是说合纵灭了西周，连横亡了卫国。假使西周和卫国不急于听从合纵连横的计谋，而将国内政治严加整顿，明定法律禁令，信守赏罚制度，努力开发土地来增加积累，使民众拼死去坚守城池；那么．别的国家夺得他们的土地吧，好处不多，而进攻这个国家吧，伤亡很大，拥有万乘兵车的大国不敢自我拖累在坚城之下，从而促使强敌自己去衡量其中的害处，这才是保证本国必然不会灭亡的办法。丢掉这种必然不会亡国的办法，却去搞势必会招致亡国的事情，这是治理国家的人的过错。外交努力陷于困境，内政建设陷于混乱，那么国家的灭亡就无法挽救了。</p>
+<p><code>《史记》中也记录了韩非子这一“记录”，《史记·范睢蔡泽列传》：“韩子称‘长袖善舞，多钱善贾’，信哉是言也！”</code></p>
+<p>以一个简单的剪刀石头布的游戏为例。</p>
+<p>这个游戏中，设你的资产是一元钱，你的对手的资产是一万元。</p>
+<p>你们两个玩石头剪刀布的游戏，赌相同的金额，胜者通吃。也就是第一局里，你出一元他出一元，然后你们俩比，谁赢了，这两元钱就归谁。</p>
+<p>假如第一局你赢了，那么第二局他提出加码，每人出两元，胜者拿走四元。</p>
+<p>第三局则是每人出四元。以此类推，总共比十局。</p>
+<p>那么纵然启动资金是一元的你，十局皆胜，将1023元钱收入囊中。你的对手仍然能拿着剩下的8977元钱愉快地去与下一个人赌博。</p>
+<p>而十局中只要有一局你落败，你的资产将完全归零，你就没有进行下一局的筹码了。哪怕前九局全胜，仅有最后一局落败，结果也是一样倾家荡产。</p>
+<p>那么你想一想，十局全胜的概率有多低。而你在现实中的商战中每一次击败比你有钱的对手的概率，恐怕还要远低于石头剪子布每局获胜的概率。</p>
 ]]></content>
       <categories>
         <category>认知思维</category>
       </categories>
       <tags>
-        <tag>认知</tag>
+        <tag>概率思维</tag>
       </tags>
   </entry>
   <entry>
     <title>财富观</title>
     <url>//essay-978ce9c26a54.html</url>
     <content><![CDATA[<p>财富的本质是什么？该如何管理 / 如何达到这些目标？</p>
+<span id="more"></span>
 <p>第一个问题，什么叫财富观？</p>
 <p>财富观是指对以下两个问题的解答：</p>
 <ol>
@@ -1460,555 +1897,134 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>长袖善舞,多钱善贾</title>
-    <url>//essay-28b35b954e39.html</url>
-    <content><![CDATA[<p>长衣袖合于舞蹈，本钱多便于做生意。比喻有所凭藉，事业容易成功。出自《韩非子·五蠹》</p>
-<p>原文：</p>
-<p>鄙谚曰：“长袖善舞，多钱善贾。”此言多资之易为工也。故治强易为谋，弱乱难为计。故用于秦者，十变而谋希失；用于燕者，一变而计希得。非用于秦者必智，用于燕者必愚也，盖治乱之资异也。故周去秦为从，期年而举；卫离魏为衡，半岁而亡。是周灭于从，卫亡于衡也。使周、卫缓其从衡之计，而严其境内之治，明其法禁，必其赏罚，尽其地力以多其积，致其民死以坚其城守，天下得其地则其利少，攻其国则其伤大，万乘之国莫敢自顿于坚城之下，而使强敌裁其弊也，此必不亡之术也。舍必不亡之术而道必灭之事，治国者之过也。智困于内而政乱于外，则亡不可振也。《韩非子·五蠹》</p>
-<p>译文:</p>
-<p>乡间谚语说：“长袖善舞，多钱善贾。”这就是说，物质条件越好，做生意就越容易取得成功。所以国家安定强盛，谋事就容易成功；国家衰弱混乱，计策就难以实现。所以用于秦国的计谋，即使改变十次也很少失败；用于燕国的计谋，即使改变一次也很难成功。这并不是被秦国任用的人智慧必高，被燕国任用的人脑子必笨，而是因为这两个国家的治乱条件大不相同。所以西周背弃秦国参予合纵，只一年工夫就被吞灾了；卫国背离魏国参与连横，仅半年工夫就被消灭了。这就是说合纵灭了西周，连横亡了卫国。假使西周和卫国不急于听从合纵连横的计谋，而将国内政治严加整顿，明定法律禁令，信守赏罚制度，努力开发土地来增加积累，使民众拼死去坚守城池；那么．别的国家夺得他们的土地吧，好处不多，而进攻这个国家吧，伤亡很大，拥有万乘兵车的大国不敢自我拖累在坚城之下，从而促使强敌自己去衡量其中的害处，这才是保证本国必然不会灭亡的办法。丢掉这种必然不会亡国的办法，却去搞势必会招致亡国的事情，这是治理国家的人的过错。外交努力陷于困境，内政建设陷于混乱，那么国家的灭亡就无法挽救了。</p>
-<p><code>《史记》中也记录了韩非子这一“记录”，《史记·范睢蔡泽列传》：“韩子称‘长袖善舞，多钱善贾’，信哉是言也！”</code></p>
-<p>以一个简单的剪刀石头布的游戏为例。</p>
-<p>这个游戏中，设你的资产是一元钱，你的对手的资产是一万元。</p>
-<p>你们两个玩石头剪刀布的游戏，赌相同的金额，胜者通吃。也就是第一局里，你出一元他出一元，然后你们俩比，谁赢了，这两元钱就归谁。</p>
-<p>假如第一局你赢了，那么第二局他提出加码，每人出两元，胜者拿走四元。</p>
-<p>第三局则是每人出四元。以此类推，总共比十局。</p>
-<p>那么纵然启动资金是一元的你，十局皆胜，将1023元钱收入囊中。你的对手仍然能拿着剩下的8977元钱愉快地去与下一个人赌博。</p>
-<p>而十局中只要有一局你落败，你的资产将完全归零，你就没有进行下一局的筹码了。哪怕前九局全胜，仅有最后一局落败，结果也是一样倾家荡产。</p>
-<p>那么你想一想，十局全胜的概率有多低。而你在现实中的商战中每一次击败比你有钱的对手的概率，恐怕还要远低于石头剪子布每局获胜的概率。</p>
+    <title>怎么培养安全感？</title>
+    <url>//essay-d608b48fa352.html</url>
+    <content><![CDATA[<p>安全感是人的压舱石。没有安全感的人，有一个显著的特征，就是会在刺激面前做出高成本的反应。</p>
+<span id="more"></span>
+<h2 id="为什么安全感很重要"><a class="markdownIt-Anchor" href="#为什么安全感很重要"></a> 为什么安全感很重要？</h2>
+<p><strong>安全感是人的压舱石</strong>。</p>
+<p>没有安全感的人，有一个显著的特征，就是<strong>会在刺激面前做出高成本的反应</strong>。</p>
+<p>典型的表现——</p>
+<p>如为了害怕受伤害的可能，疏远一切人际关系的可能；</p>
+<p>如为了害怕意外的可能性，足不出户。</p>
+<p>如极其容易受惊，而长期需要ta人大量的安慰来修补信心。</p>
+<p>如极其恐惧“背叛”，而有异乎寻常的疑心以及对安全证据的执着。</p>
+<p>安全感缺乏会导致生存的成本过高，这不但使得自己的生命干枯而难以丰盛，还会因为亲密关系的共生性而夺取亲人的精力和资源，最终可能迫使ta人不能不脱离亲密关系。而这种崩塌则会将本来就已经无法自己支付自己的生存成本的人抛入更加艰难的困境。</p>
+<p>它不但令自己不幸，也剥夺一切关爱自己的人的幸福。</p>
+<p>而另一方面，安全感过强也为害甚烈。</p>
+<blockquote>
+<p>所谓安全感过强，是指对风险的可能性不敏感，因此对未来的风险保障投资不足。而这种投资不足的后果往往是风险发生之后要么天崩地裂，要么就是同样由爱ta的人来支付。安全感过强的人，会轻易的招致难以预料的失败和损失，不断的导致关联者的损失，一样会对身边人形成攫取和驱散效应。而同样，如果身边人无法再承受这样的损失而离开，当事人自己也会一下陷入极大的困境。</p>
+</blockquote>
+<p>要注意的是，这两种问题并不是互相排除的。并不是一个安全感不足的人，就不会安全感过剩。</p>
+<p>这是一个非常不幸的事实——安全感不足和安全过剩，不但可以并存，而且恰恰常常是伴生在一起的。</p>
+<p><strong>正是因为人习惯了安全感过剩的常态、才会生出“这种常态如果不能继续维持怎么办”的额外恐惧，从而催生出安全感不足的高度焦虑。</strong></p>
+<p>这一点颇为类似自负与自卑的伴生关系——唯其自负，所以自卑。</p>
+<p>所以，构建自己的安全感，首先要从<strong>何谓最大安全</strong>来破题。</p>
+<p>首先，你要破除掉“绝对安全观”。什么叫绝对安全观？</p>
+<p>就是认为完全的安全是可以追求的（甚至是理所当然的），于是当然也就是应该追求的。</p>
+<p>事实上，如果我们把安全风险设为不失败概率，那么要支撑这个概率到达90%的成本，会比支撑80%的成本高得多。从90%升到95%，成本爬升的幅度更大。</p>
+<p>想从99.9999爬升到100%，就这0.0001%，把人类有史以来创造的全部财富都填进去，也根本不够。</p>
+<p>而另一方面，你要考虑到不可持续的安全是没有意义的。将全部的资源用来提高下一秒绝对不出风险的概率，随后变成一穷二白，那么接下去的第二秒要怎么办？光着身子赌天暖吗？</p>
+<p>因此，从一开始就要杜绝“越安全越好”的心态。<strong>对于安全的绝对追求，本身就会损害实际的安全水平</strong>。这在数学上就意味着你不可能通过学习如何避免风险，而免掉冒险这门课。</p>
+<p>意外一定会发生，绝对不允许它发生，它不但会更多的发生、而且会有更强的突然性和破坏性。要害在于要容纳意外，管理意外，而不是仅仅排除意外。</p>
+<p>正确的安全观，首先就以正确的、中性的、甚至是积极的看待风险为起点。</p>
+<hr>
+<p>现在我们来谈怎么构建你的安全感。</p>
+<p>安全来自两个方面：</p>
+<p>1）来自人与自然的良好关系。</p>
+<p>首先带给人威胁的是人对自然的无知。<strong>自然对人类是有要求的，并且自然对人的要求是不遵循所谓“不知者不罪”的法则的。</strong></p>
+<p><strong>自然的要求恒久存在，不符合要求就要遭受损失，直到你改变自己的行为至符合它的要求，或者损失到你死亡为止。要么悔改，要么受处罚，直至灭亡，没有第二种选择。</strong></p>
+<p>**不但如此，认清这些要求的责任也无条件的在人类一方。**你不了解空气有多重要，并不妨碍你失去空气就会窒息而死。你不相信重力的存在，并不妨碍你跌落悬崖会粉身碎骨。</p>
+<p><strong>自然不接受反驳、不接受上诉、不接受任何第三方的审判和修订。任何明知故犯的不顺从自然规律的行为，本质就是危险的，任何明知故犯的拒绝了解自然规律的行为，也是本质危险的。</strong></p>
+<p>了解到自己的行为和决策没有与任何已知的自然规律相抵触，并且也明了自己已经尽了最大的了解自然规律的可能，是人类健康的安全感体系的根基。</p>
+<p>这意味着坚持不懈的对自然规律的学习与探索、和不间断的对当下的行为是否符合一切已知的自然规律的反思。</p>
+<p>这里要尤其注意——<strong>自然，并不仅仅指金木水火土，人类本身就是自然的一部分。</strong></p>
+<p><strong>换言之，社会规律、经济规律……等等一切由自然法设定的关于人的法则，一样是自然律的一部分。</strong></p>
+<p>虽然这一部分的自然法则因为极为复杂而且有深刻的利害关系而受到大量的zz正确的干扰，但是它们仍然是不以个人的意志为转移的自然法则的一部分。</p>
+<p>一切属于规律的东西，都是你有<strong>无限的义务</strong>要去了解和顺应的东西。你对这些规律的了解和顺应，就构成你与自然的基本关系。</p>
+<p>与自然的关系良好，一个人就能获得更多的来自自然的馈赠，而少受到来自自然的惩罚。</p>
+<p>自然是极其守信的事物，你不用担心它突然脾气一变，就把某种自然规律改掉了。你顺应某种自然法则所习得的技能——例如骑车、游泳、奔跑、驾驶、种植、收割、开采、提炼、锻造、雕刻、速写、描述、测量、建筑、拆除、计算、计划、管理、组织……<strong>只要自然规律不做修改，就会一直有效。</strong></p>
+<p>你要注意，我上面列出了不少与人有关的技能，例如管理、组织。这意味着你要脱离具体人来思考你这些技能的本质——你的这些技能是不是只对这些人有用？只在这还行前提下有用？你所做的之中不受具体人、具体条件限制的成分越大，它就越成其为你与自然的关系的一部分，而并非与人关系的一部分。</p>
+<p>你对这些技能的学习和磨练，本身就是对自然的一种关系建设。这些技能的成就和有效，就是自然对你的友善的友善回应。</p>
+<p>你与自然的关系牢固，会是你安全感的最大的源泉。</p>
+<p><strong>你也将由此拥有安全感的最大底牌——</strong></p>
+<p><strong>“此处不留爷，自有留爷处”。</strong></p>
+<hr>
+<p>一旦你解决了与自然的关系，防范专业犯罪者的基本策略就自然容易理顺了。</p>
+<p>道理很简单——从开始，到现在，直至可以想象的将来，人类从来是、现在是、将来也仍会是<strong>抱团应对客观世界所带来的纷繁复杂的挑战的群体，而应对这种挑战的最基本的资本，就是拥有与自然关系密切的人。</strong></p>
+<p>因为这些人如同人类从自然中汲取价值的抽水机，是组织可以避免冻饿、威胁最基本的屏障。如同村子里的农夫和战士，公司里最有业绩的销售员，属于组织的核心资产。大到一个国家一个民族，小到一对男女组成的家庭，组织的生存和延续，最主要的使命就是发掘、创造、团结和维护这样的动力源泉，越多越好，越强越好。</p>
+<p>也因此，这样的人会受到ta所属的一切关系的慎重对待和对等保护，而这种广泛的礼遇和保护，就是你应对一切潜在恶意的最基本的筹码。</p>
+<p>对于专业犯罪者而言，你自己身体练得钢筋铁骨、十八般武艺精通，固然是有一定的吓阻作用，但是那仅仅适用于理智的、业余的侵犯者，几乎对理智的、专业的、有经验的侵犯者没有意义（对不理智的业余侵犯者也没意义）。如果对方是有系统、有计划、尤其是有经验的，所谓的“身强力壮”其实意义非常有限，很多伤害案乃至谋杀案都是身体瘦弱的专业罪犯使用很简单的工具杀伤了身强力壮的人。</p>
+<p>而且所谓身强力壮的人，反而容易因为安全感过强而意识松懈。</p>
+<p>你在明而他在暗，以有心算无心，虽有力亦不能胜。</p>
+<p><strong>真正能震慑ta们，令其不敢轻易以你为目标的要素，是ta们对伤害你之后的后果的顾虑</strong>——那些由你的同志、你的朋友、你的亲人、你的社区（这包括了公检法）必然发动的追查和惩罚。</p>
+<p>ta们即使有所谓可以对你实施伤害的机会，只要ta们没有把握逃脱这种追查，ta们就不会轻易的动手实施。</p>
+<p>而什么是保证专业犯罪者不能不有所顾忌的要害呢？</p>
+<p>第一，你自己展现出的能力是有价值的，足以让人意识到你多半是某种利益关系的重要环节。这在很简单的言谈举止里很容易流露出来——例如很难被套话、问的问题直指重点、叙述事件简洁清晰、知识宽阔、人情世故精通（礼貌得体从容）、行事交谈从容热情。</p>
+<p>这些自然流露的气质和素质，天生的能震慑人。因为这样的人是干练的人，干练的人没有背后没关系没背景的。</p>
+<p>一锤子打倒你容易，打倒之后不知道会有什么样的麻烦会在什么时候以什么形式找上门来，这就太不明智了。</p>
+<p>职业犯罪者不是为了纯兴趣而那样做，ta们做的是一门生意，ta们必须要奉行小心行得万年船的法则，不会无意义的冒过大的<strong>未知风险</strong>。</p>
+<p>第二，<strong>不要让任何人在任何时刻相信——哪怕是自以为是的误以为——你处在与一切人都断联的状态。</strong></p>
+<p>经典的例子就是对陌生人说你是从家里闹翻了跑出来的，“没有一个朋友可信”。</p>
+<p>在你说出这话的瞬间，你最好祈祷听这话的人（包括间接得知的）里没有任何人对你有恶意。因为这一瞬间你等于在自己身上画了一个靶子。</p>
+<p>人对其他人永远谈不上绝对了解，所以第一条禁忌只会导致想要对你下手的人把你列入观察对象，ta们还要做不少试探和侦查工作才能下定决心出手。</p>
+<p>但是得知你自己正处在绝对断线状态，没有任何线索可以追踪到此时此刻的你，那么即使对你不够知根知底，此时也会对有犯意的人产生很大的诱惑。</p>
+<p>这就是为什么类似金三角、战乱之地、蛮荒西部、戈壁无人区这类不法之地非常非常危险的主因。</p>
+<p>而这些技术性手段之上还有一个终极策略——</p>
+<p><strong>那就是让人意识到你身上有很强的爱的能力。</strong></p>
+<p>有爱的能力的人，有极大的可能正被爱着。这说的不是限于那种男女情爱，而是指Caritas。</p>
+<p><a href="https://www.zhihu.com/question/444126370/answer/1743255025">爱到底是什么 ？</a>以Caritas待人的人，有极大可能会被人寄以极大的关心和情感羁绊。这比起前面仅仅只是出于利益相关而给予的关注和照顾是不同的。</p>
+<p>仅仅出于利益相关而给予的照顾，是有止损线的，是可以交易的、也是有期限的，因而是可以计算、可以收买、可以指望通过制造实施成本而躲过的。</p>
+<p>而基于caritas而生成的关心和羁绊，是深入人性本能的，是人类底层机制所保证刻骨铭心的东西，是足以令人永世不忘、不计成败得失的、先于物质利益的、不是被价值观所决定，而是决定价值观的东西。</p>
+<p>你伤害了为人所深爱的人，你必定要面对被不计代价也要实施的追偿，因为这不只是被报复心所驱使的强烈冲动，也不只是被利益心所驱使的冲动算计，还包含了来自牵连者自身价值观所带来的深入骨髓的自我拷问。</p>
+<p>那就是<strong>正义。</strong></p>
+<p><strong>有无法确知身份和数量的人会冷静的、精密的、有计划的、有系统的、不计代价的、矢志不渝的向你不是复仇、不是求偿，而是索取正义。</strong></p>
+<p><strong>这才是震慑一切邪恶的达摩克利斯之剑。</strong></p>
+<p>真的打算动，就要抱定同归于尽的觉悟——世界上哪有同归于尽的生意经？</p>
+<p>相应的，就有这样一条禁忌——</p>
+<p>**不要在陌生人面前以实际身份流露愤世嫉俗的极端观点，**例如“世界上没有一个好人”，“人间不值得”，等等任何这类会让人估计你应该没有任何有质量的亲密关系可言的言论。</p>
+<p>有一些观点，如果你强烈的持有，一定意味着你恐怕既无任何亲密关系，也没什么可能去建立什么亲密关系，于是你消失了估计没有人会真的会来追查和关心，你就算受了损失哀嚎，你也只能靠单打独斗去报复。</p>
+<p>既然你都能说出这类话来了，谅你也只是一个无能之辈，既不理解人类社会是如何运转（于是根本制定不了有效的计划）、也没有足够的智力和耐心做什么有效坚持执行。</p>
+<p>这意味着你拥有的、以及你能借贷到的一切资源，都是随手就可以低风险获得的便利资源。</p>
+<p>你可能觉得自己说那些话很爽，但其实说完了你在有心人眼里就成了一堆肉。</p>
+<p><strong>如果你一定要说来发泄一下，切记要确保一切能听见这些话的人里面没有人有可能知道你是谁。</strong></p>
+<p>因为通过公开弃绝爱的可能，你自己丢掉了真正能根本庇护你的剑与盾。</p>
+<p>对付老练的、也是最危险的专业掠食者，这些策略已经是你可以负担的一种比较好的方案了。</p>
+<p>它要好过请一堆保镖。</p>
+<hr>
+<p>在上述几个要点之外，特别说一个点：警觉心是没有过逾的。</p>
+<p>在那个跳车女孩的案例中，无数的人嘲弄女孩的警觉心是“想象力丰富”，在我举出“有人在你面前举起铁锤，你要想想ta是不是会用来攻击你”，也有无数人群起讽刺。</p>
+<p>但其实这种嘲讽本身才是不健康、而且是<strong>不知死活</strong>的幼稚态度。</p>
+<p>任何在物理上可能对你构成威胁的事物，你不做出明显的反应，都应该是思考过预防和反制措施后的决定，而不应该是根本不经思考而断言“这不可能”“这是胡思乱想”后“放弃怀疑”的结果。</p>
+<p>其实，你们连想起“不可能”三个字的机会都没有，因为你们根本没有意识到这种可能性的存在，不是吗？</p>
+<p><strong>人生漫长得很，你们还有六七十年的机会去了解这种对威胁存在的可能性的迟钝、以及对这种迟钝的不以为耻、反以为荣，本身是一种会让你多么悔恨入骨的愚蠢。</strong></p>
+<p>只能希望这种教训对你不要是致命的。</p>
+<p>再说一遍，别人看不出来你的反应，只能是你思考之后决定不做特定反应或采取不易觉察的措施防御的结果，而不应该是你没有觉察到威胁的可能的结果。</p>
+<p>实际上，只有有这种警觉心和忧患意识的人，才会最终走上寻求某种有总体性的、全面性的、决定性的防御体系的路。因为你不可能再一事一策的分别应对你能意识到的威胁，你会意识到你只能总体性的高效的、有系统的防御全面的威胁。这会大大的有利于加深你思考的深度和整体性。</p>
+<p>这本身就是一种良好的思考训练。</p>
+<p><strong>那些喜欢把“你想太多”挂在嘴边上的人，有多少其实是因为自己空有警觉但其实束手无策，受不了这种无力感于是宁可选择鸵鸟政策求个虚假的心安而已？</strong></p>
+<p><strong>——如果ta们不是在尝试掩盖自己的攻击意图的话。</strong></p>
+<hr>
+<p>但是，仅仅通过心有底气、自然流露镇定自若的气质，以及有效展现自己与家人朋友保持着联系，仍然是不够安全的。</p>
+<p>因为你躲不开一些不在此列的威胁——蠢人、病人和无心之人。。</p>
+<p>愚蠢的人看不懂这些，ta们只是不知道自己在做什么，也不知道后果是什么。</p>
+<p>而一些病人——例如反社会人格——有机能上的障碍无法做出正常的反应。例如见不得人太幸福之类。</p>
+<p>而无心之人并非故意要威胁你，ta们对你造成伤害的确只是出于意外。你怎么能要求人绝无失误呢？</p>
+<p>因此，天长日久，你一定会发现一个问题——有足够的警觉心，有足够的应对的训练，也有足够的安全保障，并不足以完全保证你的安全感。</p>
+<p>因为你一定会遇到你警觉不到、应对不来、也无法震慑的危险，不但思之后怕，而且更暗自心惊——这类事情不知还有多少，即使就是这件事本身再来一次，也一样不知如何防范。</p>
+<p>危险是自然存在于天地之间的，它们并不能靠着“足够的防御措施”来完全免疫。</p>
+<p>真正给你带来最终安全的，是明了自己的人生价值，并全力以赴的加以努力，<strong>随时随地处在可以死而无憾的状态</strong>。</p>
+<p>我不是虚空，我是一种实在，我已造成改变，我已留下遗产，我的死亡将不是我的意义的消亡，我已经尽了我所能承受的最大的努力。我已尽我所能的尽力的生活。</p>
+<p>如我当现在被浇奠，是我离世的时候到了，我可以说那美好的仗我已经打过了，当跑的路我已经跑尽了，而且我会庆幸，我所信的道我已经尽量守了——幸亏这种艰苦的持守毕竟是有尽头的。</p>
+<p>向死而生，是人的勇气可能的最大的、也是最坚实的根底，是战胜贪念和恐惧的最后保证。</p>
+<p>真正保证你的安全感的，从来就不是什么武力或者实力——这就是为什么那些日夜忧虑的亿万富翁和疑神疑鬼的独裁君主即使富甲天下、权倾一时，却毫不性感的原因。因为性感的根源是安全感，而安全感的来源，并不是安全的“保障”。</p>
+<p><strong>安全感来自勇气。</strong></p>
 ]]></content>
       <categories>
         <category>认知思维</category>
       </categories>
       <tags>
-        <tag>概率思维</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>//essay-692e031d4e54.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2>
-<h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: [Deployment</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>《毛选》里的真知灼见</title>
-    <url>//essay-e8dd7777a045.html</url>
-    <content><![CDATA[<p>“谁是我们的朋友？谁是我们的敌人？这个问题是革命的首要问题。”这句话字面意思看似简单，却放在《毛选》开卷的首要位置，足见这个问题是关乎革命成败的大问题。</p>
-<p>投资也一样，谁是我们的敌人？谁是我们的朋友？</p>
-<p>比如：从我们账户里抽水的券商是我们的敌人，趋势是我们的朋友，我们要尽可能保护账户不被抽水，同时要尽可能与趋势做朋友。</p>
-<p>投资要想获得成功，我们的旧认知、就行为必须改，要</p>
-<h1 id="重构自己的思想和行为"><a class="markdownIt-Anchor" href="#重构自己的思想和行为"></a> 重构自己的思想和行为</h1>
-<p>人们要想得到工作的胜利即得到预想的结果，一定要使自己的思想合于客观外界的规律性，如果不合，就会在实践中失败 。——《实践论：论认识和实践的关系——知和行的关系》</p>
-<p>应用到交易里就是在市场上，你得把自己的频率改变去匹配市场，必须要匹配，否则就会吃亏——亏钱。而如何匹配，是统计知识，寻找一个<code>较优解</code>，而不是<code>最优解</code>，要防止过度拟合。</p>
-<p>Table 1.1 shows Barclay’s top 20 Commodity Trading Advisors (CTAs) for the five‐year period of July 1, 2005, through June 30, 2010. It was compiled by Barclay’s from the 290 CTAs that submit performance information to them.</p>
-<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303090154311.png" alt="TAB" style="zoom:50%;">
-<h2 id="表11向我们展示了一些值得思考的点"><a class="markdownIt-Anchor" href="#表11向我们展示了一些值得思考的点"></a> 表1.1向我们展示了一些值得思考的点：</h2>
-<ul>
-<li>全部的20只基金中，27.98%的年均表现仅比最大撤资的平均值高出约3.5%。</li>
-<li>在这20只基金中，有17只基金的整个一年期没有任何收益。</li>
-<li>The best 12‐month period heavily skewed the average five‐year return performance numbers. If you compound a starting amount by 27.98 percent per year (the average annual return across the 20 entities) for five years, the ending equity is about 243 percent higher than the starting amount. The average best 12‐month average return of 125.3 percent is over half that amount.</li>
-</ul>
-<h2 id="表11反应出以下事实"><a class="markdownIt-Anchor" href="#表11反应出以下事实"></a> 表1.1反应出以下事实：</h2>
-<p>· 你不可能每年都赚1倍，上表中排名第一的基金虽然取得了5年平均44.54%的回报，但曾在12个月里只取得1%的回报。</p>
-<p>· 如果你要求较高的回报，在某个时期面临比较大的回撤；反之，如果你追求的回报较低，回撤可能会相对较小。</p>
-<p>· 如果你够幸运，获得一大笔超额回报，（别乱挥霍，别乱下注）它可能会支撑你多年.（也就是可能会有很长的一段时间赚不到钱，靠这笔超额回报养活，见下一条）。</p>
-<p>· 你可能在很长的一段时间里不能赚钱。（这里不是指“你的水平不行”，而是指市场不提供赚钱的机会。这样的事经常发生，即便是在多空都可以做的期货市场，很多时候市场都处于宽广的窄幅区间震荡（横向整理），此时市场并没给我们提供容易赚钱的机会，比如下图这样长达200多天的横向整理）<img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303090205509.png" alt="棕榈油指数"></p>
-<p><em>@棕榈指数 截图时间：2023年3月1号凌晨</em></p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>【见证】星星和月亮在一起啦</title>
-    <url>//essay-105920f88844.html</url>
-    <content><![CDATA[<p>孩子，今天（2023.3.24），“月掩金星”天象亮相天宇。金星会从月亮的暗边缘被掩盖，消失一阵后，再从月牙的亮边缘复现。此外，还能见到比较明显的“新月抱旧月”。下一次我国能看到的月掩金星要等到2026年了。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242108791.jpg" alt="图1 星星月亮在一起了.自己摄"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242109773.jpg" alt="图2 星星月亮在一起.Allen Sison/ふらっと/Angie Adamson 摄"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250139607.png" alt="群友拍的·山西的月亮"></p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>不得不承认，无法量化的运气很重要</title>
-    <url>//essay-bd5afed5967c.html</url>
-    <content><![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
-<p>绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情况，如果把人生看作一个一个的阶段，用简化的转移矩阵去模拟，你会发现，初始阶段约优越的条件，越容易得到大收益，也可以理解位成功。因而可以将人生简化为两种：一种是穷n+1代，一种类是n+1代，经过若干次迭代，富n+1代达到的财富值，穷n+1代穷尽一生，甚至是N代都无法企及。学习是我难以用语言来表述。无论是马尔科夫链还是意大利这样的科学研究得出的结果令人悲伤，甚至绝望。</p>
-<h2 id="成功需要什么"><a class="markdownIt-Anchor" href="#成功需要什么"></a> 成功需要什么</h2>
-<p>成功人士都有那些秘诀？从《成功》、《福布斯》、《企业家》等杂志的流行程度来看，人们对成功这一话题从不乏热情。一种深层次的假设认为：**成功是可以习得的。**这一假设基于成功人士身上具备的、促使他们走到今天的那些个性特征，例如天赋、才能、意志力、勤奋、韧性、乐观、成长型思维以及情商。这一假设不仅是这些成功学杂志得以流行的基础，也影响了我们的社会进行资源分配的方式。从工作机会到荣誉，再到政府补助，再到公共政策决策，我们都习惯于假设最成功的人也是最能干的，并将资源分配给那些有成功过往的人，而倾向于忽略那些不成功的人。</p>
-<p>但这一假设正确吗？在整个职业生涯中，我一直致力于研究能预测成就和创造力的心理特征。虽然我已经发现，有一些心理特征（例如：激情、毅力、想象力、求知欲和开放性）确实能很好地解释成功之间的差异，但我更感兴趣的是，有多少差异是这些特征无法解释的。</p>
-<p>近几年里，有不少研究和书籍都认为，在包括金融交易、商业、体育、艺术、音乐、文学和科学在内的多个领域中，运气和机会可能比我们以为的更重要。他们的观点是：虽然天赋也很重要，但数据表明，在试图找出成功的决定因素时，如果我们只专注于个人特征，那么就会错过成功图景中真正重要的一片拼图。</p>
-<p>以下是一些新发现（2018）：</p>
-<blockquote>
-<p>全世界人民的收入差异有一半可以由他们所在的居住国和该国的收入分配差异来解释；</p>
-<p>科研成果的影响力是随机分布的，在科研生涯中，仅高生产力这一个因素对高影响力的研究成果产生的影响是有限的；</p>
-<p>能否成为CEO会受到你叫什么名字或出生在几月的影响，在六月或七月出生的CEO比其他月份要少得多；</p>
-<p>姓氏首字母在字母表中更靠前的人更有可能获得最高部门的职位，有中间名缩写的人更容易在智力和成就方面获得更多的正面评价；</p>
-<p>名字更易拼写的人比名字难拼写的人更容易获得肯定；</p>
-<p>姓名听起来更阳刚（男性化）的女性，更易在法律职业生涯中获得成功。</p>
-</blockquote>
-<p>运气这一隐藏维度的重要性引出了一个有趣的问题：我们社会中那些成功人士取得了成就，仅仅是因为他们比较幸运吗？这一假设哪怕只是部分正确，都将对我们如何分配有限的资源产生重大影响，也将帮助富人和成功人士更有效地回报社会。</p>
-<p>为了试图阐明这一重大问题，意大利物理学家Allesandro Pluchino、Andrea Raspisarda和意大利经济学家Alessio Biondo组成研究小组，第一次尝试量化运气和天赋对成功的影响。在他们开创性的工作中，他们提醒那些“天真的精英”，**人们低估了随机因素的作用，而实际上并没有把荣誉和奖励赋予最有能力的人。**为了进一步解释这一现象，他们提出了“玩具数学模型”，模拟了一群人在40年的工作生涯中（从20岁到60岁）职业的发展变化。</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg" alt="Pluchino,Biondo, & Rapisarda 2018" style="zoom:100%;">
-<p>​                                                           <em>模拟初始化设定图（N=1000） Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>意大利研究者们设定了大量“天赋”水平不同的假设个体（“代号1”至“代号1000”），将这些个体置于一个正方形的世界中，让他们在其中经历他们的整个工作生涯。他们将“天赋”定义为<strong>让一个人能够抓住机遇的任何一组个性特征</strong>。天赋可以包括智力、技能、动机、决心、创造性思维、情商等等。这里的关键在于，<strong>更有天赋的人会更倾向于从各种机会中找出最适合他们的那一个</strong>。</p>
-<p>在模拟开始时，所有的个体拥有相同的成功值（10“成功单位”）。每六个月，这些个体会遇到特定数量的<strong>幸运事件（绿色）<strong>和特定数量的</strong>不幸事件（红色）</strong>。当个体遇到不幸事件时，其成功值减半；当个体遇到幸运事件时，其成功值根据其天赋水平按比例增加（以反映真实世界中天赋与机会之间的关系）。</p>
-<p>他们的发现是什么？首先，他们重现了著名的“帕雷托原理”，即二八原理。这一原理认为，少数人最终将获得大多数人的成功（Richard Koch又将其引用为“80/20原理”）。在40年模拟的最终结果中，虽然初始设定的天赋呈正态分布，成功却不是。<strong>20名最成功的个体合计占有了44%的成功值</strong>，而将近半数人的成功值维持在10单位以下（与初始设定值相同）。这一结果和来自真实世界的数据相同，甚至有迹象表明，财富成功在真实世界中的分布要更加不平衡：最富有的8个人拥有的财富等于世界上最贫穷的一半人的财富总和。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212350697.jpg" alt="天赋的正态分布"></p>
-<p>​                                                                                     <em>天赋的正态分布 Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212351902.jpg" alt="高度不平衡的成功值分布"></p>
-<p>​                                                                                          <em>高度不平衡的成功值分布</em></p>
-<p>尽管如此不平衡的分布看起来很不公平，如果那些最成功的人也是最有天赋最有能力的人，那么这一结果也可以合理化。那模拟结果是否是这样的呢？一方面，天赋并不是与成功毫不相干。通常情况下，天赋更高的人更有可能抓住运气提供的机遇。并且，模拟中最成功的个体天赋水平大多至少在平均值以上。所以<strong>天赋确实重要</strong>。</p>
-<p>然而，<strong>只有天赋是绝对不够的</strong>，因为那些最有天赋的个体只有极少数也是最成功的。通常情况下，<strong>平凡却幸运的个体要比有天赋而不幸的个体更加成功</strong>。那些最成功的个体往往只有稍高于平均值的天赋水平，却在生活中充满了运气。</p>
-<p>以下是他们模拟实验中最成功个体和最不成功个体的成功值演变图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212352492.jpg" alt="最成功和最不成功个体的成功值演变图"></p>
-<p>​                                                             <em>最成功和最不成功个体的成功值演变图  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>正如你所见，绿色线条表示的最成功的个体在其生命中遇到了一系列非常幸运的事件，而红色线条表示的最不成功的个体（他们甚至比那些最成功的个体天赋更高）在生命中经历的不幸事件难以想象地多。正如论文作者所说，“在不幸的怒火面前，即使拥有极高的天赋也无济于事。”</p>
-<p>怀才不遇无论对个体还是社会而言都是不幸的。因此，我们可以做些什么来让那些最有能力利用机会的人得到他们最需要的发展机会呢？</p>
-<h2 id="stimulating-serendipity更有效的资助策略"><a class="markdownIt-Anchor" href="#stimulating-serendipity更有效的资助策略"></a> Stimulating  Serendipity（更有效的资助策略）</h2>
-<p>许多“精英主义”用以分配荣誉、资金或奖励的策略，通常基于某个人过去的成功经历。以这样的方式进行选拔无疑会导致富人更富、穷人更穷，这也被称作“<strong>马太效应</strong>”。但这是激发潜力的最有效策略吗？如果你是决策人，哪一种投资策略会更为有效呢？向几位以前有成功经历的申请人提供大笔资助，还是将资金分成很多份分给许多不那么成功的普通人？</p>
-<p>Jean-Michel Fortin和 David Currie 曾研究过更大规模的资助是否会带来更大的成果。他们发现在研究资金和科研成果影响力之间的确存在一定的正相关，<strong>但这种关联非常微弱</strong>。更重要的是，那些获得第二笔资助的人并不比那些只获得一笔资助的人更多产，而且对于这些人而言成果通常是资助的递减函数。</p>
-<p>论文作者们认为，<strong>比起那些以“优秀”作为遴选标准的项目，更关注目标多样性的资助策略可能会对社会产生更大的影响</strong>。在一项更新的研究中，研究人员研究了魁北克在15年期间内对12720名研究人员提供的资金。他们得出的结论是，“在论文数量和科学影响方面，研究资金集中在所谓的‘精英’研究人员手中，通常会产生边际收益递减”。</p>
-<p>基于这项工作，模拟了运气对成功的影响的意大利研究组进行了进一步模拟。他们从上帝视角探讨了许多不同资助策略的有效性。在模拟个体的40年工作生涯中，他们每隔5年就换用一次不同的资助策略。我们已经发现，在没有任何资助的情况下，最成功的个体是那些拥有平均天赋水平却非常幸运的人。当研究组向模拟中引入多种资助策略后，会有什么结果呢？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212353517.jpg" alt="不同资助策略的效率"></p>
-<p>​                                                              <em>不同资助策略的效率  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>这一表格按效率递减的排序列出了40年间最有效的资助策略（例如，需要的资金最少而获得的投资回报最大）。从下至上阅读列表，可以发现那些把一定比例的资金给已经非常成功的人的资助策略是最无效的。将一定比例的资金给那些已经非常成功的个体而将余下的资金平均分配的“混合”策略相比之下要更有效一点，但这些都还不如随机分配资金的策略高效。最后这一项发现非常有趣，因为它与其他一些研究结果一致，这些结果都表明，在复杂的社会和经济环境中，机会很可能发挥了一定的作用，在这一前提下，结合了随机性的策略比基于“精英主义”的策略表现更好。</p>
-<p>这表示，最佳资助策略应当是给每个人都分配同等数量的资金。当以每5个月1单位的速度分配资金时，60%的最有天赋个体获得了超过平均水平的成功值，以每6个月5单位的速度分配资金的结果是，100%的最有天赋个体都产生了影响力！这表明，如果一个资助机构或政府有更多的资金可供分配，那么将这些额外的资金均分给每个人，与只给一部分人相比是更明智的选择。</p>
-<p>正如研究者总结道：</p>
-<blockquote>
-<p>“如果投资目标是奖励最有天赋的人，以使他们最终获得更高的成就，那么向所有人定期等额提供资金，会比将大额资金提供给被选中的小部分人更有效。”</p>
-</blockquote>
-<h2 id="stimulating-the-environment什么样的社会更容易造就成功"><a class="markdownIt-Anchor" href="#stimulating-the-environment什么样的社会更容易造就成功"></a> Stimulating the Environment（什么样的社会更容易造就成功？）</h2>
-<p>这个不可思议的意大利研究组并没有就此止步！既然拥有了上帝视角，为什么不钻研到底呢。他们还做了一些改变了个体所处环境的模拟实验。使用之前搭建的框架，他们模拟了一个非常激励人的环境，对每个人而言都充满了机遇（比如像美国那样富裕而高度工业化的国家），也模拟了一个相比之下不那么激励人的环境，只有非常少的机会（比如第二次世界大战中的国家）。以下是他们的发现：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212355915.jpg" alt="最成功个体在充满机遇的环境和机遇不多的环境中的成功值"></p>
-<p>​                                <em>最成功个体在充满机遇的环境（上）和机遇不多的环境（下）中的成功值  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>观察比较充满机遇的环境（上）与机遇不多的环境（下）中结果分布的差异。在上半幅图模拟的环境中，一部分天赋水平中上的个体能够获得非常高的成功值，天赋较高的人获得较高成功值的可能性也比较高。相反，在第二幅图模拟的环境中，整个社会的总成功值水平很低，并且只有18个个体获得了比初始值更高的成功。</p>
-<h2 id="结论"><a class="markdownIt-Anchor" href="#结论"></a> 结论</h2>
-<p>以上模拟实验的结果与越来越多的基于真实世界数据的研究结果相吻合，所有的结果都强烈表明，**运气和机会在决定个人的最终成功水平方面扮演着重要角色。**正如研究者指出的，奖励和资源通常都被给予那些已经被高度赞扬的人们，而这往往会导致最有天赋的那些人（比如，最有潜力因这些资源真正受益的人）反而得不到机会。在进行这样的资源分配时我们忽视了运气扮演的重要角色，实际上，运气的影响在整个创造性的过程中难以避免。研究者们认为，为了给人们更多成功的机会，以下因素都很关键：<strong>一个充满机遇的环境、良好的教育、密集的培训和行之有效的资金与资源分配策略</strong>。他们认为，任何能够影响这些因素的政策都将有助于公民的个人实现，也会在宏观层面为全社会带来更大的集体进步和更多创新。</p>
-<p>正文来自：<a href="https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/">Scott Barry Kaufman：The Role of Luck in Life Success Is Far Greater Than We Realized</a></p>
-<h2 id="扩展阅读"><a class="markdownIt-Anchor" href="#扩展阅读"></a> 扩展阅读</h2>
-<p>我自己曾用R模拟过这个游戏，结果令人“冷静”，把一位网友的方法留在这里，他的方法比我的“科学”。</p>
-<p>用 Shiny 写的第一个小程序。这个 Shiny 呢，简单来说是 Rstudio 里面自带的一个网页程序的编辑器。安装并打开 Rstudio，从“新建”里面找到“Shiny Web App”。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220005234.png" alt="Rstudio"></p>
-<p>给程序取个名字，就可以开始编写了。（最简单的做法是清空窗口，把我下面的代码拷贝进去）</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line">#</span><br><span class="line"># This is a Shiny web application. You can run the application by clicking</span><br><span class="line"># the &#x27;Run App&#x27; button above.</span><br><span class="line">#</span><br><span class="line"># Find out more about building applications with Shiny here:</span><br><span class="line">#</span><br><span class="line">#    http://shiny.rstudio.com/</span><br><span class="line">#</span><br><span class="line"></span><br><span class="line">library(shiny)</span><br><span class="line">library(gridExtra)</span><br><span class="line"># Define UI for application that draws a histogram</span><br><span class="line">ui &lt;- shinyUI(fluidPage(</span><br><span class="line"></span><br><span class="line">   # Application title</span><br><span class="line">   titlePanel(&quot;Gambler Simulation&quot;),</span><br><span class="line"></span><br><span class="line">   # Sidebar with a slider input for number of bins </span><br><span class="line">   sidebarLayout(</span><br><span class="line">      sidebarPanel(</span><br><span class="line">         sliderInput(&quot;size&quot;,</span><br><span class="line">                     &quot;Number of Gamblers:&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 1000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;winp&quot;,</span><br><span class="line">                     &quot;Winning Probability&quot;,</span><br><span class="line">                     min = 0,</span><br><span class="line">                     max = 1,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bid&quot;,</span><br><span class="line">                     &quot;Bid (per Game)&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 5000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;iter&quot;,</span><br><span class="line">                     &quot;Iterations&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 2000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bins&quot;,</span><br><span class="line">                     &quot;Number of Bins&quot;,</span><br><span class="line">                     min = 1,</span><br><span class="line">                     max = 50,</span><br><span class="line">                     value = 30)</span><br><span class="line">      ),</span><br><span class="line"></span><br><span class="line">      # Show a plot of the generated distribution</span><br><span class="line">      mainPanel(</span><br><span class="line">         plotOutput(&quot;distPlot&quot;),</span><br><span class="line">         plotOutput(&quot;distLine&quot;)</span><br><span class="line">      )</span><br><span class="line">   )</span><br><span class="line">))</span><br><span class="line"></span><br><span class="line"># Define server logic required to draw a histogram</span><br><span class="line">server &lt;- shinyServer(function(input, output) &#123;</span><br><span class="line"></span><br><span class="line">   output$distPlot &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">       &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">      # draw the histogram with the specified number of bins</span><br><span class="line">      hist(gamblers, breaks = bins, col = &#x27;darkgray&#x27;, border = &#x27;white&#x27;, ylim = c(0,input$size),</span><br><span class="line">           xlab = &quot;Wealth&quot;)</span><br><span class="line">   &#125;)</span><br><span class="line">   output$distLine &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">     &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">     # draw the histogram with the specified number of bins</span><br><span class="line">     plot(sort(gamblers), type = &#x27;l&#x27;, xlab= &quot;Wealth&quot;, ylab = &quot;Number of Gamblers&quot;)+</span><br><span class="line">       abline(h = 10000, col = &quot;red&quot;)</span><br><span class="line"></span><br><span class="line">   &#125;)</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line"># Run the application </span><br><span class="line">shinyApp(ui = ui, server = server)</span><br><span class="line"></span><br><span class="line">```</span><br></pre></td></tr></table></figure>
-<p>之后点击右上角的 Run app，就可以出现属于自己的模拟器。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220007941.png" alt="Run-app"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008078.png" alt="Run-app"></p>
-<h2 id="设定"><a class="markdownIt-Anchor" href="#设定"></a> 设定</h2>
-<p>我们假设有 1000 个玩家，每人手里有 10000 元的筹码，可以用来赌博。</p>
-<ul>
-<li>每一局游戏，玩家都可以抵押 500 元的筹码。输了，筹码不退还；赢了，筹码翻倍。</li>
-<li>输赢的概率各占 50%。</li>
-<li>所有玩家一共进行 100 局游戏。一旦任何玩家筹码为0，必须中途退出游戏。</li>
-</ul>
-<p>好，开始了游戏设定，我们按照设定模拟一下，看看会发生什么吧。100次游戏之后，大家的财富分配是怎样的呢？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008084.png" alt="Run-app"></p>
-<p>右边的两张图分别是 1000 位玩家的财富柱状图和排位图。红线表示初始资金 10000元 的位置。我们看到，这个时候的财富分配还比较平均，<strong>有大约 55%的人财富在 10000 以上。</strong></p>
-<h2 id="实验"><a class="markdownIt-Anchor" href="#实验"></a> 实验</h2>
-<p>有了这个模拟器，我们可以改变原始游戏的一些参数，看看会发生什么不同的结果。<br>
-【实验一：加大赌注】</p>
-<p>之前我们说，每场游戏的赌注是500元。如果游戏的赌注增加，会对最后的结果有怎样的影响？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009055.png" alt="Pasted image 20230109103543"></p>
-<p>赌注增大到 1000 元。游戏结束时，有近 300 人余额为 0。余额 10000 以上的人数约为50%。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009186.png" alt="Pasted image 20230109103721"></p>
-<p>赌注增大到1500元，游戏结束时有近 600 人余额为 0。余额 10000 以上的人数小于40%。<br>
-现在我们增加赌注到 3000 元看看</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010222.png" alt="Pasted image 20230109103830"></p>
-<p>【讨论】</p>
-<ol>
-<li>赌场只需要极小地改变游戏胜率，就可以极大地改变游戏者的结果。<strong>把胜率从50%改到45%，游戏者回本的概率就从55%降低到 20%左右。</strong></li>
-<li>小胜率 × 多次玩= 倾家荡产</li>
-</ol>
-<p>【实验三：增加赌博持续时间】</p>
-<p>我们知道，赌博有其心理成瘾性，所以好赌之人往往很难戒掉赌博这个恶习。放在我们的例子中，如果我们让游戏持续 100 局以上，会发生什么呢？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010954.png" alt="Pasted image 20230109104432"></p>
-<p>游戏持续 1000 局，游戏结束时有500多人余额为0。余额 10000 以上的人数约为40%。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220011472.png" alt="Pasted image 20230109104618"></p>
-<p>游戏持续 2000 局，游戏结束时有600多人余额为 0。余额 10000 以上的人数在25%左右。</p>
-<p>【讨论】</p>
-<ol>
-<li>在赌场中，没有人是常胜将军。你从人生前 100 局游戏中获得的收入，很可能会在第 500 局之前消失殆尽。</li>
-<li>这个实验的局限性在于，我们假设赢钱的人要一直玩下去，玩到游戏结束为止。而输钱的人输到倾家荡产就会退出。这个假设，是不是合理呢？各位又怎么看？</li>
-</ol>
-<p>读到这，有不少读者朋友可能都会好奇这个模拟器的原理。其实，这是我刚才用半个多小时拿 Shiny 自己写的，大家可以通过<a href="https://jiafeili.shinyapps.io/Gamblers_Simulation/">这个链接，自己改改参数，随手玩一玩</a></p>
-<p>这是赌徒之殇（Gambler’s Ruin Problem ），从某种意义上来讲，赌资大小决定胜率。这招叫以力破巧，俗称<strong>用钱砸死你</strong>。</p>
-<blockquote>
-<p>长袖善舞，多财善贾——韩非子</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>今天去崇文门找房子</title>
-    <url>//essay-3c5e047621d0.html</url>
-    <content><![CDATA[<p>今天去崇文门那边找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。</p>
-<p>上午起来后去姐姐家给姐过程日，一大家子吃的火锅。</p>
-<p>吃完饭后姐姐带着两个孩子陪我们去找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。我们的要求是朝南或者要有阳光，然后是必须要有电梯，两居室。看了一天，就富贵园那边有个“黑8”户还算可以，朝西，但在高层，能晒到太阳。</p>
-<p>在另一个商品房小区（忘了名字了）看了一套，很好，价格也合适，但这个小区居然所有的顶层都没电梯——电梯到次顶层，所有的顶层都要走楼梯上去，一共16个台阶，这给以后的婴儿车、岳母上下楼带来困难，不能要。</p>
-<p>可惜了，不然户型（全朝南）、价格、采光、客厅大小都很好。</p>
-<p>晚上回来后帮媳妇洗了个脚，走了一天她很累，泡个热水脚舒服些，跟着我受苦了。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>租房</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>今天去选孕妇照，回来两人下了馆子</title>
-    <url>//essay-34835e05d333.html</url>
-    <content><![CDATA[<p>今天去选孕妇照，又路过8年前住过的小区，媳妇走到河边发现上次干枯的河里居然有了水。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242347685.png" alt="今天拍到的，有了水的河"></p>
-<p>上次去时，干枯的</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303242348546.png" alt="上次去时，干枯的河床"></p>
-<p>选照片的时候，商家一个劲的推她们的套餐，就是想让我们花钱，我们不想花这个钱，我跟销售说：“我们没钱，我和老婆都没工作两年了，想买套餐也力不从心。”，销售一下就找不到话说了，只好作罢，后来她们的店长又来推销了一次，巴拉巴拉的熟练地说着“…哎呀，我还记得你们上次来照相时，…你们聊这么熟，你（指刚才给我们推销的‘经理’）给他们按照3800元打8折，再送他们一个10张精修底片…”，我看着店长说：“我们没钱，我俩没工作两年了，疫情后我们的收入为0，实在没能力…”，店长也一下懵了，找不到话说，就出去了。</p>
-<p>最后，我们只花了800元（16张照片，一个8*8的相册）。</p>
-<p>这个照相的项目是上次去做五维时送的，6照片免费的照片，今天一看，有91张，我们挑选了16张，不想多花钱。</p>
-<p>回来的路上，媳妇说我刚刚把销售搞懵了，我说一无所有的人，做容易猝不及防了，她们没想到我这么真诚说自己没钱。</p>
-<p>媳妇哈哈大笑</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>照相</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>今天开始申请准生证</title>
-    <url>//essay-70b142be3104.html</url>
-    <content><![CDATA[<p>今天开始申请孩子的准生证。</p>
-<p>老婆填的表。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>育儿</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>今天收拾东西，准备搬家</title>
-    <url>//essay-c5aa536f7bc4.html</url>
-    <content><![CDATA[<p>准备搬家了，今天开始收拾东西打包，目前还没收拾完，但已经有50多个箱子了，东西还是蛮多的。</p>
-<p>希望早点能有钱买套自己的房子，这样就不用每年都为搬家发愁了。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250002301.png" alt="开始收拾东西打包"></p>
-<p>赚钱，其实蛮难的，尽管学了概率，但赚钱还是不容易，甚至还是很难，我真后悔这三四年挥霍掉的那大百万，现在后悔晚了，以后要好好珍惜。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>投机</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>从西二旗搬到了崇文门</title>
-    <url>//essay-b65344bf85a5.html</url>
-    <content><![CDATA[<p>昨天（3.18.周六）从西二旗搬到了崇文门新世界这边，为了在北京医院生产方便。</p>
-<p>我们在西二旗住了将近9年，一开始是住在融泽嘉园，后来去年业主卖房，我们搬到了金域华府。金域住着挺好，但因为采暖不好，冬天太冷，加上平时来北京医院产检以及五月份要生孩子，过来太远，不方便，于是就决定搬过来住。</p>
-<p>为了便利，我们要求必须符合：</p>
-<ul>
-<li>
-<p>朝南且阳光要充足——将来宝宝出生后晒黄疸很重要；</p>
-</li>
-<li>
-<p>有电梯——岳父岳母要过来照顾，他们年龄大了，加上孕妇行动不是很方便，老式的六层板楼虽然采光、户型都没问题，但上下楼不方便。所以必须要有电梯。</p>
-</li>
-<li>
-<p>至少是两居室，少了住不下。</p>
-<p>崇文门这边靠近“中心”了，建设比较早，房子大多是七八十年代建的，老房子小区比较多，户型也不好。最后在一个较新的商品房小区里找到一个两居室，客厅、两个卧室都朝南，这边也有不少回民，还有清真寺，倒是不错！月租金9300元。房子不错，就是不知道当时开发商是不是脑子进水了，电梯只到次顶层，我需要再上一层的楼梯，一共16个台阶。其它房子实在是没满意的——北京的居住体验实在不怎么样，尤其是那些老式塔楼，这是目前能承受的价格范围内的最优选择了。</p>
-</li>
-</ul>
-<p>找的搬家公司，搬家费用780元，但因不能跟车走，我自己打车跟着过来，花了140元。</p>
-<p>780+140=920（元）</p>
-<p>现在搬家公司是新能源车，车厢没有窗户，因此车厢不能坐人，搬家的人有三个，我就坐不下，不能跟车了，我只好打车，我让中介等搬家公司，到了中介小哥帮我开门先搬着，我到的时候搬的差不多了。我到了30分钟他们就搬上楼去了。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250001479.png" alt="搬家车卸完"></p>
-<p>媳妇没有和我一起打车来，她留在原来的房子里等房东做物业交割，加上怀孕后她打车会晕车，选择做地铁来。搬完后我简单把床弄好后，媳妇也到了，我俩就下楼吃东西。</p>
-<p>单元门前就是一个小区运动场地</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250007634.png" alt="小区运动场地"></p>
-<p>这个场地还挺好，有羽毛球、乒乓球，以后岳父就可以在这里打球了。</p>
-<p>随后我俩去国瑞城吃饭，看到路上车水马龙的，有一种农民第一次进城的感觉。</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303192332299.jpg" alt="新世界购物中心" style="zoom:50%;">
-<p>我俩住在西二旗那边那么多年，晚上就没出来逛过——那边实在没有什么可逛的，到了晚上就一个昌发展商业大楼有点人气，四周都不热闹，也就都在家待着了。</p>
-<p>今早醒来见到外面的天空和云，很开心</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303192328556.jpg" alt="天空和云" style="zoom:50%;">
-<p>昨天开始到今天都是归置收拾东西，再是半天一天的就收拾好了。累得我全身散了架一样，媳妇也跟着弄点小件零碎，估计也很累。</p>
-<p>晚上给媳妇洗了个脚，她也跟着收拾了一些，热水泡泡脚能解乏。我给她洗脚时她偷偷拍照或者录视频，我偷着乐，哈哈。</p>
-<p>这两天点点在肚子里活动的力度有点大，一天比一天大了，五月份就要生了，哈哈，一定是胖乎乎的小可爱。</p>
-<p>很累了，晚安。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>搬家</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用博客，容易掉入优化陷阱</title>
-    <url>//essay-bdc14f548e89.html</url>
-    <content><![CDATA[<p>容易掉入不断优化主题等陷阱，今天改改主题，明天改改字体，因为想加某个功能，搜索一圈下来就好几个小时。</p>
-<p>博客和以前的纸质笔记本是一样的，是工具，人使用工具的目的是解决问题以及提高效率，落入优化陷阱就成了工具使用人了。不要因为走的太远，而忘记为什么出发。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>单日最大跌幅里赚点零头</title>
-    <url>//essay-befd07b4209d.html</url>
-    <content><![CDATA[<p>每一个做投机的人都希望自己抓住一波大行情，平日里也是天天如此渴望、幻想，但当机会来了时，却又因为各种自身主观的原因而错过，事后又会后悔不已！</p>
-<p>棕榈最近这200多天一直都是横着走，今天好不容易向下走了，而且还是最近200天的最大跌幅</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303222337708.png" alt="P2305"></p>
-<p>我却没有把握住，只赚了点零头。</p>
-<p>账户昨天上了7万（70111），今天增加了2000多，但我错过了单日最大收益K，尾盘时我买了一张多单，是出于这种单日宽幅K之后，可能会有窄幅震荡（主观）的考虑。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221549331.png" alt="账户"></p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>忆一段往事</title>
-    <url>//essay-8f871ec8e785.html</url>
-    <content><![CDATA[<p>今天去拍孕妈照，地方在海淀西四环边上五路居那边，刚好就在我十多年前住的小区后面，有些东西可以记录在这里。</p>
-<p>早上上了车后我就打盹，醒来时车子正好拐进小区的路口，我一眼就识别出来这个小区，2011年年底我搬离那里，我从车里看到了当年住的那房子的窗户。</p>
-<p>更多与这房子有关的人、物，不能在这里记录。时间过的真快，一晃十余年了，有些东西平日里已放下，但触景还是会动情。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303102359149.jpg" alt="小区后面已经干枯的河床"></p>
-<p><em>小区后面已经干枯的河床</em></p>
-<p>拍照后，看照片时，发现我脸上因过敏起了两颗红痘，</p>
-<p>工作人员：“别担心，我们会P一下。”</p>
-<p>“使用Photoshop吗？”我接话随口一问。</p>
-<p>“是的。…呀，先生您还知道Photoshop啊!”</p>
-<p>“以前我做过平面设计”我回答道。</p>
-<p>拍完照后老婆问我以前真做过平面设计？我跟她说了我刚毕业时的一段往事：</p>
-<p>大学毕业后一时找不到合适的工作，生活所迫就在紫竹桥附近找了一个电话业务，我倒不会电话业务，我贪图的是“无责任底薪1000块+提成”，1000块一个月，这对当时的我来说简直就是活命钱。两手空空的人，最容易妥协，最容易先顾眼前。</p>
-<p>那份工作的业务说起来很简单，老板（公司）以XX部委的名义，给我们写话术，我们就拿着话术打电话给外地做给排水行业相关的企业，拉广告，拉到广告后我们有提成一定的提成（多少%早忘了）。说是公司，其实是皮包公司，当时像这种打着国家XX部招牌拉广告的业务实在太多，还有许多电视购物的小公司也在北京，记得当时出过一本小书叫《恐怖的010》，说的就是北京电话业务和电视购物的事。</p>
-<p>看起来很简单，但对于刚毕业的我来说并不容易。刚开始的时候，电话接通后我连“您好”都不敢说，我当时的那种新手窘迫感在其后的数年里招牌员工时一次又一次的见到，我知道他们此时的心情，总会耐心把自己的心得、方法通过轻松的方式传授给他们。从结果看，效果不错。</p>
-<p>我在这个皮包公司干了1个月，一单没开，但我模仿学习很快，已经不害怕打电话了，我忘了自己名校毕业，竟然慢慢的融入了那种环境，开始每天为开单努力着。人在特定的环境中确实容易从众，失去自己原有的目标。</p>
-<p>过了两三个月，我和公司里的大多数人已经很熟悉了，我当时会抽烟，抽烟的时候认识了一位做设计的，一来二去熟悉后，跟他聊天，知道了他的工资比我们业务的高（他只有设计的工资，没有提成，不过这个业务在当时就已经被坐烂了，出单很难的）。出于真心，也出于交际，我总对他说羡慕他有本事，工资高，开始时他总是笑笑，对我说“你开一单够我干半年！”来安慰我。时间一长，熟悉后，我再羡慕他，他告诉我说那玩意不难，他做的是PS里最简单的，只需要会抠图和拉两下蒙版就行。</p>
-<p>说者无心，听者有意。下了班后我就在网上检索“抠图”、“Photoshop”这些关键字。我找到了Photoshop论坛，在论坛上看网友发的抠图教程，当时是Photoshop 7.0版本，搜到后就认真学习了一晚上。第二天我兴冲冲的去跟那位做设计的同事说我想学Photoshop，问他可不可以教我，并把自己头天晚上在论坛上学习的事跟他说了。他有些不愿意，说那是一门技术，不是在网上随便看看就能学会的。我知道关系不到位，但我当时没钱请他吃饭喝酒，只要自己晚上回去在网上学抠图。</p>
-<p>我想学抠图，于是就时不时的借机去设计室（公司是在住宅楼里，其实就是另一个房间，和财务一起）偷瞄他的屏幕，目的是看看他在抠什么样的图。然后下班后在网上搜类似的图下来，对照着论坛帖子里的教程一步一步的学着抠图。</p>
-<p>当时网络没现在这么好，我是ADSL，网速慢，但我学东西很快。花了一周不到的时间，我就明白了业务方需求的“抠图”大概框架。我了解了图层、蒙版、颜色通道、新建图层等功能，但跟着网上的教学步骤能使用钢笔工具、磁性套索、魔术棒工具等菜单项来抠图。虽然像个学走路的孩子那样歪歪扭扭，时而摔一跤，但当时的感受是“还行，会了点”。<br>
-新的一周开始后，我一狠心，打算出点血请那个设计吃拉面喝啤酒！（当时大碗拉面好像是3块钱一碗，具体的忘记了），下班后我请他在紫竹桥摩托罗拉大楼斜对面的一个小餐馆里喝酒。就着啤酒，我跟他说我打不来电话，还是想学抠图，学会了可以做点“轻松”的活，并告诉他我学会了会去别的公司找抠图的工作。几瓶啤酒下肚后，也许是我的真诚，也许是酒精的作用，在听完我的“一周学习经历”后他惊呆了，答应可以找机会教我。</p>
-<p>他确实在某些下班的时间里在公司的电脑上教我，但一直只教简单的钢笔工具和魔术棒。但他要求我一定要“熟练”，比如钢笔工具下切换移动工具的快捷键，总之就是每次都告诉我必须要熟练使用快捷键在不同的工具之间快速切换。</p>
-<p>我有些怀疑他在敷衍我，还好我自己在家里天天泡在论坛里学各种技能，甚至都学到了“进阶”了。</p>
-<p>快到年底的一个周五，下了班后他找我喝酒，我当时兜里没钱，有些措手不及。两手空空的人，最容易猝不及防啊，我不敢答应。他可能看出了我的窘迫，说他请客。喝了两瓶啤酒后他告诉我他要回老家结婚了，可能一时半会儿不回北京了，他说他知道我一直想做他的活儿，看我这人还算讲究，决定帮我一下，他说他走之前会向老板推荐我去替代他。<br>
-周一早上上班后老板进来就跟财务（他老婆）发脾气，后来旁边的人议论说还没放假但那个设计回老家结婚去了，工钱都自己PS老板的签名全结了，估计不会回来了，要赶进度却没有设计可用，老板着急。<br>
-他问我知不知道为啥他只教我简单的，没教很多。我说不知道。他说这份工作主要的是把那些水泵龙头从客户发来的照片上抠下来放在杂志上，其它的工具用到的时间少，只要能快速用钢笔工具把图抠出来，发给旁边的编辑杂志的同事就可以。</p>
-<p>他走后我做了两个月的设计后找到了新工作就辞职了，确实，90%以上的时间都只用到钢笔工具和魔术棒，连套索工具都很少用到。</p>
-<p>这位哥们当晚喝酒时说了很多，我印象最深的是他说的一句话，总结下来大概意思是说<strong>很多工作不需要什么都会，而且工作大都有一个规律，就是往往由少数高频使用的核心技能，和大量低频使用的边缘技能两个部分组成</strong>。</p>
-<p>从某种程度上来讲，大学四年里学的一些课都没有这句话给我的帮助大。我时长品味这句话，也不断地用实践证明了可行性，甚至还用到了学习一些新的学科上，确实效率很高，多年后我听到张颢教授上课讲学习理念时提到的“竹竿效应”时，我总会想起这位教我抠图的同事。</p>
-<p>我简单跟老婆讲完我当初的这段工作经历，我说：“虽然这哥们只教我简单的钢笔抠图，但我在论坛上学会了许多Photoshop的技能，后来在公司（指后来的正式工作）我们部分设计忙不过来时我还会帮她们做图，我还教我们的编辑们简单的Photoshop，这样她们做内容的时候就自己做海报。”</p>
-<p>老婆说：“原来这么回事，我还说你怎么会Photoshop的呢。”</p>
-<p>“我再没有见过这位教我抠图的哥们。”我说。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>平面设计</tag>
-        <tag>工作经验</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>曾有个人那么爱我</title>
-    <url>//essay-334561789a57.html</url>
-    <content><![CDATA[<p>翻看照片，曾经她是那么的爱我，可惜我不懂或者说我辜负了她的一片真心。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303152357500.jpg" alt></p>
-<p>后来 我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
-<p>后来 终于在眼泪中明白 有些人 一旦错过就不再</p>
-<p>多年前的那个仲夏 你吻我的那个夜晚 让我往后的时光 每当有感叹 总想起 当天的星光 那时候的爱情 为什么就能那样简单</p>
-<p>而又是为什么 人年少时 一定要让深爱的人受伤 在这相似的深夜里 你是否一样 也在静静追悔感伤 如果当时我们能不那么倔强 现在也 不那么遗憾</p>
-<p>你都如何回忆我 带着笑或是很沉默 这些年来 有没有人能让你不寂寞</p>
-<p>后来 我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
-<p>后来 终于在眼泪中明白 有些人 一旦错过就不再 你都如何回忆我</p>
-<p>带着笑或是很沉默 这些年来 有没有人能让你不寂寞 后来</p>
-<p>我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
-<p>后来 终于在眼泪中明白 有些人 一旦错过就不再 后来</p>
-<p>我总算学会了 如何去爱 可惜你 早已远去 消失在人海</p>
-<p>后来 终于在眼泪中明白 有些人 一旦错过就不再</p>
-<p>永远不会再重来</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1447048373&auto=1&height=66"></iframe>
-<hr>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>情感</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>房子定下来了</title>
-    <url>//essay-20a994c65eeb.html</url>
-    <content><![CDATA[<p>今天上午去医院产检，完事后顺便去把房子租下来了。</p>
-<p>9300元/月，两居室</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303131730328.jpg" alt="和中介签租房合约" style="zoom:33%;">
-<p>签完合同后我俩在国瑞城吃了个饭就做地铁回来了，到家15:30</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>租房</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>着手搬家</title>
-    <url>//essay-1a0f56a25afb.html</url>
-    <content><![CDATA[<p>为了5月份的分娩，要搬到北京医院附近去住。</p>
-<p>但我目前还没有找房子，明天开始找，周末去看房。北京医院那边的房子都比较老，价格也不低，新小区的价格更是高得离谱。</p>
-<p>看着中介网站上的房价，两手空空的人，最容易猝不及防了。</p>
-<h1 id="点点越来越大了"><a class="markdownIt-Anchor" href="#点点越来越大了"></a> 点点越来越大了</h1>
-<p>今天我从书房出去，走到客厅看到老婆在沙发上，发现肚子比昨天更大了，点点越来越大了，老婆给他测心跳，对我说：“点点好活泼啊！”</p>
-<p>最近几天天气不错，每天中午吃完饭都陪老婆出去遛弯。今天去盒马时，我说要买束花给她，结果她不让买。</p>
-<p>“三八节嘛，买一小把吧”</p>
-<p>“不买，我买草莓吃吧！嘿嘿”</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>搬家</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>聪明人为什么会下笨功夫？</title>
-    <url>//essay-5987df3999db.html</url>
-    <content><![CDATA[<p>聪明在人发现了一些<strong>绝对没有第二捷径可言，绝对绕不过去的苦路</strong>，所以才会<strong>下笨功夫</strong>。</p>
-<p>常听说“聪明人下笨功夫”，不妨往深了多思考一下，比如：这些聪明人怎么会做笨功夫？做笨功夫还怎么会是聪明人？</p>
-<p>细思之后，会发现，那些功夫只是看起来很笨，其实去做它们是最聪明的做法。</p>
-<p>聪明在哪呢？</p>
-<p>聪明在于<strong>除了如此，绝无第二捷径可走。这功夫是绝对绕不过去的苦路</strong>。</p>
-<p>聪明人相当确信，这种功夫之难，难到了你如果早起步一个月，世界上任何的另一个人哪怕拿着无限的资本做后盾，也绝对没有可能在你不松懈的前提下超到你前面去。</p>
-<p><strong>因为这个功夫实在实在是太“笨”了，没有任何办法能投机取巧，没有任何办法能绕道，唯一最快的凿穿这厚厚的<a href="https://www.zhihu.com/search?q=%E7%8E%84%E6%AD%A6%E5%B2%A9%E5%B1%82&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1331306390%7D">玄武岩层</a>的办法，就是靠一个聪明到你这个程度、有同样罕见的机缘、有同样深厚的经验、有同样难得的资源的人、抱着绝不旁顾的决心，抗拒一切其它机会成本的诱惑，</strong></p>
-<p><strong>水滴石穿，直线前进。</strong></p>
-<p>这个世界上，</p>
-<p>与你同样的聪明的人有，</p>
-<p>同样聪明、有同样经验的人有，</p>
-<p>同样聪明、同样经验、且有同样资源的人有，</p>
-<p>同样聪明、同样经验、同样资源、且同样看见这件事了的人有，</p>
-<p>但是同样聪明、同样经验、同样资源、且同样看见这件事的、却和你**同样笨、**会选这件吃力不讨好、要抱定必死的觉悟、耗费巨大的心血去把墙磨穿的人，</p>
-<p><strong>罕有</strong>。</p>
-<p>你有的条件，他们全都有了，在这件事上，ta与你唯一的差距，就是<strong>他们没你这么笨</strong>，肯拿这么好的才智、这么好的资源、这么优势的地位，“<strong>干这个”</strong>。</p>
-<p>所以，你才比较大的希望会赢。</p>
-<p>满足上面这全部条件的“绝妙笨功夫”，是需要绝顶聪明、绝佳运气才有机会才有机会触摸得到的。</p>
-<p>不是绝顶聪明外加极端努力，你怎么知道这件事<strong>确确实实没有其他捷径可走</strong>？</p>
-<p>老天真的是爱聪明绝顶、却肯用来做人决不肯做的笨功夫的笨小孩的。</p>
-<p>上天给聪明人们安排了这样一种“不做笨事就别想赢”的天然禁制令，真的是对人类一种极大的仁慈。</p>
-<p>那些石墙，注定要靠这种极聪明的笨人才有可能凿穿。</p>
-<p><strong>那墙背后一片阳光普照，海阔天空。</strong></p>
-<p>这就是为什么真正的聪明人，心心念念都在梦想那件真正命定属于自己的笨事。</p>
-<p>这种绝妙的笨事，是聪明人可以心安之处。</p>
-<p>最平安的归宿，最恰如其分的死所。</p>
-<p>没有体会过的人，难以理解“没有与我一样聪明的人会和我一样傻”是一种什么样的<strong>幸福</strong>。</p>
-<p><strong>笨人比聪明，聪明人比笨</strong>。</p>
-<p>What a poetic irony.</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>智慧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>见到宝宝的样子了！</title>
-    <url>//essay-d265286c8e40.html</url>
-    <content><![CDATA[<h1 id="宝宝27周了第一次见到了模样~"><a class="markdownIt-Anchor" href="#宝宝27周了第一次见到了模样~"></a> 宝宝27周了，第一次“见到”了模样！~</h1>
-<p>今天又摸着老婆的肚子，感受宝宝的跳动，实在太可爱了，马上27周了，是个男孩</p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202302190000588.jpeg" alt></p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202302182359150.jpg" alt="BB2"></p>
-<h1 id="身体开始出问题了"><a class="markdownIt-Anchor" href="#身体开始出问题了"></a> 身体开始出问题了</h1>
-<p>今天有些心悸，就是那种突然间闷闷的疼痛感，我赶紧使劲拍胸口并大口呼吸。</p>
-<p>跟爱人说了这事，她说要不要去医院，担心我心血管疾病，我说再观察几天，她说可不能生病，她和未出生的孩子还指望我。</p>
-<p>我听着听难受的。</p>
-<p>最近总是上不来气，走路喘、累，我和她都没“阳”过，但我怀疑自己阳过。</p>
-<p>我以后要早点休息，我的睡眠实在是很糟糕，现在不像年轻的时候了，今年41岁的人了，进入中年后，由于我不爱运动，可能会进入诸如高血糖、高血脂、心血管方面的等各种各样的疾病多发期。</p>
-<h1 id="人容易走出去回不来"><a class="markdownIt-Anchor" href="#人容易走出去回不来"></a> 人容易走出去回不来</h1>
-<p>最近几天都在弄这个博客，截止到现在基本算弄完了，但图片显示还是有些问题，我不打算继续在这件事上浪费时间了。</p>
-<p>多年来我发现自己以及观察到的人有个奇怪的现象，拿这个博客来说，本来可以写字、记录就可以，非要陷入“优化陷阱”，不停地各种折腾，最后“日记”没写几篇，时间都浪费在折腾上了。</p>
-<p>人容易走出去，但往往越走越远，最终回不来，只能在新的地方（远方）安家。</p>
-<p>这个博客就这么素素的写吧，不再浪费时间在“图片显示”上了，如果真必须要使用图片，到时候再看怎么。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202302182349322.png" alt></p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>孩子</tag>
-        <tag>健康</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>要聚焦，过多选择会降低幸福感</title>
-    <url>//essay-f9dc68b9d680.html</url>
-    <content><![CDATA[<p>“过多的自由”反而会导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会带来<strong>信息超载</strong>，会导致人们无所适从，带来更多后悔的机会。</p>
-<h2 id="过多选择的代价"><a class="markdownIt-Anchor" href="#过多选择的代价"></a> 过多选择的代价</h2>
-<p>像自由和自我决定这样的好东西人们会嫌多吗?心理学家施瓦茨认为，个人主义的现代文化存在“过度的自由”，反而导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会导致人们无所适从，或像施瓦茨所说的“自由的专制”。从30种果酱或巧克力中做出选择的人们表示出的选择满意度，比那些从6种中做出选择的人们的反而低。更多的选择可能会带来信息超载，也带来更多后悔的机会。和那些仅仅依循课程学习的人相比，自己选择下学期学习课程的学生，更少为重要的考试而努力，且更容易被游戏和杂志所吸引。另一项研究发现，可以在一系列消费清单中进行选择的学生更少购买口味寻常却健康的饮料。所以，在从星巴克1900款产品组合或超级市场4000项产品中进行选择时，你将对自己的选择更不满意，反而更倾向回家吃冰箱里的冰淇淋。<br>
-心理学家阐释了选择是如何强化后悔的。如果让员工们免费去巴黎或者去夏威夷旅行，他们会非常高兴；但是，如果让他们在两者之间进行选择，他们可能就不那么高兴了。选择巴黎的人会后悔他们无法得到阳光的温暖和海水的滋润，选择夏威夷的人会后悔他们将欣赏不到那些壮观的博物馆。最近的另一项研究也发现了同样的问题：来自11所大学的毕业生花了很多时间去寻找和评价各种各样的工作机会，但却以高薪和低满足感而告终。<br>
-在其他实验中，人们对无法反悔的选择（比如“最后大甩卖”中的选择决定）的满意度比对可以反悔的选择（当允许退款和更换时）的满意度要高。可笑的是，人们似乎喜欢和愿意为推翻这种选择的自由而付出代价。尽管这种自由可能会让你产生不满意。<br>
-该原则可以解释一种奇怪的社会现象：美国国家调查数据显示，过去人们对无法反悔的婚姻(“一次性成交”) 表示了更高的满意度。现在，尽管有了更多的婚姻自由，人们却对他们拥有的婚姻表现出较低的满意度。<br>
-自我控制的研究让我们相信坚持不懈和希望等这样一些传统美德。但是，班杜拉认为[[自我效能感]] 由诸如“你拥有通往成功的一切”这样的社会说服和“我认为我能，我认为我能”这样的自我说服来支持榜样——也就是看到其他类似的努力获得成功的例子——也可以提高自我效能感。但自我效能的主要来源是对成功的体验。“成功构筑了有力的效能信念”。如果你在减肥、戒烟或提高学习成绩方面通过努力获得了成功，你的自我效能感就会增强。<br>
-一个由鲍迈斯特领导的研究小组主张“仅仅为他们是他们自己而称赞孩子，简直是在使赞扬贬值‘。最好通过“认可好的表现来表达赞扬和增强自尊······当个体行为表现更好时，自尊会得增强，而其结果又会强化好的行为和进步。那些结果同时也有益于个体的幸福和社会的进步。</p>
-<p>1.为人们提供较小的选择范围可能比为他们提供较大的选择范围更能给他们带来满足感。<br>
-2.心理学家认为，之所以不能达到最佳的决策水平，在很大程度上是由于认知超载（cognitive overload），即当可以利用的信息淹没了可以利用的认知加工过程时所发生的情景。<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
-<table>
-<thead>
-<tr>
-<th style="text-align:left">扩展阅读<br>哈佛丹尼尔·吉尔布特（Daniel Gilbert)论：不可撤销之承诺的益处<br>我以前认为做出决断之后还能改变主意是有好处的，在2002年，我改变了这一想法。我和简·艾伯特(JaneEbert)发现人们不能撤销他们的决定时通常会更快乐。实验中参与者能撤销他们的决定时，他们就会思考自己决定的利弊。而不能撤销决定时.他们就会将注意力集中于这个决定有利的一面，而忽视不利的一面。<br>同样，决定不可撤销比可以更改会令他们更满足。讽刺的是，参与者并未意识到这一点，他们都强烈倾向于希望可以改变决定。现在，直至这一刻我依然相信婚姻源自于爱。但是这些实验启示我，原来婚姻也可能引起爱。如果你认真地看待这些研究资料，你就要去实践它。所以我知道这个结果的时候，我就向女友求婚了。她答应了我。事实证明我做的决定是正确的当她变成我的老婆之后，我更爱她了。</th>
-</tr>
-</thead>
-</table>
-<h1 id="过多的选择会降低幸福感这一现象也可以用在学习上"><a class="markdownIt-Anchor" href="#过多的选择会降低幸福感这一现象也可以用在学习上"></a> “过多的选择会降低幸福感”这一现象也可以用在学习上。</h1>
-<p>学习任何一门学科，最好选择并且只选择一套体系化的教材，聚焦完成这套教材的学习。可能一开始的时候我们会对教材的语言风格不习惯，坚持学它一段时间后大脑就开始习惯了。我的经验是如果每天学习1、2个小时，一个来月就习惯了，如果每天的时间充裕一些，一周就可以。如果是看教学视频，先不着急一上来就拿个小本本跟着学，先听几P，不要在意听得懂听不懂，先让授课老师的声音在我们的脑子里跑马，很快就能习惯老师的说话风格。而且这种先听的方式，就像是看书时先看目录一样，听1、2遍后我们对课程的框架就有点眉目了，这时候再认真学就容易多了。当然这是我的经验之谈，不见得每个人都适用。</p>
-<p>学习时，教材、老师，切勿贪多。今天北大老师、明天清华教授、后天国科大教授、然后又到B站MIT、哈佛……网盘爆满、收藏夹爆满、资料太多，精力分散，最终没有一样能学成的。</p>
-<p>学习时间要保证1小时以上，务必连续且有利于集中注意力的环境，再且要每天坚持，学习赢者通吃，输者一无所有。必须坚持学习，必须累积直至从量变到质变。如果没有到达质变这一步，量变这一环节投入的再多再大，时间一过，会全部忘记，你根本记不住。</p>
-<p>参考：</p>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p>《社会心理学（第11版）》作者 戴维·迈尔斯，人民邮电出版社。P59-60 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>认知</tag>
-        <tag>个人成长</tag>
+        <tag>心理学</tag>
       </tags>
   </entry>
 </search>

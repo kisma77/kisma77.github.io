@@ -6,16 +6,16 @@
   
   <title>什么可以被预测？ | 泡芙的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="想起《方法与实践》里提到的“什么可以被预测？”，打开温故了一下第一章，现稍微节选一点上来.  1.1 什么可以被预测？ 许多情况下都需要预测：例如决定是否要在未来五年内建立另一个发电厂需要预测未来的用电需求量。下周呼叫中心的人员日程安排，需要对呼叫量进行预测。库存存货需要库存需求的预测 。预测可能是需要提前几年（如资本投资），或者是仅仅提前几分钟（如电信线路）。无论是涉及到什么情况或是时间范围，预">
+  <meta name="description" content="想起《方法与实践》里提到的“什么可以被预测？”，打开温故了一下第一章，现稍微节选一点上来.">
 <meta property="og:type" content="article">
 <meta property="og:title" content="什么可以被预测？">
 <meta property="og:url" content="http://kisma77.github.io/essay-2ecee605311b.html">
 <meta property="og:site_name" content="泡芙的博客">
-<meta property="og:description" content="想起《方法与实践》里提到的“什么可以被预测？”，打开温故了一下第一章，现稍微节选一点上来.  1.1 什么可以被预测？ 许多情况下都需要预测：例如决定是否要在未来五年内建立另一个发电厂需要预测未来的用电需求量。下周呼叫中心的人员日程安排，需要对呼叫量进行预测。库存存货需要库存需求的预测 。预测可能是需要提前几年（如资本投资），或者是仅仅提前几分钟（如电信线路）。无论是涉及到什么情况或是时间范围，预">
+<meta property="og:description" content="想起《方法与实践》里提到的“什么可以被预测？”，打开温故了一下第一章，现稍微节选一点上来.">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://otexts.com/fppcn/fpp_files/figure-html/beer-1.png">
 <meta property="article:published_time" content="2023-03-16T16:40:38.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:48:14.618Z">
+<meta property="article:modified_time" content="2023-03-30T05:01:29.046Z">
 <meta property="article:author" content="kisma">
 <meta property="article:tag" content="时间序列">
 <meta name="twitter:card" content="summary">
@@ -104,6 +104,7 @@
         
         <!-- Table of Contents -->        
 		<p>想起《<a target="_blank" rel="noopener" href="https://otexts.com/fppcn/">方法与实践</a>》里提到的“什么可以被预测？”，打开温故了一下第一章，现稍微节选一点上来.</p>
+<span id="more"></span>
 <h2 id="11-什么可以被预测"><a class="markdownIt-Anchor" href="#11-什么可以被预测"></a> 1.1 什么可以被预测？</h2>
 <p>许多情况下都需要预测：例如决定是否要在未来五年内建立另一个发电厂需要预测未来的用电需求量。下周呼叫中心的人员日程安排，需要对呼叫量进行预测。库存存货需要库存需求的预测 。预测可能是需要提前几年（如资本投资），或者是仅仅提前几分钟（如电信线路）。无论是涉及到什么情况或是时间范围，预测都是有效性和有效规划的重要帮助。</p>
 <p>有些事情相比于其他事情更容易预测，比如明天太阳升起的时间可以非常准确地预测出来。另一方面，明天的彩票中奖号码无法被准确预测。事件（或数量）的可预测性取决于以下几个因素：</p>
@@ -112,7 +113,6 @@
 <li>有多少数据是可用的;</li>
 <li>预测是否会影响我们试图预测的事物。</li>
 </ol>
-<span id="more"></span>
 <p>例如，对电力需求可以非常准确地预测，因为通常这三个条件都可以满足的。我们很好地了解了它的影响因素：电力需求很大程度上受温度影响，也受经济状况和日期的影响，例如：假日，对电力需求的影响较小。假如有足够的电力需求和天气状况方面的历史数据，并且我们有能力建立一个合适的模型来连接电力需求和关键驱动变量的话，我们的预测可以非常准确。</p>
 <p>从另一个方面来讲，对于预测货币汇率的时候，它只满足了其中的一个条件：我们可以获取足够的可用的数据。但是我们对影响汇率的因素知之甚少，并且汇率的预测会对汇率本身产生影响。如果有明确的预测说汇率将会上涨，那么人们会立刻调整他们的心理价位，由此这些预测自然会自己就实现了。从某种意义上讲，这些汇率成为了他们自身的预测。这是“有效市场假说”的一个例子。因此，预言汇率明天会是上涨还是下跌，就如同预言抛一枚硬币它落下将会是正面还是反面一样不可预测。在这两种情形下，不论你预测什么，你将大概会有50%的概率是正确的。类似的情况下，预测者需要意识到情况本身的局限性，并且不要夸大其词。</p>
 <p>通常在预测中关键的一步是知道什么情形下能够进行准确预测，确定什么时候预测还不如抛个硬币来的准确。好的预测可以捕捉到历史数据中的真实模式和关系，而不是重复过去发生过未来不会再发生的事情。在本书中，我们将学习如何区分应该忽略的历史数据中的随机波动，和历史数据中应该建模推断的真实模式。</p>
@@ -253,7 +253,7 @@
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-2ecee605311b.html" data-id="clfuk76y1001hgsj9bgyn1oa2" data-title="什么可以被预测？" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-2ecee605311b.html" data-id="clfunfmjn0030dcj9cm050afq" data-title="什么可以被预测？" class="article-share-link">分享</a>
       
       
       
@@ -297,14 +297,6 @@
       <ul>
         
           <li>
-            <a href="/essay-976c9d8e7caf.html">能别动就别动</a>
-          </li>
-        
-          <li>
-            <a href="/essay-954cc374e61e.html">如果它能运行，就别动</a>
-          </li>
-        
-          <li>
             <a href="/essay-d768a9f427b0.html">将概率思维落实到投资中去</a>
           </li>
         
@@ -314,6 +306,14 @@
         
           <li>
             <a href="/essay-2144114c97dd.html">谈世界观</a>
+          </li>
+        
+          <li>
+            <a href="/essay-47237375276c.html">容错的雅量</a>
+          </li>
+        
+          <li>
+            <a href="/essay-0582154d0835.html">聪明人为什么会下笨功夫？</a>
           </li>
         
       </ul>
