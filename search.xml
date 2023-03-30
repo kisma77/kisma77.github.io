@@ -1,153 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>不得不承认，无法量化的运气很重要</title>
-    <url>//essay-d2cfdabfd953.html</url>
-    <content><![CDATA[<p>绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。</p>
-<span id="more"></span>
-<p>看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情况，如果把人生看作一个一个的阶段，用简化的转移矩阵去模拟，你会发现，初始阶段约优越的条件，越容易得到大收益，也可以理解位成功。因而可以将人生简化为两种：一种是穷n+1代，一种类是n+1代，经过若干次迭代，富n+1代达到的财富值，穷n+1代穷尽一生，甚至是N代都无法企及。学习是我难以用语言来表述。无论是马尔科夫链还是意大利这样的科学研究得出的结果令人悲伤，甚至绝望。</p>
-<h2 id="成功需要什么"><a class="markdownIt-Anchor" href="#成功需要什么"></a> 成功需要什么</h2>
-<p>成功人士都有那些秘诀？从《成功》、《福布斯》、《企业家》等杂志的流行程度来看，人们对成功这一话题从不乏热情。一种深层次的假设认为：**成功是可以习得的。**这一假设基于成功人士身上具备的、促使他们走到今天的那些个性特征，例如天赋、才能、意志力、勤奋、韧性、乐观、成长型思维以及情商。这一假设不仅是这些成功学杂志得以流行的基础，也影响了我们的社会进行资源分配的方式。从工作机会到荣誉，再到政府补助，再到公共政策决策，我们都习惯于假设最成功的人也是最能干的，并将资源分配给那些有成功过往的人，而倾向于忽略那些不成功的人。</p>
-<p>但这一假设正确吗？在整个职业生涯中，我一直致力于研究能预测成就和创造力的心理特征。虽然我已经发现，有一些心理特征（例如：激情、毅力、想象力、求知欲和开放性）确实能很好地解释成功之间的差异，但我更感兴趣的是，有多少差异是这些特征无法解释的。</p>
-<p>近几年里，有不少研究和书籍都认为，在包括金融交易、商业、体育、艺术、音乐、文学和科学在内的多个领域中，运气和机会可能比我们以为的更重要。他们的观点是：虽然天赋也很重要，但数据表明，在试图找出成功的决定因素时，如果我们只专注于个人特征，那么就会错过成功图景中真正重要的一片拼图。</p>
-<p>以下是一些新发现（2018）：</p>
-<blockquote>
-<p>全世界人民的收入差异有一半可以由他们所在的居住国和该国的收入分配差异来解释；</p>
-<p>科研成果的影响力是随机分布的，在科研生涯中，仅高生产力这一个因素对高影响力的研究成果产生的影响是有限的；</p>
-<p>能否成为CEO会受到你叫什么名字或出生在几月的影响，在六月或七月出生的CEO比其他月份要少得多；</p>
-<p>姓氏首字母在字母表中更靠前的人更有可能获得最高部门的职位，有中间名缩写的人更容易在智力和成就方面获得更多的正面评价；</p>
-<p>名字更易拼写的人比名字难拼写的人更容易获得肯定；</p>
-<p>姓名听起来更阳刚（男性化）的女性，更易在法律职业生涯中获得成功。</p>
-</blockquote>
-<p>运气这一隐藏维度的重要性引出了一个有趣的问题：我们社会中那些成功人士取得了成就，仅仅是因为他们比较幸运吗？这一假设哪怕只是部分正确，都将对我们如何分配有限的资源产生重大影响，也将帮助富人和成功人士更有效地回报社会。</p>
-<p>为了试图阐明这一重大问题，意大利物理学家Allesandro Pluchino、Andrea Raspisarda和意大利经济学家Alessio Biondo组成研究小组，第一次尝试量化运气和天赋对成功的影响。在他们开创性的工作中，他们提醒那些“天真的精英”，**人们低估了随机因素的作用，而实际上并没有把荣誉和奖励赋予最有能力的人。**为了进一步解释这一现象，他们提出了“玩具数学模型”，模拟了一群人在40年的工作生涯中（从20岁到60岁）职业的发展变化。</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg" alt="Pluchino,Biondo, & Rapisarda 2018" style="zoom:100%;">
-<p>​                                                           <em>模拟初始化设定图（N=1000） Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>意大利研究者们设定了大量“天赋”水平不同的假设个体（“代号1”至“代号1000”），将这些个体置于一个正方形的世界中，让他们在其中经历他们的整个工作生涯。他们将“天赋”定义为<strong>让一个人能够抓住机遇的任何一组个性特征</strong>。天赋可以包括智力、技能、动机、决心、创造性思维、情商等等。这里的关键在于，<strong>更有天赋的人会更倾向于从各种机会中找出最适合他们的那一个</strong>。</p>
-<p>在模拟开始时，所有的个体拥有相同的成功值（10“成功单位”）。每六个月，这些个体会遇到特定数量的<strong>幸运事件（绿色）<strong>和特定数量的</strong>不幸事件（红色）</strong>。当个体遇到不幸事件时，其成功值减半；当个体遇到幸运事件时，其成功值根据其天赋水平按比例增加（以反映真实世界中天赋与机会之间的关系）。</p>
-<p>他们的发现是什么？首先，他们重现了著名的“帕雷托原理”，即二八原理。这一原理认为，少数人最终将获得大多数人的成功（Richard Koch又将其引用为“80/20原理”）。在40年模拟的最终结果中，虽然初始设定的天赋呈正态分布，成功却不是。<strong>20名最成功的个体合计占有了44%的成功值</strong>，而将近半数人的成功值维持在10单位以下（与初始设定值相同）。这一结果和来自真实世界的数据相同，甚至有迹象表明，财富成功在真实世界中的分布要更加不平衡：最富有的8个人拥有的财富等于世界上最贫穷的一半人的财富总和。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212350697.jpg" alt="天赋的正态分布"></p>
-<p>​                                                                                     <em>天赋的正态分布 Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212351902.jpg" alt="高度不平衡的成功值分布"></p>
-<p>​                                                                                          <em>高度不平衡的成功值分布</em></p>
-<p>尽管如此不平衡的分布看起来很不公平，如果那些最成功的人也是最有天赋最有能力的人，那么这一结果也可以合理化。那模拟结果是否是这样的呢？一方面，天赋并不是与成功毫不相干。通常情况下，天赋更高的人更有可能抓住运气提供的机遇。并且，模拟中最成功的个体天赋水平大多至少在平均值以上。所以<strong>天赋确实重要</strong>。</p>
-<p>然而，<strong>只有天赋是绝对不够的</strong>，因为那些最有天赋的个体只有极少数也是最成功的。通常情况下，<strong>平凡却幸运的个体要比有天赋而不幸的个体更加成功</strong>。那些最成功的个体往往只有稍高于平均值的天赋水平，却在生活中充满了运气。</p>
-<p>以下是他们模拟实验中最成功个体和最不成功个体的成功值演变图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212352492.jpg" alt="最成功和最不成功个体的成功值演变图"></p>
-<p>​                                                             <em>最成功和最不成功个体的成功值演变图  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>正如你所见，绿色线条表示的最成功的个体在其生命中遇到了一系列非常幸运的事件，而红色线条表示的最不成功的个体（他们甚至比那些最成功的个体天赋更高）在生命中经历的不幸事件难以想象地多。正如论文作者所说，“在不幸的怒火面前，即使拥有极高的天赋也无济于事。”</p>
-<p>怀才不遇无论对个体还是社会而言都是不幸的。因此，我们可以做些什么来让那些最有能力利用机会的人得到他们最需要的发展机会呢？</p>
-<h2 id="stimulating-serendipity更有效的资助策略"><a class="markdownIt-Anchor" href="#stimulating-serendipity更有效的资助策略"></a> Stimulating  Serendipity（更有效的资助策略）</h2>
-<p>许多“精英主义”用以分配荣誉、资金或奖励的策略，通常基于某个人过去的成功经历。以这样的方式进行选拔无疑会导致富人更富、穷人更穷，这也被称作“<strong>马太效应</strong>”。但这是激发潜力的最有效策略吗？如果你是决策人，哪一种投资策略会更为有效呢？向几位以前有成功经历的申请人提供大笔资助，还是将资金分成很多份分给许多不那么成功的普通人？</p>
-<p>Jean-Michel Fortin和 David Currie 曾研究过更大规模的资助是否会带来更大的成果。他们发现在研究资金和科研成果影响力之间的确存在一定的正相关，<strong>但这种关联非常微弱</strong>。更重要的是，那些获得第二笔资助的人并不比那些只获得一笔资助的人更多产，而且对于这些人而言成果通常是资助的递减函数。</p>
-<p>论文作者们认为，<strong>比起那些以“优秀”作为遴选标准的项目，更关注目标多样性的资助策略可能会对社会产生更大的影响</strong>。在一项更新的研究中，研究人员研究了魁北克在15年期间内对12720名研究人员提供的资金。他们得出的结论是，“在论文数量和科学影响方面，研究资金集中在所谓的‘精英’研究人员手中，通常会产生边际收益递减”。</p>
-<p>基于这项工作，模拟了运气对成功的影响的意大利研究组进行了进一步模拟。他们从上帝视角探讨了许多不同资助策略的有效性。在模拟个体的40年工作生涯中，他们每隔5年就换用一次不同的资助策略。我们已经发现，在没有任何资助的情况下，最成功的个体是那些拥有平均天赋水平却非常幸运的人。当研究组向模拟中引入多种资助策略后，会有什么结果呢？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212353517.jpg" alt="不同资助策略的效率"></p>
-<p>​                                                              <em>不同资助策略的效率  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>这一表格按效率递减的排序列出了40年间最有效的资助策略（例如，需要的资金最少而获得的投资回报最大）。从下至上阅读列表，可以发现那些把一定比例的资金给已经非常成功的人的资助策略是最无效的。将一定比例的资金给那些已经非常成功的个体而将余下的资金平均分配的“混合”策略相比之下要更有效一点，但这些都还不如随机分配资金的策略高效。最后这一项发现非常有趣，因为它与其他一些研究结果一致，这些结果都表明，在复杂的社会和经济环境中，机会很可能发挥了一定的作用，在这一前提下，结合了随机性的策略比基于“精英主义”的策略表现更好。</p>
-<p>这表示，最佳资助策略应当是给每个人都分配同等数量的资金。当以每5个月1单位的速度分配资金时，60%的最有天赋个体获得了超过平均水平的成功值，以每6个月5单位的速度分配资金的结果是，100%的最有天赋个体都产生了影响力！这表明，如果一个资助机构或政府有更多的资金可供分配，那么将这些额外的资金均分给每个人，与只给一部分人相比是更明智的选择。</p>
-<p>正如研究者总结道：</p>
-<blockquote>
-<p>“如果投资目标是奖励最有天赋的人，以使他们最终获得更高的成就，那么向所有人定期等额提供资金，会比将大额资金提供给被选中的小部分人更有效。”</p>
-</blockquote>
-<h2 id="stimulating-the-environment什么样的社会更容易造就成功"><a class="markdownIt-Anchor" href="#stimulating-the-environment什么样的社会更容易造就成功"></a> Stimulating the Environment（什么样的社会更容易造就成功？）</h2>
-<p>这个不可思议的意大利研究组并没有就此止步！既然拥有了上帝视角，为什么不钻研到底呢。他们还做了一些改变了个体所处环境的模拟实验。使用之前搭建的框架，他们模拟了一个非常激励人的环境，对每个人而言都充满了机遇（比如像美国那样富裕而高度工业化的国家），也模拟了一个相比之下不那么激励人的环境，只有非常少的机会（比如第二次世界大战中的国家）。以下是他们的发现：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212355915.jpg" alt="最成功个体在充满机遇的环境和机遇不多的环境中的成功值"></p>
-<p>​                                <em>最成功个体在充满机遇的环境（上）和机遇不多的环境（下）中的成功值  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
-<p>观察比较充满机遇的环境（上）与机遇不多的环境（下）中结果分布的差异。在上半幅图模拟的环境中，一部分天赋水平中上的个体能够获得非常高的成功值，天赋较高的人获得较高成功值的可能性也比较高。相反，在第二幅图模拟的环境中，整个社会的总成功值水平很低，并且只有18个个体获得了比初始值更高的成功。</p>
-<h2 id="结论"><a class="markdownIt-Anchor" href="#结论"></a> 结论</h2>
-<p>以上模拟实验的结果与越来越多的基于真实世界数据的研究结果相吻合，所有的结果都强烈表明，**运气和机会在决定个人的最终成功水平方面扮演着重要角色。**正如研究者指出的，奖励和资源通常都被给予那些已经被高度赞扬的人们，而这往往会导致最有天赋的那些人（比如，最有潜力因这些资源真正受益的人）反而得不到机会。在进行这样的资源分配时我们忽视了运气扮演的重要角色，实际上，运气的影响在整个创造性的过程中难以避免。研究者们认为，为了给人们更多成功的机会，以下因素都很关键：<strong>一个充满机遇的环境、良好的教育、密集的培训和行之有效的资金与资源分配策略</strong>。他们认为，任何能够影响这些因素的政策都将有助于公民的个人实现，也会在宏观层面为全社会带来更大的集体进步和更多创新。</p>
-<p>正文来自：<a href="https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/">Scott Barry Kaufman：The Role of Luck in Life Success Is Far Greater Than We Realized</a></p>
-<h2 id="扩展阅读"><a class="markdownIt-Anchor" href="#扩展阅读"></a> 扩展阅读</h2>
-<p>我自己曾用R模拟过这个游戏，结果令人“冷静”，把一位网友的方法留在这里，他的方法比我的“科学”。</p>
-<p>用 Shiny 写的第一个小程序。这个 Shiny 呢，简单来说是 Rstudio 里面自带的一个网页程序的编辑器。安装并打开 Rstudio，从“新建”里面找到“Shiny Web App”。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220005234.png" alt="Rstudio"></p>
-<p>给程序取个名字，就可以开始编写了。（最简单的做法是清空窗口，把我下面的代码拷贝进去）</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line">#</span><br><span class="line"># This is a Shiny web application. You can run the application by clicking</span><br><span class="line"># the &#x27;Run App&#x27; button above.</span><br><span class="line">#</span><br><span class="line"># Find out more about building applications with Shiny here:</span><br><span class="line">#</span><br><span class="line">#    http://shiny.rstudio.com/</span><br><span class="line">#</span><br><span class="line"></span><br><span class="line">library(shiny)</span><br><span class="line">library(gridExtra)</span><br><span class="line"># Define UI for application that draws a histogram</span><br><span class="line">ui &lt;- shinyUI(fluidPage(</span><br><span class="line"></span><br><span class="line">   # Application title</span><br><span class="line">   titlePanel(&quot;Gambler Simulation&quot;),</span><br><span class="line"></span><br><span class="line">   # Sidebar with a slider input for number of bins </span><br><span class="line">   sidebarLayout(</span><br><span class="line">      sidebarPanel(</span><br><span class="line">         sliderInput(&quot;size&quot;,</span><br><span class="line">                     &quot;Number of Gamblers:&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 1000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;winp&quot;,</span><br><span class="line">                     &quot;Winning Probability&quot;,</span><br><span class="line">                     min = 0,</span><br><span class="line">                     max = 1,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bid&quot;,</span><br><span class="line">                     &quot;Bid (per Game)&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 5000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;iter&quot;,</span><br><span class="line">                     &quot;Iterations&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 2000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bins&quot;,</span><br><span class="line">                     &quot;Number of Bins&quot;,</span><br><span class="line">                     min = 1,</span><br><span class="line">                     max = 50,</span><br><span class="line">                     value = 30)</span><br><span class="line">      ),</span><br><span class="line"></span><br><span class="line">      # Show a plot of the generated distribution</span><br><span class="line">      mainPanel(</span><br><span class="line">         plotOutput(&quot;distPlot&quot;),</span><br><span class="line">         plotOutput(&quot;distLine&quot;)</span><br><span class="line">      )</span><br><span class="line">   )</span><br><span class="line">))</span><br><span class="line"></span><br><span class="line"># Define server logic required to draw a histogram</span><br><span class="line">server &lt;- shinyServer(function(input, output) &#123;</span><br><span class="line"></span><br><span class="line">   output$distPlot &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">       &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">      # draw the histogram with the specified number of bins</span><br><span class="line">      hist(gamblers, breaks = bins, col = &#x27;darkgray&#x27;, border = &#x27;white&#x27;, ylim = c(0,input$size),</span><br><span class="line">           xlab = &quot;Wealth&quot;)</span><br><span class="line">   &#125;)</span><br><span class="line">   output$distLine &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">     &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">     # draw the histogram with the specified number of bins</span><br><span class="line">     plot(sort(gamblers), type = &#x27;l&#x27;, xlab= &quot;Wealth&quot;, ylab = &quot;Number of Gamblers&quot;)+</span><br><span class="line">       abline(h = 10000, col = &quot;red&quot;)</span><br><span class="line"></span><br><span class="line">   &#125;)</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line"># Run the application </span><br><span class="line">shinyApp(ui = ui, server = server)</span><br><span class="line"></span><br><span class="line">```</span><br></pre></td></tr></table></figure>
-<p>之后点击右上角的 Run app，就可以出现属于自己的模拟器。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220007941.png" alt="Run-app"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008078.png" alt="Run-app"></p>
-<h2 id="设定"><a class="markdownIt-Anchor" href="#设定"></a> 设定</h2>
-<p>我们假设有 1000 个玩家，每人手里有 10000 元的筹码，可以用来赌博。</p>
-<ul>
-<li>每一局游戏，玩家都可以抵押 500 元的筹码。输了，筹码不退还；赢了，筹码翻倍。</li>
-<li>输赢的概率各占 50%。</li>
-<li>所有玩家一共进行 100 局游戏。一旦任何玩家筹码为0，必须中途退出游戏。</li>
-</ul>
-<p>好，开始了游戏设定，我们按照设定模拟一下，看看会发生什么吧。100次游戏之后，大家的财富分配是怎样的呢？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008084.png" alt="Run-app"></p>
-<p>右边的两张图分别是 1000 位玩家的财富柱状图和排位图。红线表示初始资金 10000元 的位置。我们看到，这个时候的财富分配还比较平均，<strong>有大约 55%的人财富在 10000 以上。</strong></p>
-<h2 id="实验"><a class="markdownIt-Anchor" href="#实验"></a> 实验</h2>
-<p>有了这个模拟器，我们可以改变原始游戏的一些参数，看看会发生什么不同的结果。<br>
-【实验一：加大赌注】</p>
-<p>之前我们说，每场游戏的赌注是500元。如果游戏的赌注增加，会对最后的结果有怎样的影响？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009055.png" alt="Pasted image 20230109103543"></p>
-<p>赌注增大到 1000 元。游戏结束时，有近 300 人余额为 0。余额 10000 以上的人数约为50%。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009186.png" alt="Pasted image 20230109103721"></p>
-<p>赌注增大到1500元，游戏结束时有近 600 人余额为 0。余额 10000 以上的人数小于40%。<br>
-现在我们增加赌注到 3000 元看看</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010222.png" alt="Pasted image 20230109103830"></p>
-<p>【讨论】</p>
-<ol>
-<li>赌场只需要极小地改变游戏胜率，就可以极大地改变游戏者的结果。<strong>把胜率从50%改到45%，游戏者回本的概率就从55%降低到 20%左右。</strong></li>
-<li>小胜率 × 多次玩= 倾家荡产</li>
-</ol>
-<p>【实验三：增加赌博持续时间】</p>
-<p>我们知道，赌博有其心理成瘾性，所以好赌之人往往很难戒掉赌博这个恶习。放在我们的例子中，如果我们让游戏持续 100 局以上，会发生什么呢？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010954.png" alt="Pasted image 20230109104432"></p>
-<p>游戏持续 1000 局，游戏结束时有500多人余额为0。余额 10000 以上的人数约为40%。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220011472.png" alt="Pasted image 20230109104618"></p>
-<p>游戏持续 2000 局，游戏结束时有600多人余额为 0。余额 10000 以上的人数在25%左右。</p>
-<p>【讨论】</p>
-<ol>
-<li>在赌场中，没有人是常胜将军。你从人生前 100 局游戏中获得的收入，很可能会在第 500 局之前消失殆尽。</li>
-<li>这个实验的局限性在于，我们假设赢钱的人要一直玩下去，玩到游戏结束为止。而输钱的人输到倾家荡产就会退出。这个假设，是不是合理呢？各位又怎么看？</li>
-</ol>
-<p>读到这，有不少读者朋友可能都会好奇这个模拟器的原理。其实，这是我刚才用半个多小时拿 Shiny 自己写的，大家可以通过<a href="https://jiafeili.shinyapps.io/Gamblers_Simulation/">这个链接，自己改改参数，随手玩一玩</a></p>
-<p>这是赌徒之殇（Gambler’s Ruin Problem ），从某种意义上来讲，赌资大小决定胜率。这招叫以力破巧，俗称<strong>用钱砸死你</strong>。</p>
-<blockquote>
-<p>长袖善舞，多财善贾——韩非子</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>今天去崇文门找房子</title>
-    <url>//essay-3eef18bb360c.html</url>
-    <content><![CDATA[<p>今天去崇文门那边找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。</p>
-<span id="more"></span>
-<p>上午起来后去姐姐家给姐过程日，一大家子吃的火锅。</p>
-<p>吃完饭后姐姐带着两个孩子陪我们去找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。我们的要求是朝南或者要有阳光，然后是必须要有电梯，两居室。看了一天，就富贵园那边有个“黑8”户还算可以，朝西，但在高层，能晒到太阳。</p>
-<p>在另一个商品房小区（忘了名字了）看了一套，很好，价格也合适，但这个小区居然所有的顶层都没电梯——电梯到次顶层，所有的顶层都要走楼梯上去，一共16个台阶，这给以后的婴儿车、岳母上下楼带来困难，不能要。</p>
-<p>可惜了，不然户型（全朝南）、价格、采光、客厅大小都很好。</p>
-<p>晚上回来后帮媳妇洗了个脚，走了一天她很累，泡个热水脚舒服些，跟着我受苦了。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>租房</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>今天开始申请准生证</title>
-    <url>//essay-babe2b2c36f3.html</url>
-    <content><![CDATA[<p>今天开始申请孩子的准生证。</p>
-<p>老婆填的表。</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>育儿</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World And 博客配置记录</title>
     <url>//essay-fea10c63a088.html</url>
     <content><![CDATA[<p>记录本博客的配置</p>
@@ -325,19 +178,150 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>今天收拾东西，准备搬家</title>
-    <url>//essay-5c2ec8a3b540.html</url>
-    <content><![CDATA[<p>准备搬家了，今天开始收拾东西打包，目前还没收拾完，但已经有50多个箱子了，东西还是蛮多的。</p>
+    <title>不得不承认，无法量化的运气很重要</title>
+    <url>//essay-d2cfdabfd953.html</url>
+    <content><![CDATA[<p>绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。</p>
 <span id="more"></span>
-<p>希望早点能有钱买套自己的房子，这样就不用每年都为搬家发愁了。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250002301.png" alt="开始收拾东西打包"></p>
-<p>赚钱，其实蛮难的，尽管学了概率，但赚钱还是不容易，甚至还是很难，我真后悔这三四年挥霍掉的那大百万，现在后悔晚了，以后要好好珍惜。</p>
+<p>看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情况，如果把人生看作一个一个的阶段，用简化的转移矩阵去模拟，你会发现，初始阶段约优越的条件，越容易得到大收益，也可以理解位成功。因而可以将人生简化为两种：一种是穷n+1代，一种类是n+1代，经过若干次迭代，富n+1代达到的财富值，穷n+1代穷尽一生，甚至是N代都无法企及。学习是我难以用语言来表述。无论是马尔科夫链还是意大利这样的科学研究得出的结果令人悲伤，甚至绝望。</p>
+<h2 id="成功需要什么"><a class="markdownIt-Anchor" href="#成功需要什么"></a> 成功需要什么</h2>
+<p>成功人士都有那些秘诀？从《成功》、《福布斯》、《企业家》等杂志的流行程度来看，人们对成功这一话题从不乏热情。一种深层次的假设认为：**成功是可以习得的。**这一假设基于成功人士身上具备的、促使他们走到今天的那些个性特征，例如天赋、才能、意志力、勤奋、韧性、乐观、成长型思维以及情商。这一假设不仅是这些成功学杂志得以流行的基础，也影响了我们的社会进行资源分配的方式。从工作机会到荣誉，再到政府补助，再到公共政策决策，我们都习惯于假设最成功的人也是最能干的，并将资源分配给那些有成功过往的人，而倾向于忽略那些不成功的人。</p>
+<p>但这一假设正确吗？在整个职业生涯中，我一直致力于研究能预测成就和创造力的心理特征。虽然我已经发现，有一些心理特征（例如：激情、毅力、想象力、求知欲和开放性）确实能很好地解释成功之间的差异，但我更感兴趣的是，有多少差异是这些特征无法解释的。</p>
+<p>近几年里，有不少研究和书籍都认为，在包括金融交易、商业、体育、艺术、音乐、文学和科学在内的多个领域中，运气和机会可能比我们以为的更重要。他们的观点是：虽然天赋也很重要，但数据表明，在试图找出成功的决定因素时，如果我们只专注于个人特征，那么就会错过成功图景中真正重要的一片拼图。</p>
+<p>以下是一些新发现（2018）：</p>
+<blockquote>
+<p>全世界人民的收入差异有一半可以由他们所在的居住国和该国的收入分配差异来解释；</p>
+<p>科研成果的影响力是随机分布的，在科研生涯中，仅高生产力这一个因素对高影响力的研究成果产生的影响是有限的；</p>
+<p>能否成为CEO会受到你叫什么名字或出生在几月的影响，在六月或七月出生的CEO比其他月份要少得多；</p>
+<p>姓氏首字母在字母表中更靠前的人更有可能获得最高部门的职位，有中间名缩写的人更容易在智力和成就方面获得更多的正面评价；</p>
+<p>名字更易拼写的人比名字难拼写的人更容易获得肯定；</p>
+<p>姓名听起来更阳刚（男性化）的女性，更易在法律职业生涯中获得成功。</p>
+</blockquote>
+<p>运气这一隐藏维度的重要性引出了一个有趣的问题：我们社会中那些成功人士取得了成就，仅仅是因为他们比较幸运吗？这一假设哪怕只是部分正确，都将对我们如何分配有限的资源产生重大影响，也将帮助富人和成功人士更有效地回报社会。</p>
+<p>为了试图阐明这一重大问题，意大利物理学家Allesandro Pluchino、Andrea Raspisarda和意大利经济学家Alessio Biondo组成研究小组，第一次尝试量化运气和天赋对成功的影响。在他们开创性的工作中，他们提醒那些“天真的精英”，**人们低估了随机因素的作用，而实际上并没有把荣誉和奖励赋予最有能力的人。**为了进一步解释这一现象，他们提出了“玩具数学模型”，模拟了一群人在40年的工作生涯中（从20岁到60岁）职业的发展变化。</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg" alt="Pluchino,Biondo, & Rapisarda 2018" style="zoom:100%;">
+<p>​                                                           <em>模拟初始化设定图（N=1000） Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>意大利研究者们设定了大量“天赋”水平不同的假设个体（“代号1”至“代号1000”），将这些个体置于一个正方形的世界中，让他们在其中经历他们的整个工作生涯。他们将“天赋”定义为<strong>让一个人能够抓住机遇的任何一组个性特征</strong>。天赋可以包括智力、技能、动机、决心、创造性思维、情商等等。这里的关键在于，<strong>更有天赋的人会更倾向于从各种机会中找出最适合他们的那一个</strong>。</p>
+<p>在模拟开始时，所有的个体拥有相同的成功值（10“成功单位”）。每六个月，这些个体会遇到特定数量的<strong>幸运事件（绿色）<strong>和特定数量的</strong>不幸事件（红色）</strong>。当个体遇到不幸事件时，其成功值减半；当个体遇到幸运事件时，其成功值根据其天赋水平按比例增加（以反映真实世界中天赋与机会之间的关系）。</p>
+<p>他们的发现是什么？首先，他们重现了著名的“帕雷托原理”，即二八原理。这一原理认为，少数人最终将获得大多数人的成功（Richard Koch又将其引用为“80/20原理”）。在40年模拟的最终结果中，虽然初始设定的天赋呈正态分布，成功却不是。<strong>20名最成功的个体合计占有了44%的成功值</strong>，而将近半数人的成功值维持在10单位以下（与初始设定值相同）。这一结果和来自真实世界的数据相同，甚至有迹象表明，财富成功在真实世界中的分布要更加不平衡：最富有的8个人拥有的财富等于世界上最贫穷的一半人的财富总和。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212350697.jpg" alt="天赋的正态分布"></p>
+<p>​                                                                                     <em>天赋的正态分布 Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212351902.jpg" alt="高度不平衡的成功值分布"></p>
+<p>​                                                                                          <em>高度不平衡的成功值分布</em></p>
+<p>尽管如此不平衡的分布看起来很不公平，如果那些最成功的人也是最有天赋最有能力的人，那么这一结果也可以合理化。那模拟结果是否是这样的呢？一方面，天赋并不是与成功毫不相干。通常情况下，天赋更高的人更有可能抓住运气提供的机遇。并且，模拟中最成功的个体天赋水平大多至少在平均值以上。所以<strong>天赋确实重要</strong>。</p>
+<p>然而，<strong>只有天赋是绝对不够的</strong>，因为那些最有天赋的个体只有极少数也是最成功的。通常情况下，<strong>平凡却幸运的个体要比有天赋而不幸的个体更加成功</strong>。那些最成功的个体往往只有稍高于平均值的天赋水平，却在生活中充满了运气。</p>
+<p>以下是他们模拟实验中最成功个体和最不成功个体的成功值演变图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212352492.jpg" alt="最成功和最不成功个体的成功值演变图"></p>
+<p>​                                                             <em>最成功和最不成功个体的成功值演变图  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>正如你所见，绿色线条表示的最成功的个体在其生命中遇到了一系列非常幸运的事件，而红色线条表示的最不成功的个体（他们甚至比那些最成功的个体天赋更高）在生命中经历的不幸事件难以想象地多。正如论文作者所说，“在不幸的怒火面前，即使拥有极高的天赋也无济于事。”</p>
+<p>怀才不遇无论对个体还是社会而言都是不幸的。因此，我们可以做些什么来让那些最有能力利用机会的人得到他们最需要的发展机会呢？</p>
+<h2 id="stimulating-serendipity更有效的资助策略"><a class="markdownIt-Anchor" href="#stimulating-serendipity更有效的资助策略"></a> Stimulating  Serendipity（更有效的资助策略）</h2>
+<p>许多“精英主义”用以分配荣誉、资金或奖励的策略，通常基于某个人过去的成功经历。以这样的方式进行选拔无疑会导致富人更富、穷人更穷，这也被称作“<strong>马太效应</strong>”。但这是激发潜力的最有效策略吗？如果你是决策人，哪一种投资策略会更为有效呢？向几位以前有成功经历的申请人提供大笔资助，还是将资金分成很多份分给许多不那么成功的普通人？</p>
+<p>Jean-Michel Fortin和 David Currie 曾研究过更大规模的资助是否会带来更大的成果。他们发现在研究资金和科研成果影响力之间的确存在一定的正相关，<strong>但这种关联非常微弱</strong>。更重要的是，那些获得第二笔资助的人并不比那些只获得一笔资助的人更多产，而且对于这些人而言成果通常是资助的递减函数。</p>
+<p>论文作者们认为，<strong>比起那些以“优秀”作为遴选标准的项目，更关注目标多样性的资助策略可能会对社会产生更大的影响</strong>。在一项更新的研究中，研究人员研究了魁北克在15年期间内对12720名研究人员提供的资金。他们得出的结论是，“在论文数量和科学影响方面，研究资金集中在所谓的‘精英’研究人员手中，通常会产生边际收益递减”。</p>
+<p>基于这项工作，模拟了运气对成功的影响的意大利研究组进行了进一步模拟。他们从上帝视角探讨了许多不同资助策略的有效性。在模拟个体的40年工作生涯中，他们每隔5年就换用一次不同的资助策略。我们已经发现，在没有任何资助的情况下，最成功的个体是那些拥有平均天赋水平却非常幸运的人。当研究组向模拟中引入多种资助策略后，会有什么结果呢？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212353517.jpg" alt="不同资助策略的效率"></p>
+<p>​                                                              <em>不同资助策略的效率  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>这一表格按效率递减的排序列出了40年间最有效的资助策略（例如，需要的资金最少而获得的投资回报最大）。从下至上阅读列表，可以发现那些把一定比例的资金给已经非常成功的人的资助策略是最无效的。将一定比例的资金给那些已经非常成功的个体而将余下的资金平均分配的“混合”策略相比之下要更有效一点，但这些都还不如随机分配资金的策略高效。最后这一项发现非常有趣，因为它与其他一些研究结果一致，这些结果都表明，在复杂的社会和经济环境中，机会很可能发挥了一定的作用，在这一前提下，结合了随机性的策略比基于“精英主义”的策略表现更好。</p>
+<p>这表示，最佳资助策略应当是给每个人都分配同等数量的资金。当以每5个月1单位的速度分配资金时，60%的最有天赋个体获得了超过平均水平的成功值，以每6个月5单位的速度分配资金的结果是，100%的最有天赋个体都产生了影响力！这表明，如果一个资助机构或政府有更多的资金可供分配，那么将这些额外的资金均分给每个人，与只给一部分人相比是更明智的选择。</p>
+<p>正如研究者总结道：</p>
+<blockquote>
+<p>“如果投资目标是奖励最有天赋的人，以使他们最终获得更高的成就，那么向所有人定期等额提供资金，会比将大额资金提供给被选中的小部分人更有效。”</p>
+</blockquote>
+<h2 id="stimulating-the-environment什么样的社会更容易造就成功"><a class="markdownIt-Anchor" href="#stimulating-the-environment什么样的社会更容易造就成功"></a> Stimulating the Environment（什么样的社会更容易造就成功？）</h2>
+<p>这个不可思议的意大利研究组并没有就此止步！既然拥有了上帝视角，为什么不钻研到底呢。他们还做了一些改变了个体所处环境的模拟实验。使用之前搭建的框架，他们模拟了一个非常激励人的环境，对每个人而言都充满了机遇（比如像美国那样富裕而高度工业化的国家），也模拟了一个相比之下不那么激励人的环境，只有非常少的机会（比如第二次世界大战中的国家）。以下是他们的发现：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212355915.jpg" alt="最成功个体在充满机遇的环境和机遇不多的环境中的成功值"></p>
+<p>​                                <em>最成功个体在充满机遇的环境（上）和机遇不多的环境（下）中的成功值  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
+<p>观察比较充满机遇的环境（上）与机遇不多的环境（下）中结果分布的差异。在上半幅图模拟的环境中，一部分天赋水平中上的个体能够获得非常高的成功值，天赋较高的人获得较高成功值的可能性也比较高。相反，在第二幅图模拟的环境中，整个社会的总成功值水平很低，并且只有18个个体获得了比初始值更高的成功。</p>
+<h2 id="结论"><a class="markdownIt-Anchor" href="#结论"></a> 结论</h2>
+<p>以上模拟实验的结果与越来越多的基于真实世界数据的研究结果相吻合，所有的结果都强烈表明，**运气和机会在决定个人的最终成功水平方面扮演着重要角色。**正如研究者指出的，奖励和资源通常都被给予那些已经被高度赞扬的人们，而这往往会导致最有天赋的那些人（比如，最有潜力因这些资源真正受益的人）反而得不到机会。在进行这样的资源分配时我们忽视了运气扮演的重要角色，实际上，运气的影响在整个创造性的过程中难以避免。研究者们认为，为了给人们更多成功的机会，以下因素都很关键：<strong>一个充满机遇的环境、良好的教育、密集的培训和行之有效的资金与资源分配策略</strong>。他们认为，任何能够影响这些因素的政策都将有助于公民的个人实现，也会在宏观层面为全社会带来更大的集体进步和更多创新。</p>
+<p>正文来自：<a href="https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/">Scott Barry Kaufman：The Role of Luck in Life Success Is Far Greater Than We Realized</a></p>
+<h2 id="扩展阅读"><a class="markdownIt-Anchor" href="#扩展阅读"></a> 扩展阅读</h2>
+<p>我自己曾用R模拟过这个游戏，结果令人“冷静”，把一位网友的方法留在这里，他的方法比我的“科学”。</p>
+<p>用 Shiny 写的第一个小程序。这个 Shiny 呢，简单来说是 Rstudio 里面自带的一个网页程序的编辑器。安装并打开 Rstudio，从“新建”里面找到“Shiny Web App”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220005234.png" alt="Rstudio"></p>
+<p>给程序取个名字，就可以开始编写了。（最简单的做法是清空窗口，把我下面的代码拷贝进去）</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line">#</span><br><span class="line"># This is a Shiny web application. You can run the application by clicking</span><br><span class="line"># the &#x27;Run App&#x27; button above.</span><br><span class="line">#</span><br><span class="line"># Find out more about building applications with Shiny here:</span><br><span class="line">#</span><br><span class="line">#    http://shiny.rstudio.com/</span><br><span class="line">#</span><br><span class="line"></span><br><span class="line">library(shiny)</span><br><span class="line">library(gridExtra)</span><br><span class="line"># Define UI for application that draws a histogram</span><br><span class="line">ui &lt;- shinyUI(fluidPage(</span><br><span class="line"></span><br><span class="line">   # Application title</span><br><span class="line">   titlePanel(&quot;Gambler Simulation&quot;),</span><br><span class="line"></span><br><span class="line">   # Sidebar with a slider input for number of bins </span><br><span class="line">   sidebarLayout(</span><br><span class="line">      sidebarPanel(</span><br><span class="line">         sliderInput(&quot;size&quot;,</span><br><span class="line">                     &quot;Number of Gamblers:&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 1000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;winp&quot;,</span><br><span class="line">                     &quot;Winning Probability&quot;,</span><br><span class="line">                     min = 0,</span><br><span class="line">                     max = 1,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bid&quot;,</span><br><span class="line">                     &quot;Bid (per Game)&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 5000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;iter&quot;,</span><br><span class="line">                     &quot;Iterations&quot;,</span><br><span class="line">                     min = 100,</span><br><span class="line">                     max = 2000,</span><br><span class="line">                     value = 20),</span><br><span class="line">         sliderInput(&quot;bins&quot;,</span><br><span class="line">                     &quot;Number of Bins&quot;,</span><br><span class="line">                     min = 1,</span><br><span class="line">                     max = 50,</span><br><span class="line">                     value = 30)</span><br><span class="line">      ),</span><br><span class="line"></span><br><span class="line">      # Show a plot of the generated distribution</span><br><span class="line">      mainPanel(</span><br><span class="line">         plotOutput(&quot;distPlot&quot;),</span><br><span class="line">         plotOutput(&quot;distLine&quot;)</span><br><span class="line">      )</span><br><span class="line">   )</span><br><span class="line">))</span><br><span class="line"></span><br><span class="line"># Define server logic required to draw a histogram</span><br><span class="line">server &lt;- shinyServer(function(input, output) &#123;</span><br><span class="line"></span><br><span class="line">   output$distPlot &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">       &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">      # draw the histogram with the specified number of bins</span><br><span class="line">      hist(gamblers, breaks = bins, col = &#x27;darkgray&#x27;, border = &#x27;white&#x27;, ylim = c(0,input$size),</span><br><span class="line">           xlab = &quot;Wealth&quot;)</span><br><span class="line">   &#125;)</span><br><span class="line">   output$distLine &lt;- renderPlot(&#123;</span><br><span class="line">     gamblers = rep(10000,input$size)</span><br><span class="line">     for (i in 1:input$iter)&#123;</span><br><span class="line">       gain = (2*rbinom(input$size, 1, input$winp) -1)*input$bid</span><br><span class="line">       gamblers[gamblers&gt;=input$bid] &lt;- gamblers[gamblers&gt;=input$bid] + gain[gamblers&gt;=input$bid]</span><br><span class="line">       gamblers[gamblers&gt;100000] &lt;-100000</span><br><span class="line">     &#125;</span><br><span class="line">     bins &lt;- seq(min(gamblers), max(gamblers), length.out = input$bins + 1)</span><br><span class="line"></span><br><span class="line">     # draw the histogram with the specified number of bins</span><br><span class="line">     plot(sort(gamblers), type = &#x27;l&#x27;, xlab= &quot;Wealth&quot;, ylab = &quot;Number of Gamblers&quot;)+</span><br><span class="line">       abline(h = 10000, col = &quot;red&quot;)</span><br><span class="line"></span><br><span class="line">   &#125;)</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line"># Run the application </span><br><span class="line">shinyApp(ui = ui, server = server)</span><br><span class="line"></span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+<p>之后点击右上角的 Run app，就可以出现属于自己的模拟器。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220007941.png" alt="Run-app"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008078.png" alt="Run-app"></p>
+<h2 id="设定"><a class="markdownIt-Anchor" href="#设定"></a> 设定</h2>
+<p>我们假设有 1000 个玩家，每人手里有 10000 元的筹码，可以用来赌博。</p>
+<ul>
+<li>每一局游戏，玩家都可以抵押 500 元的筹码。输了，筹码不退还；赢了，筹码翻倍。</li>
+<li>输赢的概率各占 50%。</li>
+<li>所有玩家一共进行 100 局游戏。一旦任何玩家筹码为0，必须中途退出游戏。</li>
+</ul>
+<p>好，开始了游戏设定，我们按照设定模拟一下，看看会发生什么吧。100次游戏之后，大家的财富分配是怎样的呢？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008084.png" alt="Run-app"></p>
+<p>右边的两张图分别是 1000 位玩家的财富柱状图和排位图。红线表示初始资金 10000元 的位置。我们看到，这个时候的财富分配还比较平均，<strong>有大约 55%的人财富在 10000 以上。</strong></p>
+<h2 id="实验"><a class="markdownIt-Anchor" href="#实验"></a> 实验</h2>
+<p>有了这个模拟器，我们可以改变原始游戏的一些参数，看看会发生什么不同的结果。<br>
+【实验一：加大赌注】</p>
+<p>之前我们说，每场游戏的赌注是500元。如果游戏的赌注增加，会对最后的结果有怎样的影响？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009055.png" alt="Pasted image 20230109103543"></p>
+<p>赌注增大到 1000 元。游戏结束时，有近 300 人余额为 0。余额 10000 以上的人数约为50%。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009186.png" alt="Pasted image 20230109103721"></p>
+<p>赌注增大到1500元，游戏结束时有近 600 人余额为 0。余额 10000 以上的人数小于40%。<br>
+现在我们增加赌注到 3000 元看看</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010222.png" alt="Pasted image 20230109103830"></p>
+<p>【讨论】</p>
+<ol>
+<li>赌场只需要极小地改变游戏胜率，就可以极大地改变游戏者的结果。<strong>把胜率从50%改到45%，游戏者回本的概率就从55%降低到 20%左右。</strong></li>
+<li>小胜率 × 多次玩= 倾家荡产</li>
+</ol>
+<p>【实验三：增加赌博持续时间】</p>
+<p>我们知道，赌博有其心理成瘾性，所以好赌之人往往很难戒掉赌博这个恶习。放在我们的例子中，如果我们让游戏持续 100 局以上，会发生什么呢？</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010954.png" alt="Pasted image 20230109104432"></p>
+<p>游戏持续 1000 局，游戏结束时有500多人余额为0。余额 10000 以上的人数约为40%。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220011472.png" alt="Pasted image 20230109104618"></p>
+<p>游戏持续 2000 局，游戏结束时有600多人余额为 0。余额 10000 以上的人数在25%左右。</p>
+<p>【讨论】</p>
+<ol>
+<li>在赌场中，没有人是常胜将军。你从人生前 100 局游戏中获得的收入，很可能会在第 500 局之前消失殆尽。</li>
+<li>这个实验的局限性在于，我们假设赢钱的人要一直玩下去，玩到游戏结束为止。而输钱的人输到倾家荡产就会退出。这个假设，是不是合理呢？各位又怎么看？</li>
+</ol>
+<p>读到这，有不少读者朋友可能都会好奇这个模拟器的原理。其实，这是我刚才用半个多小时拿 Shiny 自己写的，大家可以通过<a href="https://jiafeili.shinyapps.io/Gamblers_Simulation/">这个链接，自己改改参数，随手玩一玩</a></p>
+<p>这是赌徒之殇（Gambler’s Ruin Problem ），从某种意义上来讲，赌资大小决定胜率。这招叫以力破巧，俗称<strong>用钱砸死你</strong>。</p>
+<blockquote>
+<p>长袖善舞，多财善贾——韩非子</p>
+</blockquote>
 ]]></content>
       <categories>
         <category>生活日记</category>
       </categories>
       <tags>
-        <tag>投机</tag>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>今天去崇文门找房子</title>
+    <url>//essay-3eef18bb360c.html</url>
+    <content><![CDATA[<p>今天去崇文门那边找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。</p>
+<span id="more"></span>
+<p>上午起来后去姐姐家给姐过程日，一大家子吃的火锅。</p>
+<p>吃完饭后姐姐带着两个孩子陪我们去找房子，属于“城里”，房子大多是老房子，很破，新的高档的商品房小区两居室得13000以上，老房子两居室8000以上。我们的要求是朝南或者要有阳光，然后是必须要有电梯，两居室。看了一天，就富贵园那边有个“黑8”户还算可以，朝西，但在高层，能晒到太阳。</p>
+<p>在另一个商品房小区（忘了名字了）看了一套，很好，价格也合适，但这个小区居然所有的顶层都没电梯——电梯到次顶层，所有的顶层都要走楼梯上去，一共16个台阶，这给以后的婴儿车、岳母上下楼带来困难，不能要。</p>
+<p>可惜了，不然户型（全朝南）、价格、采光、客厅大小都很好。</p>
+<p>晚上回来后帮媳妇洗了个脚，走了一天她很累，泡个热水脚舒服些，跟着我受苦了。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>租房</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>今天开始申请准生证</title>
+    <url>//essay-babe2b2c36f3.html</url>
+    <content><![CDATA[<p>今天开始申请孩子的准生证。</p>
+<p>老婆填的表。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>育儿</tag>
       </tags>
   </entry>
   <entry>
@@ -359,6 +343,24 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </categories>
       <tags>
         <tag>照相</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>单日最大跌幅里赚点零头</title>
+    <url>//essay-c09bbe3f4047.html</url>
+    <content><![CDATA[<p>每一个做投机的人都希望自己抓住一波大行情，平日里也是天天如此渴望、幻想，但当机会来了时，却又因为各种自身主观的原因而错过，事后又会后悔不已！</p>
+<span id="more"></span>
+<p>棕榈最近这200多天一直都是横着走，今天好不容易向下走了，而且还是最近200天的最大跌幅</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303222337708.png" alt="P2305"></p>
+<p>我却没有把握住，只赚了点零头。</p>
+<p>账户昨天上了7万（70111），今天增加了2000多，但我错过了单日最大收益K，尾盘时我买了一张多单，是出于这种单日宽幅K之后，可能会有窄幅震荡（主观）的考虑。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221549331.png" alt="账户"></p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
       </tags>
   </entry>
   <entry>
@@ -406,30 +408,56 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>单日最大跌幅里赚点零头</title>
-    <url>//essay-c09bbe3f4047.html</url>
-    <content><![CDATA[<p>每一个做投机的人都希望自己抓住一波大行情，平日里也是天天如此渴望、幻想，但当机会来了时，却又因为各种自身主观的原因而错过，事后又会后悔不已！</p>
-<span id="more"></span>
-<p>棕榈最近这200多天一直都是横着走，今天好不容易向下走了，而且还是最近200天的最大跌幅</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303222337708.png" alt="P2305"></p>
-<p>我却没有把握住，只赚了点零头。</p>
-<p>账户昨天上了7万（70111），今天增加了2000多，但我错过了单日最大收益K，尾盘时我买了一张多单，是出于这种单日宽幅K之后，可能会有窄幅震荡（主观）的考虑。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221549331.png" alt="账户"></p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>周末小结</title>
     <url>//essay-b105aafb8fc5.html</url>
     <content><![CDATA[<p>本周盈利4804元，共交了264元佣金，净利润4540元，算下来收益率是7%。</p>
 <span id="more"></span>
 <p>共交了264元佣金，与利润相比，高了。主要是因为我操作的频率高了！</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250116294.png" alt="账户规模图"></p>
+]]></content>
+      <categories>
+        <category>商贾贸易</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>今天收拾东西，准备搬家</title>
+    <url>//essay-5c2ec8a3b540.html</url>
+    <content><![CDATA[<p>准备搬家了，今天开始收拾东西打包，目前还没收拾完，但已经有50多个箱子了，东西还是蛮多的。</p>
+<span id="more"></span>
+<p>希望早点能有钱买套自己的房子，这样就不用每年都为搬家发愁了。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250002301.png" alt="开始收拾东西打包"></p>
+<p>赚钱，其实蛮难的，尽管学了概率，但赚钱还是不容易，甚至还是很难，我真后悔这三四年挥霍掉的那大百万，现在后悔晚了，以后要好好珍惜。</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>投机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>商品期货投机获利的秘诀</title>
+    <url>//essay-2f547b0b0e04.html</url>
+    <content><![CDATA[<p>There are two primacy says we make money trading, catching a big price move with a small position or having a large position and catching a small move.</p>
+<p>交易获利基本上有两种方法：用小的头寸捕捉到一次大的价格波动；或者用大的头寸捕捉一次小的价格波动。</p>
+<p>期货交易的诀窍是：别做短线。你交易的时间周期越短，赚的钱越少。</p>
+<span id="more"></span>
+<p>这听起来很让人失望，但却是真的。想想你以前的交易，有哪天获得过超额利润呢？如果你够走运，这种事情又能重复多少次呢？</p>
+<p>获利的普遍规则和投机的普遍规则是一样的：</p>
+<p><strong>获利需要靠时间来积累</strong></p>
+<p>这是个基础的算数题：一个短线交易者只有几个小时来捕捉一个大的价格波动来获利。</p>
+<p>绝大多数来市场的散户都喜欢短线交易，时间从一开始就对他不利。他入场与离场的时间必须精确，根本就没有犯错的余地。 短线交易者要想大幅获利的唯一出路就是持有一个很大的仓位，因为他没办法捕捉到大的价格波动过程。</p>
+<p>这有个简单的例子：我能在铁矿石期货上建立5手头寸，并持有到下个月获利3万元。但是持有5手铁矿石头寸想在明天就获利3万元是绝没有可能的。想在明天就在铁矿石期货上获利3万元，只能去持有一个很重的仓位。</p>
+<p>这些数字是关联的，是简单的函数关系：短线交易者从市场里拿走大幅利润的唯一办法就是持有大额头寸。 因而也就有了问题。如果你持有大额头寸，你也就有可能遭遇大额亏损。在我的5手铁矿石头寸上，我可以像个傻瓜那样持有仓位直到出现3万元的亏损，我也可能被提前止损出局遭受5000块的亏损。</p>
+<p>对短线交易者而言，风险/回报率是个灾难。平均盈利与他们的平均亏损几乎相当。</p>
+<p>想赢得多就得赌得大。但是赌得大在特定时间可以确定的就是会输得多……在这样一个游戏里，一笔亏损就能搞垮你。</p>
+<p>你需要知道：趋势是一切获利的根本。没有趋势就没有获利。趋势是时间&amp;空间的函数，因此，你在一笔交易里能停留的时间越久，那么你能捕捉到的趋势波幅就越大。</p>
+<p>日内交易者将他们自己置于明显的不利地位。时间是他们的敌人，他们必须在日末退出市场，他们也限制了自己能够捕捉的价格波幅。而头寸交易者懂得时间是他们的盟友，也因此获益良多。 这条规则会一直有效，直到永远。 成功的交易者知道市场在1分钟内变化不了多少，5分钟内变化会大一些，60分钟内变化比5分钟还大，1天、1周内的变动会更大。失败的交易者只想在很短的时间段内进行交易，自然限制了获利的潜力。 按照上面的定义，这些人限制了自己获利的潜力，却导致了无限的亏损，所以就会有那么多人在短线交易方面表现差劲。他们在经纪商或者交易系统推销员的鼓动下，被不断低买高卖获利的假想所蒙蔽，最终却陷入了亏损的困境。</p>
+<p>因为有杠杆，人们又喜欢短线交易（有许许多多的人是做日内交易），这导致一个残酷的事实：绝大部分小资金者，最后的结局一定是出局的。</p>
+<p>还记得吗？长袖善舞，多钱善贾。</p>
 ]]></content>
       <categories>
         <category>商贾贸易</category>
@@ -479,34 +507,6 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </categories>
       <tags>
         <tag>交易心理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>商品期货投机获利的秘诀</title>
-    <url>//essay-2f547b0b0e04.html</url>
-    <content><![CDATA[<p>There are two primacy says we make money trading, catching a big price move with a small position or having a large position and catching a small move.</p>
-<p>交易获利基本上有两种方法：用小的头寸捕捉到一次大的价格波动；或者用大的头寸捕捉一次小的价格波动。</p>
-<p>期货交易的诀窍是：别做短线。你交易的时间周期越短，赚的钱越少。</p>
-<span id="more"></span>
-<p>这听起来很让人失望，但却是真的。想想你以前的交易，有哪天获得过超额利润呢？如果你够走运，这种事情又能重复多少次呢？</p>
-<p>获利的普遍规则和投机的普遍规则是一样的：</p>
-<p><strong>获利需要靠时间来积累</strong></p>
-<p>这是个基础的算数题：一个短线交易者只有几个小时来捕捉一个大的价格波动来获利。</p>
-<p>绝大多数来市场的散户都喜欢短线交易，时间从一开始就对他不利。他入场与离场的时间必须精确，根本就没有犯错的余地。 短线交易者要想大幅获利的唯一出路就是持有一个很大的仓位，因为他没办法捕捉到大的价格波动过程。</p>
-<p>这有个简单的例子：我能在铁矿石期货上建立5手头寸，并持有到下个月获利3万元。但是持有5手铁矿石头寸想在明天就获利3万元是绝没有可能的。想在明天就在铁矿石期货上获利3万元，只能去持有一个很重的仓位。</p>
-<p>这些数字是关联的，是简单的函数关系：短线交易者从市场里拿走大幅利润的唯一办法就是持有大额头寸。 因而也就有了问题。如果你持有大额头寸，你也就有可能遭遇大额亏损。在我的5手铁矿石头寸上，我可以像个傻瓜那样持有仓位直到出现3万元的亏损，我也可能被提前止损出局遭受5000块的亏损。</p>
-<p>对短线交易者而言，风险/回报率是个灾难。平均盈利与他们的平均亏损几乎相当。</p>
-<p>想赢得多就得赌得大。但是赌得大在特定时间可以确定的就是会输得多……在这样一个游戏里，一笔亏损就能搞垮你。</p>
-<p>你需要知道：趋势是一切获利的根本。没有趋势就没有获利。趋势是时间&amp;空间的函数，因此，你在一笔交易里能停留的时间越久，那么你能捕捉到的趋势波幅就越大。</p>
-<p>日内交易者将他们自己置于明显的不利地位。时间是他们的敌人，他们必须在日末退出市场，他们也限制了自己能够捕捉的价格波幅。而头寸交易者懂得时间是他们的盟友，也因此获益良多。 这条规则会一直有效，直到永远。 成功的交易者知道市场在1分钟内变化不了多少，5分钟内变化会大一些，60分钟内变化比5分钟还大，1天、1周内的变动会更大。失败的交易者只想在很短的时间段内进行交易，自然限制了获利的潜力。 按照上面的定义，这些人限制了自己获利的潜力，却导致了无限的亏损，所以就会有那么多人在短线交易方面表现差劲。他们在经纪商或者交易系统推销员的鼓动下，被不断低买高卖获利的假想所蒙蔽，最终却陷入了亏损的困境。</p>
-<p>因为有杠杆，人们又喜欢短线交易（有许许多多的人是做日内交易），这导致一个残酷的事实：绝大部分小资金者，最后的结局一定是出局的。</p>
-<p>还记得吗？长袖善舞，多钱善贾。</p>
-]]></content>
-      <categories>
-        <category>商贾贸易</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
       </tags>
   </entry>
   <entry>
@@ -745,6 +745,84 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
+    <title>打雪仗思维</title>
+    <url>//essay-d73675d4172a.html</url>
+    <content><![CDATA[<p>这是理解成功的交易者在交易中的思维方式，如果你想成为一个成功的交易者，本章的内容是至关重要的。因此，我决定在很多不同的场合通过不同的比喻来反复进行阐述，但是你必须一次就领会它，理解这些因素能够带给你令人难以置信的收益。</p>
+<p>在我看来，一个成功的交易系统，有六个关键可变因素必须要理解。</p>
+<span id="more"></span>
+<p>下面一起来探究这六个可变因素以及它们如何影响每一位投资者的利润或亏损。</p>
+<p>（1）可靠度。或者百分之多少的时间你是赚钱的。比如，你的投资是否有60%是赚钱的，而有40%是赔钱的呢？可以参考《<a href="https://kisma77.github.io/essay-813b4f49003b.html">百分百红灯策略</a>》。</p>
+<p>（2）利润与损失的相对占比(盈亏比）。进行交易时，相对于损失而言，利润水平的相对规模。例如，假如交易失败每股赔1元，而交易成功每股赚1元，那么利润水平的相对规模是一样的。然而，如果交易成功，每股赚到了10元，而交易失败，每股只赔1元，那么相对规模的盈亏比就非常不同。</p>
+<p>（3）账户耗损。只要进行交易，账户就必然会有耗损，它是滑点等执行成本和佣金支出。这些成本会随着交易量的增加越积越多，且永远不会消失。即假设单次交易量为α，滑点为β，佣金支出为x，耗损y=2·α·β·x，β,x&gt;0。</p>
+<p>（4）获得机会的频率。现在假设以上三个可变因素保持不变，其综合效应就取决于交易的频率。每天做10次交易和每年做10次交易的结果将大相径庭，别忘了耗损与交易频率成正比。</p>
+<p>（5）头寸规模确定采用的时间周期和模型，它们反过来指导每次交易多少个单位头寸。显然，每股的盈利或亏损金额就要乘上交易的股票数量。</p>
+<p>（6）账户总的资金规模。前面四个可变因素对账户的影响很大程度上取决于你的账户规模。例如，交易成本对一个1000元账户的影响要远远大于对一个100万元账户的影响。如果每笔交易的成本为20元，那么1000元的账户在每笔交易扣除2%的费用后才能获利，因此，为了抵消交易成本，你每笔交易的平均利润必须达到2%以上。然而，如果你的账户是100万元，那么同样是20元的成本对你的影响就微不足道了，它只占到账户的0.002%。类似地，500元的损失对1000元的账户而言是致命的打击，但是对100万元的账户就几乎没有影响（它只占到账户的0.05%）。</p>
+<p>这六个可变因素中，每一个都是非常重要的，但大多数股民在他们日复一日的交易中经常只关注其中一个可变因素，他们往往集中注意力于第一个可变因素，即可靠度、所谓的准确率。</p>
+<h3 id="下面通过一个打雪仗的比喻提供一个视角来看待这6个可变因素的重要性"><a class="markdownIt-Anchor" href="#下面通过一个打雪仗的比喻提供一个视角来看待这6个可变因素的重要性"></a> 下面通过一个打雪仗的比喻提供一个视角来看待这6个可变因素的重要性</h3>
+<p>想象一下你正躲在一面巨大的雪墙后面，有人正在向你的雪墙上扔雪球，而你的目标是保持墙面尽可能的大，以便获得最大程度的保护。 因此，这个比喻马上告诉你，墙的大小是一个非常重要的可变因素。</p>
+<p>[IF]墙太小，你难免会被击中;<br>
+[IF]墙很大，你可能就不会被击中。<br>
+这墙就是你的账户资金规模，上面的第六个可变因素，即将账户资本视为一面保护你的财富之墙。假定其他因素保持不变，你拥有的钱越多，墙面越大，能得到的保护也就越多。</p>
+<p>现在想象向你扔雪球的人有两种不同的雪球——白雪球和黑雪球。</p>
+<ul>
+<li>白雪球类似盈利的交易，它们会黏到你的雪墙上增加它的面积和厚度。现在设想一下一大堆白雪球向你扔过来的结果，它们会增加雪墙的体积，随着白雪球的增加，雪墙会越变越大、越变越厚，你就会得到更多的保护。</li>
+<li>黑雪球含有融雪剂，它会使这面墙上的雪融化并在雪墙上弄出一个和它们一样大小的洞出来。因此，黑雪球类似亏损的交易，它会侵蚀你的安全防护墙。就如亏损的交易侵蚀你的资本一样，如果有一大堆黑雪球扔向你的雪墙，你的雪墙就会很快受损，会有一大堆黑洞在上边，甚至你的雪墙最终会消失。</li>
+</ul>
+<p>现在来看[可靠度]这个可变因素。<br>
+这就有点像关注白雪球的百分比。我们自然希望所有扔过来的雪球都是白的，从而增加我们前面雪墙的体积，但现实不会全是白雪球，总会伴随不同比例的黑雪球被抛过来，也即是黑雪球永远都存在，这时我们必须要考虑一下两种雪球的相对大小、占比问题了。<br>
+黑白雪球相对于彼此有多大呢？<br>
+比如，假设白雪球有乒乓球一般大小，而黑雪球像直径1.83米的巨石。如果是这样的话，可能只需一个黑雪球就可以把我们前面的雪墙完全摧毁——即使白雪球一整天都在被扔过来，但它太小了，几十个不如一个黑雪球大。反过来，如果白雪球有直径1.83米的巨石那么大，黑雪球像乒乓球那么大，那么每天一个白雪球就可能把墙的面积增至足够大，来保护你免受乒乓球大小的黑雪球的连续轰击。<br>
+两种雪球的大小比就等于模型中的[利润与损失的相对占比]。<br>
+下面说可变因素中的[账户耗损]，也就是交易成本。每个雪球，不管它是白的还是黑的，都对雪墙有轻微的破坏作用。很明显，这种总的破坏力量会对打雪仗的结果有一个总体的影响。</p>
+<p>在模型中，可以以墙的状况来度量雪仗的结果。如果墙的整体面积在增大，就表明扔到墙上的白雪球的总量大于黑雪球的总量。不断增大的墙就是在增加的利润，随着它的增大，我们能得到更大的安全感。如果墙在缩小，就意味着更多破坏效果的黑雪球在扔向墙，最终，前面的雪墙将失去其保护功能，导致我们也没法再玩下去。<br>
+现在，我们把前面提到的这三个可变因素放在一起考虑，就可以测算出扔到墙上的每一个雪球的平均效果。<br>
+在100个雪球扔到墙上以后，想得到扔到墙上的黑白雪球的总量，不仅要从白雪球的正面影响中减掉黑雪球造成的负面影响，还要减掉黑白雪球造成的总的破坏作用。</p>
+<p>设：A为白雪球为雪墙带来的增效，B为白雪球对雪墙的破坏作用，C为黑雪球带来的增效，D为黑雪球对墙造成的破坏。<br>
+有：总效果Y=A+B+C+D, B、C、D&lt;0，→ Y=A+（-B）+（-C）+（-D）</p>
+<p>一旦确定了100个雪球的总效果，用其除以100，你就会得到每个雪球的效果。如果这一结果是正的（也就是白雪球相对更多），那么雪墙会增大；如果这一结果为负（也就是黑雪球相对更多），那么雪墙将会缩小。<br>
+用数学表达来说，是这样的例子：<br>
+假如有60个白雪球扔到墙上，雪墙就增加6.792立方米；<br>
+假如有40个黑雪球扔到墙上，雪墙就缩小3.396立方米；<br>
+假如100个雪球总的破坏效果是0.283立方米，100个雪球总的效果是（6.792-3.396-0.283）=3.113（立方米）。<br>
+所以，最终的效果为增加3.113立方米；<br>
+用100个雪球去除3.113立方米，那最终的影响就是每一个雪球将雪墙增大0.031立方米。<br>
+在投资的真实世界里，这个期望值告诉你经过大量的一个单位的交易，你可以期望每一风险元能获得的净的利润或损失。<br>
+如果每一笔交易的最终结果为正，你就可以期望你的账户金额增加。<br>
+如果最终的结果为负，你就会预测到你的账户将消失。<br>
+要注意的是，在这个模型中，你可能会有99次交易亏损，每次亏损一元，结果，你会减少99元。然而，如果你有一次交易赚了500元，那么你的净收入就是500元减99元=401元。——尽管你只有一次交易是赚钱的，而99%的交易都是赔钱的。<br>
+假设每次交易的成本是1元，100次交易后必须要支出的耗损是100元，那你的净利润就是301元，你的期望值（每次交易的平均影响）就是每冒1元的风险用来交易，你的结果就增加3.01元。<br>
+通过以上，你理解由前三个可变因素共同组成的期望了吗？</p>
+<p>现在把打雪仗的比喻深入一点。<br>
+对于[获得机会的频率]这个可变因素，从本质上讲就是雪球扔过来的频率，也即是有多少次交易的机会——在可量化条件下，这样的机会是客观的，非主观的。<br>
+假如每个雪球的平均影响就是给雪墙增加0.031立方米的雪，如果每分钟扔一个雪球，扔了1个小时，那总的效果就是给雪墙增加了：<br>
+60x0.031=1.868立方米的雪。<br>
+同理，如果每小时扔过来2个雪球，那雪墙每小时将只会增加0.062立方米的雪，显然，第一种情形的影响是第二种的30倍。<br>
+同理，可以对每天墙面增加多少力方面的雪有个数，这样一来就会少了不切实际的痴心妄想。</p>
+<p>很显然，如雪球扔过来的速度对雪墙大小的影响一样，交易的频率对资本的变化速度有着非常显著的影响。<br>
+这涉及到我们的对自身能力的评估、动机、欲望、价值观等因素，换言之，如果在100次交易后，期望的净收入是500元，那我们决定用多少时间、什么样的方式方法做这100笔以增加账户规模的交易取决于我们的价值观等因素。可以用一天时间来做这100笔交易，也可以用一年的时间做这100笔交易，这是价值取向。<br>
+如果每天做100次交易，那么账户将每月增加10000元（每月有20个交易日）或者说每年增加120000元。<br>
+想用哪种方法进行交易：每年获利500元的方法，还是每年获利120000元的方法？<br>
+这两种玩法方法可能是非常相似的，区别是交易的频率。（再次重复）而频率的后面是我们对自身能力的评估、动机、欲望、价值观等因素的考量，普世价值观里是没有“快速”的，需要时间。</p>
+<p>根据对打雪仗这个比喻的讨论，现在你认为前四个可变因素中哪几个最为重要？为什么？你的根据是什么？<br>
+希望你现在能明白每一个可变因素的重要性。这些构成了期望值的基础，它们决定了我们交易系统的有效性。<br>
+最后看&quot;头寸规模&quot;及&quot;决定因素&quot;这两个可变因素。它们在你的总体利润水平中是最为重要的因素。<br>
+你应该已经理解了在打雪仗的游戏里，墙的大小，也就是账户的资金规模，是多么的重要。<br>
+如果墙太小，几个黑雪球就能把它摧毁。为了保护你，它必须足够大。<br>
+让我们来看头寸规模这个可变因素，它告诉你“多少”的概念。到目前为止，我们都假定一次只有一个雪球扔向墙，但是想象一下同时有很多雪球扔向墙的结果。设想一下一个乒乓球大小的黑雪球扔到墙上的效果，它将在墙上砸出一个乒乓球大小的洞。现在，想象一下10000个黑雪球同时扔到墙上的情形。它完全改变了你能想到的效果， 10000个雪球的比喻简单地解释了头寸规模确定的重要性——现在你明白“多少”的概念了吗？<br>
+我们直到现在都在讨论一个单位的规模——一个雪球或一股股票。10000个乒乓球大小的黑雪球的攻击完全可以摧毁你的雪墙，除非你的墙非常大。<br>
+类似地，你可能有一个交易方法，在其亏损时，每股股票只损失1元。然而，如果你买进10000个单位，那么损失突然之间就会变得非常巨大，现在它就是10000元。<br>
+现在再来看看决定头寸规模的重要性。如果你的资本是100万元，那么10000元的损失只相当于1%，但是如果你的资本是20000元，那么10000元的损失就是50%。</p>
+<p>至此，希望你对一个系统（或是打雪仗）的成功所包含的所有关键因素都有了深刻的认识。</p>
+<p>——摘自《通向财务自由之路》，作者：[美]范 K.撒普 著  董梅 译 ，笔者进行了整理。</p>
+]]></content>
+      <categories>
+        <category>认知思维</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>文科话概率核心</title>
     <url>//essay-1fbf7739308e.html</url>
     <content><![CDATA[<p>概率论最基本的概念是统计实验，结果是没法事先知道的，它具有不确定性。统计实验之后，就会有样本空间。所有可能出现的结果，我们把它放在一个集合里，这个集合就称作样本空间（Ω）。样本空间之后就有了“事件”，所谓事件，就是样本空间的子集，统统称它为事件。有了事件，就可以定义概率了。</p>
@@ -829,84 +907,6 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </categories>
       <tags>
         <tag>数理统计</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>打雪仗思维</title>
-    <url>//essay-d73675d4172a.html</url>
-    <content><![CDATA[<p>这是理解成功的交易者在交易中的思维方式，如果你想成为一个成功的交易者，本章的内容是至关重要的。因此，我决定在很多不同的场合通过不同的比喻来反复进行阐述，但是你必须一次就领会它，理解这些因素能够带给你令人难以置信的收益。</p>
-<p>在我看来，一个成功的交易系统，有六个关键可变因素必须要理解。</p>
-<span id="more"></span>
-<p>下面一起来探究这六个可变因素以及它们如何影响每一位投资者的利润或亏损。</p>
-<p>（1）可靠度。或者百分之多少的时间你是赚钱的。比如，你的投资是否有60%是赚钱的，而有40%是赔钱的呢？可以参考《<a href="https://kisma77.github.io/essay-813b4f49003b.html">百分百红灯策略</a>》。</p>
-<p>（2）利润与损失的相对占比(盈亏比）。进行交易时，相对于损失而言，利润水平的相对规模。例如，假如交易失败每股赔1元，而交易成功每股赚1元，那么利润水平的相对规模是一样的。然而，如果交易成功，每股赚到了10元，而交易失败，每股只赔1元，那么相对规模的盈亏比就非常不同。</p>
-<p>（3）账户耗损。只要进行交易，账户就必然会有耗损，它是滑点等执行成本和佣金支出。这些成本会随着交易量的增加越积越多，且永远不会消失。即假设单次交易量为α，滑点为β，佣金支出为x，耗损y=2·α·β·x，β,x&gt;0。</p>
-<p>（4）获得机会的频率。现在假设以上三个可变因素保持不变，其综合效应就取决于交易的频率。每天做10次交易和每年做10次交易的结果将大相径庭，别忘了耗损与交易频率成正比。</p>
-<p>（5）头寸规模确定采用的时间周期和模型，它们反过来指导每次交易多少个单位头寸。显然，每股的盈利或亏损金额就要乘上交易的股票数量。</p>
-<p>（6）账户总的资金规模。前面四个可变因素对账户的影响很大程度上取决于你的账户规模。例如，交易成本对一个1000元账户的影响要远远大于对一个100万元账户的影响。如果每笔交易的成本为20元，那么1000元的账户在每笔交易扣除2%的费用后才能获利，因此，为了抵消交易成本，你每笔交易的平均利润必须达到2%以上。然而，如果你的账户是100万元，那么同样是20元的成本对你的影响就微不足道了，它只占到账户的0.002%。类似地，500元的损失对1000元的账户而言是致命的打击，但是对100万元的账户就几乎没有影响（它只占到账户的0.05%）。</p>
-<p>这六个可变因素中，每一个都是非常重要的，但大多数股民在他们日复一日的交易中经常只关注其中一个可变因素，他们往往集中注意力于第一个可变因素，即可靠度、所谓的准确率。</p>
-<h3 id="下面通过一个打雪仗的比喻提供一个视角来看待这6个可变因素的重要性"><a class="markdownIt-Anchor" href="#下面通过一个打雪仗的比喻提供一个视角来看待这6个可变因素的重要性"></a> 下面通过一个打雪仗的比喻提供一个视角来看待这6个可变因素的重要性</h3>
-<p>想象一下你正躲在一面巨大的雪墙后面，有人正在向你的雪墙上扔雪球，而你的目标是保持墙面尽可能的大，以便获得最大程度的保护。 因此，这个比喻马上告诉你，墙的大小是一个非常重要的可变因素。</p>
-<p>[IF]墙太小，你难免会被击中;<br>
-[IF]墙很大，你可能就不会被击中。<br>
-这墙就是你的账户资金规模，上面的第六个可变因素，即将账户资本视为一面保护你的财富之墙。假定其他因素保持不变，你拥有的钱越多，墙面越大，能得到的保护也就越多。</p>
-<p>现在想象向你扔雪球的人有两种不同的雪球——白雪球和黑雪球。</p>
-<ul>
-<li>白雪球类似盈利的交易，它们会黏到你的雪墙上增加它的面积和厚度。现在设想一下一大堆白雪球向你扔过来的结果，它们会增加雪墙的体积，随着白雪球的增加，雪墙会越变越大、越变越厚，你就会得到更多的保护。</li>
-<li>黑雪球含有融雪剂，它会使这面墙上的雪融化并在雪墙上弄出一个和它们一样大小的洞出来。因此，黑雪球类似亏损的交易，它会侵蚀你的安全防护墙。就如亏损的交易侵蚀你的资本一样，如果有一大堆黑雪球扔向你的雪墙，你的雪墙就会很快受损，会有一大堆黑洞在上边，甚至你的雪墙最终会消失。</li>
-</ul>
-<p>现在来看[可靠度]这个可变因素。<br>
-这就有点像关注白雪球的百分比。我们自然希望所有扔过来的雪球都是白的，从而增加我们前面雪墙的体积，但现实不会全是白雪球，总会伴随不同比例的黑雪球被抛过来，也即是黑雪球永远都存在，这时我们必须要考虑一下两种雪球的相对大小、占比问题了。<br>
-黑白雪球相对于彼此有多大呢？<br>
-比如，假设白雪球有乒乓球一般大小，而黑雪球像直径1.83米的巨石。如果是这样的话，可能只需一个黑雪球就可以把我们前面的雪墙完全摧毁——即使白雪球一整天都在被扔过来，但它太小了，几十个不如一个黑雪球大。反过来，如果白雪球有直径1.83米的巨石那么大，黑雪球像乒乓球那么大，那么每天一个白雪球就可能把墙的面积增至足够大，来保护你免受乒乓球大小的黑雪球的连续轰击。<br>
-两种雪球的大小比就等于模型中的[利润与损失的相对占比]。<br>
-下面说可变因素中的[账户耗损]，也就是交易成本。每个雪球，不管它是白的还是黑的，都对雪墙有轻微的破坏作用。很明显，这种总的破坏力量会对打雪仗的结果有一个总体的影响。</p>
-<p>在模型中，可以以墙的状况来度量雪仗的结果。如果墙的整体面积在增大，就表明扔到墙上的白雪球的总量大于黑雪球的总量。不断增大的墙就是在增加的利润，随着它的增大，我们能得到更大的安全感。如果墙在缩小，就意味着更多破坏效果的黑雪球在扔向墙，最终，前面的雪墙将失去其保护功能，导致我们也没法再玩下去。<br>
-现在，我们把前面提到的这三个可变因素放在一起考虑，就可以测算出扔到墙上的每一个雪球的平均效果。<br>
-在100个雪球扔到墙上以后，想得到扔到墙上的黑白雪球的总量，不仅要从白雪球的正面影响中减掉黑雪球造成的负面影响，还要减掉黑白雪球造成的总的破坏作用。</p>
-<p>设：A为白雪球为雪墙带来的增效，B为白雪球对雪墙的破坏作用，C为黑雪球带来的增效，D为黑雪球对墙造成的破坏。<br>
-有：总效果Y=A+B+C+D, B、C、D&lt;0，→ Y=A+（-B）+（-C）+（-D）</p>
-<p>一旦确定了100个雪球的总效果，用其除以100，你就会得到每个雪球的效果。如果这一结果是正的（也就是白雪球相对更多），那么雪墙会增大；如果这一结果为负（也就是黑雪球相对更多），那么雪墙将会缩小。<br>
-用数学表达来说，是这样的例子：<br>
-假如有60个白雪球扔到墙上，雪墙就增加6.792立方米；<br>
-假如有40个黑雪球扔到墙上，雪墙就缩小3.396立方米；<br>
-假如100个雪球总的破坏效果是0.283立方米，100个雪球总的效果是（6.792-3.396-0.283）=3.113（立方米）。<br>
-所以，最终的效果为增加3.113立方米；<br>
-用100个雪球去除3.113立方米，那最终的影响就是每一个雪球将雪墙增大0.031立方米。<br>
-在投资的真实世界里，这个期望值告诉你经过大量的一个单位的交易，你可以期望每一风险元能获得的净的利润或损失。<br>
-如果每一笔交易的最终结果为正，你就可以期望你的账户金额增加。<br>
-如果最终的结果为负，你就会预测到你的账户将消失。<br>
-要注意的是，在这个模型中，你可能会有99次交易亏损，每次亏损一元，结果，你会减少99元。然而，如果你有一次交易赚了500元，那么你的净收入就是500元减99元=401元。——尽管你只有一次交易是赚钱的，而99%的交易都是赔钱的。<br>
-假设每次交易的成本是1元，100次交易后必须要支出的耗损是100元，那你的净利润就是301元，你的期望值（每次交易的平均影响）就是每冒1元的风险用来交易，你的结果就增加3.01元。<br>
-通过以上，你理解由前三个可变因素共同组成的期望了吗？</p>
-<p>现在把打雪仗的比喻深入一点。<br>
-对于[获得机会的频率]这个可变因素，从本质上讲就是雪球扔过来的频率，也即是有多少次交易的机会——在可量化条件下，这样的机会是客观的，非主观的。<br>
-假如每个雪球的平均影响就是给雪墙增加0.031立方米的雪，如果每分钟扔一个雪球，扔了1个小时，那总的效果就是给雪墙增加了：<br>
-60x0.031=1.868立方米的雪。<br>
-同理，如果每小时扔过来2个雪球，那雪墙每小时将只会增加0.062立方米的雪，显然，第一种情形的影响是第二种的30倍。<br>
-同理，可以对每天墙面增加多少力方面的雪有个数，这样一来就会少了不切实际的痴心妄想。</p>
-<p>很显然，如雪球扔过来的速度对雪墙大小的影响一样，交易的频率对资本的变化速度有着非常显著的影响。<br>
-这涉及到我们的对自身能力的评估、动机、欲望、价值观等因素，换言之，如果在100次交易后，期望的净收入是500元，那我们决定用多少时间、什么样的方式方法做这100笔以增加账户规模的交易取决于我们的价值观等因素。可以用一天时间来做这100笔交易，也可以用一年的时间做这100笔交易，这是价值取向。<br>
-如果每天做100次交易，那么账户将每月增加10000元（每月有20个交易日）或者说每年增加120000元。<br>
-想用哪种方法进行交易：每年获利500元的方法，还是每年获利120000元的方法？<br>
-这两种玩法方法可能是非常相似的，区别是交易的频率。（再次重复）而频率的后面是我们对自身能力的评估、动机、欲望、价值观等因素的考量，普世价值观里是没有“快速”的，需要时间。</p>
-<p>根据对打雪仗这个比喻的讨论，现在你认为前四个可变因素中哪几个最为重要？为什么？你的根据是什么？<br>
-希望你现在能明白每一个可变因素的重要性。这些构成了期望值的基础，它们决定了我们交易系统的有效性。<br>
-最后看&quot;头寸规模&quot;及&quot;决定因素&quot;这两个可变因素。它们在你的总体利润水平中是最为重要的因素。<br>
-你应该已经理解了在打雪仗的游戏里，墙的大小，也就是账户的资金规模，是多么的重要。<br>
-如果墙太小，几个黑雪球就能把它摧毁。为了保护你，它必须足够大。<br>
-让我们来看头寸规模这个可变因素，它告诉你“多少”的概念。到目前为止，我们都假定一次只有一个雪球扔向墙，但是想象一下同时有很多雪球扔向墙的结果。设想一下一个乒乓球大小的黑雪球扔到墙上的效果，它将在墙上砸出一个乒乓球大小的洞。现在，想象一下10000个黑雪球同时扔到墙上的情形。它完全改变了你能想到的效果， 10000个雪球的比喻简单地解释了头寸规模确定的重要性——现在你明白“多少”的概念了吗？<br>
-我们直到现在都在讨论一个单位的规模——一个雪球或一股股票。10000个乒乓球大小的黑雪球的攻击完全可以摧毁你的雪墙，除非你的墙非常大。<br>
-类似地，你可能有一个交易方法，在其亏损时，每股股票只损失1元。然而，如果你买进10000个单位，那么损失突然之间就会变得非常巨大，现在它就是10000元。<br>
-现在再来看看决定头寸规模的重要性。如果你的资本是100万元，那么10000元的损失只相当于1%，但是如果你的资本是20000元，那么10000元的损失就是50%。</p>
-<p>至此，希望你对一个系统（或是打雪仗）的成功所包含的所有关键因素都有了深刻的认识。</p>
-<p>——摘自《通向财务自由之路》，作者：[美]范 K.撒普 著  董梅 译 ，笔者进行了整理。</p>
-]]></content>
-      <categories>
-        <category>认知思维</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
       </tags>
   </entry>
   <entry>
@@ -1001,6 +1001,26 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
+    <title>着手搬家</title>
+    <url>//essay-d99c2d12e247.html</url>
+    <content><![CDATA[<p>为了5月份的分娩，要搬到北京医院附近去住。</p>
+<span id="more"></span>
+<p>但我目前还没有找房子，明天开始找，周末去看房。北京医院那边的房子都比较老，价格也不低，新小区的价格更是高得离谱。</p>
+<p>看着中介网站上的房价，两手空空的人，最容易猝不及防了。</p>
+<h1 id="点点越来越大了"><a class="markdownIt-Anchor" href="#点点越来越大了"></a> 点点越来越大了</h1>
+<p>今天我从书房出去，走到客厅看到老婆在沙发上，发现肚子比昨天更大了，点点越来越大了，老婆给他测心跳，对我说：“点点好活泼啊！”</p>
+<p>最近几天天气不错，每天中午吃完饭都陪老婆出去遛弯。今天去盒马时，我说要买束花给她，结果她不让买。</p>
+<p>“三八节嘛，买一小把吧”</p>
+<p>“不买，我买草莓吃吧！嘿嘿”</p>
+]]></content>
+      <categories>
+        <category>生活日记</category>
+      </categories>
+      <tags>
+        <tag>搬家</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>笛卡尔的四条准则</title>
     <url>//essay-d0f2f25eec7e.html</url>
     <content><![CDATA[<p>我们知道，在重建住宅之前，光把旧房拆掉，备上新料，请好建筑师，或者亲自设计，并且仔细绘出图纸，毕竟还是不够的，还应该另外准备一所房子，好在施工期间舒舒服服地住着。所以，当我受到理性的驱使、在判断上持犹疑态度的时候，为了不至于在行动上犹疑不决，为了今后还能十分幸运地活着，我给自己定下了一套临时行为规范，一共只有三四条准则，我愿意把它的内容告诉大家。</p>
@@ -1022,26 +1042,6 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       <tags>
         <tag>准则</tag>
         <tag>坐标</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>着手搬家</title>
-    <url>//essay-d99c2d12e247.html</url>
-    <content><![CDATA[<p>为了5月份的分娩，要搬到北京医院附近去住。</p>
-<span id="more"></span>
-<p>但我目前还没有找房子，明天开始找，周末去看房。北京医院那边的房子都比较老，价格也不低，新小区的价格更是高得离谱。</p>
-<p>看着中介网站上的房价，两手空空的人，最容易猝不及防了。</p>
-<h1 id="点点越来越大了"><a class="markdownIt-Anchor" href="#点点越来越大了"></a> 点点越来越大了</h1>
-<p>今天我从书房出去，走到客厅看到老婆在沙发上，发现肚子比昨天更大了，点点越来越大了，老婆给他测心跳，对我说：“点点好活泼啊！”</p>
-<p>最近几天天气不错，每天中午吃完饭都陪老婆出去遛弯。今天去盒马时，我说要买束花给她，结果她不让买。</p>
-<p>“三八节嘛，买一小把吧”</p>
-<p>“不买，我买草莓吃吧！嘿嘿”</p>
-]]></content>
-      <categories>
-        <category>生活日记</category>
-      </categories>
-      <tags>
-        <tag>搬家</tag>
       </tags>
   </entry>
   <entry>
@@ -1081,6 +1081,25 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </categories>
       <tags>
         <tag>智慧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>虽盈利，还是丢了西瓜</title>
+    <url>//essay-951b935f99d3.html</url>
+    <content><![CDATA[<p>今天虽然盈利，但还是拣了芝麻丢了西瓜。</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231601843.png" alt="账户"></p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231603772.png" alt="p2305" style="zoom:50%;">
+<p>总是喜欢动，这是瘾，是病！</p>
+<blockquote>
+<p>交易上瘾症：行为心理学家可以很好地解释成瘾这件事：“做了一件事让你感觉很不错，于是情不自禁地还想做，哪怕长期来看，也知道这样做可能对自己不利，但还是很难打住。此外，当你感到不愉快的时候，也会想要通过做那些感觉不错的事情来避免体验不愉快，这样下去，就会成瘾，产生依赖。”</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>商贾贸易</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
       </tags>
   </entry>
   <entry>
@@ -1147,25 +1166,6 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </categories>
       <tags>
         <tag>认知心理学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>虽盈利，还是丢了西瓜</title>
-    <url>//essay-951b935f99d3.html</url>
-    <content><![CDATA[<p>今天虽然盈利，但还是拣了芝麻丢了西瓜。</p>
-<span id="more"></span>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231601843.png" alt="账户"></p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231603772.png" alt="p2305" style="zoom:50%;">
-<p>总是喜欢动，这是瘾，是病！</p>
-<blockquote>
-<p>交易上瘾症：行为心理学家可以很好地解释成瘾这件事：“做了一件事让你感觉很不错，于是情不自禁地还想做，哪怕长期来看，也知道这样做可能对自己不利，但还是很难打住。此外，当你感到不愉快的时候，也会想要通过做那些感觉不错的事情来避免体验不愉快，这样下去，就会成瘾，产生依赖。”</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>商贾贸易</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
       </tags>
   </entry>
   <entry>
