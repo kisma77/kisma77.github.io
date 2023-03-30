@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kisma77.github.io/essay-fabd83b27de6.html</loc>
+    
+    <lastmod>2023-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kisma77.github.io/essay-fea10c63a088.html</loc>
     
     <lastmod>2023-03-30</lastmod>
@@ -394,13 +403,6 @@
   </url>
   
   <url>
-    <loc>http://kisma77.github.io/tags/%E7%85%A7%E7%9B%B8/</loc>
-    <lastmod>2023-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kisma77.github.io/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -408,14 +410,14 @@
   </url>
   
   <url>
-    <loc>http://kisma77.github.io/tags/%E6%8A%95%E6%9C%BA/</loc>
+    <loc>http://kisma77.github.io/tags/%E7%A7%9F%E6%88%BF/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kisma77.github.io/tags/%E7%A7%9F%E6%88%BF/</loc>
+    <loc>http://kisma77.github.io/tags/%E7%85%A7%E7%9B%B8/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -436,6 +438,13 @@
   </url>
   
   <url>
+    <loc>http://kisma77.github.io/tags/%E6%8A%95%E6%9C%BA/</loc>
+    <lastmod>2023-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://kisma77.github.io/tags/%E4%BA%A4%E6%98%93%E5%BF%83%E7%90%86/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -444,6 +453,13 @@
   
   <url>
     <loc>http://kisma77.github.io/tags/%E9%92%B1/</loc>
+    <lastmod>2023-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisma77.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -464,14 +480,14 @@
   </url>
   
   <url>
-    <loc>http://kisma77.github.io/tags/%E8%AE%A4%E7%9F%A5%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
+    <loc>http://kisma77.github.io/tags/%E8%AE%A4%E7%9F%A5/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://kisma77.github.io/tags/%E8%AE%A4%E7%9F%A5/</loc>
+    <loc>http://kisma77.github.io/tags/%E8%AE%A4%E7%9F%A5%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
