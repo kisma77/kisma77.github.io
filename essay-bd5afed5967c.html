@@ -1,17 +1,31 @@
 <!DOCTYPE html>
-<html lang=zh>
+<html lang="zh-CN">
 <head>
-    <!-- so meta -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
-    <meta name="description" content="前言 绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收">
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 6.3.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"kisma77.github.io","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"remove","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":true,"preload":true},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="前言绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情">
 <meta property="og:type" content="article">
 <meta property="og:title" content="不得不承认，无法量化的运气很重要">
 <meta property="og:url" content="http://kisma77.github.io/essay-bd5afed5967c.html">
 <meta property="og:site_name" content="泡芙的博客">
-<meta property="og:description" content="前言 绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收">
+<meta property="og:description" content="前言绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212350697.jpg">
@@ -34,165 +48,215 @@
 <meta property="article:tag" content="商品期货">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg">
-    
-    
-      
-        
-          
-            <link rel="shortcut icon" href="https://www.gravatar.com/avatar/1c0ccb80f18de6871d3fd37b97cd3594?s=48">
-          
-        
-      
-      
-        
-          
-            <link rel="icon" type="image/png" href="https://www.gravatar.com/avatar/1c0ccb80f18de6871d3fd37b97cd3594?s=192" sizes="192x192">
-          
-        
-      
-      
-        
-          
-            <link rel="apple-touch-icon" sizes="180x180" href="https://www.gravatar.com/avatar/1c0ccb80f18de6871d3fd37b97cd3594?s=180">
-          
-        
-      
-    
-    <!-- title -->
-    <title>不得不承认，无法量化的运气很重要</title>
-    <!-- styles -->
-    
-<link rel="stylesheet" href="/css/style.css">
 
-    <!-- persian styles -->
-    
-    <!-- rss -->
-    
-    
-      <link rel="alternate" href="/true" title="泡芙的博客" type="application/atom+xml" />
-    
-	<!-- mathjax -->
-	
-		<script type="text/x-mathjax-config">
-		  MathJax.Hub.Config({
-			tex2jax: {
-			  skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-			  inlineMath: [['$','$']]
-			}
-		  });
-		</script>
-		<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
-	
-<meta name="generator" content="Hexo 6.3.0"></head>
-
-<body class="max-width mx-auto px3 ltr">
-    
-      <div id="header-post">
-  <a id="menu-icon" href="#" aria-label="目录"><i class="fas fa-bars fa-lg"></i></a>
-  <a id="menu-icon-tablet" href="#" aria-label="目录"><i class="fas fa-bars fa-lg"></i></a>
-  <a id="top-icon-tablet" href="#" aria-label="顶部" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
-  <span id="menu">
-    <span id="nav">
-      <ul>
-        <!--
-       --><li><a href="/">首页</a></li><!--
-     --><!--
-       --><li><a href="/archives/">归档</a></li><!--
-     --><!--
-       --><li><a href="/about/">留言</a></li><!--
-     --><!--
-       --><li><a href="/search/">搜索</a></li><!--
-     -->
-      </ul>
-    </span>
-    <br/>
-    <span id="actions">
-      <ul>
-        
-        <li><a class="icon" aria-label="上一篇" href="/essay-befd07b4209d.html"><i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i></a></li>
-        
-        
-        <li><a class="icon" aria-label="下一篇" href="/essay-70b142be3104.html"><i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i></a></li>
-        
-        <li><a class="icon" aria-label="返回顶部" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i></a></li>
-        <li><a class="icon" aria-label="分享文章" href="#"><i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i></a></li>
-      </ul>
-      <span id="i-prev" class="info" style="display:none;">上一篇</span>
-      <span id="i-next" class="info" style="display:none;">下一篇</span>
-      <span id="i-top" class="info" style="display:none;">返回顶部</span>
-      <span id="i-share" class="info" style="display:none;">分享文章</span>
-    </span>
-    <br/>
-    <div id="share" style="display: none">
-      <ul>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=http://kisma77.github.io/essay-bd5afed5967c.html"><i class="fab fa-facebook " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=http://kisma77.github.io/essay-bd5afed5967c.html&text=不得不承认，无法量化的运气很重要"><i class="fab fa-twitter " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=http://kisma77.github.io/essay-bd5afed5967c.html&is_video=false&description=不得不承认，无法量化的运气很重要"><i class="fab fa-pinterest " aria-hidden="true"></i></a></li>
-  <li><a class="icon" href="mailto:?subject=不得不承认，无法量化的运气很重要&body=Check out this article: http://kisma77.github.io/essay-bd5afed5967c.html"><i class="fas fa-envelope " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-get-pocket " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-reddit " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-stumbleupon " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-digg " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=http://kisma77.github.io/essay-bd5afed5967c.html&name=不得不承认，无法量化的运气很重要&description="><i class="fab fa-tumblr " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://news.ycombinator.com/submitlink?u=http://kisma77.github.io/essay-bd5afed5967c.html&t=不得不承认，无法量化的运气很重要"><i class="fab fa-hacker-news " aria-hidden="true"></i></a></li>
-</ul>
-
-    </div>
-    <div id="toc">
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%89%8D%E8%A8%80"><span class="toc-number">1.</span> <span class="toc-text"> 前言</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%88%90%E5%8A%9F%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88"><span class="toc-number">2.</span> <span class="toc-text"> 成功需要什么</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#stimulating-serendipity%E6%9B%B4%E6%9C%89%E6%95%88%E7%9A%84%E8%B5%84%E5%8A%A9%E7%AD%96%E7%95%A5"><span class="toc-number">3.</span> <span class="toc-text"> Stimulating  Serendipity（更有效的资助策略）</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#stimulating-the-environment%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%9B%B4%E5%AE%B9%E6%98%93%E9%80%A0%E5%B0%B1%E6%88%90%E5%8A%9F"><span class="toc-number">4.</span> <span class="toc-text"> Stimulating the Environment（什么样的社会更容易造就成功？）</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%BB%93%E8%AE%BA"><span class="toc-number">5.</span> <span class="toc-text"> 结论</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%89%A9%E5%B1%95%E9%98%85%E8%AF%BB"><span class="toc-number">6.</span> <span class="toc-text"> 扩展阅读</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%AE%BE%E5%AE%9A"><span class="toc-number">7.</span> <span class="toc-text"> 设定</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AE%9E%E9%AA%8C"><span class="toc-number">8.</span> <span class="toc-text"> 实验</span></a></li></ol>
-    </div>
-  </span>
-</div>
-
-    
-    <div class="content index py4">
-        
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header>
-    
-    <h1 class="posttitle" itemprop="name headline">
-        不得不承认，无法量化的运气很重要
-    </h1>
+<link rel="canonical" href="http://kisma77.github.io/essay-bd5afed5967c.html">
 
 
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
 
-    <div class="meta">
-      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span itemprop="name">kisma</span>
-      </span>
-      
-    <div class="postdate">
-      
-        <time datetime="2023-03-21T15:36:24.000Z" itemprop="datePublished">2023-03-21</time>
-        
-      
-    </div>
-
-
-      
-    <div class="article-category">
-        <i class="fas fa-archive"></i>
-        <a class="category-link" href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/">生活日记</a>
-    </div>
-
-
-      
-    <div class="article-tag">
-        <i class="fas fa-tag"></i>
-        <a class="tag-link-link" href="/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/" rel="tag">商品期货</a>
-    </div>
-
-
-    </div>
-  </header>
+  <title>不得不承认，无法量化的运气很重要 | 泡芙的博客</title>
   
 
-  <div class="content" itemprop="articleBody">
-    <h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
-<p>绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情况，如果把人生看作一个一个的阶段，用简化的转移矩阵去模拟，你会发现，初始阶段约优越的条件，越容易得到大收益，也可以理解位成功。因而可以将人生简化为两种：一种是穷n+1代，一种类是n+1代，经过若干次迭代，富n+1代达到的财富值，穷n+1代穷尽一生，甚至是N代都无法企及。学习是我难以用语言来表述。无论是马尔科夫链还是意大利这样的科学研究得出的结果令人悲伤，甚至绝望。</p>
-<h2 id="成功需要什么"><a class="markdownIt-Anchor" href="#成功需要什么"></a> 成功需要什么</h2>
-<p>成功人士都有那些秘诀？从《成功》、《福布斯》、《企业家》等杂志的流行程度来看，人们对成功这一话题从不乏热情。一种深层次的假设认为：**成功是可以习得的。**这一假设基于成功人士身上具备的、促使他们走到今天的那些个性特征，例如天赋、才能、意志力、勤奋、韧性、乐观、成长型思维以及情商。这一假设不仅是这些成功学杂志得以流行的基础，也影响了我们的社会进行资源分配的方式。从工作机会到荣誉，再到政府补助，再到公共政策决策，我们都习惯于假设最成功的人也是最能干的，并将资源分配给那些有成功过往的人，而倾向于忽略那些不成功的人。</p>
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">泡芙的博客</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活就像一盒巧克力,你永远不知道会得到什么。</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://kisma77.github.io/essay-bd5afed5967c.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="kisma">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="泡芙的博客">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          不得不承认，无法量化的运气很重要
+        </h1>
+
+        <div class="post-meta">
+ 
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2023-03-21 23:36:24" itemprop="dateCreated datePublished" datetime="2023-03-21T23:36:24+08:00">2023-03-21</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">生活日记</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>绝大多数的成功读物都会孜孜不倦地教导人：只要你努力，你就能成功。但无论是科学研究还是社会经验都告诉我们，这并不是一个靠谱的结论。看到过一篇2018年的文章，是说意大利的一个研究小组的发现那些平凡却幸运的个体，要比有天赋而不幸的个体更加成功。换言之，很多取得巨大成就的人，他们也许并非具有过人的才能，而只是运气特别好。其实在学习概率论中的马尔科夫链时就觉察到了这样的结论——求一定转移矩阵下的收敛情况，如果把人生看作一个一个的阶段，用简化的转移矩阵去模拟，你会发现，初始阶段约优越的条件，越容易得到大收益，也可以理解位成功。因而可以将人生简化为两种：一种是穷n+1代，一种类是n+1代，经过若干次迭代，富n+1代达到的财富值，穷n+1代穷尽一生，甚至是N代都无法企及。学习是我难以用语言来表述。无论是马尔科夫链还是意大利这样的科学研究得出的结果令人悲伤，甚至绝望。</p>
+<h2 id="成功需要什么"><a href="#成功需要什么" class="headerlink" title="成功需要什么"></a>成功需要什么</h2><p>成功人士都有那些秘诀？从《成功》、《福布斯》、《企业家》等杂志的流行程度来看，人们对成功这一话题从不乏热情。一种深层次的假设认为：<strong>成功是可以习得的。</strong>这一假设基于成功人士身上具备的、促使他们走到今天的那些个性特征，例如天赋、才能、意志力、勤奋、韧性、乐观、成长型思维以及情商。这一假设不仅是这些成功学杂志得以流行的基础，也影响了我们的社会进行资源分配的方式。从工作机会到荣誉，再到政府补助，再到公共政策决策，我们都习惯于假设最成功的人也是最能干的，并将资源分配给那些有成功过往的人，而倾向于忽略那些不成功的人。</p>
 <p>但这一假设正确吗？在整个职业生涯中，我一直致力于研究能预测成就和创造力的心理特征。虽然我已经发现，有一些心理特征（例如：激情、毅力、想象力、求知欲和开放性）确实能很好地解释成功之间的差异，但我更感兴趣的是，有多少差异是这些特征无法解释的。</p>
 <p>近几年里，有不少研究和书籍都认为，在包括金融交易、商业、体育、艺术、音乐、文学和科学在内的多个领域中，运气和机会可能比我们以为的更重要。他们的观点是：虽然天赋也很重要，但数据表明，在试图找出成功的决定因素时，如果我们只专注于个人特征，那么就会错过成功图景中真正重要的一片拼图。</p>
 <p>以下是一些新发现（2018）：</p>
@@ -205,11 +269,11 @@
 <p>姓名听起来更阳刚（男性化）的女性，更易在法律职业生涯中获得成功。</p>
 </blockquote>
 <p>运气这一隐藏维度的重要性引出了一个有趣的问题：我们社会中那些成功人士取得了成就，仅仅是因为他们比较幸运吗？这一假设哪怕只是部分正确，都将对我们如何分配有限的资源产生重大影响，也将帮助富人和成功人士更有效地回报社会。</p>
-<p>为了试图阐明这一重大问题，意大利物理学家Allesandro Pluchino、Andrea Raspisarda和意大利经济学家Alessio Biondo组成研究小组，第一次尝试量化运气和天赋对成功的影响。在他们开创性的工作中，他们提醒那些“天真的精英”，**人们低估了随机因素的作用，而实际上并没有把荣誉和奖励赋予最有能力的人。**为了进一步解释这一现象，他们提出了“玩具数学模型”，模拟了一群人在40年的工作生涯中（从20岁到60岁）职业的发展变化。</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg" alt="Pluchino,Biondo, & Rapisarda 2018" style="zoom:100%;">
+<p>为了试图阐明这一重大问题，意大利物理学家Allesandro Pluchino、Andrea Raspisarda和意大利经济学家Alessio Biondo组成研究小组，第一次尝试量化运气和天赋对成功的影响。在他们开创性的工作中，他们提醒那些“天真的精英”，<strong>人们低估了随机因素的作用，而实际上并没有把荣誉和奖励赋予最有能力的人。</strong>为了进一步解释这一现象，他们提出了“玩具数学模型”，模拟了一群人在40年的工作生涯中（从20岁到60岁）职业的发展变化。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212348007.jpg" alt="Pluchino,Biondo, & Rapisarda 2018" style="zoom:100%;"></p>
 <p>​                                                           <em>模拟初始化设定图（N=1000） Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
 <p>意大利研究者们设定了大量“天赋”水平不同的假设个体（“代号1”至“代号1000”），将这些个体置于一个正方形的世界中，让他们在其中经历他们的整个工作生涯。他们将“天赋”定义为<strong>让一个人能够抓住机遇的任何一组个性特征</strong>。天赋可以包括智力、技能、动机、决心、创造性思维、情商等等。这里的关键在于，<strong>更有天赋的人会更倾向于从各种机会中找出最适合他们的那一个</strong>。</p>
-<p>在模拟开始时，所有的个体拥有相同的成功值（10“成功单位”）。每六个月，这些个体会遇到特定数量的<strong>幸运事件（绿色）<strong>和特定数量的</strong>不幸事件（红色）</strong>。当个体遇到不幸事件时，其成功值减半；当个体遇到幸运事件时，其成功值根据其天赋水平按比例增加（以反映真实世界中天赋与机会之间的关系）。</p>
+<p>在模拟开始时，所有的个体拥有相同的成功值（10“成功单位”）。每六个月，这些个体会遇到特定数量的<strong>幸运事件（绿色）</strong>和特定数量的<strong>不幸事件（红色）</strong>。当个体遇到不幸事件时，其成功值减半；当个体遇到幸运事件时，其成功值根据其天赋水平按比例增加（以反映真实世界中天赋与机会之间的关系）。</p>
 <p>他们的发现是什么？首先，他们重现了著名的“帕雷托原理”，即二八原理。这一原理认为，少数人最终将获得大多数人的成功（Richard Koch又将其引用为“80/20原理”）。在40年模拟的最终结果中，虽然初始设定的天赋呈正态分布，成功却不是。<strong>20名最成功的个体合计占有了44%的成功值</strong>，而将近半数人的成功值维持在10单位以下（与初始设定值相同）。这一结果和来自真实世界的数据相同，甚至有迹象表明，财富成功在真实世界中的分布要更加不平衡：最富有的8个人拥有的财富等于世界上最贫穷的一半人的财富总和。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212350697.jpg" alt="天赋的正态分布"></p>
 <p>​                                                                                     <em>天赋的正态分布 Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
@@ -222,8 +286,7 @@
 <p>​                                                             <em>最成功和最不成功个体的成功值演变图  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
 <p>正如你所见，绿色线条表示的最成功的个体在其生命中遇到了一系列非常幸运的事件，而红色线条表示的最不成功的个体（他们甚至比那些最成功的个体天赋更高）在生命中经历的不幸事件难以想象地多。正如论文作者所说，“在不幸的怒火面前，即使拥有极高的天赋也无济于事。”</p>
 <p>怀才不遇无论对个体还是社会而言都是不幸的。因此，我们可以做些什么来让那些最有能力利用机会的人得到他们最需要的发展机会呢？</p>
-<h2 id="stimulating-serendipity更有效的资助策略"><a class="markdownIt-Anchor" href="#stimulating-serendipity更有效的资助策略"></a> Stimulating  Serendipity（更有效的资助策略）</h2>
-<p>许多“精英主义”用以分配荣誉、资金或奖励的策略，通常基于某个人过去的成功经历。以这样的方式进行选拔无疑会导致富人更富、穷人更穷，这也被称作“<strong>马太效应</strong>”。但这是激发潜力的最有效策略吗？如果你是决策人，哪一种投资策略会更为有效呢？向几位以前有成功经历的申请人提供大笔资助，还是将资金分成很多份分给许多不那么成功的普通人？</p>
+<h2 id="Stimulating-Serendipity（更有效的资助策略）"><a href="#Stimulating-Serendipity（更有效的资助策略）" class="headerlink" title="Stimulating  Serendipity（更有效的资助策略）"></a>Stimulating  Serendipity（更有效的资助策略）</h2><p>许多“精英主义”用以分配荣誉、资金或奖励的策略，通常基于某个人过去的成功经历。以这样的方式进行选拔无疑会导致富人更富、穷人更穷，这也被称作“<strong>马太效应</strong>”。但这是激发潜力的最有效策略吗？如果你是决策人，哪一种投资策略会更为有效呢？向几位以前有成功经历的申请人提供大笔资助，还是将资金分成很多份分给许多不那么成功的普通人？</p>
 <p>Jean-Michel Fortin和 David Currie 曾研究过更大规模的资助是否会带来更大的成果。他们发现在研究资金和科研成果影响力之间的确存在一定的正相关，<strong>但这种关联非常微弱</strong>。更重要的是，那些获得第二笔资助的人并不比那些只获得一笔资助的人更多产，而且对于这些人而言成果通常是资助的递减函数。</p>
 <p>论文作者们认为，<strong>比起那些以“优秀”作为遴选标准的项目，更关注目标多样性的资助策略可能会对社会产生更大的影响</strong>。在一项更新的研究中，研究人员研究了魁北克在15年期间内对12720名研究人员提供的资金。他们得出的结论是，“在论文数量和科学影响方面，研究资金集中在所谓的‘精英’研究人员手中，通常会产生边际收益递减”。</p>
 <p>基于这项工作，模拟了运气对成功的影响的意大利研究组进行了进一步模拟。他们从上帝视角探讨了许多不同资助策略的有效性。在模拟个体的40年工作生涯中，他们每隔5年就换用一次不同的资助策略。我们已经发现，在没有任何资助的情况下，最成功的个体是那些拥有平均天赋水平却非常幸运的人。当研究组向模拟中引入多种资助策略后，会有什么结果呢？</p>
@@ -235,16 +298,13 @@
 <blockquote>
 <p>“如果投资目标是奖励最有天赋的人，以使他们最终获得更高的成就，那么向所有人定期等额提供资金，会比将大额资金提供给被选中的小部分人更有效。”</p>
 </blockquote>
-<h2 id="stimulating-the-environment什么样的社会更容易造就成功"><a class="markdownIt-Anchor" href="#stimulating-the-environment什么样的社会更容易造就成功"></a> Stimulating the Environment（什么样的社会更容易造就成功？）</h2>
-<p>这个不可思议的意大利研究组并没有就此止步！既然拥有了上帝视角，为什么不钻研到底呢。他们还做了一些改变了个体所处环境的模拟实验。使用之前搭建的框架，他们模拟了一个非常激励人的环境，对每个人而言都充满了机遇（比如像美国那样富裕而高度工业化的国家），也模拟了一个相比之下不那么激励人的环境，只有非常少的机会（比如第二次世界大战中的国家）。以下是他们的发现：</p>
+<h2 id="Stimulating-the-Environment（什么样的社会更容易造就成功？）"><a href="#Stimulating-the-Environment（什么样的社会更容易造就成功？）" class="headerlink" title="Stimulating the Environment（什么样的社会更容易造就成功？）"></a>Stimulating the Environment（什么样的社会更容易造就成功？）</h2><p>这个不可思议的意大利研究组并没有就此止步！既然拥有了上帝视角，为什么不钻研到底呢。他们还做了一些改变了个体所处环境的模拟实验。使用之前搭建的框架，他们模拟了一个非常激励人的环境，对每个人而言都充满了机遇（比如像美国那样富裕而高度工业化的国家），也模拟了一个相比之下不那么激励人的环境，只有非常少的机会（比如第二次世界大战中的国家）。以下是他们的发现：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303212355915.jpg" alt="最成功个体在充满机遇的环境和机遇不多的环境中的成功值"></p>
 <p>​                                <em>最成功个体在充满机遇的环境（上）和机遇不多的环境（下）中的成功值  Pluchino,Biondo, &amp; Rapisarda 2018</em></p>
 <p>观察比较充满机遇的环境（上）与机遇不多的环境（下）中结果分布的差异。在上半幅图模拟的环境中，一部分天赋水平中上的个体能够获得非常高的成功值，天赋较高的人获得较高成功值的可能性也比较高。相反，在第二幅图模拟的环境中，整个社会的总成功值水平很低，并且只有18个个体获得了比初始值更高的成功。</p>
-<h2 id="结论"><a class="markdownIt-Anchor" href="#结论"></a> 结论</h2>
-<p>以上模拟实验的结果与越来越多的基于真实世界数据的研究结果相吻合，所有的结果都强烈表明，**运气和机会在决定个人的最终成功水平方面扮演着重要角色。**正如研究者指出的，奖励和资源通常都被给予那些已经被高度赞扬的人们，而这往往会导致最有天赋的那些人（比如，最有潜力因这些资源真正受益的人）反而得不到机会。在进行这样的资源分配时我们忽视了运气扮演的重要角色，实际上，运气的影响在整个创造性的过程中难以避免。研究者们认为，为了给人们更多成功的机会，以下因素都很关键：<strong>一个充满机遇的环境、良好的教育、密集的培训和行之有效的资金与资源分配策略</strong>。他们认为，任何能够影响这些因素的政策都将有助于公民的个人实现，也会在宏观层面为全社会带来更大的集体进步和更多创新。</p>
+<h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>以上模拟实验的结果与越来越多的基于真实世界数据的研究结果相吻合，所有的结果都强烈表明，<strong>运气和机会在决定个人的最终成功水平方面扮演着重要角色。</strong>正如研究者指出的，奖励和资源通常都被给予那些已经被高度赞扬的人们，而这往往会导致最有天赋的那些人（比如，最有潜力因这些资源真正受益的人）反而得不到机会。在进行这样的资源分配时我们忽视了运气扮演的重要角色，实际上，运气的影响在整个创造性的过程中难以避免。研究者们认为，为了给人们更多成功的机会，以下因素都很关键：<strong>一个充满机遇的环境、良好的教育、密集的培训和行之有效的资金与资源分配策略</strong>。他们认为，任何能够影响这些因素的政策都将有助于公民的个人实现，也会在宏观层面为全社会带来更大的集体进步和更多创新。</p>
 <p>正文来自：<a target="_blank" rel="noopener" href="https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/">Scott Barry Kaufman：The Role of Luck in Life Success Is Far Greater Than We Realized</a></p>
-<h2 id="扩展阅读"><a class="markdownIt-Anchor" href="#扩展阅读"></a> 扩展阅读</h2>
-<p>我自己曾用R模拟过这个游戏，结果令人“冷静”，把一位网友的方法留在这里，他的方法比我的“科学”。</p>
+<h2 id="扩展阅读"><a href="#扩展阅读" class="headerlink" title="扩展阅读"></a>扩展阅读</h2><p>我自己曾用R模拟过这个游戏，结果令人“冷静”，把一位网友的方法留在这里，他的方法比我的“科学”。</p>
 <p>用 Shiny 写的第一个小程序。这个 Shiny 呢，简单来说是 Rstudio 里面自带的一个网页程序的编辑器。安装并打开 Rstudio，从“新建”里面找到“Shiny Web App”。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220005234.png" alt="Rstudio"></p>
 <p>给程序取个名字，就可以开始编写了。（最简单的做法是清空窗口，把我下面的代码拷贝进去）</p>
@@ -252,8 +312,7 @@
 <p>之后点击右上角的 Run app，就可以出现属于自己的模拟器。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220007941.png" alt="Run-app"></p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008078.png" alt="Run-app"></p>
-<h2 id="设定"><a class="markdownIt-Anchor" href="#设定"></a> 设定</h2>
-<p>我们假设有 1000 个玩家，每人手里有 10000 元的筹码，可以用来赌博。</p>
+<h2 id="设定"><a href="#设定" class="headerlink" title="设定"></a>设定</h2><p>我们假设有 1000 个玩家，每人手里有 10000 元的筹码，可以用来赌博。</p>
 <ul>
 <li>每一局游戏，玩家都可以抵押 500 元的筹码。输了，筹码不退还；赢了，筹码翻倍。</li>
 <li>输赢的概率各占 50%。</li>
@@ -262,15 +321,12 @@
 <p>好，开始了游戏设定，我们按照设定模拟一下，看看会发生什么吧。100次游戏之后，大家的财富分配是怎样的呢？</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220008084.png" alt="Run-app"></p>
 <p>右边的两张图分别是 1000 位玩家的财富柱状图和排位图。红线表示初始资金 10000元 的位置。我们看到，这个时候的财富分配还比较平均，<strong>有大约 55%的人财富在 10000 以上。</strong></p>
-<h2 id="实验"><a class="markdownIt-Anchor" href="#实验"></a> 实验</h2>
-<p>有了这个模拟器，我们可以改变原始游戏的一些参数，看看会发生什么不同的结果。<br>
-【实验一：加大赌注】</p>
+<h2 id="实验"><a href="#实验" class="headerlink" title="实验"></a>实验</h2><p>有了这个模拟器，我们可以改变原始游戏的一些参数，看看会发生什么不同的结果。<br>【实验一：加大赌注】</p>
 <p>之前我们说，每场游戏的赌注是500元。如果游戏的赌注增加，会对最后的结果有怎样的影响？</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009055.png" alt="Pasted image 20230109103543"></p>
 <p>赌注增大到 1000 元。游戏结束时，有近 300 人余额为 0。余额 10000 以上的人数约为50%。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220009186.png" alt="Pasted image 20230109103721"></p>
-<p>赌注增大到1500元，游戏结束时有近 600 人余额为 0。余额 10000 以上的人数小于40%。<br>
-现在我们增加赌注到 3000 元看看</p>
+<p>赌注增大到1500元，游戏结束时有近 600 人余额为 0。余额 10000 以上的人数小于40%。<br>现在我们增加赌注到 3000 元看看</p>
 <p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303220010222.png" alt="Pasted image 20230109103830"></p>
 <p>【讨论】</p>
 <ol>
@@ -286,165 +342,235 @@
 <p>【讨论】</p>
 <ol>
 <li>在赌场中，没有人是常胜将军。你从人生前 100 局游戏中获得的收入，很可能会在第 500 局之前消失殆尽。</li>
-<li>这个实验的局限性在于，我们假设赢钱的人要一直玩下去，玩到游戏结束为止。而输钱的人输到倾家荡产就会退出。这个假设，是不是合理呢？各位又怎么看？</li>
-</ol>
+<li><p>这个实验的局限性在于，我们假设赢钱的人要一直玩下去，玩到游戏结束为止。而输钱的人输到倾家荡产就会退出。这个假设，是不是合理呢？各位又怎么看？</p>
 <p>读到这，有不少读者朋友可能都会好奇这个模拟器的原理。其实，这是我刚才用半个多小时拿 Shiny 自己写的，大家可以通过<a target="_blank" rel="noopener" href="https://jiafeili.shinyapps.io/Gamblers_Simulation/">这个链接，自己改改参数，随手玩一玩</a></p>
+</li>
+</ol>
 <p>这是赌徒之殇（Gambler’s Ruin Problem ），从某种意义上来讲，赌资大小决定胜率。这招叫以力破巧，俗称<strong>用钱砸死你</strong>。</p>
 <blockquote>
 <p>长袖善舞，多财善贾——韩非子</p>
 </blockquote>
+---------END-----------
+	  
+    </div>
 
-  </div>
-</article>
+    
+    
+    
 
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/" rel="tag"># 商品期货</a>
+          </div>
+        
 
 
         
-          <div id="footer-post-container">
-  <div id="footer-post">
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/essay-70b142be3104.html" rel="prev" title="今天开始申请准生证">
+      <i class="fa fa-chevron-left"></i> 今天开始申请准生证
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/essay-befd07b4209d.html" rel="next" title="单日最大跌幅里赚点零头">
+      单日最大跌幅里赚点零头 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
 
-    <div id="nav-footer" style="display: none">
-      <ul>
-         
-          <li><a href="/">首页</a></li>
-         
-          <li><a href="/archives/">归档</a></li>
-         
-          <li><a href="/about/">留言</a></li>
-         
-          <li><a href="/search/">搜索</a></li>
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
         
-      </ul>
-    </div>
 
-    <div id="toc-footer" style="display: none">
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%89%8D%E8%A8%80"><span class="toc-number">1.</span> <span class="toc-text"> 前言</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%88%90%E5%8A%9F%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88"><span class="toc-number">2.</span> <span class="toc-text"> 成功需要什么</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#stimulating-serendipity%E6%9B%B4%E6%9C%89%E6%95%88%E7%9A%84%E8%B5%84%E5%8A%A9%E7%AD%96%E7%95%A5"><span class="toc-number">3.</span> <span class="toc-text"> Stimulating  Serendipity（更有效的资助策略）</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#stimulating-the-environment%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%9B%B4%E5%AE%B9%E6%98%93%E9%80%A0%E5%B0%B1%E6%88%90%E5%8A%9F"><span class="toc-number">4.</span> <span class="toc-text"> Stimulating the Environment（什么样的社会更容易造就成功？）</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%BB%93%E8%AE%BA"><span class="toc-number">5.</span> <span class="toc-text"> 结论</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%89%A9%E5%B1%95%E9%98%85%E8%AF%BB"><span class="toc-number">6.</span> <span class="toc-text"> 扩展阅读</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%AE%BE%E5%AE%9A"><span class="toc-number">7.</span> <span class="toc-text"> 设定</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AE%9E%E9%AA%8C"><span class="toc-number">8.</span> <span class="toc-text"> 实验</span></a></li></ol>
-    </div>
+        
 
-    <div id="share-footer" style="display: none">
-      <ul>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=http://kisma77.github.io/essay-bd5afed5967c.html"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=http://kisma77.github.io/essay-bd5afed5967c.html&text=不得不承认，无法量化的运气很重要"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=http://kisma77.github.io/essay-bd5afed5967c.html&is_video=false&description=不得不承认，无法量化的运气很重要"><i class="fab fa-pinterest fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" href="mailto:?subject=不得不承认，无法量化的运气很重要&body=Check out this article: http://kisma77.github.io/essay-bd5afed5967c.html"><i class="fas fa-envelope fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-reddit fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=http://kisma77.github.io/essay-bd5afed5967c.html&title=不得不承认，无法量化的运气很重要"><i class="fab fa-digg fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=http://kisma77.github.io/essay-bd5afed5967c.html&name=不得不承认，无法量化的运气很重要&description="><i class="fab fa-tumblr fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://news.ycombinator.com/submitlink?u=http://kisma77.github.io/essay-bd5afed5967c.html&t=不得不承认，无法量化的运气很重要"><i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i></a></li>
-</ul>
-
-    </div>
-
-    <div id="actions-footer">
-        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;"><i class="fas fa-bars fa-lg" aria-hidden="true"></i> 菜单</a>
-        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;"><i class="fas fa-list fa-lg" aria-hidden="true"></i> 目录</a>
-        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;"><i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> 分享</a>
-        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> 返回顶部</a>
-    </div>
-
-  </div>
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">kisma</span>
 </div>
 
         
-        <footer id="footer">
-      <div class="footer-left">
-        Copyright &copy;
-        
-        
-        2023
-        kisma
-      </div>
-      <div class="footer-right">
-        <nav>
-          <ul>
-            <!--
-          --><li><a href="/">首页</a></li><!--
-        --><!--
-          --><li><a href="/archives/">归档</a></li><!--
-        --><!--
-          --><li><a href="/about/">留言</a></li><!--
-        --><!--
-          --><li><a href="/search/">搜索</a></li><!--
-        -->
-          </ul>
-          <ul>
-            
-              <!-- 不蒜子统计 -->
-              <span id="busuanzi_container_site_pv">
-                  本站总访问量<span id="busuanzi_value_site_pv"></span>次
-              </span>
-              <span class="post-meta-divider">|</span>
-              <span id="busuanzi_container_site_uv" style='display:none'>
-                      本站访客数<span id="busuanzi_value_site_uv"></span>人
-              </span>
-            <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            
-          </ul>
-        </nav>
-      </div>
-      
-</footer>
+<div class="busuanzi-count">
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      看客数<span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      路过人数<span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
 
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/pjax/pjax.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+</script>
+
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+  <script>
+var pjax = new Pjax({
+  selectors: [
+    'head title',
+    '#page-configurations',
+    '.content-wrap',
+    '.post-toc-wrap',
+    '.languages',
+    '#pjax'
+  ],
+  switches: {
+    '.post-toc-wrap': Pjax.switches.innerHTML
+  },
+  analytics: false,
+  cacheBust: false,
+  scrollTo : !CONFIG.bookmark.enable
+});
+
+window.addEventListener('pjax:success', () => {
+  document.querySelectorAll('script[data-pjax], script#page-configurations, #pjax script').forEach(element => {
+    var code = element.text || element.textContent || element.innerHTML || '';
+    var parent = element.parentNode;
+    parent.removeChild(element);
+    var script = document.createElement('script');
+    if (element.id) {
+      script.id = element.id;
+    }
+    if (element.className) {
+      script.className = element.className;
+    }
+    if (element.type) {
+      script.type = element.type;
+    }
+    if (element.src) {
+      script.src = element.src;
+      // Force synchronous loading of peripheral JS.
+      script.async = false;
+    }
+    if (element.dataset.pjax !== undefined) {
+      script.dataset.pjax = '';
+    }
+    if (code !== '') {
+      script.appendChild(document.createTextNode(code));
+    }
+    parent.appendChild(script);
+  });
+  NexT.boot.refresh();
+  // Define Motion Sequence & Bootstrap Motion.
+  if (CONFIG.motion.enable) {
+    NexT.motion.integrator
+      .init()
+      .add(NexT.motion.middleWares.subMenu)
+      .add(NexT.motion.middleWares.postList)
+      .bootstrap();
+  }
+  NexT.utils.updateSidebarPosition();
+});
+</script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="pjax">
+  
+
+  
 
     </div>
-    <!-- styles -->
-
-
-
-  <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'"/>
-
-
-    <!-- jquery -->
- 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script> 
-
-
-
-
-<!-- clipboard -->
-
-  
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.7/clipboard.min.js" crossorigin="anonymous"></script> 
-  
-  <script type="text/javascript">
-  $(function() {
-    // copy-btn HTML
-    var btn = "<span class=\"btn-copy tooltipped tooltipped-sw\" aria-label=\"复制到粘贴板！\">";
-    btn += '<i class="far fa-clone"></i>';
-    btn += '</span>'; 
-    // mount it!
-    $(".highlight table").before(btn);
-    var clip = new ClipboardJS('.btn-copy', {
-      text: function(trigger) {
-        return Array.from(trigger.nextElementSibling.querySelectorAll('.code')).reduce((str,it)=>str+it.innerText+'\n','')
-      }
-    });
-    clip.on('success', function(e) {
-      e.trigger.setAttribute('aria-label', "复制成功！");
-      e.clearSelection();
-    })
-  })
-  </script>
-
-
-<script src="/js/main.js"></script>
-
-<!-- search -->
-
-<!-- Google Analytics -->
-
-<!-- Baidu Analytics -->
-
-<!-- Cloudflare Analytics -->
-
-<!-- Umami Analytics -->
-
-<!-- Disqus Comments -->
-
-<!-- utterances Comments -->
-
 </body>
 </html>
