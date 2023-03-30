@@ -17,8 +17,12 @@
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301009151.png">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300933250.png">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300932290.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301426412.png">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301432109.png">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301444547.png">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301446451.png">
 <meta property="article:published_time" content="2023-02-17T12:42:35.000Z">
-<meta property="article:modified_time" content="2023-03-30T05:58:45.004Z">
+<meta property="article:modified_time" content="2023-03-30T06:49:26.586Z">
 <meta property="article:author" content="kisma">
 <meta property="article:tag" content="博客配置">
 <meta name="twitter:card" content="summary">
@@ -178,13 +182,104 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
 <img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300933250.png" alt="GitHub图床" style="zoom: 50%;">
 <p>或者将需要的图片直接“拉”进文章也可以</p>
 <img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300932290.jpg" alt="采用图床" style="zoom: 50%;">
+<h2 id="4去掉页面的阅读更多"><a class="markdownIt-Anchor" href="#4去掉页面的阅读更多"></a> 4.去掉页面的“阅读更多”</h2>
+<p>hexo 博客如果不自己在文章添加一个<code>&lt;!--more--&gt;</code> 标记，上传后整篇不管多长都直接给你放在主页，想看下面的几篇博文就要滑滑滑，滑半天才能看到后面几篇博文，既不符合设计原则，也不美观不方便。</p>
+<h3 id="41-传统方式"><a class="markdownIt-Anchor" href="#41-传统方式"></a> 4.1 传统方式</h3>
+<ol>
+<li>
+<p>在文章中使用<code>&lt; !--more--&gt;</code> 手动进行截断.<br>
+这种方法可以根据文章的内容，自己在合适的位置添加 <code>&lt; !--more--&gt;</code> 标签，使用灵活，也是Hexo推荐的方法。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301426412.png" alt="Hexo推荐的‘阅读全文’方法"></p>
+<p>可以在<code>\scaffolds\post.md</code>模板里设置，不用每篇文章都手动添加。</p>
+</li>
+<li>
+<p>自动形成摘要，在<strong>主题配置文件</strong>中添加<br>
+默认截取的长度为 150 字符，可以根据需要自行设定</p>
+</li>
+</ol>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">auto_excerpt:</span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">true</span></span><br><span class="line">  length: 150</span><br></pre></td></tr></table></figure>
+<p>官方建议使用 <code>&lt; !-- more --&gt;</code>方式，除了可以精确控制需要显示的摘录内容以外， 这种方式也可以让 Hexo 中的插件更好的识别。</p>
+<p>我觉得很不好，——实现方式粗暴直接，主页上有很多“ read more”，不美观。</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301432109.png" alt="read more标签" style="zoom:50%;">
+<p>那就自己改一下。</p>
+<p>按照逻辑来说，我们所关注的就是写文章，而摘要应该是根据文章内容通过 tf-idf 等一系列摘要算法生成的，再不济也应该是直接截取文章开头一段文字作为摘要嘛，总之是应该自动生成的，而且不应该修改 MD 源文件。</p>
+<p>思路：改主题代码。</p>
+<p>就我个人而言，以行的方式截取比以字数的方式截取的结果，对摘要完整性要友好的多。</p>
+<p>整理下我的需求，最后我得到几点初步的要求：</p>
+<ol>
+<li>能在主题配置文件中配置是否开启自动摘要</li>
+<li>摘要以行为单位自动从开头截取</li>
+<li>能配置固定截取的行数</li>
+</ol>
+<p>根据这几项需求，自己动手一步步实现。</p>
+<p>首先是找到要修改的代码的位置，因为这里主要是对文章显示时的修改，相关代码肯定是在有关文章内容显示的文件内，对 hexo 来说，通常是 article.ejs post.ejs 等类似名字的文件，它们的特点就是都会在主页显示文章和单独访问博文时用到。</p>
+<p>我用的是<code>landscape</code>主题，这里就是<code>\node_modules\hexo-theme-landscape\layout\_partial\article.ejs</code>这个文件</p>
+<p>打开 <code>article.ejs</code>，找到与摘要相关的代码：</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;article-entry&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;articleBody&quot;</span>&gt;</span></span><br><span class="line">&lt;% if (index &amp;&amp; post.excerpt) &#123; %&gt;</span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>&lt;%- post.excerpt %&gt;<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">&quot;article-more-link&quot;</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;&lt;%- url_for(post.path) %&gt;#more&quot;</span>&gt;</span>&lt;%= __(&#x27;article.more&#x27;) %&gt;<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">&lt;% &#125; else &#123; %&gt;</span><br><span class="line">    &lt;% if (!index &amp;&amp; post.toc) &#123; %&gt;</span><br><span class="line">        <span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;toc&quot;</span> <span class="attr">class</span>=<span class="string">&quot;toc-article&quot;</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">strong</span> <span class="attr">class</span>=<span class="string">&quot;toc-title&quot;</span>&gt;</span>&lt;%= __(&#x27;article.catalogue&#x27;) %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span><br><span class="line">            &lt;%- toc(post.content) %&gt;</span><br><span class="line">        <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">    &lt;%- post.content %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>这里简单讲一下各变量含义，这各文件是在每篇文章生成时被调用的，</p>
+<p><code>index</code> 是指现在是否在首页的标志</p>
+<p><code>post</code> 指这篇文章</p>
+<p><code>post.excerpt</code> 指文章原始摘要内容，既 <code>&lt;!--more--&gt;</code>之前的内容。</p>
+<p><code>url_for()</code> 返回一个 root 路径的 url，不带域名</p>
+<p><code>post.path</code> 指文章的网址，不含 root 目录</p>
+<p><code>post.toc</code> 指文章目录显示是否开了</p>
+<p><code>toc()</code> 解析文本，生成目录，既 h1-h6 的列表。</p>
+<p><code>post.content</code> 指文章全部内容</p>
+<p>现在再看，<code>article.ejs</code> 里代码的逻辑就很清楚了，在遍历文章的时候 <strong>先判断当前页面是否在首页，如果在首页并且这篇文档有摘要</strong>，那就只显示摘要并显示一个 ReadMore；<strong>否则</strong> 就显示全文（其中有一个“判断不在首页并且文章配置了开启目录就显示目录”与我们现在讨论的 readmore 无关所以暂且不管）。</p>
+<p>按照我们的思路，应该就是在上面“否则”后面加上自动截取前 n 行作为摘要并显示 ReadMore。</p>
+<p>一步步来，</p>
+<p>首先，我们需要一个可以配置的<strong>开关</strong>，用来配置是否启用自动截取生成摘要的功能，还需要一个可以配置的变量，用来配置固定截取几行。</p>
+<p>文章显示是主题干的事，这两个配置也是主题相关的，因此我们打开 <strong>主题配置文件</strong>，添加几个键值对并保存：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Excerpt </span></span><br><span class="line"><span class="comment">## Auto creat excerpt with not &lt;!--more--&gt;</span></span><br><span class="line"><span class="comment">## Enable will truncate auto_excerpt.lines rows in post head to replace excerpt.</span></span><br><span class="line"><span class="attr">auto_excerpt:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">lines:</span> <span class="number">5</span></span><br></pre></td></tr></table></figure>
+<p>然后回到 <code>article.ejs</code> 里，梳理一下我们的思路，整理一下一共有哪些显示摘要，哪些不显示的情况：</p>
+<ul>
+<li>不显示 ReadMore 的情况
+<ol>
+<li>不在首页</li>
+<li>在首页，无摘要，关闭自动截取</li>
+<li>在首页，无摘要，使能自动截取，文章没有足够的长度</li>
+</ol>
+</li>
+<li>显示 ReadMore 的情况
+<ol>
+<li>在首页，有摘要</li>
+<li>在首页，无摘要，使能自动截取，文章足够长</li>
+</ol>
+</li>
+</ul>
+<p>将以上情况整理成判断逻辑，再把目录显示加上，列出一个“中式代码”：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">是否显示全文 = true</span><br><span class="line"><span class="keyword">if</span> 在首页:</span><br><span class="line">    <span class="keyword">if</span> 有摘要:</span><br><span class="line">        是否显示全文 = false</span><br><span class="line">        显示摘要</span><br><span class="line">    <span class="keyword">else</span> <span class="keyword">if</span> 主题.自动截取.使能:</span><br><span class="line">        截取前 n 行作为摘要</span><br><span class="line">        <span class="keyword">if</span> 文章长度足够:</span><br><span class="line">            是否显示全文 = false</span><br><span class="line">            显示截取的结果</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="keyword">if</span> 文章配置显示目录:</span><br><span class="line">        显示目录</span><br><span class="line"><span class="keyword">if</span> 是否显示全文:</span><br><span class="line">    显示全文</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    显示 ReadMore</span><br></pre></td></tr></table></figure>
+<p>这样来看逻辑很清晰了。</p>
+<p>然后就是具体实现过程中我遇到的两个问题：</p>
+<ol>
+<li>
+<p>ReadMore 总是可能被当成文章文字的一部分而被改变样式</p>
+<p>原因是 icarus 原本就是把 ReadMore 用 p 标签放在文章中间的，如果 ReadMore 刚好实在一个列表间或者一块代码间，那显示就会很奇怪了。我改成了把整个摘要或者说文章放在一个 div 中，再把 Readmore 放在后面的另一块 div 中，这样 ReadMore 就与内容无关了。</p>
+</li>
+<li>
+<p>如何读取行数</p>
+<p>前面提到的两个自动截取摘要的文章，一篇 NexT 是自动截取字数，另一篇是固定截取两行，</p>
+<p>而我想的办法是通过多次调用 string.indexOf(str, start_position) 方法，每次改变起始位置来获取下一次的位置，有一次获取不到位置就说明文章还没有那么多行的长度。</p>
+<p>然后再用 string.substring(start, end) 方法，截取到获取的位置。</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&lt;% <span class="keyword">var</span> br_position = <span class="number">0</span> %&gt;</span><br><span class="line">&lt;% <span class="keyword">for</span> (<span class="keyword">var</span> br_count = <span class="number">0</span>; br_count &lt; theme.<span class="property">auto_excerpt</span>.<span class="property">lines</span>; br_count++) &#123; %&gt;</span><br><span class="line">    &lt;% br_position = post.<span class="property">content</span>.<span class="title function_">indexOf</span>(<span class="string">&#x27;\n&#x27;</span>,br_position + <span class="number">1</span>) %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span>(br_position &lt; <span class="number">0</span>) &#123; <span class="keyword">break</span> &#125; %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span>(br_position &gt; <span class="number">0</span>) &#123; %&gt;</span><br><span class="line">    &lt;p&gt;&lt;%- post.<span class="property">content</span>.<span class="title function_">substring</span>(<span class="number">0</span>, br_position + <span class="number">1</span>) %&gt;&lt;p&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+<p>现在开始按照伪代码的逻辑编写 ejs 了，最后的工作就是把原来 <code>article.ejs</code> 的摘要相关代码（本节开头提到的）全部替换成我们写的自动截取摘要的代码：</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line">&lt;div <span class="keyword">class</span>=<span class="string">&quot;article-entry&quot;</span> itemprop=<span class="string">&quot;articleBody&quot;</span>&gt;</span><br><span class="line">&lt;% <span class="keyword">var</span> show_all_content = <span class="literal">true</span> %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span> (index) &#123; %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span> (post.<span class="property">excerpt</span>) &#123; %&gt;</span><br><span class="line">        &lt;% show_all_content = <span class="literal">false</span> %&gt;</span><br><span class="line">        <span class="language-xml"><span class="tag">&lt;<span class="name">p</span>&gt;</span>&lt;%- post.excerpt %&gt;<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span></span><br><span class="line">    &lt;% &#125; <span class="keyword">else</span> <span class="keyword">if</span> (theme.<span class="property">auto_excerpt</span>.<span class="property">enable</span>) &#123; %&gt;</span><br><span class="line">        &lt;% <span class="keyword">var</span> br_position = <span class="number">0</span> %&gt;</span><br><span class="line">        &lt;% <span class="keyword">for</span> (<span class="keyword">var</span> br_count = <span class="number">0</span>; br_count &lt; theme.<span class="property">auto_excerpt</span>.<span class="property">lines</span>; br_count++) &#123; %&gt;</span><br><span class="line">            &lt;% br_position = post.<span class="property">content</span>.<span class="title function_">indexOf</span>(<span class="string">&#x27;\n&#x27;</span>,br_position + <span class="number">1</span>) %&gt;</span><br><span class="line">            &lt;% <span class="keyword">if</span>(br_position &lt; <span class="number">0</span>) &#123; <span class="keyword">break</span> &#125; %&gt;</span><br><span class="line">        &lt;% &#125; %&gt;</span><br><span class="line">        &lt;% <span class="keyword">if</span>(br_position &gt; <span class="number">0</span>) &#123; %&gt;</span><br><span class="line">            &lt;% show_all_content = <span class="literal">false</span> %&gt;</span><br><span class="line">            &lt;p&gt;&lt;%- post.<span class="property">content</span>.<span class="title function_">substring</span>(<span class="number">0</span>, br_position + <span class="number">1</span>) %&gt;&lt;p&gt;</span><br><span class="line">        &lt;% &#125; %&gt;</span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;% &#125; <span class="keyword">else</span> &#123; %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span> (post.<span class="property">toc</span>) &#123; %&gt;</span><br><span class="line">        <span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;toc&quot;</span> <span class="attr">class</span>=<span class="string">&quot;toc-article&quot;</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;<span class="name">strong</span> <span class="attr">class</span>=<span class="string">&quot;toc-title&quot;</span>&gt;</span>&lt;%= __(&#x27;article.catalogue&#x27;) %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">            &lt;%- toc(post.content) %&gt;</span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span> (show_all_content) &#123; %&gt;</span><br><span class="line">    &lt;%- post.<span class="property">content</span> %&gt;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">&lt;% &#125; <span class="keyword">else</span> &#123; %&gt;</span><br><span class="line">    &lt;/div&gt;   </span><br><span class="line">    <span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;article-more-link&quot;</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;&lt;%- url_for(post.path) %&gt;#more&quot;</span>&gt;</span>&lt;%= __(&#x27;article.more&#x27;) %&gt;<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">    <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure>
+<p>此时，</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<p>预览发现显示“article.more”</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301444547.png" alt="“article.more”" style="zoom: 50%;">
+<p>删除代码<code>&lt;a href=&quot;&lt;%- url_for(post.path) %&gt;#more&quot;&gt;&lt;%= __('article.more') %&gt;&lt;/a&gt;</code>中的<code>article.more</code></p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301446451.png" alt="删除‘article.more’字样" style="zoom:50%;">
+<p>搞定，现在你可以把原来文章中的 <code>&lt;!--more--&gt;</code> 删了，以后也不用再写了。</p>
 
     </div>
 
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/essay-fea10c63a088.html" data-id="clfuq5m360001qcj9fbabdav5" data-title="Hello World And 博客配置记录" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/essay-fea10c63a088.html" data-id="clfur9zq50001zwj94dm1c1eo" data-title="Hello World And 博客配置记录" class="article-share-link">分享</a>
       
       
       
