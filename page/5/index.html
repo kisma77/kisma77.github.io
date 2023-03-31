@@ -423,10 +423,10 @@
         
             
             <p><p>记录本博客的配置</p>
-<h2 id="1配置永久连接"><a class="markdownIt-Anchor" href="#1配置永久连接"></a> 1.配置“永久连接”</h2>
-<h3 id="11-安装abbrlink插件"><a class="markdownIt-Anchor" href="#11-安装abbrlink插件"></a> 1.1 <strong>安装abbrlink插件</strong></h3>
-<p>在博客根目录（执行hexo命令的地方）安装插件：</p>
+<h2 id="1-配置“永久连接”"><a href="#1-配置“永久连接”" class="headerlink" title="1.配置“永久连接”"></a>1.配置“永久连接”</h2><h3 id="1-1-安装abbrlink插件"><a href="#1-1-安装abbrlink插件" class="headerlink" title="1.1 安装abbrlink插件"></a>1.1 <strong>安装abbrlink插件</strong></h3><p>在博客根目录（执行hexo命令的地方）安装插件：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
+<h3 id="1-2-编辑站点配置文件"><a href="#1-2-编辑站点配置文件" class="headerlink" title="1.2 编辑站点配置文件"></a>1.2 <strong>编辑站点配置文件</strong></h3><p>打开博客根目录下的<code>站点配置文件_config.yml</code>，修改如下配置：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">#permalink: :year/:month/:day/:title/</span><br><span class="line">#permalink_defaults:</span><br><span class="line">permalink: posts/:abbrlink/</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32 #support crc16(default) and crc32</span><br><span class="line">  rep: dec   #support dec(default) and hex</span><br></pre></td></tr></table></figure>
 <p>
         
     
