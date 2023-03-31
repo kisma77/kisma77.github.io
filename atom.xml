@@ -6,7 +6,7 @@
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
   
   <link href="http://kisma77.github.io/"/>
-  <updated>2023-03-30T18:07:21.513Z</updated>
+  <updated>2023-03-31T02:01:17.739Z</updated>
   <id>http://kisma77.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wikitten主题添加分享到微博</title>
+    <link href="http://kisma77.github.io/essay-5360acf39451.html"/>
+    <id>http://kisma77.github.io/essay-5360acf39451.html</id>
+    <published>2023-03-31T01:51:10.000Z</published>
+    <updated>2023-03-31T02:01:17.739Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="在hexo中使用wikitten模板时添加百度分享的方法"><a class="markdownIt-Anchor" href="#在hexo中使用wikitten模板时添加百度分享的方法"></a> 在hexo中使用wikitten模板时添加百度分享的方法。</h2><p>网上查找在hexo中添加链接分享的方法是，查到的都是用next主题的，<br>用wikitten主题时，如何添加分享并没有介绍。</p><p>自己翻了一下代码，发现wikitten主题的结构非常清楚。</p><h3 id="第一步"><a class="markdownIt-Anchor" href="#第一步"></a> 第一步</h3><p>在_config.xml中的share选项中的几个分享的选项</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># Share</span><br><span class="line">share: bdshare # options: jiathis, bdshare, addtoany, default</span><br></pre></td></tr></table></figure><h3 id="第二步"><a class="markdownIt-Anchor" href="#第二步"></a> 第二步</h3><p>在\themes\Wikitten\layout\share文件夹中都有对应的文件。</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303310953757.jpeg" alt="share文件夹中的文件"></p><h3 id="第三步"><a class="markdownIt-Anchor" href="#第三步"></a> 第三步</h3><p>打开bdshare.ejs 可以把现在已经不存在的开心网，腾讯微博的链接去掉，只保留qq空间，新浪微博和微信。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;div class=&quot;bdsharebuttonbox&quot;&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_more&quot; data-cmd=&quot;more&quot;&gt;  分享到：&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_qzone&quot; data-cmd=&quot;qzone&quot; title=&quot;分享到QQ空间&quot;&gt;QQ空间&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_tsina&quot; data-cmd=&quot;tsina&quot; title=&quot;分享到新浪微博&quot;&gt;新浪微博&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_weixin&quot; data-cmd=&quot;weixin&quot; title=&quot;分享到微信&quot;&gt;微信&lt;/a&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>之后把保存的bdshare.ejs文件<code>复制并放到</code>主题目录下的<code>\themes\Wikitten\layout\common</code>下</p><h3 id="第四步"><a class="markdownIt-Anchor" href="#第四步"></a> 第四步</h3><p>修改common目录下的article.ejs（article.ejs就是决定着hexo生成的静态文件的布局）。<br>把分享链接放到文章的标题栏的日期的位置</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">&lt;div class=&quot;article-meta&quot;&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/category&#x27;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/tag&#x27;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/date&#x27;, &#123; class_name: &#x27;article-date&#x27;, date_format: null &#125;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;share/bdshare&#x27;) %&gt;</span><br><span class="line">    &lt;% if (theme.plugins.busuanzi_count) &#123; %&gt;</span><br><span class="line">        &lt;i class=&quot;fa fa-bar-chart&quot;&gt;&lt;/i&gt;</span><br><span class="line">        &lt;span id=&quot;busuanzi_container_site_pv&quot;&gt;&lt;span id=&quot;busuanzi_value_page_pv&quot;&gt;&lt;/span&gt;&lt;/span&gt;    </span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">    &lt;% if (theme.history_control.enable) &#123; </span><br><span class="line">        let repertory_address = `$&#123;theme.history_control.server_link&#125;/$&#123;theme.history_control.user&#125;/$&#123;theme.history_control.repertory&#125;`;</span><br><span class="line">        let file_path = `$&#123;theme.history_control.branch&#125;/source/$&#123;post.source&#125;`;%&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/raw/$&#123;file_path&#125;` %&gt;&#x27;&gt; Source &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/edit/$&#123;file_path&#125;` %&gt;&#x27;&gt; Edit &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/commits/$&#123;file_path&#125;` %&gt;&#x27;&gt; History &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>找到<code>&lt;%- partial('post/date', &#123; class_name: 'article-date', date_format: null &#125;) %&gt;</code>,然后把<code>&lt;%- partial('share/bdshare') %&gt;</code>当到它后面，并保存。</p><p>完成。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;在hexo中使用wikitten模板时添加百度分享的方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在hexo中使用wikitten模板时添加百度分享的方法&quot;&gt;&lt;/a&gt; 在hexo中使用wikitten模板时添加百度分享的方法。&lt;/</summary>
+      
+    
+    
+    
+    <category term="hexo博客建设" scheme="http://kisma77.github.io/categories/hexo%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/"/>
+    
+    <category term="wikitten主题" scheme="http://kisma77.github.io/categories/hexo%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/wikitten%E4%B8%BB%E9%A2%98/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>如能运行，切勿动它</title>
@@ -473,31 +497,6 @@
     
     
     <category term="搬家" scheme="http://kisma77.github.io/tags/%E6%90%AC%E5%AE%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>态度系统</title>
-    <link href="http://kisma77.github.io/essay-059fbe457e18.html"/>
-    <id>http://kisma77.github.io/essay-059fbe457e18.html</id>
-    <published>2023-03-16T15:52:07.000Z</published>
-    <updated>2023-03-30T17:39:25.665Z</updated>
-    
-    <content type="html"><![CDATA[<p>从来，“态度决定一切”这样的话经常听到，一开始认为是百无一用的“鸡汤”，但当我看了心理学名作《态度系统与社会影响》后，知道了它不是鸡汤，或者说它是营养价值很高的鸡汤。</p><h1 id="心理学中态度的解释"><a class="markdownIt-Anchor" href="#心理学中态度的解释"></a> 心理学中“态度”的解释</h1><p>是个体基于过去经验对其周围的人、事、物持有的比较持久而一致的心理准备状态或人格倾向。</p><p>当态度是由于某种经验、学科理论而建立的，而不是道听途说，他们就更具有稳定性，更能引发行为。我们坚定我们所相信的，同样地，我们也会逐步相信我们坚持的东西。即态度能影响行为，反过来，行为也能决定我们的态度。</p><h2 id="态度的组成部分"><a class="markdownIt-Anchor" href="#态度的组成部分"></a> 态度的组成部分</h2><p>态度包含认知、情感和行为意向三个部分。</p><p>认知指个体如何知觉事物，认识其概念内涵，基本上由对事物的知识或信息构成，反应个体对事物的相信与不相信。情感指个体对事物的评价，反映个体对事物的喜欢与不喜欢。行为意向指个体对事物的行为倾向，反映个体对事物的行为意图及准备状态。三部分彼此协调统一。</p><p>当认知与情感相矛盾时，行为意向与情感的一致性要大于与认知的一致性。不一致时就会出现认知不协调，从而产生矛盾心理。</p><h2 id="态度的特点"><a class="markdownIt-Anchor" href="#态度的特点"></a> 态度的特点：</h2><p>（1）有特定的对象；</p><p>（2）在后天的生活中习得，可以通过他人或媒体等间接经验形成，也可形成于个体的直接经验，主要通过联想、强化、模仿三种过程获得；</p><p>（3）不外显，是一个心里意向；</p><p>（4）一旦形成，相对稳定；</p><p>（5）对个人的内心活动和外显行为具有激发、调整和协调作用。</p><p><strong>本质上，态度就是对某种特定目标的评价倾向。它是一个人对某种事物或者人从喜欢到不喜欢，或从赞成到不赞成的一个评价</strong>。<br>态度就是我们喜欢什么，不喜欢什么，我们推崇什么，讨厌什么，以及我们评价自己与环境关系的方式。它是倾向性，就意味着可习得，以某种特定方式思考某个事物、某个人或某个问题的倾向。这些新形成的关于某个科学、某个理论、某个组织的正面态度，就使这个人将来更容易去接收支持这些学科、理论、组织的信息。当然，信念和态度的改变也许不会直接引起行为的改变，但它往往奠定了后来行为变化的基础，使这个人更容易受到后续影响的作用。</p><p>要探究态度如何引起行为的变化，我们需要先来看看态度系统。</p><h3 id="我们对社会事物的5种反应"><a class="markdownIt-Anchor" href="#我们对社会事物的5种反应"></a> 我们对社会事物的5种反应。</h3><ul><li><p>第一种是行为本身，“我在与朋友交谈时坚持18岁是可以饮酒的年龄”，这里的“交谈”就是行为，“我给国会议员写信”也是行为，表达的主张、观点是“反对现在的饮酒年龄限制”。</p></li><li><p>第二种是行为意向，指在做某事之前的期望和具体的行动计划，这些计划可能从不会实施。“我会给能担责的18岁的人啤酒喝”，这里的“会”只是一种计划、意向，还没有实施行为。</p></li><li><p>第三种是指引我们行动的观念、信念或者认知，包括关于某个事物和个体“应该”如何对待它的一些信念和知识。“适量饮酒是一种社交行为”这是一种观念、认为、认知。（见行为改变系统、信念价值系统。）</p></li><li><p>第四种是情感反应、情绪或“本能的感受”，反映了个体处在生理唤醒水平上的态度，如快感，悲伤等。“我喜欢在社交场合喝酒”，这是态度，是情感的反应。</p></li><li><p>第五种是态度本身，即个体对某种事物的整体评价，也就是基于以上4个方面的综合评估后得出的一个价值判断。<br>因此，将态度广义定义为：建立在认知、情感反应、行为意向以及过去行为基础上的评价性倾向，这些都可以改变我们的认知、行为、情感反应，以及未来的行为意向和行为本身（Zanna &amp; Rempel,1988).<br>这一定义意味着态度的各个部分都是高度相关的（参见数学上的相关性）。认知和态度与我们所谓的对某个事物的心理表征密切相关。情感反应和外在行为可以因事物在我们头脑中的出现而产生。反过来，他们又会为我们头脑中关于这一事物的心理表征注入新的信息。因此，关于某个事物和问题的态度、行为、认知和情绪就构成了一个人特有的整体反应系统。因为态度是这个态度的整体反应（比如，我喜欢），所以我们就称这个系统为态度系统。如图1.1<br><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303162359372.png" alt="图1.1 态度系统"></p><p>结合交易，有</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303170000000.png" alt="态度系统"></p></li></ul><p>“树立正确的目标”是一种态度，也是一种价值观，正确的价值观能实现正效价，在有利于达成目标的效价下，会产生合适的动机。当认知不协调时，产生认知失衡，从而导致矛盾心理出现，改变认知过程将自我的不切实际的需要变为客观事实的要求，在这样的态度下就能实现认知和谐。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;从来，“态度决定一切”这样的话经常听到，一开始认为是百无一用的“鸡汤”，但当我看了心理学名作《态度系统与社会影响》后，知道了它不是鸡汤，或者说它是营养价值很高的鸡汤。&lt;/p&gt;
-&lt;h1 id=&quot;心理学中态度的解释&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; h</summary>
-      
-    
-    
-    
-    <category term="A.认知思维" scheme="http://kisma77.github.io/categories/A-%E8%AE%A4%E7%9F%A5%E6%80%9D%E7%BB%B4/"/>
-    
-    
-    <category term="认知心理学" scheme="http://kisma77.github.io/tags/%E8%AE%A4%E7%9F%A5%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
   </entry>
   
