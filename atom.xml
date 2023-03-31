@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Kisma&#39;s Blog</title>
+  <title>Palm Shop</title>
   
   <subtitle>生活就像一盒巧克力,你永远不知道会得到什么。</subtitle>
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://kisma77.github.io/</id>
   
   <author>
-    <name>泡夫</name>
+    <name>Kisma</name>
     
   </author>
   
