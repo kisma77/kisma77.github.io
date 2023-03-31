@@ -23,12 +23,13 @@
     <published>2023-03-31T02:11:08.000Z</published>
     <updated>2023-03-31T02:18:34.617Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="wikitten-主题开设多级分类目录的方法。"><a href="#wikitten-主题开设多级分类目录的方法。" class="headerlink" title="wikitten 主题开设多级分类目录的方法。"></a>wikitten 主题开设多级分类目录的方法。</h3><p>方法很简单，在模板之中都已经设计好多级分类的使用方法，在写博客的时候只需要在文件头设置即可。</p><p>例如，本篇博文是属于<code>hexo博客建设</code>分类下的，那就</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line">  - hexo博客建设</span><br><span class="line">  - wikitten主题</span><br></pre></td></tr></table></figure><p>出来后效果就是</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303311018806.png" alt="多级别文件夹效果"></p><p>注意，最多支持四级。</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="wikitten-主题开设多级分类目录的方法"><a class="markdownIt-Anchor" href="#wikitten-主题开设多级分类目录的方法"></a> wikitten 主题开设多级分类目录的方法。</h3><p>方法很简单，在模板之中都已经设计好多级分类的使用方法，在写博客的时候只需要在文件头设置即可。</p><p>例如，本篇博文是属于<code>hexo博客建设</code>分类下的，那就</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line">  - hexo博客建设</span><br><span class="line">  - wikitten主题</span><br></pre></td></tr></table></figure><p>出来后效果就是</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303311018806.png" alt="多级别文件夹效果"></p><p>注意，最多支持四级。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;wikitten-主题开设多级分类目录的方法。&quot;&gt;&lt;a href=&quot;#wikitten-主题开设多级分类目录的方法。&quot; class=&quot;headerlink&quot; title=&quot;wikitten 主题开设多级分类目录的方法。&quot;&gt;&lt;/a&gt;wikitten 主题开设多级分类</summary>
+    <summary type="html">&lt;h3 id=&quot;wikitten-主题开设多级分类目录的方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#wikitten-主题开设多级分类目录的方法&quot;&gt;&lt;/a&gt; wikitten 主题开设多级分类目录的方法。&lt;/h3&gt;
+&lt;p&gt;方法很简单，在模板之中</summary>
       
     
     
@@ -195,11 +196,11 @@
   </entry>
   
   <entry>
-    <title>周末小结</title>
+    <title>3月第四周小结</title>
     <link href="http://kisma77.github.io/essay-13041b9c985b.html"/>
     <id>http://kisma77.github.io/essay-13041b9c985b.html</id>
     <published>2023-03-24T15:52:06.000Z</published>
-    <updated>2023-03-30T18:15:03.870Z</updated>
+    <updated>2023-03-31T02:34:01.675Z</updated>
     
     <content type="html"><![CDATA[<p>本周盈利4804元，共交了264元佣金，净利润4540元，算下来收益率是7%。</p><p>共交了264元佣金，与利润相比，高了。主要是因为我操作的频率高了！</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250116294.png" alt="账户规模图"></p>]]></content>
     
@@ -210,6 +211,8 @@
     
     
     <category term="C.商贾贸易" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
+    
+    <category term="每周总结" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
     
     
     <category term="商品期货" scheme="http://kisma77.github.io/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/"/>
@@ -293,7 +296,7 @@
     <link href="http://kisma77.github.io/essay-d4256d167f31.html"/>
     <id>http://kisma77.github.io/essay-d4256d167f31.html</id>
     <published>2023-03-23T07:59:43.000Z</published>
-    <updated>2023-03-30T18:14:35.606Z</updated>
+    <updated>2023-03-31T02:34:38.383Z</updated>
     
     <content type="html"><![CDATA[<p>今天虽然盈利，但还是拣了芝麻丢了西瓜。</p><p>总是喜欢动，这是瘾，是病！</p><p>交易上瘾症：行为心理学家可以很好地解释成瘾这件事：“做了一件事让你感觉很不错，于是情不自禁地还想做，哪怕长期来看，也知道这样做可能对自己不利，但还是很难打住。此外，当你感到不愉快的时候，也会想要通过做那些感觉不错的事情来避免体验不愉快，这样下去，就会成瘾，产生依赖。”</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231601843.png" alt="账户"></p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303231603772.png" alt="p2305" style="zoom:50%;">]]></content>
     
@@ -305,6 +308,8 @@
     
     
     <category term="C.商贾贸易" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
+    
+    <category term="每日记录" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/"/>
     
     
     <category term="商品期货" scheme="http://kisma77.github.io/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/"/>
@@ -436,7 +441,7 @@
     <link href="http://kisma77.github.io/essay-b07d8a982e4a.html"/>
     <id>http://kisma77.github.io/essay-b07d8a982e4a.html</id>
     <published>2023-03-21T07:04:04.000Z</published>
-    <updated>2023-03-30T18:14:55.166Z</updated>
+    <updated>2023-03-31T02:34:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天账户站上7万</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303211505609.png" alt="账户0321"></p><p>交易频率还是比较高，频率太高会导致佣金增加，而且亏损次数增加后整体盈利会减少，最主要的，会养成坏习惯，要再降低。</p>]]></content>
     
@@ -446,6 +451,8 @@
     
     
     <category term="C.商贾贸易" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
+    
+    <category term="每日记录" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/"/>
     
     
     <category term="商品期货" scheme="http://kisma77.github.io/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/"/>
@@ -484,7 +491,7 @@
     <link href="http://kisma77.github.io/essay-eac9ba6d9c57.html"/>
     <id>http://kisma77.github.io/essay-eac9ba6d9c57.html</id>
     <published>2023-03-20T07:30:28.000Z</published>
-    <updated>2023-03-31T01:08:45.795Z</updated>
+    <updated>2023-03-31T02:35:16.879Z</updated>
     
     <content type="html"><![CDATA[<p>今天是周一，上午开始做空棕榈油2305合约，每张单子盈利1980元。但过程并不容易。</p><p>早上9点开盘后，价格上涨至0.3%附近，我看涨起来了，去做多，随后快速出现了亏损，于是，做空，但随后又出现了亏损，我胡乱操作了两次，都是亏损.</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538448.png" alt="棕榈交易"></p><p>后来我突然想起<a href="https://kisma77.github.io/essay-51251dc99aab.html">百分百红灯策略</a>,转而做空，随后盈利，一直到收盘都没平仓。</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538780.png" alt="棕榈交易"></p><p>白白浪费了460块钱，还有20块钱的佣金。</p><p>红灯策略违背直觉，需要多加练习，但今天即使想起执行红灯策略，并立即按照策略执行，挽回了损失。</p>]]></content>
     
@@ -495,6 +502,8 @@
     
     
     <category term="C.商贾贸易" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
+    
+    <category term="投机活动中的随想" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%8A%95%E6%9C%BA%E6%B4%BB%E5%8A%A8%E4%B8%AD%E7%9A%84%E9%9A%8F%E6%83%B3/"/>
     
     
     <category term="商品期货" scheme="http://kisma77.github.io/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/"/>
