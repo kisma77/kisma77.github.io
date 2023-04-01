@@ -6,7 +6,7 @@
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
   
   <link href="http://kisma77.github.io/"/>
-  <updated>2023-04-01T13:41:24.496Z</updated>
+  <updated>2023-04-01T15:40:12.861Z</updated>
   <id>http://kisma77.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wiki主题的本地搜索</title>
+    <link href="http://kisma77.github.io/posts/20230401225237-cdbc5704.html"/>
+    <id>http://kisma77.github.io/posts/20230401225237-cdbc5704.html</id>
+    <published>2023-04-01T14:52:37.000Z</published>
+    <updated>2023-04-01T15:40:12.861Z</updated>
+    
+    <content type="html"><![CDATA[<p>wiki主题很棒，我决定就用这个主题了。</p><p>之前配置时由于我将<code>永久连接</code>设置为<code>essay-:.html</code>，essay是文章的意思，我自定义的一个“前缀词”，这样设置后，文章地址就是<code>https://域名/essay-xxxxxx.html</code>这样的，很好用，简单，但在使用wiki主题时遇到本地搜索时无法转向文章连接的问题</p><h2 id="遇到的问题"><a class="markdownIt-Anchor" href="#遇到的问题"></a> 遇到的问题</h2><p>具体错误为</p><p>如搜索某个关键词后点击文章出现的连接为<code>https://essay-af71958ebe31.html/</code>这地址没有GitHub的前缀，无法打开，</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304012305951.png" alt="无法打开的本地搜索后连接"></p><p>完整的文章链接应该是<code>https://kisma77.github.io/essay-af71958ebe31.html</code>，也就是缺少<code>https://name.github.io/</code></p><h2 id="解决方法或过程"><a class="markdownIt-Anchor" href="#解决方法或过程"></a> 解决方法或过程</h2><p>期间也检查、重新安装了插件<code>hexo-generator-json-content</code>，不知道问题出在哪里，还去给主题的作者留言请教，但暂时没得到回复，一直无法解决问题。</p><p>今晚我修改<code>_config.yml</code>的<code>永久连接</code>，将原来的<code>permalink: /essay-:hash.html</code>改为<code>posts/:date:abbrlink.html</code>,居然可以本地搜索了，真是<strong>无心插柳解决了问题</strong></p><h2 id="思考"><a class="markdownIt-Anchor" href="#思考"></a> 思考</h2><p>（当然，对于不懂代码的我来说，这个“思考”有点滑稽，但有必要记录，我想并不是每一个人都懂代码，也许有跟我一样既不懂代码，也正好遇到这个问题的人）</p><p>本地搜索时，程序可能会去‘post’文件夹内搜索（提取），我之前是把‘post’改为了自定义的‘essay’，因此无法显示正确的地址连接。（哈，不懂代码的人的思考，实在是滑稽！但好在问题解决了）。</p><p>以前在解决<code>永久连接</code>这个问题时，网上看到的一些方法里会说：<code>“..‘post/’可有可无，删掉也可以”</code>这样的介绍，我的经验告诉我，这种说法会导致本地搜索时出问题。</p><p>更多“永久连接”的信息，请阅读hexo官网：<a href="https://hexo.io/zh-cn/docs/permalinks">永久链接（Permalinks）</a>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;wiki主题很棒，我决定就用这个主题了。&lt;/p&gt;
+&lt;p&gt;之前配置时由于我将&lt;code&gt;永久连接&lt;/code&gt;设置为&lt;code&gt;essay-:.html&lt;/code&gt;，essay是文章的意思，我自定义的一个“前缀词”，这样设置后，文章地址就是&lt;code&gt;https://域名/</summary>
+      
+    
+    
+    
+    <category term="hexo博客建设" scheme="http://kisma77.github.io/categories/hexo%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/"/>
+    
+    <category term="wikitten主题" scheme="http://kisma77.github.io/categories/hexo%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/wikitten%E4%B8%BB%E9%A2%98/"/>
+    
+    
+    <category term="hexo博客" scheme="http://kisma77.github.io/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>为什么很多聪明人却过不好生活</title>
@@ -486,30 +513,6 @@
     
     
     <category term="交易心理" scheme="http://kisma77.github.io/tags/%E4%BA%A4%E6%98%93%E5%BF%83%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>记一次成功地从“红灯策略”中获利</title>
-    <link href="http://kisma77.github.io/posts/20230320153028-c9eeb6a.html"/>
-    <id>http://kisma77.github.io/posts/20230320153028-c9eeb6a.html</id>
-    <published>2023-03-20T07:30:28.000Z</published>
-    <updated>2023-04-01T14:38:50.430Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天是周一，上午开始做空棕榈油2305合约，每张单子盈利1980元。但过程并不容易。</p><p>早上9点开盘后，价格上涨至0.3%附近，我看涨起来了，去做多，随后快速出现了亏损，于是，做空，但随后又出现了亏损，我胡乱操作了两次，都是亏损.</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538448.png" alt="棕榈交易"></p><p>后来我突然想起<a href="https://kisma77.github.io/posts/20230223222915-f73d33d.html">百分百红灯策略</a>,转而做空，随后盈利，一直到收盘都没平仓。</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538780.png" alt="棕榈交易"></p><p>白白浪费了460块钱，还有20块钱的佣金。</p><p>红灯策略违背直觉，需要多加练习，但今天即使想起执行红灯策略，并立即按照策略执行，挽回了损失。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;今天是周一，上午开始做空棕榈油2305合约，每张单子盈利1980元。但过程并不容易。&lt;/p&gt;
-&lt;p&gt;早上9点开盘后，价格上涨至0.3%附近，我看涨起来了，去做多，随后快速出现了亏损，于是，做空，但随后又出现了亏损，我胡乱操作了两次，都是亏损.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="C.商贾贸易" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
-    
-    <category term="c.慢投细思" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/c-%E6%85%A2%E6%8A%95%E7%BB%86%E6%80%9D/"/>
-    
-    
-    <category term="商品期货" scheme="http://kisma77.github.io/tags/%E5%95%86%E5%93%81%E6%9C%9F%E8%B4%A7/"/>
     
   </entry>
   
