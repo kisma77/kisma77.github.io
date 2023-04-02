@@ -1025,9 +1025,9 @@ div.article-meta-button a:hover {
   font-family: Georgia, "Times New Roman", "Microsoft Yahei", serif;
   font-size: 1.1em;
   margin: 0 -20px;
-  padding: 10px 20px 10px 54px;
+  padding: 5px 2px 1px 50px;
   background: #d6d6d6;
-  border-left: 4px solid #eee;
+  border-left: 10px solid #ff1919;
 }
 .article-entry blockquote:before {
   top: 20px;
