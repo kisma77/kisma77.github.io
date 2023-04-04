@@ -25,59 +25,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
-    <title>数学的思维方式</title>
-    <url>/posts/20230403234613-9b5e16cd.html</url>
-    <content><![CDATA[<h2 id="科学是什么数学是什么呢"><a class="markdownIt-Anchor" href="#科学是什么数学是什么呢"></a> 科学是什么？数学是什么呢？</h2>
-<p>我们从小学、初中、高中、大学都学了许多数学，就觉得数学的内容很丰富，也很有用。</p>
-<p>你看，咱们从主要领域、分支来讲，数学有几何学（最早的欧几里德几何，后来又有非欧几何），当然，集合还包括其他的一些派生的微分几何，或者可以把拓扑学也可以放在这个大的领域里面去。</p>
-<p>代数学：同学们初一就学一元一次方程，开始学代数了，它跟小学的算术不一样。从方程开始，解方程，研究比如说一元高次方程有没有根，那有没有根这个问题，二次方程早就知道有求根公式能算出来。公元前1700年左右，巴比伦人事实上知道了一元二次方程的求根公式。那么三次四次方程有没有求根公式，直到公元1500年左右才解决。那谁知道五次和五次以上方程有没有求根公式？经过许多数学工作者的努力，包括拉格朗日、鲁菲尼、阿贝尔，最终有伽罗瓦完全解决，就说明五次和五次以上的一般方程是没有求根公式，或者叫不可用根式求解。</p>
-<p>那具体的五次和五次以上方程，有没有可能用系数作为根式可解，就是它的系数经过加减乘除、乘方、开方运算能把它算出来，那么具体的五次和五次以上方程，有可能。那到底什么样的具体的五次和五次以上有可能呢？伽罗瓦他证明了五次和五次以上方程有根是可解的充分必要条件是这个方程的群是可解群。所以伽罗瓦有群论、域论，彻底解决这个问题。伽罗瓦不仅解决了这个问题，而且后来，我们称为伽罗瓦理论对数学的贡献，不仅仅在完全解决了五次和五次以上方程有没有求根公式这么一个长时间讨论的问题，更重要的是他解决了这个问题创立了理论，引起了代数学的革命性的变革，从此代数学从研究方程的根为中心的经典代数学，转为现代、进世代数学是研究代数系统。所谓代数系统就是具有代数运算的集合，研究代数系统的结构，比如说群、环、域等等，还要群之间、环之间，它们之间的映射，这个映射还要保持运算，叫态射。所以，从研究方程的根为中心，转变为研究代数系统的结构和态射为中心，这就是代数学的革命性的变革。</p>
-<p>分析学：牛顿和莱布尼茨在1666年创立了微积分，整个分析学能够用得非常地广泛，在工程上有非常多的应用。</p>
-<p>[[概率论]]和数理[[统计]]也是数学的一个重要分支，它处理不确定的关系。</p>
-<p>那么这些，说明数学是什么呢？</p>
-<p>数学可以说是内容丰富、渊博高深，运用非常广泛的一门学科，应该是这样。</p>
-<p>但是呢，我们就进一步要问：数学这些知识到底是怎么获取的？这些知识是怎么来的？它是不是天上掉下来的呢？大家肯定说不可能，天上掉不下馅饼，如果天上掉下馅饼，那我也坐在草地上等着天上掉馅饼，我也发明一个数学的定理。这是不可能的。那肯定就是数学家数学工作的努力。也许（有人会说）有的数学工作者他很聪明，他的脑子一蹦就蹦出来一个什么定理，一蹦就蹦出来了，其实并不是这样。表面上看好像他创立这个定理好像是他脑子里想出来的，但他也经过艰辛地探索才得到的。</p>
-<p>所以数学知识这么高深，这么丰富，这么有用的数学知识怎么来的呢？最重要的是，他们按照数学的思维方式来获取的。</p>
-<p>所以，今天要给同学们讲的第一课是：</p>
-<h2 id="数学的思维方式"><a class="markdownIt-Anchor" href="#数学的思维方式"></a> 数学的思维方式</h2>
-<p>数学的思维方式是一个全过程，不是某一部分。中学的时候我们听老师介绍过一些数学思想、数学方法、数学思维，比如说数形结合就是数学思想，我们做习题时一些选择题如果用数形结合，很快就做出来了，你要是一题一题的算就比较慢了。但这种说法都是个别的来说这个数学的思想、数学方法，我们说数学思维方式是一个全过程，不是某一部分、某一部分。从小就学习了数学，对数学有一些看法，比如数学的概念比较多、数学是需要证明的，而初中的平面几何要进行逻辑推理，大家对这两点比较熟悉。</p>
-<p>这些概念怎么来的？我们不能说把概念接受了，背下来就行了。这个概念不是天上掉下来的，也不是数学家脑子里蹦出来的，它需要一定的过程。</p>
-<h3 id="数学的思维过程"><a class="markdownIt-Anchor" href="#数学的思维过程"></a> 数学的思维过程</h3>
-<h4 id="观察"><a class="markdownIt-Anchor" href="#观察"></a> 观察</h4>
-<p>观察客观现象（包含生活中、生产活动中，以及社会上的现象，也包括已经学过、掌握了的数学知识，这些我们都把它看做客观现象），你观察客观现象，它（纷繁复杂），乱入一团麻。那在这一团乱麻前面，我们首先应该要关心什么、做什么事呢？因此，我们要提出问题。<br>
-提出要研究的问题，抓住它的主要特征（用哲学的语言叫抓主要矛盾，忽略次要矛盾）。这样一来，我们就能抽象出概念</p>
-<h4 id="抽象"><a class="markdownIt-Anchor" href="#抽象"></a> 抽象</h4>
-<p>抽象出概念，或者建立模型（数学模型，最常用的就是函数模型，如指数函数模型）。然后</p>
-<h4 id="探索"><a class="markdownIt-Anchor" href="#探索"></a> 探索</h4>
-<p>运用直觉，根据我们的经验，包括生活中的经验以及我们学习过的数学知识，觉得这个应该可能有什么二样的规律。<br>
-另外还有我们要解剖麻雀（就是拿一个具体例子来做，不要一下子在数学抽象的原野里奔驰，你要在具体的例子里面解剖它，麻雀虽小五脏俱全，你解剖了之后就知道很多东西）；还可以用类比，归纳（数学归纳法），还有联想（这个也很重要，在探索过程中如果联想不丰富，你始终只会一个路子走，想不到别的知识，那你就可能解决不了，所以联想很重要），探索过程中还要有推理等。<br>
-有了探索后，就会有一些发现，这个时候的发现不一定对，于是会有猜测。</p>
-<h4 id="猜测"><a class="markdownIt-Anchor" href="#猜测"></a> 猜测</h4>
-<p>可能有的规律，至于这个猜测是对是错，是真是假，一定要进行论证。</p>
-<h4 id="论证"><a class="markdownIt-Anchor" href="#论证"></a> 论证</h4>
-<p>（数学怎么论证呢？数学论证是用公理化的方法。什么叫公理化的方法呢？就是它）只能用公理（公理就是大家的共识，大家都共同承认的，比如欧氏几何里的两点决定一条直线，老百姓都知道的，墙上两个钉子就能拉出一条直线）、定义（就是前面说的概念，抽象的概念就是定义）、和已经证明了的命题定理，用这些来进行逻辑推理。你不能添加直观（主观）的东西。</p>
-<p>（用陈景润的例子，再次说明）数学论证只能用公理、定义和已经证明了的定理来做，你才能证明，你不能说“显然”，那绝对不是，你说看上去就是，那也不行。所以数学论证就是这样，这样保证数学就有好处了，数学证明的东西，你可信它，你相信它，因为它真的是讲道理的，这个讲的道理就是公理，公理是大家共识的那些命题，在这个基础上往前走的。数学的公理不光是数学界，我们广大老百姓都能承认它是对的，数学证明的东西我们是可信的。</p>
-<p>这样经过论证，进行逻辑推理和计算之后，最后</p>
-<h4 id="揭示出-事物的内在规律"><a class="markdownIt-Anchor" href="#揭示出-事物的内在规律"></a> 揭示出 事物的内在规律</h4>
-<p>（就变得井然有序）。</p>
-<h3 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结：</h3>
-<p>所以你看这数学思维方式，（上面这些）这就是全过程。它从纷繁复杂的客观现象观察出发，最后揭示出事物的内在规律，井然有序。比如说那数学公式，非常简练，或者得出个数学定理，非常漂亮，就是数学的思维方式的威力之所在。</p>
-<hr>
-<p>上面的文字系北大丘维声教授在《科学是什么》课程上的内容摘录文字版</p>
-<p>影像版</p>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=aid=820901763&bvid=BV1V34y1f7mY&cid=981614177&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
-height: 100%; left: 0; top: 0;"> </iframe></div>
-]]></content>
-      <categories>
-        <category>A.认知思维</category>
-        <category>b.数理思维</category>
-      </categories>
-      <tags>
-        <tag>认知</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何通过学习心理学进行自我迭代？</title>
     <url>/posts/20230403142955-e13acb3e.html</url>
     <content><![CDATA[<p>今天在知乎看到一个问题：如何通过心理学学习来提升自我？这个问题我觉得应该改为“如何通过学习心理学进行自我迭代？”</p>
@@ -165,6 +112,102 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
+    <title>数学的思维方式</title>
+    <url>/posts/20230403234613-9b5e16cd.html</url>
+    <content><![CDATA[<h2 id="科学是什么数学是什么呢"><a class="markdownIt-Anchor" href="#科学是什么数学是什么呢"></a> 科学是什么？数学是什么呢？</h2>
+<p>我们从小学、初中、高中、大学都学了许多数学，就觉得数学的内容很丰富，也很有用。</p>
+<p>你看，咱们从主要领域、分支来讲，数学有几何学（最早的欧几里德几何，后来又有非欧几何），当然，集合还包括其他的一些派生的微分几何，或者可以把拓扑学也可以放在这个大的领域里面去。</p>
+<p>代数学：同学们初一就学一元一次方程，开始学代数了，它跟小学的算术不一样。从方程开始，解方程，研究比如说一元高次方程有没有根，那有没有根这个问题，二次方程早就知道有求根公式能算出来。公元前1700年左右，巴比伦人事实上知道了一元二次方程的求根公式。那么三次四次方程有没有求根公式，直到公元1500年左右才解决。那谁知道五次和五次以上方程有没有求根公式？经过许多数学工作者的努力，包括拉格朗日、鲁菲尼、阿贝尔，最终有伽罗瓦完全解决，就说明五次和五次以上的一般方程是没有求根公式，或者叫不可用根式求解。</p>
+<p>那具体的五次和五次以上方程，有没有可能用系数作为根式可解，就是它的系数经过加减乘除、乘方、开方运算能把它算出来，那么具体的五次和五次以上方程，有可能。那到底什么样的具体的五次和五次以上有可能呢？伽罗瓦他证明了五次和五次以上方程有根是可解的充分必要条件是这个方程的群是可解群。所以伽罗瓦有群论、域论，彻底解决这个问题。伽罗瓦不仅解决了这个问题，而且后来，我们称为伽罗瓦理论对数学的贡献，不仅仅在完全解决了五次和五次以上方程有没有求根公式这么一个长时间讨论的问题，更重要的是他解决了这个问题创立了理论，引起了代数学的革命性的变革，从此代数学从研究方程的根为中心的经典代数学，转为现代、进世代数学是研究代数系统。所谓代数系统就是具有代数运算的集合，研究代数系统的结构，比如说群、环、域等等，还要群之间、环之间，它们之间的映射，这个映射还要保持运算，叫态射。所以，从研究方程的根为中心，转变为研究代数系统的结构和态射为中心，这就是代数学的革命性的变革。</p>
+<p>分析学：牛顿和莱布尼茨在1666年创立了微积分，整个分析学能够用得非常地广泛，在工程上有非常多的应用。</p>
+<p>[[概率论]]和数理[[统计]]也是数学的一个重要分支，它处理不确定的关系。</p>
+<p>那么这些，说明数学是什么呢？</p>
+<p>数学可以说是内容丰富、渊博高深，运用非常广泛的一门学科，应该是这样。</p>
+<p>但是呢，我们就进一步要问：数学这些知识到底是怎么获取的？这些知识是怎么来的？它是不是天上掉下来的呢？大家肯定说不可能，天上掉不下馅饼，如果天上掉下馅饼，那我也坐在草地上等着天上掉馅饼，我也发明一个数学的定理。这是不可能的。那肯定就是数学家数学工作的努力。也许（有人会说）有的数学工作者他很聪明，他的脑子一蹦就蹦出来一个什么定理，一蹦就蹦出来了，其实并不是这样。表面上看好像他创立这个定理好像是他脑子里想出来的，但他也经过艰辛地探索才得到的。</p>
+<p>所以数学知识这么高深，这么丰富，这么有用的数学知识怎么来的呢？最重要的是，他们按照数学的思维方式来获取的。</p>
+<p>所以，今天要给同学们讲的第一课是：</p>
+<h2 id="数学的思维方式"><a class="markdownIt-Anchor" href="#数学的思维方式"></a> 数学的思维方式</h2>
+<p>数学的思维方式是一个全过程，不是某一部分。中学的时候我们听老师介绍过一些数学思想、数学方法、数学思维，比如说数形结合就是数学思想，我们做习题时一些选择题如果用数形结合，很快就做出来了，你要是一题一题的算就比较慢了。但这种说法都是个别的来说这个数学的思想、数学方法，我们说数学思维方式是一个全过程，不是某一部分、某一部分。从小就学习了数学，对数学有一些看法，比如数学的概念比较多、数学是需要证明的，而初中的平面几何要进行逻辑推理，大家对这两点比较熟悉。</p>
+<p>这些概念怎么来的？我们不能说把概念接受了，背下来就行了。这个概念不是天上掉下来的，也不是数学家脑子里蹦出来的，它需要一定的过程。</p>
+<h3 id="数学的思维过程"><a class="markdownIt-Anchor" href="#数学的思维过程"></a> 数学的思维过程</h3>
+<h4 id="观察"><a class="markdownIt-Anchor" href="#观察"></a> 观察</h4>
+<p>观察客观现象（包含生活中、生产活动中，以及社会上的现象，也包括已经学过、掌握了的数学知识，这些我们都把它看做客观现象），你观察客观现象，它（纷繁复杂），乱入一团麻。那在这一团乱麻前面，我们首先应该要关心什么、做什么事呢？因此，我们要提出问题。<br>
+提出要研究的问题，抓住它的主要特征（用哲学的语言叫抓主要矛盾，忽略次要矛盾）。这样一来，我们就能抽象出概念</p>
+<h4 id="抽象"><a class="markdownIt-Anchor" href="#抽象"></a> 抽象</h4>
+<p>抽象出概念，或者建立模型（数学模型，最常用的就是函数模型，如指数函数模型）。然后</p>
+<h4 id="探索"><a class="markdownIt-Anchor" href="#探索"></a> 探索</h4>
+<p>运用直觉，根据我们的经验，包括生活中的经验以及我们学习过的数学知识，觉得这个应该可能有什么二样的规律。<br>
+另外还有我们要解剖麻雀（就是拿一个具体例子来做，不要一下子在数学抽象的原野里奔驰，你要在具体的例子里面解剖它，麻雀虽小五脏俱全，你解剖了之后就知道很多东西）；还可以用类比，归纳（数学归纳法），还有联想（这个也很重要，在探索过程中如果联想不丰富，你始终只会一个路子走，想不到别的知识，那你就可能解决不了，所以联想很重要），探索过程中还要有推理等。<br>
+有了探索后，就会有一些发现，这个时候的发现不一定对，于是会有猜测。</p>
+<h4 id="猜测"><a class="markdownIt-Anchor" href="#猜测"></a> 猜测</h4>
+<p>可能有的规律，至于这个猜测是对是错，是真是假，一定要进行论证。</p>
+<h4 id="论证"><a class="markdownIt-Anchor" href="#论证"></a> 论证</h4>
+<p>（数学怎么论证呢？数学论证是用公理化的方法。什么叫公理化的方法呢？就是它）只能用公理（公理就是大家的共识，大家都共同承认的，比如欧氏几何里的两点决定一条直线，老百姓都知道的，墙上两个钉子就能拉出一条直线）、定义（就是前面说的概念，抽象的概念就是定义）、和已经证明了的命题定理，用这些来进行逻辑推理。你不能添加直观（主观）的东西。</p>
+<p>（用陈景润的例子，再次说明）数学论证只能用公理、定义和已经证明了的定理来做，你才能证明，你不能说“显然”，那绝对不是，你说看上去就是，那也不行。所以数学论证就是这样，这样保证数学就有好处了，数学证明的东西，你可信它，你相信它，因为它真的是讲道理的，这个讲的道理就是公理，公理是大家共识的那些命题，在这个基础上往前走的。数学的公理不光是数学界，我们广大老百姓都能承认它是对的，数学证明的东西我们是可信的。</p>
+<p>这样经过论证，进行逻辑推理和计算之后，最后</p>
+<h4 id="揭示出-事物的内在规律"><a class="markdownIt-Anchor" href="#揭示出-事物的内在规律"></a> 揭示出 事物的内在规律</h4>
+<p>（就变得井然有序）。</p>
+<h3 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结：</h3>
+<p>所以你看这数学思维方式，（上面这些）这就是全过程。它从纷繁复杂的客观现象观察出发，最后揭示出事物的内在规律，井然有序。比如说那数学公式，非常简练，或者得出个数学定理，非常漂亮，就是数学的思维方式的威力之所在。</p>
+<hr>
+<p>上面的文字系北大丘维声教授在《科学是什么》课程上的内容摘录文字版</p>
+<p>影像版</p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=aid=820901763&bvid=BV1V34y1f7mY&cid=981614177&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;"> </iframe></div>
+]]></content>
+      <categories>
+        <category>A.认知思维</category>
+        <category>b.数理思维</category>
+      </categories>
+      <tags>
+        <tag>认知</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何锻炼交易中不紧张的能力？</title>
+    <url>/posts/20230321143145-cbc671e5.html</url>
+    <content><![CDATA[<p>操盘中时常会紧张，担心亏钱，如何锻炼交易中不紧张的能力呢？</p>
+<p>剖析问题：</p>
+<p>紧张是担心亏钱；亏钱的原因是做反了方向……一步一步递归下去。</p>
+<p>事实上递归下去是表面，深层次的是面对不确定的焦虑，进而，将紧张进行抽象、定义：<strong>紧张是对可能会出现坏到你无法承受的后果的焦虑</strong>。</p>
+<p>注意这里的**“可能会出现坏到无法承受的后果”**，它代表这种结果尚未出现，它可能出现，也可能不出现，是我们一厢情愿的想着这种结果出现带来的伤害。</p>
+<p>现实生活中我们走过或见过铁轨，你在这根铺设在路基上的铁轨上能健步如飞，甚至还能负重拎个包——即便你不能如此，但也能毫无紧张地在它上面走。</p>
+<p>但将这根铁轨放到十米高空，铁轨还是那么宽、那么长、那个硬度，但你双腿颤抖、寸步难移，这就叫“紧张”。</p>
+<p>上面提到<strong>造成紧张的根源是对可能会出现的坏到我们无法承受的后果的焦虑</strong>，那解决紧张的方法自然也就在这句话里面。</p>
+<ul>
+<li>要么，别挑战自己承受不起后果的事。比如别横穿没有斑马线且车流不息的马路；别押上全部身家在带杠杆的市场里满仓操作。</li>
+<li>要么，减少“不慎”，增加赢面。比如，利用<a href="https://kisma77.github.io/posts/20230223222915-f73d33d.html">红灯策略</a>，增加赢的概率。</li>
+<li>要么，增加容错率。比如每次下单都是很轻的仓，即便亏100%也不至于破产。</li>
+</ul>
+<p>如果你只有8000元的本金，去买一张螺纹钢（2023.3.22，RB2305的价格是4152元，按照期货公司给我的杠杆率来计算，一张螺纹钢需要的保证金大约￥7010），你有[900.00元]的”容错区间“，如果你每次亏损控制在300元内，你只有2次做错的机会，此时由于本金少带来的”稀缺心理“导致你紧张。但如果你的本金不是8000元，而是80000元，买一张RB单子，你紧张吗？你当然不紧张，因为即便出现极端情况——停板[3727,4648]，你也知道自己不会”爆仓“，这是简单的通过算术进行评估的问题。</p>
+<p>需要指出的是，容错率是容故障（Fault），而并非容错误（Error）</p>
+<p>你拥有足够大的容错区间，这足够厚的安全垫能让你不紧张。正所谓“手里有粮，心里不慌”。</p>
+<p>心中不慌就能稳，稳到根本就不会担心，甚至也根本没有“不慎”的心理负担。</p>
+<p>一件事情做到了即使“不慎”都不会做坏的程度，你就不会紧张了。</p>
+<p>那这够了吗？</p>
+<p>当然不够，<strong>紧张的根源，面对、处理不确定事件时，你相不相信你选择相信的东西里也会出现意外。</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221514612.png" alt="Uncertainty"></p>
+<p>价格是一个随机过程，它具有很大的不确定性（Uncertainty），这无疑会给我们带来安全感的匮乏，看一个人能力的大小，本质上是看这个人能够承受的不确定性有多大，能在多大范围内构造秩序。我们被不确定性包围着，比如投资中的风险，商业中的市场变化，生活中的时代颠簸等等，世界运行的规律就是不确定性，越有能力的成年人，越能在充满不确定性中的环境中生存，越能获得更高的收益和回报，如果不想承担不确定性，那就要接受自己的人生局限。</p>
+<p>世界上最不紧张的人，并不是能力最好、选择余地最大的人，而是相信无论出现什么样的“意外”、“失误”，哪怕一时有各种痛苦和损失，但兜兜转转最终（统计意义下的）结果一定是好的。</p>
+<p>我喜欢用《数字信徒》中的话来表述这种信仰：</p>
+<p>“我们都会在生命中的某个时刻经历一次思想上的飞跃，使我们从犹豫不决迈向勇敢实践的道路。这种飞跃会引领我们登上一个崭新的人生舞台…对于我们来说，这种信仰跟宗教并无二异。虔诚的信徒们都怀揣着信仰，什么也不能阻挡他们对于宗教的执著。我们也是一样，那份对于统计学的信仰未曾改变。”</p>
+<p>一个了解意外，相信意外，相信意外最终是站在自己一边的人，是真正对紧张免疫的人。</p>
+<p>我们学习概率论、统计学，相信数字，甘心情愿做数字信徒，相信<strong>任何的意外，背后是对你的非恶意。</strong></p>
+<p>在统计之下，出了意外，哪怕直接的当下失败了，也相信，这失败在最后好过成功，并且最终统计会胜利。</p>
+<p>牢牢的相信这一点，这一点就会是事实。</p>
+<p>牢记不确定性是世界运行的规律，在不确定性中做出合乎统计之下有利于自己的行为是一种品质。</p>
+<p>这种品质，它美极了。</p>
+]]></content>
+      <categories>
+        <category>A.认知思维</category>
+        <category>b.心理学</category>
+      </categories>
+      <tags>
+        <tag>交易心理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>必须建立自己对事物认知的坐标系</title>
     <url>/posts/20230322210644-bda3aa88.html</url>
     <content><![CDATA[<p>本文是央视的记者徐泓为了纪念其同事<a href="https://baike.baidu.com/item/%E9%99%88%E8%99%BB/9516020">陈虻</a>而写的<a href="https://xuhong.blog.caixin.com/archives/54703">《陈虻：我们听你讲》系列博文</a>，其中有很多陈虻关于创作、认知的真知灼见。文章对我的帮助很大，我摘录在这里。</p>
@@ -232,6 +275,60 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </categories>
       <tags>
         <tag>认知</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>态度系统</title>
+    <url>/posts/20230316235207-ecce70be.html</url>
+    <content><![CDATA[<p>从来，“态度决定一切”这样的话经常听到，一开始认为是百无一用的“鸡汤”，但当我看了心理学名作《态度系统与社会影响》后，知道了它不是鸡汤，或者说它是营养价值很高的鸡汤。</p>
+<h1 id="心理学中态度的解释"><a class="markdownIt-Anchor" href="#心理学中态度的解释"></a> 心理学中“态度”的解释</h1>
+<p>是个体基于过去经验对其周围的人、事、物持有的比较持久而一致的心理准备状态或人格倾向。</p>
+<p>当态度是由于某种经验、学科理论而建立的，而不是道听途说，他们就更具有稳定性，更能引发行为。我们坚定我们所相信的，同样地，我们也会逐步相信我们坚持的东西。即态度能影响行为，反过来，行为也能决定我们的态度。</p>
+<h2 id="态度的组成部分"><a class="markdownIt-Anchor" href="#态度的组成部分"></a> 态度的组成部分</h2>
+<p>态度包含认知、情感和行为意向三个部分。</p>
+<p>认知指个体如何知觉事物，认识其概念内涵，基本上由对事物的知识或信息构成，反应个体对事物的相信与不相信。情感指个体对事物的评价，反映个体对事物的喜欢与不喜欢。行为意向指个体对事物的行为倾向，反映个体对事物的行为意图及准备状态。三部分彼此协调统一。</p>
+<p>当认知与情感相矛盾时，行为意向与情感的一致性要大于与认知的一致性。不一致时就会出现认知不协调，从而产生矛盾心理。</p>
+<h2 id="态度的特点"><a class="markdownIt-Anchor" href="#态度的特点"></a> 态度的特点：</h2>
+<p>（1）有特定的对象；</p>
+<p>（2）在后天的生活中习得，可以通过他人或媒体等间接经验形成，也可形成于个体的直接经验，主要通过联想、强化、模仿三种过程获得；</p>
+<p>（3）不外显，是一个心里意向；</p>
+<p>（4）一旦形成，相对稳定；</p>
+<p>（5）对个人的内心活动和外显行为具有激发、调整和协调作用。</p>
+<p><strong>本质上，态度就是对某种特定目标的评价倾向。它是一个人对某种事物或者人从喜欢到不喜欢，或从赞成到不赞成的一个评价</strong>。<br>
+态度就是我们喜欢什么，不喜欢什么，我们推崇什么，讨厌什么，以及我们评价自己与环境关系的方式。它是倾向性，就意味着可习得，以某种特定方式思考某个事物、某个人或某个问题的倾向。这些新形成的关于某个科学、某个理论、某个组织的正面态度，就使这个人将来更容易去接收支持这些学科、理论、组织的信息。当然，信念和态度的改变也许不会直接引起行为的改变，但它往往奠定了后来行为变化的基础，使这个人更容易受到后续影响的作用。</p>
+<p>要探究态度如何引起行为的变化，我们需要先来看看态度系统。</p>
+<h3 id="我们对社会事物的5种反应"><a class="markdownIt-Anchor" href="#我们对社会事物的5种反应"></a> 我们对社会事物的5种反应。</h3>
+<ul>
+<li>
+<p>第一种是行为本身，“我在与朋友交谈时坚持18岁是可以饮酒的年龄”，这里的“交谈”就是行为，“我给国会议员写信”也是行为，表达的主张、观点是“反对现在的饮酒年龄限制”。</p>
+</li>
+<li>
+<p>第二种是行为意向，指在做某事之前的期望和具体的行动计划，这些计划可能从不会实施。“我会给能担责的18岁的人啤酒喝”，这里的“会”只是一种计划、意向，还没有实施行为。</p>
+</li>
+<li>
+<p>第三种是指引我们行动的观念、信念或者认知，包括关于某个事物和个体“应该”如何对待它的一些信念和知识。“适量饮酒是一种社交行为”这是一种观念、认为、认知。（见行为改变系统、信念价值系统。）</p>
+</li>
+<li>
+<p>第四种是情感反应、情绪或“本能的感受”，反映了个体处在生理唤醒水平上的态度，如快感，悲伤等。“我喜欢在社交场合喝酒”，这是态度，是情感的反应。</p>
+</li>
+<li>
+<p>第五种是态度本身，即个体对某种事物的整体评价，也就是基于以上4个方面的综合评估后得出的一个价值判断。<br>
+因此，将态度广义定义为：建立在认知、情感反应、行为意向以及过去行为基础上的评价性倾向，这些都可以改变我们的认知、行为、情感反应，以及未来的行为意向和行为本身（Zanna &amp; Rempel,1988).<br>
+这一定义意味着态度的各个部分都是高度相关的（参见数学上的相关性）。认知和态度与我们所谓的对某个事物的心理表征密切相关。情感反应和外在行为可以因事物在我们头脑中的出现而产生。反过来，他们又会为我们头脑中关于这一事物的心理表征注入新的信息。因此，关于某个事物和问题的态度、行为、认知和情绪就构成了一个人特有的整体反应系统。因为态度是这个态度的整体反应（比如，我喜欢），所以我们就称这个系统为态度系统。如图1.1<br>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303162359372.png" alt="图1.1 态度系统"></p>
+<p>结合交易，有</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303170000000.png" alt="态度系统"></p>
+</li>
+</ul>
+<p>“树立正确的目标”是一种态度，也是一种价值观，正确的价值观能实现正效价，在有利于达成目标的效价下，会产生合适的动机。当认知不协调时，产生认知失衡，从而导致矛盾心理出现，改变认知过程将自我的不切实际的需要变为客观事实的要求，在这样的态度下就能实现认知和谐。</p>
+]]></content>
+      <categories>
+        <category>A.认知思维</category>
+        <category>b.心理学</category>
+        <category>态度系统</category>
+      </categories>
+      <tags>
+        <tag>认知心理学</tag>
       </tags>
   </entry>
   <entry>
@@ -430,103 +527,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </categories>
       <tags>
         <tag>认知</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何锻炼交易中不紧张的能力？</title>
-    <url>/posts/20230321143145-cbc671e5.html</url>
-    <content><![CDATA[<p>操盘中时常会紧张，担心亏钱，如何锻炼交易中不紧张的能力呢？</p>
-<p>剖析问题：</p>
-<p>紧张是担心亏钱；亏钱的原因是做反了方向……一步一步递归下去。</p>
-<p>事实上递归下去是表面，深层次的是面对不确定的焦虑，进而，将紧张进行抽象、定义：<strong>紧张是对可能会出现坏到你无法承受的后果的焦虑</strong>。</p>
-<p>注意这里的**“可能会出现坏到无法承受的后果”**，它代表这种结果尚未出现，它可能出现，也可能不出现，是我们一厢情愿的想着这种结果出现带来的伤害。</p>
-<p>现实生活中我们走过或见过铁轨，你在这根铺设在路基上的铁轨上能健步如飞，甚至还能负重拎个包——即便你不能如此，但也能毫无紧张地在它上面走。</p>
-<p>但将这根铁轨放到十米高空，铁轨还是那么宽、那么长、那个硬度，但你双腿颤抖、寸步难移，这就叫“紧张”。</p>
-<p>上面提到<strong>造成紧张的根源是对可能会出现的坏到我们无法承受的后果的焦虑</strong>，那解决紧张的方法自然也就在这句话里面。</p>
-<ul>
-<li>要么，别挑战自己承受不起后果的事。比如别横穿没有斑马线且车流不息的马路；别押上全部身家在带杠杆的市场里满仓操作。</li>
-<li>要么，减少“不慎”，增加赢面。比如，利用<a href="https://kisma77.github.io/posts/20230223222915-f73d33d.html">红灯策略</a>，增加赢的概率。</li>
-<li>要么，增加容错率。比如每次下单都是很轻的仓，即便亏100%也不至于破产。</li>
-</ul>
-<p>如果你只有8000元的本金，去买一张螺纹钢（2023.3.22，RB2305的价格是4152元，按照期货公司给我的杠杆率来计算，一张螺纹钢需要的保证金大约￥7010），你有[900.00元]的”容错区间“，如果你每次亏损控制在300元内，你只有2次做错的机会，此时由于本金少带来的”稀缺心理“导致你紧张。但如果你的本金不是8000元，而是80000元，买一张RB单子，你紧张吗？你当然不紧张，因为即便出现极端情况——停板[3727,4648]，你也知道自己不会”爆仓“，这是简单的通过算术进行评估的问题。</p>
-<p>需要指出的是，容错率是容故障（Fault），而并非容错误（Error）</p>
-<p>你拥有足够大的容错区间，这足够厚的安全垫能让你不紧张。正所谓“手里有粮，心里不慌”。</p>
-<p>心中不慌就能稳，稳到根本就不会担心，甚至也根本没有“不慎”的心理负担。</p>
-<p>一件事情做到了即使“不慎”都不会做坏的程度，你就不会紧张了。</p>
-<p>那这够了吗？</p>
-<p>当然不够，<strong>紧张的根源，面对、处理不确定事件时，你相不相信你选择相信的东西里也会出现意外。</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221514612.png" alt="Uncertainty"></p>
-<p>价格是一个随机过程，它具有很大的不确定性（Uncertainty），这无疑会给我们带来安全感的匮乏，看一个人能力的大小，本质上是看这个人能够承受的不确定性有多大，能在多大范围内构造秩序。我们被不确定性包围着，比如投资中的风险，商业中的市场变化，生活中的时代颠簸等等，世界运行的规律就是不确定性，越有能力的成年人，越能在充满不确定性中的环境中生存，越能获得更高的收益和回报，如果不想承担不确定性，那就要接受自己的人生局限。</p>
-<p>世界上最不紧张的人，并不是能力最好、选择余地最大的人，而是相信无论出现什么样的“意外”、“失误”，哪怕一时有各种痛苦和损失，但兜兜转转最终（统计意义下的）结果一定是好的。</p>
-<p>我喜欢用《数字信徒》中的话来表述这种信仰：</p>
-<p>“我们都会在生命中的某个时刻经历一次思想上的飞跃，使我们从犹豫不决迈向勇敢实践的道路。这种飞跃会引领我们登上一个崭新的人生舞台…对于我们来说，这种信仰跟宗教并无二异。虔诚的信徒们都怀揣着信仰，什么也不能阻挡他们对于宗教的执著。我们也是一样，那份对于统计学的信仰未曾改变。”</p>
-<p>一个了解意外，相信意外，相信意外最终是站在自己一边的人，是真正对紧张免疫的人。</p>
-<p>我们学习概率论、统计学，相信数字，甘心情愿做数字信徒，相信<strong>任何的意外，背后是对你的非恶意。</strong></p>
-<p>在统计之下，出了意外，哪怕直接的当下失败了，也相信，这失败在最后好过成功，并且最终统计会胜利。</p>
-<p>牢牢的相信这一点，这一点就会是事实。</p>
-<p>牢记不确定性是世界运行的规律，在不确定性中做出合乎统计之下有利于自己的行为是一种品质。</p>
-<p>这种品质，它美极了。</p>
-]]></content>
-      <categories>
-        <category>A.认知思维</category>
-        <category>b.心理学</category>
-      </categories>
-      <tags>
-        <tag>交易心理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>态度系统</title>
-    <url>/posts/20230316235207-ecce70be.html</url>
-    <content><![CDATA[<p>从来，“态度决定一切”这样的话经常听到，一开始认为是百无一用的“鸡汤”，但当我看了心理学名作《态度系统与社会影响》后，知道了它不是鸡汤，或者说它是营养价值很高的鸡汤。</p>
-<h1 id="心理学中态度的解释"><a class="markdownIt-Anchor" href="#心理学中态度的解释"></a> 心理学中“态度”的解释</h1>
-<p>是个体基于过去经验对其周围的人、事、物持有的比较持久而一致的心理准备状态或人格倾向。</p>
-<p>当态度是由于某种经验、学科理论而建立的，而不是道听途说，他们就更具有稳定性，更能引发行为。我们坚定我们所相信的，同样地，我们也会逐步相信我们坚持的东西。即态度能影响行为，反过来，行为也能决定我们的态度。</p>
-<h2 id="态度的组成部分"><a class="markdownIt-Anchor" href="#态度的组成部分"></a> 态度的组成部分</h2>
-<p>态度包含认知、情感和行为意向三个部分。</p>
-<p>认知指个体如何知觉事物，认识其概念内涵，基本上由对事物的知识或信息构成，反应个体对事物的相信与不相信。情感指个体对事物的评价，反映个体对事物的喜欢与不喜欢。行为意向指个体对事物的行为倾向，反映个体对事物的行为意图及准备状态。三部分彼此协调统一。</p>
-<p>当认知与情感相矛盾时，行为意向与情感的一致性要大于与认知的一致性。不一致时就会出现认知不协调，从而产生矛盾心理。</p>
-<h2 id="态度的特点"><a class="markdownIt-Anchor" href="#态度的特点"></a> 态度的特点：</h2>
-<p>（1）有特定的对象；</p>
-<p>（2）在后天的生活中习得，可以通过他人或媒体等间接经验形成，也可形成于个体的直接经验，主要通过联想、强化、模仿三种过程获得；</p>
-<p>（3）不外显，是一个心里意向；</p>
-<p>（4）一旦形成，相对稳定；</p>
-<p>（5）对个人的内心活动和外显行为具有激发、调整和协调作用。</p>
-<p><strong>本质上，态度就是对某种特定目标的评价倾向。它是一个人对某种事物或者人从喜欢到不喜欢，或从赞成到不赞成的一个评价</strong>。<br>
-态度就是我们喜欢什么，不喜欢什么，我们推崇什么，讨厌什么，以及我们评价自己与环境关系的方式。它是倾向性，就意味着可习得，以某种特定方式思考某个事物、某个人或某个问题的倾向。这些新形成的关于某个科学、某个理论、某个组织的正面态度，就使这个人将来更容易去接收支持这些学科、理论、组织的信息。当然，信念和态度的改变也许不会直接引起行为的改变，但它往往奠定了后来行为变化的基础，使这个人更容易受到后续影响的作用。</p>
-<p>要探究态度如何引起行为的变化，我们需要先来看看态度系统。</p>
-<h3 id="我们对社会事物的5种反应"><a class="markdownIt-Anchor" href="#我们对社会事物的5种反应"></a> 我们对社会事物的5种反应。</h3>
-<ul>
-<li>
-<p>第一种是行为本身，“我在与朋友交谈时坚持18岁是可以饮酒的年龄”，这里的“交谈”就是行为，“我给国会议员写信”也是行为，表达的主张、观点是“反对现在的饮酒年龄限制”。</p>
-</li>
-<li>
-<p>第二种是行为意向，指在做某事之前的期望和具体的行动计划，这些计划可能从不会实施。“我会给能担责的18岁的人啤酒喝”，这里的“会”只是一种计划、意向，还没有实施行为。</p>
-</li>
-<li>
-<p>第三种是指引我们行动的观念、信念或者认知，包括关于某个事物和个体“应该”如何对待它的一些信念和知识。“适量饮酒是一种社交行为”这是一种观念、认为、认知。（见行为改变系统、信念价值系统。）</p>
-</li>
-<li>
-<p>第四种是情感反应、情绪或“本能的感受”，反映了个体处在生理唤醒水平上的态度，如快感，悲伤等。“我喜欢在社交场合喝酒”，这是态度，是情感的反应。</p>
-</li>
-<li>
-<p>第五种是态度本身，即个体对某种事物的整体评价，也就是基于以上4个方面的综合评估后得出的一个价值判断。<br>
-因此，将态度广义定义为：建立在认知、情感反应、行为意向以及过去行为基础上的评价性倾向，这些都可以改变我们的认知、行为、情感反应，以及未来的行为意向和行为本身（Zanna &amp; Rempel,1988).<br>
-这一定义意味着态度的各个部分都是高度相关的（参见数学上的相关性）。认知和态度与我们所谓的对某个事物的心理表征密切相关。情感反应和外在行为可以因事物在我们头脑中的出现而产生。反过来，他们又会为我们头脑中关于这一事物的心理表征注入新的信息。因此，关于某个事物和问题的态度、行为、认知和情绪就构成了一个人特有的整体反应系统。因为态度是这个态度的整体反应（比如，我喜欢），所以我们就称这个系统为态度系统。如图1.1<br>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303162359372.png" alt="图1.1 态度系统"></p>
-<p>结合交易，有</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303170000000.png" alt="态度系统"></p>
-</li>
-</ul>
-<p>“树立正确的目标”是一种态度，也是一种价值观，正确的价值观能实现正效价，在有利于达成目标的效价下，会产生合适的动机。当认知不协调时，产生认知失衡，从而导致矛盾心理出现，改变认知过程将自我的不切实际的需要变为客观事实的要求，在这样的态度下就能实现认知和谐。</p>
-]]></content>
-      <categories>
-        <category>A.认知思维</category>
-        <category>b.心理学</category>
-        <category>态度系统</category>
-      </categories>
-      <tags>
-        <tag>认知心理学</tag>
       </tags>
   </entry>
   <entry>
@@ -731,183 +731,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
-    <title>Hello World And 博客配置记录</title>
-    <url>/posts/20230217204235-77f46582.html</url>
-    <content><![CDATA[<p>记录本博客的配置</p>
-<h2 id="1配置永久连接"><a class="markdownIt-Anchor" href="#1配置永久连接"></a> 1.配置“永久连接”</h2>
-<h3 id="11-安装abbrlink插件"><a class="markdownIt-Anchor" href="#11-安装abbrlink插件"></a> 1.1 <strong>安装abbrlink插件</strong></h3>
-<p>在博客根目录（执行hexo命令的地方）安装插件：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
-<h3 id="12-编辑站点配置文件"><a class="markdownIt-Anchor" href="#12-编辑站点配置文件"></a> 1.2 <strong>编辑站点配置文件</strong></h3>
-<p>打开博客根目录下的<code>站点配置文件_config.yml</code>，修改如下配置：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#permalink: :year/:month/:day/:title/</span><br><span class="line">#permalink_defaults:</span><br><span class="line">permalink: posts/:abbrlink/</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32 #support crc16(default) and crc32</span><br><span class="line">  rep: dec   #support dec(default) and hex</span><br></pre></td></tr></table></figure>
-<h3 id="13-重新生成部署"><a class="markdownIt-Anchor" href="#13-重新生成部署"></a> 1.3 重新生成部署</h3>
-<p>使用<code>hexo clean &amp;&amp; hexo g</code>重新生成博客，在博客源文件可以看到<strong>自动生成</strong>的abbrlink编号,接下来使用<code>hexo  d</code>部署，使用浏览器查看：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300914504.png" alt="永久连接示意"></p>
-<p>这样优化后的优点是：</p>
-<ul>
-<li>纯英文和数字链接非常有利于SEO；</li>
-<li>只要abbrlink编号不变，该文章的url就不变，可以随意修改文件名，文章标题。</li>
-</ul>
-<h2 id="2数学公式"><a class="markdownIt-Anchor" href="#2数学公式"></a> 2.数学公式</h2>
-<p>以默认的 landscape主题为例，</p>
-<h3 id="21-安装公式渲染插件"><a class="markdownIt-Anchor" href="#21-安装公式渲染插件"></a> 2.1 安装公式渲染插件</h3>
-<p>先卸载掉自带的 <code>hexo-renderer-marked</code> ，替换为 <code>hexo-renderer-markdown-it-plus</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ npm un hexo-renderer-marked --save</span><br><span class="line">$ npm i hexo-renderer-markdown-it-plus --save</span><br></pre></td></tr></table></figure>
-<h3 id="22-修改文章模板"><a class="markdownIt-Anchor" href="#22-修改文章模板"></a> 2.2 修改文章模板</h3>
-<p>修改/scaffolds/post.md 文件，在 — 前添加一行 math: false 。故如果某篇文章想启用数学公式支持，需将 false 改为 true 。</p>
-<h3 id="23-修改主题布局模板"><a class="markdownIt-Anchor" href="#23-修改主题布局模板"></a> 2.3 修改主题布局模板</h3>
-<p>有以下两种选择：</p>
-<h4 id="231-阅读全文后启用支持"><a class="markdownIt-Anchor" href="#231-阅读全文后启用支持"></a> 2.3.1 阅读全文后启用支持</h4>
-<p>编辑 <code>&lt;hexo dir&gt;/themes/landscape/layout/_partial/article.ejs</code> ，在 <code>&lt;/article&gt;</code> 前加入一行代码，添加后效果如下：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/themes/landscape/layout/_partial/head.ejs  &lt;% if (!index &amp;&amp; post.math)&#123; %&gt;</span><br><span class="line">    &lt;script&gt;</span><br><span class="line">      var assetsString = &#x27;&lt;link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;&#x27;</span><br><span class="line">      var pHead = document.getElementsByTagName(&#x27;head&#x27;)[0];</span><br><span class="line">      pHead.innerHTML = pHead.innerHTML + assetsString;</span><br><span class="line">    &lt;/script&gt;</span><br><span class="line">  &lt;% &#125; %&gt;</span><br><span class="line">&lt;/article&gt;</span><br></pre></td></tr></table></figure>
-<p>故需将 <code>&lt;!--more--&gt;</code> 放在公式之前。</p>
-<h4 id="232-直接全部启用支持"><a class="markdownIt-Anchor" href="#232-直接全部启用支持"></a> 2.3.2 直接全部启用支持</h4>
-<p>编辑 <code>&lt;hexo dir&gt;/themes/landscape/layout/_partial/head.ejs</code> ，在 <code>&lt;/head&gt;</code> 前加入一行代码，添加后效果如下：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/themes/landscape/layout/_partial/head.ejs  &lt;link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;</span><br><span class="line">&lt;/head&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="编辑配置文件"><a class="markdownIt-Anchor" href="#编辑配置文件"></a> 编辑配置文件</h3>
-<p>在站点配置文件 <code>_config.yml</code> 中加入如下配置：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/_config.ymlmarkdown_it_plus:</span><br><span class="line">  highlight: true</span><br><span class="line">  html: true</span><br><span class="line">  xhtmlOut: true</span><br><span class="line">  breaks: true</span><br><span class="line">  langPrefix:</span><br><span class="line">  linkify: true</span><br><span class="line">  typographer:</span><br><span class="line">  quotes: “”‘’</span><br><span class="line">  pre_class: highlight</span><br></pre></td></tr></table></figure>
-<h3 id="用法"><a class="markdownIt-Anchor" href="#用法"></a> 用法</h3>
-<p>整行：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$$sin^2\theta + cos^2\theta = 1$$</span><br></pre></td></tr></table></figure>
-<p>效果：$$sin^2\theta + cos^2\theta = 1$$</p>
-<p>行内，开头和结尾用一个<code>$</code>就行：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$sin^2\theta + cos^2\theta = 1$</span><br></pre></td></tr></table></figure>
-<p>行内效果：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mi>θ</mi><mo>+</mo><mi>c</mi><mi>o</mi><msup><mi>s</mi><mn>2</mn></msup><mi>θ</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">sin^2\theta + cos^2\theta = 1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.897438em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">i</span><span class="mord"><span class="mord mathnormal">n</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord mathnormal">c</span><span class="mord mathnormal">o</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span></p>
-<p>测试用例：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$$</span><br><span class="line">\begin&#123;aligned&#125;</span><br><span class="line">f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]</span><br><span class="line">&amp; = f_X[h(y)]h&#x27;(y) \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;-\frac&#123;x&#125;&#123;\theta&#125;&#125;[\frac&#123;dx&#125;&#123;dy&#125;(-\frac&#123;\theta&#125;&#123;ln(1-y)&#125;)] \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;-\frac&#123;-\frac&#123;\theta&#125;&#123;ln(1-y)&#125;&#125;&#123;\theta&#125;&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;ln(1-y)&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1-y&#125;&#123;\theta&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = 1</span><br><span class="line">\end&#123;aligned&#125;</span><br><span class="line">\tag&#123;1&#125;</span><br><span class="line">$$</span><br><span class="line">$$</span><br><span class="line">\frac&#123;1&#125;&#123;\sigma&#125; </span><br><span class="line">\tag&#123;this is a test&#125;</span><br><span class="line">$$</span><br></pre></td></tr></table></figure>
-<p>测试效果：</p>
-<p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><msub><mi>f</mi><mi>Y</mi></msub><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><msub><mi>f</mi><mi>X</mi></msub><mo stretchy="false">[</mo><mi>h</mi><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><mi mathvariant="normal">∣</mi><msup><mi>h</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mi mathvariant="normal">∣</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><msub><mi>f</mi><mi>X</mi></msub><mo stretchy="false">[</mo><mi>h</mi><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><msup><mi>h</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>x</mi><mi>θ</mi></mfrac></mrow></msup><mo stretchy="false">[</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>y</mi></mrow></mfrac><mo stretchy="false">(</mo><mo>−</mo><mfrac><mi>θ</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mfrac><mo stretchy="false">)</mo><mo stretchy="false">]</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mrow><mo>−</mo><mfrac><mi>θ</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mfrac></mrow><mi>θ</mi></mfrac></mrow></msup><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></msup><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow><mi>θ</mi></mfrac><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mn>1</mn></mrow></mstyle></mtd></mtr></mtable></mtd><mtd width="50%"></mtd><mtd><mtext>(1)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
-f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
-&amp; = f_X[h(y)]h&#x27;(y) \\[2ex]
-&amp; = \frac{1}{\theta}e^{-\frac{x}{\theta}}[\frac{dx}{dy}(-\frac{\theta}{ln(1-y)})] \\[2ex]
-&amp; = \frac{1}{\theta}e^{-\frac{-\frac{\theta}{ln(1-y)}}{\theta}}\frac{\theta}{1-y} \\[2ex]
-&amp; = \frac{1}{\theta}e^{ln(1-y)}\frac{\theta}{1-y} \\[2ex]
-&amp; = \frac{1-y}{\theta}\frac{\theta}{1-y} \\[2ex]
-&amp; = 1
-\end{aligned}
-\tag{1}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:18.01824em;vertical-align:-8.75912em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:9.25912em;"><span style="top:-12.01104em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.22222em;">Y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-9.64904em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-6.755599999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-3.641679999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-0.7482399999999989em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:2.145200000000001em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:4.507199999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:8.75912em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:9.25912em;"><span style="top:-12.01104em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord mathnormal">h</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mclose">]</span><span class="mord">∣</span><span class="mord"><span class="mord mathnormal">h</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mord">∣</span></span></span><span style="top:-9.64904em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord mathnormal">h</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mclose">]</span><span class="mord"><span class="mord mathnormal">h</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-6.755599999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.89708em;"><span style="top:-3.4130000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6915428571428572em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.384em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span></span></span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mopen">(</span><span class="mord">−</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">n</span><span class="mopen">(</span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose">)</span><span class="mclose">]</span></span></span><span style="top:-3.641679999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.59192em;"><span style="top:-3.59192em;margin-right:0.05em;"><span class="pstrut" style="height:3.1789199999999997em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.6841714285714287em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.911714285714286em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size1 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.08144em;"><span style="top:-2.4265em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mord mathnormal mtight">n</span><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="mclose mtight">)</span></span></span><span style="top:-3.2255em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.387em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8235em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size1 size6"></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span></span></span></span></span></span></span></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-0.7482399999999989em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.938em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mord mathnormal mtight">n</span><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="mclose mtight">)</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:2.145200000000001em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:4.507199999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:8.75912em;"><span></span></span></span></span></span></span></span></span><span class="tag"><span class="strut" style="height:18.01824em;vertical-align:-8.75912em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">1</span></span><span class="mord">)</span></span></span></span></span></span></p>
-<p>和</p>
-<p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>y</mi><mo>=</mo><msub><mi>a</mi><mi>x</mi></msub></mrow><annotation encoding="application/x-tex">y=a_x
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.58056em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span></p>
-<p><strong>公式这块我还没搞懂，弄出来的公式显示不正常，是“双影”，如下图所示，还不知道该怎么弄</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301009151.png" alt="公式显示异常"></p>
-<p>由于公式使用不多，问题暂时先挂起。</p>
-<h2 id="3显示本地图片"><a class="markdownIt-Anchor" href="#3显示本地图片"></a> 3.显示本地图片</h2>
-<h3 id="31-安装插件"><a class="markdownIt-Anchor" href="#31-安装插件"></a> 3.1 安装插件</h3>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-asset-image -- save</span><br></pre></td></tr></table></figure>
-<h3 id="32-配置_configyml"><a class="markdownIt-Anchor" href="#32-配置_configyml"></a> 3.2 配置_config.yml</h3>
-<p>把_config.yml中的post_asset_folder设为true，这个配置的意思是每次new post一个博客，会增加一个和博客同名的文件夹，之后新建了一篇文章，就会同时在hexo/source/_post文件夹下生成一个.md文件和一个同名文件夹，文件夹存放文章中的图片。</p>
-<h3 id="33-使用规则"><a class="markdownIt-Anchor" href="#33-使用规则"></a> 3.3 使用规则</h3>
-<p>把图片放到.md文件的同名文件夹&quot;first-page&quot;里，最后在.md文件中引用图片</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![图片描述]（./文章同标题文件夹/编号.jpg）</span><br></pre></td></tr></table></figure>
-<p>我不喜欢每篇文章都有一个同名文件夹，这样时间长了后比较麻烦，我采用的是图床，这样可以直接截图粘贴进文章就可以</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300933250.png" alt="GitHub图床" style="zoom: 50%;">
-<p>或者将需要的图片直接“拉”进文章也可以</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300932290.jpg" alt="采用图床" style="zoom: 50%;">
-<h2 id="4去掉页面的阅读更多"><a class="markdownIt-Anchor" href="#4去掉页面的阅读更多"></a> 4.去掉页面的“阅读更多”</h2>
-<p>hexo 博客如果不自己在文章添加一个<code>&lt;!--more--&gt;</code> 标记，上传后整篇不管多长都直接给你放在主页，想看下面的几篇博文就要滑滑滑，滑半天才能看到后面几篇博文，既不符合设计原则，也不美观不方便。</p>
-<h3 id="41-传统方式"><a class="markdownIt-Anchor" href="#41-传统方式"></a> 4.1 传统方式</h3>
-<ol>
-<li>
-<p>在文章中使用<code>&lt; !--more--&gt;</code> 手动进行截断.<br>
-这种方法可以根据文章的内容，自己在合适的位置添加 <code>&lt; !--more--&gt;</code> 标签，使用灵活，也是Hexo推荐的方法。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301426412.png" alt="Hexo推荐的‘阅读全文’方法"></p>
-<p>可以在<code>\scaffolds\post.md</code>模板里设置，不用每篇文章都手动添加。</p>
-</li>
-<li>
-<p>自动形成摘要，在<strong>主题配置文件</strong>中添加<br>
-默认截取的长度为 150 字符，可以根据需要自行设定</p>
-</li>
-</ol>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">auto_excerpt:</span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">true</span></span><br><span class="line">  length: 150</span><br></pre></td></tr></table></figure>
-<p>官方建议使用 <code>&lt; !-- more --&gt;</code>方式，除了可以精确控制需要显示的摘录内容以外， 这种方式也可以让 Hexo 中的插件更好的识别。</p>
-<p>我觉得很不好，——实现方式粗暴直接，主页上有很多“ read more”，不美观。</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301432109.png" alt="read more标签" style="zoom:50%;">
-<p>那就自己改一下。</p>
-<p>按照逻辑来说，我们所关注的就是写文章，而摘要应该是根据文章内容通过 tf-idf 等一系列摘要算法生成的，再不济也应该是直接截取文章开头一段文字作为摘要嘛，总之是应该自动生成的，而且不应该修改 MD 源文件。</p>
-<p>思路：改主题代码。</p>
-<p>就我个人而言，以行的方式截取比以字数的方式截取的结果，对摘要完整性要友好的多。</p>
-<p>整理下我的需求，最后我得到几点初步的要求：</p>
-<ol>
-<li>能在主题配置文件中配置是否开启自动摘要</li>
-<li>摘要以行为单位自动从开头截取</li>
-<li>能配置固定截取的行数</li>
-</ol>
-<p>根据这几项需求，自己动手一步步实现。</p>
-<p>首先是找到要修改的代码的位置，因为这里主要是对文章显示时的修改，相关代码肯定是在有关文章内容显示的文件内，对 hexo 来说，通常是 article.ejs post.ejs 等类似名字的文件，它们的特点就是都会在主页显示文章和单独访问博文时用到。</p>
-<p>我用的是<code>landscape</code>主题，这里就是<code>\node_modules\hexo-theme-landscape\layout\_partial\article.ejs</code>这个文件</p>
-<p>打开 <code>article.ejs</code>，找到与摘要相关的代码：</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;article-entry&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;articleBody&quot;</span>&gt;</span></span><br><span class="line">&lt;% if (index &amp;&amp; post.excerpt) &#123; %&gt;</span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>&lt;%- post.excerpt %&gt;<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">&quot;article-more-link&quot;</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;&lt;%- url_for(post.path) %&gt;#more&quot;</span>&gt;</span>&lt;%= __(&#x27;article.more&#x27;) %&gt;<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">&lt;% &#125; else &#123; %&gt;</span><br><span class="line">    &lt;% if (!index &amp;&amp; post.toc) &#123; %&gt;</span><br><span class="line">        <span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;toc&quot;</span> <span class="attr">class</span>=<span class="string">&quot;toc-article&quot;</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">strong</span> <span class="attr">class</span>=<span class="string">&quot;toc-title&quot;</span>&gt;</span>&lt;%= __(&#x27;article.catalogue&#x27;) %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span><br><span class="line">            &lt;%- toc(post.content) %&gt;</span><br><span class="line">        <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">    &lt;%- post.content %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<p>这里简单讲一下各变量含义，这各文件是在每篇文章生成时被调用的，</p>
-<p><code>index</code> 是指现在是否在首页的标志</p>
-<p><code>post</code> 指这篇文章</p>
-<p><code>post.excerpt</code> 指文章原始摘要内容，既 <code>&lt;!--more--&gt;</code>之前的内容。</p>
-<p><code>url_for()</code> 返回一个 root 路径的 url，不带域名</p>
-<p><code>post.path</code> 指文章的网址，不含 root 目录</p>
-<p><code>post.toc</code> 指文章目录显示是否开了</p>
-<p><code>toc()</code> 解析文本，生成目录，既 h1-h6 的列表。</p>
-<p><code>post.content</code> 指文章全部内容</p>
-<p>现在再看，<code>article.ejs</code> 里代码的逻辑就很清楚了，在遍历文章的时候 <strong>先判断当前页面是否在首页，如果在首页并且这篇文档有摘要</strong>，那就只显示摘要并显示一个 ReadMore；<strong>否则</strong> 就显示全文（其中有一个“判断不在首页并且文章配置了开启目录就显示目录”与我们现在讨论的 readmore 无关所以暂且不管）。</p>
-<p>按照我们的思路，应该就是在上面“否则”后面加上自动截取前 n 行作为摘要并显示 ReadMore。</p>
-<p>一步步来，</p>
-<p>首先，我们需要一个可以配置的<strong>开关</strong>，用来配置是否启用自动截取生成摘要的功能，还需要一个可以配置的变量，用来配置固定截取几行。</p>
-<p>文章显示是主题干的事，这两个配置也是主题相关的，因此我们打开 <strong>主题配置文件</strong>，添加几个键值对并保存：</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Excerpt </span></span><br><span class="line"><span class="comment">## Auto creat excerpt with not &lt;!--more--&gt;</span></span><br><span class="line"><span class="comment">## Enable will truncate auto_excerpt.lines rows in post head to replace excerpt.</span></span><br><span class="line"><span class="attr">auto_excerpt:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">lines:</span> <span class="number">5</span></span><br></pre></td></tr></table></figure>
-<p>然后回到 <code>article.ejs</code> 里，梳理一下我们的思路，整理一下一共有哪些显示摘要，哪些不显示的情况：</p>
-<ul>
-<li>不显示 ReadMore 的情况
-<ol>
-<li>不在首页</li>
-<li>在首页，无摘要，关闭自动截取</li>
-<li>在首页，无摘要，使能自动截取，文章没有足够的长度</li>
-</ol>
-</li>
-<li>显示 ReadMore 的情况
-<ol>
-<li>在首页，有摘要</li>
-<li>在首页，无摘要，使能自动截取，文章足够长</li>
-</ol>
-</li>
-</ul>
-<p>将以上情况整理成判断逻辑，再把目录显示加上，列出一个“中式代码”：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">是否显示全文 = true</span><br><span class="line"><span class="keyword">if</span> 在首页:</span><br><span class="line">    <span class="keyword">if</span> 有摘要:</span><br><span class="line">        是否显示全文 = false</span><br><span class="line">        显示摘要</span><br><span class="line">    <span class="keyword">else</span> <span class="keyword">if</span> 主题.自动截取.使能:</span><br><span class="line">        截取前 n 行作为摘要</span><br><span class="line">        <span class="keyword">if</span> 文章长度足够:</span><br><span class="line">            是否显示全文 = false</span><br><span class="line">            显示截取的结果</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="keyword">if</span> 文章配置显示目录:</span><br><span class="line">        显示目录</span><br><span class="line"><span class="keyword">if</span> 是否显示全文:</span><br><span class="line">    显示全文</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    显示 ReadMore</span><br></pre></td></tr></table></figure>
-<p>这样来看逻辑很清晰了。</p>
-<p>然后就是具体实现过程中我遇到的两个问题：</p>
-<ol>
-<li>
-<p>ReadMore 总是可能被当成文章文字的一部分而被改变样式</p>
-<p>原因是 icarus 原本就是把 ReadMore 用 p 标签放在文章中间的，如果 ReadMore 刚好实在一个列表间或者一块代码间，那显示就会很奇怪了。我改成了把整个摘要或者说文章放在一个 div 中，再把 Readmore 放在后面的另一块 div 中，这样 ReadMore 就与内容无关了。</p>
-</li>
-<li>
-<p>如何读取行数</p>
-<p>前面提到的两个自动截取摘要的文章，一篇 NexT 是自动截取字数，另一篇是固定截取两行，</p>
-<p>而我想的办法是通过多次调用 string.indexOf(str, start_position) 方法，每次改变起始位置来获取下一次的位置，有一次获取不到位置就说明文章还没有那么多行的长度。</p>
-<p>然后再用 string.substring(start, end) 方法，截取到获取的位置。</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">&lt;% <span class="keyword">var</span> br_position = <span class="number">0</span> %&gt;</span><br><span class="line">&lt;% <span class="keyword">for</span> (<span class="keyword">var</span> br_count = <span class="number">0</span>; br_count &lt; theme.<span class="property">auto_excerpt</span>.<span class="property">lines</span>; br_count++) &#123; %&gt;</span><br><span class="line">    &lt;% br_position = post.<span class="property">content</span>.<span class="title function_">indexOf</span>(<span class="string">&#x27;\n&#x27;</span>,br_position + <span class="number">1</span>) %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span>(br_position &lt; <span class="number">0</span>) &#123; <span class="keyword">break</span> &#125; %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span>(br_position &gt; <span class="number">0</span>) &#123; %&gt;</span><br><span class="line">    &lt;p&gt;&lt;%- post.<span class="property">content</span>.<span class="title function_">substring</span>(<span class="number">0</span>, br_position + <span class="number">1</span>) %&gt;&lt;p&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure>
-</li>
-</ol>
-<p>现在开始按照伪代码的逻辑编写 ejs 了，最后的工作就是把原来 <code>article.ejs</code> 的摘要相关代码（本节开头提到的）全部替换成我们写的自动截取摘要的代码：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">&lt;div <span class="keyword">class</span>=<span class="string">&quot;article-entry&quot;</span> itemprop=<span class="string">&quot;articleBody&quot;</span>&gt;</span><br><span class="line">&lt;% <span class="keyword">var</span> show_all_content = <span class="literal">true</span> %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span> (index) &#123; %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span> (post.<span class="property">excerpt</span>) &#123; %&gt;</span><br><span class="line">        &lt;% show_all_content = <span class="literal">false</span> %&gt;</span><br><span class="line">        <span class="language-xml"><span class="tag">&lt;<span class="name">p</span>&gt;</span>&lt;%- post.excerpt %&gt;<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span></span><br><span class="line">    &lt;% &#125; <span class="keyword">else</span> <span class="keyword">if</span> (theme.<span class="property">auto_excerpt</span>.<span class="property">enable</span>) &#123; %&gt;</span><br><span class="line">        &lt;% <span class="keyword">var</span> br_position = <span class="number">0</span> %&gt;</span><br><span class="line">        &lt;% <span class="keyword">for</span> (<span class="keyword">var</span> br_count = <span class="number">0</span>; br_count &lt; theme.<span class="property">auto_excerpt</span>.<span class="property">lines</span>; br_count++) &#123; %&gt;</span><br><span class="line">            &lt;% br_position = post.<span class="property">content</span>.<span class="title function_">indexOf</span>(<span class="string">&#x27;\n&#x27;</span>,br_position + <span class="number">1</span>) %&gt;</span><br><span class="line">            &lt;% <span class="keyword">if</span>(br_position &lt; <span class="number">0</span>) &#123; <span class="keyword">break</span> &#125; %&gt;</span><br><span class="line">        &lt;% &#125; %&gt;</span><br><span class="line">        &lt;% <span class="keyword">if</span>(br_position &gt; <span class="number">0</span>) &#123; %&gt;</span><br><span class="line">            &lt;% show_all_content = <span class="literal">false</span> %&gt;</span><br><span class="line">            &lt;p&gt;&lt;%- post.<span class="property">content</span>.<span class="title function_">substring</span>(<span class="number">0</span>, br_position + <span class="number">1</span>) %&gt;&lt;p&gt;</span><br><span class="line">        &lt;% &#125; %&gt;</span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;% &#125; <span class="keyword">else</span> &#123; %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span> (post.<span class="property">toc</span>) &#123; %&gt;</span><br><span class="line">        <span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;toc&quot;</span> <span class="attr">class</span>=<span class="string">&quot;toc-article&quot;</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;<span class="name">strong</span> <span class="attr">class</span>=<span class="string">&quot;toc-title&quot;</span>&gt;</span>&lt;%= __(&#x27;article.catalogue&#x27;) %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">            &lt;%- toc(post.content) %&gt;</span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span> (show_all_content) &#123; %&gt;</span><br><span class="line">    &lt;%- post.<span class="property">content</span> %&gt;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">&lt;% &#125; <span class="keyword">else</span> &#123; %&gt;</span><br><span class="line">    &lt;/div&gt;   </span><br><span class="line">    <span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;article-more-link&quot;</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;&lt;%- url_for(post.path) %&gt;#more&quot;</span>&gt;</span>&lt;%= __(&#x27;article.more&#x27;) %&gt;<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">    <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure>
-<p>此时，</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
-<p>预览发现显示“article.more”</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301444547.png" alt="“article.more”" style="zoom: 50%;">
-<p>删除代码<code>&lt;a href=&quot;&lt;%- url_for(post.path) %&gt;#more&quot;&gt;&lt;%= __('article.more') %&gt;&lt;/a&gt;</code>中的<code>article.more</code></p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301446451.png" alt="删除‘article.more’字样" style="zoom:50%;">
-<p>搞定，现在你可以把原来文章中的 <code>&lt;!--more--&gt;</code> 删了，以后也不用再写了。</p>
-]]></content>
-      <categories>
-        <category>hexo博客建设</category>
-        <category>总体配置</category>
-      </categories>
-      <tags>
-        <tag>hexo博客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>谈“做计划”</title>
     <url>/posts/20230402100627-9cc92f78.html</url>
     <content><![CDATA[<p>做事得有计划，但问题在于知道并掌握做计划所必要的技术准备，如若不然，会以为做计划只是在大脑里把步骤设想一下写下来，或者干脆就是把自己的愿望分解一下，这不能叫“计划”。</p>
@@ -1017,35 +840,6 @@ f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
       </tags>
   </entry>
   <entry>
-    <title>hexo博客内插入B站视频自适应大小的办法</title>
-    <url>/posts/20230401234705-3c203bfa.html</url>
-    <content><![CDATA[<p>在博客插入视频所需要的条件请阅读<a href="https://hexo.io/zh-cn/docs">hexo官方文档</a>，这里仅讨论<code>如何使插入（B站）的视频后视觉效果更好</code>这一问题。</p>
-<p>B站官方给出的“嵌入式代码”直接插入，但效果不好。</p>
-<h2 id="问题"><a class="markdownIt-Anchor" href="#问题"></a> 问题</h2>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;iframe src=&quot;（视频网址）&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; width=&quot;100%&quot;  height=&quot;580&quot; quality=&quot;high&quot; &gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure>
-<p>按照次方式，插入代码</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=781122340&amp;bvid=BV1a24y1u746&amp;cid=1054637103&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure>
-<p>出来的效果是</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304020115801.png" alt="两边有很宽的空白，而且视频尺寸太小"></p>
-<p>能播放，但显示效果不是很理想，两边有很宽的空白，而且视频尺寸太小，需要调整一下。</p>
-<h2 id="解决方法"><a class="markdownIt-Anchor" href="#解决方法"></a> 解决方法</h2>
-<p>在<code>&lt;iframe </code>前面加<code>&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 100%;&quot;&gt;</code>,在<code>&lt;/iframe&gt;</code>后加<code>&lt;/div&gt;</code>,即插入的代码为：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;</span><br><span class="line">&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=781122340&amp;bvid=BV1a24y1u746&amp;cid=1054637103&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;style=&quot;position: absolute; width: 100%; </span><br><span class="line">height: 100%; left: 0; top: 0;&quot;&gt; &lt;/iframe&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=781122340&bvid=BV1a24y1u746&cid=1054637103&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
-height: 100%; left: 0; top: 0;"> </iframe></div>
-<p>这样尺寸就大，视觉效果好很多。</p>
-<p>当然，还有其他网友的办法，比如<a href="https://zhuanlan.zhihu.com/p/194208325">Hexo博客Next主题bilibili视频Markdown引入文章</a>,可供参考。</p>
-]]></content>
-      <categories>
-        <category>hexo博客建设</category>
-        <category>总体配置</category>
-      </categories>
-      <tags>
-        <tag>博客插入视频</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>长袖善舞,多钱善贾</title>
     <url>/posts/20230227110132-cb0418b7.html</url>
     <content><![CDATA[<blockquote>
@@ -1071,85 +865,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </categories>
       <tags>
         <tag>概率思维</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>wiki主题新建多级分类目录的方法</title>
-    <url>/posts/20230218101108-a1cefd1d.html</url>
-    <content><![CDATA[<h3 id="wikitten主题简称wiki主题后同开设多级分类目录的方法"><a class="markdownIt-Anchor" href="#wikitten主题简称wiki主题后同开设多级分类目录的方法"></a> wikitten主题（简称wiki主题，后同）开设多级分类目录的方法。</h3>
-<p>方法很简单，在模板之中都已经设计好多级分类的使用方法，在写博客的时候只需要在文件头设置即可。</p>
-<p>例如，本篇博文是属于<code>hexo博客建设</code>分类下的，那就</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">categories:</span><br><span class="line">  - hexo博客建设</span><br><span class="line">  - wikitten主题</span><br></pre></td></tr></table></figure>
-<p>出来后效果就是</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303311018806.png" alt="多级别文件夹效果"></p>
-<p>注意，最多支持四级。</p>
-]]></content>
-      <categories>
-        <category>hexo博客建设</category>
-        <category>wikitten主题</category>
-      </categories>
-      <tags>
-        <tag>hexo博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>wiki主题添加分享到微博</title>
-    <url>/posts/20230218095110-5a6474cc.html</url>
-    <content><![CDATA[<h2 id="在hexo中使用wiki主题时添加百度分享的方法"><a class="markdownIt-Anchor" href="#在hexo中使用wiki主题时添加百度分享的方法"></a> 在hexo中使用wiki主题时添加百度分享的方法。</h2>
-<p>网上查找在hexo中添加链接分享的方法是，查到的都是用next主题的，<br>
-用wiki主题时，如何添加分享并没有介绍。</p>
-<p>自己翻了一下代码，发现wikitten主题的结构非常清楚。</p>
-<h3 id="第一步"><a class="markdownIt-Anchor" href="#第一步"></a> 第一步</h3>
-<p>在_config.xml中的share选项中的几个分享的选项</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Share</span><br><span class="line">share: bdshare # options: jiathis, bdshare, addtoany, default</span><br></pre></td></tr></table></figure>
-<h3 id="第二步"><a class="markdownIt-Anchor" href="#第二步"></a> 第二步</h3>
-<p>在\themes\Wiki\layout\share文件夹中都有对应的文件。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303310953757.jpeg" alt="share文件夹中的文件"></p>
-<h3 id="第三步"><a class="markdownIt-Anchor" href="#第三步"></a> 第三步</h3>
-<p>打开bdshare.ejs 可以把现在已经不存在的开心网，腾讯微博的链接去掉，只保留qq空间，新浪微博和微信。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;div class=&quot;bdsharebuttonbox&quot;&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_more&quot; data-cmd=&quot;more&quot;&gt;  分享到：&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_qzone&quot; data-cmd=&quot;qzone&quot; title=&quot;分享到QQ空间&quot;&gt;QQ空间&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_tsina&quot; data-cmd=&quot;tsina&quot; title=&quot;分享到新浪微博&quot;&gt;新浪微博&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_weixin&quot; data-cmd=&quot;weixin&quot; title=&quot;分享到微信&quot;&gt;微信&lt;/a&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
-<p>之后把保存的bdshare.ejs文件<code>复制并放到</code>主题目录下的<code>\themes\Wiki\layout\common</code>下</p>
-<h3 id="第四步"><a class="markdownIt-Anchor" href="#第四步"></a> 第四步</h3>
-<p>修改common目录下的article.ejs（article.ejs就是决定着hexo生成的静态文件的布局）。<br>
-把分享链接放到文章的标题栏的日期的位置</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;div class=&quot;article-meta&quot;&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/category&#x27;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/tag&#x27;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/date&#x27;, &#123; class_name: &#x27;article-date&#x27;, date_format: null &#125;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;share/bdshare&#x27;) %&gt;</span><br><span class="line">    &lt;% if (theme.plugins.busuanzi_count) &#123; %&gt;</span><br><span class="line">        &lt;i class=&quot;fa fa-bar-chart&quot;&gt;&lt;/i&gt;</span><br><span class="line">        &lt;span id=&quot;busuanzi_container_site_pv&quot;&gt;&lt;span id=&quot;busuanzi_value_page_pv&quot;&gt;&lt;/span&gt;&lt;/span&gt;    </span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">    &lt;% if (theme.history_control.enable) &#123; </span><br><span class="line">        let repertory_address = `$&#123;theme.history_control.server_link&#125;/$&#123;theme.history_control.user&#125;/$&#123;theme.history_control.repertory&#125;`;</span><br><span class="line">        let file_path = `$&#123;theme.history_control.branch&#125;/source/$&#123;post.source&#125;`;%&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/raw/$&#123;file_path&#125;` %&gt;&#x27;&gt; Source &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/edit/$&#123;file_path&#125;` %&gt;&#x27;&gt; Edit &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/commits/$&#123;file_path&#125;` %&gt;&#x27;&gt; History &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
-<p>找到<code>&lt;%- partial('post/date', &#123; class_name: 'article-date', date_format: null &#125;) %&gt;</code>,然后把<code>&lt;%- partial('share/bdshare') %&gt;</code>放到它后面，并保存。</p>
-<p>完成。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303311002710.png" alt="效果"></p>
-]]></content>
-      <categories>
-        <category>hexo博客建设</category>
-        <category>wikitten主题</category>
-      </categories>
-      <tags>
-        <tag>hexo博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>wiki主题的本地搜索</title>
-    <url>/posts/20230401225237-cdbc5704.html</url>
-    <content><![CDATA[<p>wiki主题很棒，我决定就用这个主题了。</p>
-<p>之前配置时由于我将<code>永久连接</code>设置为<code>essay-:.html</code>，essay是文章的意思，我自定义的一个“前缀词”，这样设置后，文章地址就是<code>https://域名/essay-xxxxxx.html</code>这样的，很好用，简单，但在使用wiki主题时遇到本地搜索时无法转向文章连接的问题</p>
-<h2 id="遇到的问题"><a class="markdownIt-Anchor" href="#遇到的问题"></a> 遇到的问题</h2>
-<p>具体错误为</p>
-<p>如搜索某个关键词后点击文章出现的连接为<code>https://essay-af71958ebe31.html/</code>这地址没有GitHub的前缀，无法打开，</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304012305951.png" alt="无法打开的本地搜索后连接"></p>
-<p>完整的文章链接应该是<code>https://kisma77.github.io/essay-af71958ebe31.html</code>，也就是缺少<code>https://name.github.io/</code></p>
-<h2 id="解决方法或过程"><a class="markdownIt-Anchor" href="#解决方法或过程"></a> 解决方法或过程</h2>
-<p>期间也检查、重新安装了插件<code>hexo-generator-json-content</code>，不知道问题出在哪里，还去给主题的作者留言请教，但暂时没得到回复，一直无法解决问题。</p>
-<p>今晚我修改<code>_config.yml</code>的<code>永久连接</code>，将原来的<code>permalink: /essay-:hash.html</code>改为<code>posts/:date:abbrlink.html</code>,居然可以本地搜索了，真是<strong>无心插柳解决了问题</strong></p>
-<h2 id="思考"><a class="markdownIt-Anchor" href="#思考"></a> 思考</h2>
-<p>（当然，对于不懂代码的我来说，这个“思考”有点滑稽，但有必要记录，我想并不是每一个人都懂代码，也许有跟我一样既不懂代码，也正好遇到这个问题的人）</p>
-<p>本地搜索时，程序可能会去‘post’文件夹内搜索（提取），我之前是把‘post’改为了自定义的‘essay’，因此无法显示正确的地址连接。（哈，不懂代码的人的思考，实在是滑稽！但好在问题解决了）。</p>
-<p>以前在解决<code>永久连接</code>这个问题时，网上看到的一些方法里会说：<code>“..‘post/’可有可无，删掉也可以”</code>这样的介绍，我的经验告诉我，这种说法会导致本地搜索时出问题。</p>
-<p>更多“永久连接”的信息，请阅读hexo官网：<a href="https://hexo.io/zh-cn/docs/permalinks">永久链接（Permalinks）</a>.</p>
-]]></content>
-      <categories>
-        <category>hexo博客建设</category>
-        <category>wikitten主题</category>
-      </categories>
-      <tags>
-        <tag>hexo博客</tag>
       </tags>
   </entry>
   <entry>
@@ -1263,22 +978,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
-    <title>3.13 房子定下来了</title>
-    <url>/posts/20230313172759-e7a2cd04.html</url>
-    <content><![CDATA[<p>今天上午去医院产检，完事后顺便去把房子租下来了。</p>
-<p>9300元/月，两居室</p>
-<span id="more"></span>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303131730328.jpg" alt="和中介签租房合约" style="zoom:33%;">
-<p>签完合同后我俩在国瑞城吃了个饭就做地铁回来了，到家15:30</p>
-]]></content>
-      <categories>
-        <category>B.生活日记</category>
-      </categories>
-      <tags>
-        <tag>租房</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>3.15 曾有个人那么爱我</title>
     <url>/posts/20230315233740-c65a8d79.html</url>
     <content><![CDATA[<p>翻看照片，曾经她是那么的爱我，可惜我不懂或者说我辜负了她的一片真心。</p>
@@ -1308,19 +1007,19 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
-    <title>3.16 今天收拾东西，准备搬家</title>
-    <url>/posts/20230316230115-c10642a6.html</url>
-    <content><![CDATA[<p>准备搬家了，今天开始收拾东西打包，目前还没收拾完，但已经有50多个箱子了，东西还是蛮多的。</p>
-<p>希望早点能有钱买套自己的房子，这样就不用每年都为搬家发愁了。</p>
+    <title>3.13 房子定下来了</title>
+    <url>/posts/20230313172759-e7a2cd04.html</url>
+    <content><![CDATA[<p>今天上午去医院产检，完事后顺便去把房子租下来了。</p>
+<p>9300元/月，两居室</p>
 <span id="more"></span>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250002301.png" alt="开始收拾东西打包"></p>
-<p>赚钱，其实蛮难的，尽管学了概率，但赚钱还是不容易，甚至还是很难，我真后悔这三四年挥霍掉的那大百万，现在后悔晚了，以后要好好珍惜。</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303131730328.jpg" alt="和中介签租房合约" style="zoom:33%;">
+<p>签完合同后我俩在国瑞城吃了个饭就做地铁回来了，到家15:30</p>
 ]]></content>
       <categories>
         <category>B.生活日记</category>
       </categories>
       <tags>
-        <tag>投机</tag>
+        <tag>租房</tag>
       </tags>
   </entry>
   <entry>
@@ -1364,6 +1063,22 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </categories>
       <tags>
         <tag>搬家</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3.16 今天收拾东西，准备搬家</title>
+    <url>/posts/20230316230115-c10642a6.html</url>
+    <content><![CDATA[<p>准备搬家了，今天开始收拾东西打包，目前还没收拾完，但已经有50多个箱子了，东西还是蛮多的。</p>
+<p>希望早点能有钱买套自己的房子，这样就不用每年都为搬家发愁了。</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250002301.png" alt="开始收拾东西打包"></p>
+<p>赚钱，其实蛮难的，尽管学了概率，但赚钱还是不容易，甚至还是很难，我真后悔这三四年挥霍掉的那大百万，现在后悔晚了，以后要好好珍惜。</p>
+]]></content>
+      <categories>
+        <category>B.生活日记</category>
+      </categories>
+      <tags>
+        <tag>投机</tag>
       </tags>
   </entry>
   <entry>
@@ -1482,6 +1197,37 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
+    <title>3.21 今天开始申请准生证</title>
+    <url>/posts/20230321150725-119a607d.html</url>
+    <content><![CDATA[<p>今天开始申请孩子的准生证。</p>
+<p>老婆填的表。</p>
+]]></content>
+      <categories>
+        <category>B.生活日记</category>
+      </categories>
+      <tags>
+        <tag>育儿</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3.22 单日最大跌幅里赚点零头</title>
+    <url>/posts/20230322154501-12332498.html</url>
+    <content><![CDATA[<p>每一个做投机的人都希望自己抓住一波大行情，平日里也是天天如此渴望、幻想，但当机会来了时，却又因为各种自身主观的原因而错过，事后又会后悔不已！</p>
+<p>棕榈最近这200多天一直都是横着走，今天好不容易向下走了，而且还是最近200天的最大跌幅</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303222337708.png" alt="P2305"></p>
+<p>我却没有把握住，只赚了点零头。</p>
+<p>账户昨天上了7万（70111），今天增加了2000多，但我错过了单日最大收益K，尾盘时我买了一张多单，是出于这种单日宽幅K之后，可能会有窄幅震荡（主观）的考虑。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221549331.png" alt="账户"></p>
+]]></content>
+      <categories>
+        <category>B.生活日记</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>3.24 今天去选孕妇照，回来两人下了馆子</title>
     <url>/posts/20230324234206-2bfa5e50.html</url>
     <content><![CDATA[<p>今天去选孕妇照，选照片的时候，商家一个劲的推她们的套餐，就是想让我们花钱，我们不想花这个钱，我跟销售说：“我们没钱，我和老婆都没工作两年了，想买套餐也力不从心。”，销售一下就找不到话说了，只好作罢，后来她们的店长又来推销了一次，巴拉巴拉的熟练地说着“…哎呀，我还记得你们上次来照相时，…你们聊这么熟，你（指刚才给我们推销的‘经理’）给他们按照3800元打8折，再送他们一个10张精修底片…”，我看着店长说：“我们没钱，我俩没工作两年了，疫情后我们的收入为0，实在没能力…”，店长也一下懵了，找不到话说，就出去了。</p>
@@ -1538,37 +1284,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </categories>
       <tags>
         <tag>智慧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>3.21 今天开始申请准生证</title>
-    <url>/posts/20230321150725-119a607d.html</url>
-    <content><![CDATA[<p>今天开始申请孩子的准生证。</p>
-<p>老婆填的表。</p>
-]]></content>
-      <categories>
-        <category>B.生活日记</category>
-      </categories>
-      <tags>
-        <tag>育儿</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>3.22 单日最大跌幅里赚点零头</title>
-    <url>/posts/20230322154501-12332498.html</url>
-    <content><![CDATA[<p>每一个做投机的人都希望自己抓住一波大行情，平日里也是天天如此渴望、幻想，但当机会来了时，却又因为各种自身主观的原因而错过，事后又会后悔不已！</p>
-<p>棕榈最近这200多天一直都是横着走，今天好不容易向下走了，而且还是最近200天的最大跌幅</p>
-<span id="more"></span>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303222337708.png" alt="P2305"></p>
-<p>我却没有把握住，只赚了点零头。</p>
-<p>账户昨天上了7万（70111），今天增加了2000多，但我错过了单日最大收益K，尾盘时我买了一张多单，是出于这种单日宽幅K之后，可能会有窄幅震荡（主观）的考虑。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303221549331.png" alt="账户"></p>
-]]></content>
-      <categories>
-        <category>B.生活日记</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
       </tags>
   </entry>
   <entry>
@@ -1752,6 +1467,69 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
+    <title>hexo博客内插入B站视频自适应大小的办法</title>
+    <url>/posts/20230401234705-3c203bfa.html</url>
+    <content><![CDATA[<p>在博客插入视频所需要的条件请阅读<a href="https://hexo.io/zh-cn/docs">hexo官方文档</a>，这里仅讨论<code>如何使插入（B站）的视频后视觉效果更好</code>这一问题。</p>
+<p>B站官方给出的“嵌入式代码”直接插入，但效果不好。</p>
+<h2 id="问题"><a class="markdownIt-Anchor" href="#问题"></a> 问题</h2>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;iframe src=&quot;（视频网址）&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; width=&quot;100%&quot;  height=&quot;580&quot; quality=&quot;high&quot; &gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure>
+<p>按照次方式，插入代码</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=781122340&amp;bvid=BV1a24y1u746&amp;cid=1054637103&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure>
+<p>出来的效果是</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304020115801.png" alt="两边有很宽的空白，而且视频尺寸太小"></p>
+<p>能播放，但显示效果不是很理想，两边有很宽的空白，而且视频尺寸太小，需要调整一下。</p>
+<h2 id="解决方法"><a class="markdownIt-Anchor" href="#解决方法"></a> 解决方法</h2>
+<p>在<code>&lt;iframe </code>前面加<code>&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 100%;&quot;&gt;</code>,在<code>&lt;/iframe&gt;</code>后加<code>&lt;/div&gt;</code>,即插入的代码为：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;</span><br><span class="line">&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=781122340&amp;bvid=BV1a24y1u746&amp;cid=1054637103&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;style=&quot;position: absolute; width: 100%; </span><br><span class="line">height: 100%; left: 0; top: 0;&quot;&gt; &lt;/iframe&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=781122340&bvid=BV1a24y1u746&cid=1054637103&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;"> </iframe></div>
+<p>这样尺寸就大，视觉效果好很多。</p>
+<p>当然，还有其他网友的办法，比如<a href="https://zhuanlan.zhihu.com/p/194208325">Hexo博客Next主题bilibili视频Markdown引入文章</a>,可供参考。</p>
+]]></content>
+      <categories>
+        <category>hexo博客建设</category>
+        <category>总体配置</category>
+      </categories>
+      <tags>
+        <tag>博客插入视频</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>4.02 去姐姐家蹭饭，及人生路的关键几步</title>
+    <url>/posts/20230402231356-ac1fba5f.html</url>
+    <content><![CDATA[<p>姐夫因家中亲人病危，和他爸妈回老家了，姐姐呢因公要去天津大学学习一周，家里俩孩子没人看护，邀请了岳父岳母过来照看，我和媳妇就打算过去蹭饭，反正也近，仅隔着一个小区。</p>
+<p>早上我俩睡到8:40才起床，起来后吃吃早餐老婆就催着要去姐家，我说不着急，去那么早干嘛，后来到了10点多催的次数多了我们就出发，10分钟就走到了。</p>
+<p>走在路上时，我突然想到老婆这么早就想着要来，是因为她想见自己的妈妈，这方面我确实没有她这么强烈，我和母亲没见面已经好几年了，前两年本来想着回老家过年，但因为疫情就一直没能回去。</p>
+<p>我也挺想母亲的，现在每个礼拜打打电话，平时就在监控里看看她老人家。</p>
+<h3 id="去姐姐家蹭饭吃到好吃但不知名的食材"><a class="markdownIt-Anchor" href="#去姐姐家蹭饭吃到好吃但不知名的食材"></a> 去姐姐家蹭饭吃到好吃但不知名的食材</h3>
+<p>中午吃的很开心，我不知道是什么食材，是这样的，是下面这样的。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022319107.jpg" alt="不知名食材1"></p>
+<p>加入面粉</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022319682.jpg" alt="不知名食材2"></p>
+<h3 id="看人生之路得一金句"><a class="markdownIt-Anchor" href="#看人生之路得一金句"></a> 看《人生之路》得一金句</h3>
+<p>吃完饭后我俩就回来了，本来是看电影的，但看了10分钟我俩都困了，就睡了一个午觉，一觉睡到17:00左右，醒来看《人生之路》电视剧，对立面那个黄部长（剧中黄亚萍的父亲）对女儿黄亚萍说的一句话记忆犹新，他说：“有位作家说过，人生的道路虽然漫长，但紧要处常常只有几步。”</p>
+<p>《人生之路》这部电视剧是改编自路遥的小说《人生》，小说的扉页上有句话：“<strong>人生的道路虽然漫长，但紧要处常常只有几步。</strong>”</p>
+<p>”</p>
+<p>确实，人生的道路虽然漫长，但要紧处常常只有几步，特别是当人年轻的时候。我也是在学习了随机过程等课后才知道Ω、随机场等知识后想明白的，我们没有一个人的生活道路是“直达”的，都有很多岔路口，有些岔路口只要走错一步，可以影响人生的一个时期，这个时期可能是三五年，也有可能是一二十年，甚至是影响人生。这些“关键的几步”要是走对了，就在赢面较大的概率域或者“场”里面了，搭上优势“传送带”，较省力，甚至是快速实现美好人生。比如十多二十年前买了房的人，像我的姐姐，她们当时首付不到20万买的房子，现在市值1000多万了。还有千千万万个姐姐家这样的家庭，他们并不懂投资，但因为这样那样的原因“走对了”买房的那一步，后面就好过多了，同样，也有成千上万个像我这样的家庭，当初由于各种原因错过买房的“关键一步”，随着居住成本的提高，生活变得越发的艰难。</p>
+<p>有时，我一想到孩子要出生了，而我还没有钱买房子，他将来上小学怎么办，我就焦虑得睡不着！</p>
+<p>人生路，真的就是关键的几步，真需要规划的，我的成长过程中父母没有在这方面给予我任何帮助，他们都是老实巴交的农民，我希望以后能在这方面给儿子（点点）一些有价值的帮助，为此我还学习类似<a href="https://kisma77.github.io/posts/20230402100627-9cc92f78.html">如何做计划</a>这样的知识。</p>
+<p>我想象中的“路”是这样的，</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022332956.png" alt="人生路" style="zoom:50%;">
+<p>但不美观，网上借用一下，但还是不是我想要的图</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022334594.jpeg" alt="道路方向选择" style="zoom:50%;">
+<p>最后，测试一下外链图片和路过图床</p>
+<p><img src="https://s1.ax1x.com/2023/04/03/ppfjpu9.md.jpg" alt="路过图床的图片"></p>
+<img src="https://ts1.cn.mm.bing.net/th/id/R-C.a55dd42a6a535e29e0f2c83e9ec376a9?rik=jPoEX%2fRN%2bSeAtQ&riu=http%3a%2f%2fpic.rmb.bdstatic.com%2fa55dd42a6a535e29e0f2c83e9ec376a9.jpeg&ehk=g9XH%2fqyZvGkjeRqWx7bjB1S3ZSazq17ldJNt%2bTSABzg%3d&risl=1&pid=ImgRaw&r=0" alt="路" style="zoom:33%;">
+]]></content>
+      <categories>
+        <category>B.生活日记</category>
+      </categories>
+      <tags>
+        <tag>人生选择</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>希腊科学的内在演绎特征</title>
     <url>/posts/20230403104314-9d3a6454.html</url>
     <content><![CDATA[<h2 id="文章希腊科学的内在演绎特征"><a class="markdownIt-Anchor" href="#文章希腊科学的内在演绎特征"></a> 文章：希腊科学的内在演绎特征</h2>
@@ -1795,40 +1573,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
-    <title>4.02 去姐姐家蹭饭，及人生路的关键几步</title>
-    <url>/posts/20230402231356-ac1fba5f.html</url>
-    <content><![CDATA[<p>姐夫因家中亲人病危，和他爸妈回老家了，姐姐呢因公要去天津大学学习一周，家里俩孩子没人看护，邀请了岳父岳母过来照看，我和媳妇就打算过去蹭饭，反正也近，仅隔着一个小区。</p>
-<p>早上我俩睡到8:40才起床，起来后吃吃早餐老婆就催着要去姐家，我说不着急，去那么早干嘛，后来到了10点多催的次数多了我们就出发，10分钟就走到了。</p>
-<p>走在路上时，我突然想到老婆这么早就想着要来，是因为她想见自己的妈妈，这方面我确实没有她这么强烈，我和母亲没见面已经好几年了，前两年本来想着回老家过年，但因为疫情就一直没能回去。</p>
-<p>我也挺想母亲的，现在每个礼拜打打电话，平时就在监控里看看她老人家。</p>
-<h3 id="去姐姐家蹭饭吃到好吃但不知名的食材"><a class="markdownIt-Anchor" href="#去姐姐家蹭饭吃到好吃但不知名的食材"></a> 去姐姐家蹭饭吃到好吃但不知名的食材</h3>
-<p>中午吃的很开心，我不知道是什么食材，是这样的，是下面这样的。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022319107.jpg" alt="不知名食材1"></p>
-<p>加入面粉</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022319682.jpg" alt="不知名食材2"></p>
-<h3 id="看人生之路得一金句"><a class="markdownIt-Anchor" href="#看人生之路得一金句"></a> 看《人生之路》得一金句</h3>
-<p>吃完饭后我俩就回来了，本来是看电影的，但看了10分钟我俩都困了，就睡了一个午觉，一觉睡到17:00左右，醒来看《人生之路》电视剧，对立面那个黄部长（剧中黄亚萍的父亲）对女儿黄亚萍说的一句话记忆犹新，他说：“有位作家说过，人生的道路虽然漫长，但紧要处常常只有几步。”</p>
-<p>《人生之路》这部电视剧是改编自路遥的小说《人生》，小说的扉页上有句话：“<strong>人生的道路虽然漫长，但紧要处常常只有几步。</strong>”</p>
-<p>”</p>
-<p>确实，人生的道路虽然漫长，但要紧处常常只有几步，特别是当人年轻的时候。我也是在学习了随机过程等课后才知道Ω、随机场等知识后想明白的，我们没有一个人的生活道路是“直达”的，都有很多岔路口，有些岔路口只要走错一步，可以影响人生的一个时期，这个时期可能是三五年，也有可能是一二十年，甚至是影响人生。这些“关键的几步”要是走对了，就在赢面较大的概率域或者“场”里面了，搭上优势“传送带”，较省力，甚至是快速实现美好人生。比如十多二十年前买了房的人，像我的姐姐，她们当时首付不到20万买的房子，现在市值1000多万了。还有千千万万个姐姐家这样的家庭，他们并不懂投资，但因为这样那样的原因“走对了”买房的那一步，后面就好过多了，同样，也有成千上万个像我这样的家庭，当初由于各种原因错过买房的“关键一步”，随着居住成本的提高，生活变得越发的艰难。</p>
-<p>有时，我一想到孩子要出生了，而我还没有钱买房子，他将来上小学怎么办，我就焦虑得睡不着！</p>
-<p>人生路，真的就是关键的几步，真需要规划的，我的成长过程中父母没有在这方面给予我任何帮助，他们都是老实巴交的农民，我希望以后能在这方面给儿子（点点）一些有价值的帮助，为此我还学习类似<a href="https://kisma77.github.io/posts/20230402100627-9cc92f78.html">如何做计划</a>这样的知识。</p>
-<p>我想象中的“路”是这样的，</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022332956.png" alt="人生路" style="zoom:50%;">
-<p>但不美观，网上借用一下，但还是不是我想要的图</p>
-<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304022334594.jpeg" alt="道路方向选择" style="zoom:50%;">
-<p>最后，测试一下外链图片和路过图床</p>
-<p><img src="https://s1.ax1x.com/2023/04/03/ppfjpu9.md.jpg" alt="路过图床的图片"></p>
-<img src="https://ts1.cn.mm.bing.net/th/id/R-C.a55dd42a6a535e29e0f2c83e9ec376a9?rik=jPoEX%2fRN%2bSeAtQ&riu=http%3a%2f%2fpic.rmb.bdstatic.com%2fa55dd42a6a535e29e0f2c83e9ec376a9.jpeg&ehk=g9XH%2fqyZvGkjeRqWx7bjB1S3ZSazq17ldJNt%2bTSABzg%3d&risl=1&pid=ImgRaw&r=0" alt="路" style="zoom:33%;">
-]]></content>
-      <categories>
-        <category>B.生活日记</category>
-      </categories>
-      <tags>
-        <tag>人生选择</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>笛卡尔的四条准则</title>
     <url>/posts/20230323141838-f501a894.html</url>
     <content><![CDATA[<p>我们知道，在重建住宅之前，光把旧房拆掉，备上新料，请好建筑师，或者亲自设计，并且仔细绘出图纸，毕竟还是不够的，还应该另外准备一所房子，好在施工期间舒舒服服地住着。所以，当我受到理性的驱使、在判断上持犹疑态度的时候，为了不至于在行动上犹疑不决，为了今后还能十分幸运地活着，我给自己定下了一套临时行为规范，一共只有三四条准则，我愿意把它的内容告诉大家。</p>
@@ -1852,45 +1596,259 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
-    <title>3月第三周（3.24）小结</title>
-    <url>/posts/20230324235206-5cb45f8d.html</url>
-    <content><![CDATA[<p>本周盈利4804元，共交了264元佣金，净利润4540元，算下来收益率是7%。</p>
-<p>共交了264元佣金，与利润相比，高了。主要是因为我操作的频率高了！</p>
-<span id="more"></span>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250116294.png" alt="账户规模图"></p>
+    <title>Hello World And 博客配置记录</title>
+    <url>/posts/20230217204235-77f46582.html</url>
+    <content><![CDATA[<p>记录本博客的配置</p>
+<h2 id="1配置永久连接"><a class="markdownIt-Anchor" href="#1配置永久连接"></a> 1.配置“永久连接”</h2>
+<h3 id="11-安装abbrlink插件"><a class="markdownIt-Anchor" href="#11-安装abbrlink插件"></a> 1.1 <strong>安装abbrlink插件</strong></h3>
+<p>在博客根目录（执行hexo命令的地方）安装插件：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
+<h3 id="12-编辑站点配置文件"><a class="markdownIt-Anchor" href="#12-编辑站点配置文件"></a> 1.2 <strong>编辑站点配置文件</strong></h3>
+<p>打开博客根目录下的<code>站点配置文件_config.yml</code>，修改如下配置：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#permalink: :year/:month/:day/:title/</span><br><span class="line">#permalink_defaults:</span><br><span class="line">permalink: posts/:abbrlink/</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32 #support crc16(default) and crc32</span><br><span class="line">  rep: dec   #support dec(default) and hex</span><br></pre></td></tr></table></figure>
+<h3 id="13-重新生成部署"><a class="markdownIt-Anchor" href="#13-重新生成部署"></a> 1.3 重新生成部署</h3>
+<p>使用<code>hexo clean &amp;&amp; hexo g</code>重新生成博客，在博客源文件可以看到<strong>自动生成</strong>的abbrlink编号,接下来使用<code>hexo  d</code>部署，使用浏览器查看：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300914504.png" alt="永久连接示意"></p>
+<p>这样优化后的优点是：</p>
+<ul>
+<li>纯英文和数字链接非常有利于SEO；</li>
+<li>只要abbrlink编号不变，该文章的url就不变，可以随意修改文件名，文章标题。</li>
+</ul>
+<h2 id="2数学公式"><a class="markdownIt-Anchor" href="#2数学公式"></a> 2.数学公式</h2>
+<p>以默认的 landscape主题为例，</p>
+<h3 id="21-安装公式渲染插件"><a class="markdownIt-Anchor" href="#21-安装公式渲染插件"></a> 2.1 安装公式渲染插件</h3>
+<p>先卸载掉自带的 <code>hexo-renderer-marked</code> ，替换为 <code>hexo-renderer-markdown-it-plus</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ npm un hexo-renderer-marked --save</span><br><span class="line">$ npm i hexo-renderer-markdown-it-plus --save</span><br></pre></td></tr></table></figure>
+<h3 id="22-修改文章模板"><a class="markdownIt-Anchor" href="#22-修改文章模板"></a> 2.2 修改文章模板</h3>
+<p>修改/scaffolds/post.md 文件，在 — 前添加一行 math: false 。故如果某篇文章想启用数学公式支持，需将 false 改为 true 。</p>
+<h3 id="23-修改主题布局模板"><a class="markdownIt-Anchor" href="#23-修改主题布局模板"></a> 2.3 修改主题布局模板</h3>
+<p>有以下两种选择：</p>
+<h4 id="231-阅读全文后启用支持"><a class="markdownIt-Anchor" href="#231-阅读全文后启用支持"></a> 2.3.1 阅读全文后启用支持</h4>
+<p>编辑 <code>&lt;hexo dir&gt;/themes/landscape/layout/_partial/article.ejs</code> ，在 <code>&lt;/article&gt;</code> 前加入一行代码，添加后效果如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/themes/landscape/layout/_partial/head.ejs  &lt;% if (!index &amp;&amp; post.math)&#123; %&gt;</span><br><span class="line">    &lt;script&gt;</span><br><span class="line">      var assetsString = &#x27;&lt;link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;&#x27;</span><br><span class="line">      var pHead = document.getElementsByTagName(&#x27;head&#x27;)[0];</span><br><span class="line">      pHead.innerHTML = pHead.innerHTML + assetsString;</span><br><span class="line">    &lt;/script&gt;</span><br><span class="line">  &lt;% &#125; %&gt;</span><br><span class="line">&lt;/article&gt;</span><br></pre></td></tr></table></figure>
+<p>故需将 <code>&lt;!--more--&gt;</code> 放在公式之前。</p>
+<h4 id="232-直接全部启用支持"><a class="markdownIt-Anchor" href="#232-直接全部启用支持"></a> 2.3.2 直接全部启用支持</h4>
+<p>编辑 <code>&lt;hexo dir&gt;/themes/landscape/layout/_partial/head.ejs</code> ，在 <code>&lt;/head&gt;</code> 前加入一行代码，添加后效果如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/themes/landscape/layout/_partial/head.ejs  &lt;link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;</span><br><span class="line">&lt;/head&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="编辑配置文件"><a class="markdownIt-Anchor" href="#编辑配置文件"></a> 编辑配置文件</h3>
+<p>在站点配置文件 <code>_config.yml</code> 中加入如下配置：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/_config.ymlmarkdown_it_plus:</span><br><span class="line">  highlight: true</span><br><span class="line">  html: true</span><br><span class="line">  xhtmlOut: true</span><br><span class="line">  breaks: true</span><br><span class="line">  langPrefix:</span><br><span class="line">  linkify: true</span><br><span class="line">  typographer:</span><br><span class="line">  quotes: “”‘’</span><br><span class="line">  pre_class: highlight</span><br></pre></td></tr></table></figure>
+<h3 id="用法"><a class="markdownIt-Anchor" href="#用法"></a> 用法</h3>
+<p>整行：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$$sin^2\theta + cos^2\theta = 1$$</span><br></pre></td></tr></table></figure>
+<p>效果：$$sin^2\theta + cos^2\theta = 1$$</p>
+<p>行内，开头和结尾用一个<code>$</code>就行：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$sin^2\theta + cos^2\theta = 1$</span><br></pre></td></tr></table></figure>
+<p>行内效果：<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mi>θ</mi><mo>+</mo><mi>c</mi><mi>o</mi><msup><mi>s</mi><mn>2</mn></msup><mi>θ</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">sin^2\theta + cos^2\theta = 1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.897438em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">i</span><span class="mord"><span class="mord mathnormal">n</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord mathnormal">c</span><span class="mord mathnormal">o</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span></p>
+<p>测试用例：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$$</span><br><span class="line">\begin&#123;aligned&#125;</span><br><span class="line">f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]</span><br><span class="line">&amp; = f_X[h(y)]h&#x27;(y) \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;-\frac&#123;x&#125;&#123;\theta&#125;&#125;[\frac&#123;dx&#125;&#123;dy&#125;(-\frac&#123;\theta&#125;&#123;ln(1-y)&#125;)] \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;-\frac&#123;-\frac&#123;\theta&#125;&#123;ln(1-y)&#125;&#125;&#123;\theta&#125;&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1&#125;&#123;\theta&#125;e^&#123;ln(1-y)&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = \frac&#123;1-y&#125;&#123;\theta&#125;\frac&#123;\theta&#125;&#123;1-y&#125; \\[2ex]</span><br><span class="line">&amp; = 1</span><br><span class="line">\end&#123;aligned&#125;</span><br><span class="line">\tag&#123;1&#125;</span><br><span class="line">$$</span><br><span class="line">$$</span><br><span class="line">\frac&#123;1&#125;&#123;\sigma&#125; </span><br><span class="line">\tag&#123;this is a test&#125;</span><br><span class="line">$$</span><br></pre></td></tr></table></figure>
+<p>测试效果：</p>
+<p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mtable width="100%"><mtr><mtd width="50%"></mtd><mtd><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><msub><mi>f</mi><mi>Y</mi></msub><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><msub><mi>f</mi><mi>X</mi></msub><mo stretchy="false">[</mo><mi>h</mi><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><mi mathvariant="normal">∣</mi><msup><mi>h</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mi mathvariant="normal">∣</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><msub><mi>f</mi><mi>X</mi></msub><mo stretchy="false">[</mo><mi>h</mi><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><msup><mi>h</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>x</mi><mi>θ</mi></mfrac></mrow></msup><mo stretchy="false">[</mo><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>y</mi></mrow></mfrac><mo stretchy="false">(</mo><mo>−</mo><mfrac><mi>θ</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mfrac><mo stretchy="false">)</mo><mo stretchy="false">]</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mrow><mo>−</mo><mfrac><mi>θ</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mfrac></mrow><mi>θ</mi></mfrac></mrow></msup><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mn>1</mn><mi>θ</mi></mfrac><msup><mi>e</mi><mrow><mi>l</mi><mi>n</mi><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></msup><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow><mi>θ</mi></mfrac><mfrac><mi>θ</mi><mrow><mn>1</mn><mo>−</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mn>1</mn></mrow></mstyle></mtd></mtr></mtable></mtd><mtd width="50%"></mtd><mtd><mtext>(1)</mtext></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
+f_Y(y) &amp; = f_X[h(y)]|h&#x27;(y)| \\[2ex]
+&amp; = f_X[h(y)]h&#x27;(y) \\[2ex]
+&amp; = \frac{1}{\theta}e^{-\frac{x}{\theta}}[\frac{dx}{dy}(-\frac{\theta}{ln(1-y)})] \\[2ex]
+&amp; = \frac{1}{\theta}e^{-\frac{-\frac{\theta}{ln(1-y)}}{\theta}}\frac{\theta}{1-y} \\[2ex]
+&amp; = \frac{1}{\theta}e^{ln(1-y)}\frac{\theta}{1-y} \\[2ex]
+&amp; = \frac{1-y}{\theta}\frac{\theta}{1-y} \\[2ex]
+&amp; = 1
+\end{aligned}
+\tag{1}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:18.01824em;vertical-align:-8.75912em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:9.25912em;"><span style="top:-12.01104em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.22222em;">Y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-9.64904em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-6.755599999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-3.641679999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:-0.7482399999999989em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:2.145200000000001em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span><span style="top:4.507199999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:8.75912em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:9.25912em;"><span style="top:-12.01104em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord mathnormal">h</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mclose">]</span><span class="mord">∣</span><span class="mord"><span class="mord mathnormal">h</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mord">∣</span></span></span><span style="top:-9.64904em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord mathnormal">h</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span><span class="mclose">]</span><span class="mord"><span class="mord mathnormal">h</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-6.755599999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.89708em;"><span style="top:-3.4130000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6915428571428572em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.384em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span></span></span></span></span></span></span></span></span><span class="mopen">[</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mopen">(</span><span class="mord">−</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">n</span><span class="mopen">(</span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose">)</span><span class="mclose">]</span></span></span><span style="top:-3.641679999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.59192em;"><span style="top:-3.59192em;margin-right:0.05em;"><span class="pstrut" style="height:3.1789199999999997em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.6841714285714287em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.911714285714286em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size1 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.08144em;"><span style="top:-2.4265em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mord mathnormal mtight">n</span><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="mclose mtight">)</span></span></span><span style="top:-3.2255em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.387em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8235em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size1 size6"></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span></span></span></span></span></span></span></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-0.7482399999999989em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.938em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mord mathnormal mtight">n</span><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="mclose mtight">)</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:2.145200000000001em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:4.507199999999999em;"><span class="pstrut" style="height:3.59192em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:8.75912em;"><span></span></span></span></span></span></span></span></span><span class="tag"><span class="strut" style="height:18.01824em;vertical-align:-8.75912em;"></span><span class="mord text"><span class="mord">(</span><span class="mord"><span class="mord">1</span></span><span class="mord">)</span></span></span></span></span></span></p>
+<p>和</p>
+<p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>y</mi><mo>=</mo><msub><mi>a</mi><mi>x</mi></msub></mrow><annotation encoding="application/x-tex">y=a_x
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.58056em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span></p>
+<p><strong>公式这块我还没搞懂，弄出来的公式显示不正常，是“双影”，如下图所示，还不知道该怎么弄</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301009151.png" alt="公式显示异常"></p>
+<p>由于公式使用不多，问题暂时先挂起。</p>
+<h2 id="3显示本地图片"><a class="markdownIt-Anchor" href="#3显示本地图片"></a> 3.显示本地图片</h2>
+<h3 id="31-安装插件"><a class="markdownIt-Anchor" href="#31-安装插件"></a> 3.1 安装插件</h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-asset-image -- save</span><br></pre></td></tr></table></figure>
+<h3 id="32-配置_configyml"><a class="markdownIt-Anchor" href="#32-配置_configyml"></a> 3.2 配置_config.yml</h3>
+<p>把_config.yml中的post_asset_folder设为true，这个配置的意思是每次new post一个博客，会增加一个和博客同名的文件夹，之后新建了一篇文章，就会同时在hexo/source/_post文件夹下生成一个.md文件和一个同名文件夹，文件夹存放文章中的图片。</p>
+<h3 id="33-使用规则"><a class="markdownIt-Anchor" href="#33-使用规则"></a> 3.3 使用规则</h3>
+<p>把图片放到.md文件的同名文件夹&quot;first-page&quot;里，最后在.md文件中引用图片</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![图片描述]（./文章同标题文件夹/编号.jpg）</span><br></pre></td></tr></table></figure>
+<p>我不喜欢每篇文章都有一个同名文件夹，这样时间长了后比较麻烦，我采用的是图床，这样可以直接截图粘贴进文章就可以</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300933250.png" alt="GitHub图床" style="zoom: 50%;">
+<p>或者将需要的图片直接“拉”进文章也可以</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303300932290.jpg" alt="采用图床" style="zoom: 50%;">
+<h2 id="4去掉页面的阅读更多"><a class="markdownIt-Anchor" href="#4去掉页面的阅读更多"></a> 4.去掉页面的“阅读更多”</h2>
+<p>hexo 博客如果不自己在文章添加一个<code>&lt;!--more--&gt;</code> 标记，上传后整篇不管多长都直接给你放在主页，想看下面的几篇博文就要滑滑滑，滑半天才能看到后面几篇博文，既不符合设计原则，也不美观不方便。</p>
+<h3 id="41-传统方式"><a class="markdownIt-Anchor" href="#41-传统方式"></a> 4.1 传统方式</h3>
+<ol>
+<li>
+<p>在文章中使用<code>&lt; !--more--&gt;</code> 手动进行截断.<br>
+这种方法可以根据文章的内容，自己在合适的位置添加 <code>&lt; !--more--&gt;</code> 标签，使用灵活，也是Hexo推荐的方法。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301426412.png" alt="Hexo推荐的‘阅读全文’方法"></p>
+<p>可以在<code>\scaffolds\post.md</code>模板里设置，不用每篇文章都手动添加。</p>
+</li>
+<li>
+<p>自动形成摘要，在<strong>主题配置文件</strong>中添加<br>
+默认截取的长度为 150 字符，可以根据需要自行设定</p>
+</li>
+</ol>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">auto_excerpt:</span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">true</span></span><br><span class="line">  length: 150</span><br></pre></td></tr></table></figure>
+<p>官方建议使用 <code>&lt; !-- more --&gt;</code>方式，除了可以精确控制需要显示的摘录内容以外， 这种方式也可以让 Hexo 中的插件更好的识别。</p>
+<p>我觉得很不好，——实现方式粗暴直接，主页上有很多“ read more”，不美观。</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301432109.png" alt="read more标签" style="zoom:50%;">
+<p>那就自己改一下。</p>
+<p>按照逻辑来说，我们所关注的就是写文章，而摘要应该是根据文章内容通过 tf-idf 等一系列摘要算法生成的，再不济也应该是直接截取文章开头一段文字作为摘要嘛，总之是应该自动生成的，而且不应该修改 MD 源文件。</p>
+<p>思路：改主题代码。</p>
+<p>就我个人而言，以行的方式截取比以字数的方式截取的结果，对摘要完整性要友好的多。</p>
+<p>整理下我的需求，最后我得到几点初步的要求：</p>
+<ol>
+<li>能在主题配置文件中配置是否开启自动摘要</li>
+<li>摘要以行为单位自动从开头截取</li>
+<li>能配置固定截取的行数</li>
+</ol>
+<p>根据这几项需求，自己动手一步步实现。</p>
+<p>首先是找到要修改的代码的位置，因为这里主要是对文章显示时的修改，相关代码肯定是在有关文章内容显示的文件内，对 hexo 来说，通常是 article.ejs post.ejs 等类似名字的文件，它们的特点就是都会在主页显示文章和单独访问博文时用到。</p>
+<p>我用的是<code>landscape</code>主题，这里就是<code>\node_modules\hexo-theme-landscape\layout\_partial\article.ejs</code>这个文件</p>
+<p>打开 <code>article.ejs</code>，找到与摘要相关的代码：</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;article-entry&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;articleBody&quot;</span>&gt;</span></span><br><span class="line">&lt;% if (index &amp;&amp; post.excerpt) &#123; %&gt;</span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>&lt;%- post.excerpt %&gt;<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">&quot;article-more-link&quot;</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;&lt;%- url_for(post.path) %&gt;#more&quot;</span>&gt;</span>&lt;%= __(&#x27;article.more&#x27;) %&gt;<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">&lt;% &#125; else &#123; %&gt;</span><br><span class="line">    &lt;% if (!index &amp;&amp; post.toc) &#123; %&gt;</span><br><span class="line">        <span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;toc&quot;</span> <span class="attr">class</span>=<span class="string">&quot;toc-article&quot;</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">strong</span> <span class="attr">class</span>=<span class="string">&quot;toc-title&quot;</span>&gt;</span>&lt;%= __(&#x27;article.catalogue&#x27;) %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span><br><span class="line">            &lt;%- toc(post.content) %&gt;</span><br><span class="line">        <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">    &lt;%- post.content %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>这里简单讲一下各变量含义，这各文件是在每篇文章生成时被调用的，</p>
+<p><code>index</code> 是指现在是否在首页的标志</p>
+<p><code>post</code> 指这篇文章</p>
+<p><code>post.excerpt</code> 指文章原始摘要内容，既 <code>&lt;!--more--&gt;</code>之前的内容。</p>
+<p><code>url_for()</code> 返回一个 root 路径的 url，不带域名</p>
+<p><code>post.path</code> 指文章的网址，不含 root 目录</p>
+<p><code>post.toc</code> 指文章目录显示是否开了</p>
+<p><code>toc()</code> 解析文本，生成目录，既 h1-h6 的列表。</p>
+<p><code>post.content</code> 指文章全部内容</p>
+<p>现在再看，<code>article.ejs</code> 里代码的逻辑就很清楚了，在遍历文章的时候 <strong>先判断当前页面是否在首页，如果在首页并且这篇文档有摘要</strong>，那就只显示摘要并显示一个 ReadMore；<strong>否则</strong> 就显示全文（其中有一个“判断不在首页并且文章配置了开启目录就显示目录”与我们现在讨论的 readmore 无关所以暂且不管）。</p>
+<p>按照我们的思路，应该就是在上面“否则”后面加上自动截取前 n 行作为摘要并显示 ReadMore。</p>
+<p>一步步来，</p>
+<p>首先，我们需要一个可以配置的<strong>开关</strong>，用来配置是否启用自动截取生成摘要的功能，还需要一个可以配置的变量，用来配置固定截取几行。</p>
+<p>文章显示是主题干的事，这两个配置也是主题相关的，因此我们打开 <strong>主题配置文件</strong>，添加几个键值对并保存：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Excerpt </span></span><br><span class="line"><span class="comment">## Auto creat excerpt with not &lt;!--more--&gt;</span></span><br><span class="line"><span class="comment">## Enable will truncate auto_excerpt.lines rows in post head to replace excerpt.</span></span><br><span class="line"><span class="attr">auto_excerpt:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">lines:</span> <span class="number">5</span></span><br></pre></td></tr></table></figure>
+<p>然后回到 <code>article.ejs</code> 里，梳理一下我们的思路，整理一下一共有哪些显示摘要，哪些不显示的情况：</p>
+<ul>
+<li>不显示 ReadMore 的情况
+<ol>
+<li>不在首页</li>
+<li>在首页，无摘要，关闭自动截取</li>
+<li>在首页，无摘要，使能自动截取，文章没有足够的长度</li>
+</ol>
+</li>
+<li>显示 ReadMore 的情况
+<ol>
+<li>在首页，有摘要</li>
+<li>在首页，无摘要，使能自动截取，文章足够长</li>
+</ol>
+</li>
+</ul>
+<p>将以上情况整理成判断逻辑，再把目录显示加上，列出一个“中式代码”：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">是否显示全文 = true</span><br><span class="line"><span class="keyword">if</span> 在首页:</span><br><span class="line">    <span class="keyword">if</span> 有摘要:</span><br><span class="line">        是否显示全文 = false</span><br><span class="line">        显示摘要</span><br><span class="line">    <span class="keyword">else</span> <span class="keyword">if</span> 主题.自动截取.使能:</span><br><span class="line">        截取前 n 行作为摘要</span><br><span class="line">        <span class="keyword">if</span> 文章长度足够:</span><br><span class="line">            是否显示全文 = false</span><br><span class="line">            显示截取的结果</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="keyword">if</span> 文章配置显示目录:</span><br><span class="line">        显示目录</span><br><span class="line"><span class="keyword">if</span> 是否显示全文:</span><br><span class="line">    显示全文</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    显示 ReadMore</span><br></pre></td></tr></table></figure>
+<p>这样来看逻辑很清晰了。</p>
+<p>然后就是具体实现过程中我遇到的两个问题：</p>
+<ol>
+<li>
+<p>ReadMore 总是可能被当成文章文字的一部分而被改变样式</p>
+<p>原因是 icarus 原本就是把 ReadMore 用 p 标签放在文章中间的，如果 ReadMore 刚好实在一个列表间或者一块代码间，那显示就会很奇怪了。我改成了把整个摘要或者说文章放在一个 div 中，再把 Readmore 放在后面的另一块 div 中，这样 ReadMore 就与内容无关了。</p>
+</li>
+<li>
+<p>如何读取行数</p>
+<p>前面提到的两个自动截取摘要的文章，一篇 NexT 是自动截取字数，另一篇是固定截取两行，</p>
+<p>而我想的办法是通过多次调用 string.indexOf(str, start_position) 方法，每次改变起始位置来获取下一次的位置，有一次获取不到位置就说明文章还没有那么多行的长度。</p>
+<p>然后再用 string.substring(start, end) 方法，截取到获取的位置。</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">&lt;% <span class="keyword">var</span> br_position = <span class="number">0</span> %&gt;</span><br><span class="line">&lt;% <span class="keyword">for</span> (<span class="keyword">var</span> br_count = <span class="number">0</span>; br_count &lt; theme.<span class="property">auto_excerpt</span>.<span class="property">lines</span>; br_count++) &#123; %&gt;</span><br><span class="line">    &lt;% br_position = post.<span class="property">content</span>.<span class="title function_">indexOf</span>(<span class="string">&#x27;\n&#x27;</span>,br_position + <span class="number">1</span>) %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span>(br_position &lt; <span class="number">0</span>) &#123; <span class="keyword">break</span> &#125; %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span>(br_position &gt; <span class="number">0</span>) &#123; %&gt;</span><br><span class="line">    &lt;p&gt;&lt;%- post.<span class="property">content</span>.<span class="title function_">substring</span>(<span class="number">0</span>, br_position + <span class="number">1</span>) %&gt;&lt;p&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+<p>现在开始按照伪代码的逻辑编写 ejs 了，最后的工作就是把原来 <code>article.ejs</code> 的摘要相关代码（本节开头提到的）全部替换成我们写的自动截取摘要的代码：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">&lt;div <span class="keyword">class</span>=<span class="string">&quot;article-entry&quot;</span> itemprop=<span class="string">&quot;articleBody&quot;</span>&gt;</span><br><span class="line">&lt;% <span class="keyword">var</span> show_all_content = <span class="literal">true</span> %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span> (index) &#123; %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span> (post.<span class="property">excerpt</span>) &#123; %&gt;</span><br><span class="line">        &lt;% show_all_content = <span class="literal">false</span> %&gt;</span><br><span class="line">        <span class="language-xml"><span class="tag">&lt;<span class="name">p</span>&gt;</span>&lt;%- post.excerpt %&gt;<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span></span><br><span class="line">    &lt;% &#125; <span class="keyword">else</span> <span class="keyword">if</span> (theme.<span class="property">auto_excerpt</span>.<span class="property">enable</span>) &#123; %&gt;</span><br><span class="line">        &lt;% <span class="keyword">var</span> br_position = <span class="number">0</span> %&gt;</span><br><span class="line">        &lt;% <span class="keyword">for</span> (<span class="keyword">var</span> br_count = <span class="number">0</span>; br_count &lt; theme.<span class="property">auto_excerpt</span>.<span class="property">lines</span>; br_count++) &#123; %&gt;</span><br><span class="line">            &lt;% br_position = post.<span class="property">content</span>.<span class="title function_">indexOf</span>(<span class="string">&#x27;\n&#x27;</span>,br_position + <span class="number">1</span>) %&gt;</span><br><span class="line">            &lt;% <span class="keyword">if</span>(br_position &lt; <span class="number">0</span>) &#123; <span class="keyword">break</span> &#125; %&gt;</span><br><span class="line">        &lt;% &#125; %&gt;</span><br><span class="line">        &lt;% <span class="keyword">if</span>(br_position &gt; <span class="number">0</span>) &#123; %&gt;</span><br><span class="line">            &lt;% show_all_content = <span class="literal">false</span> %&gt;</span><br><span class="line">            &lt;p&gt;&lt;%- post.<span class="property">content</span>.<span class="title function_">substring</span>(<span class="number">0</span>, br_position + <span class="number">1</span>) %&gt;&lt;p&gt;</span><br><span class="line">        &lt;% &#125; %&gt;</span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;% &#125; <span class="keyword">else</span> &#123; %&gt;</span><br><span class="line">    &lt;% <span class="keyword">if</span> (post.<span class="property">toc</span>) &#123; %&gt;</span><br><span class="line">        <span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;toc&quot;</span> <span class="attr">class</span>=<span class="string">&quot;toc-article&quot;</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;<span class="name">strong</span> <span class="attr">class</span>=<span class="string">&quot;toc-title&quot;</span>&gt;</span>&lt;%= __(&#x27;article.catalogue&#x27;) %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">            &lt;%- toc(post.content) %&gt;</span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line">&lt;% <span class="keyword">if</span> (show_all_content) &#123; %&gt;</span><br><span class="line">    &lt;%- post.<span class="property">content</span> %&gt;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">&lt;% &#125; <span class="keyword">else</span> &#123; %&gt;</span><br><span class="line">    &lt;/div&gt;   </span><br><span class="line">    <span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;article-more-link&quot;</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">        <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;&lt;%- url_for(post.path) %&gt;#more&quot;</span>&gt;</span>&lt;%= __(&#x27;article.more&#x27;) %&gt;<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span></span><br><span class="line"><span class="language-xml">    <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure>
+<p>此时，</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<p>预览发现显示“article.more”</p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301444547.png" alt="“article.more”" style="zoom: 50%;">
+<p>删除代码<code>&lt;a href=&quot;&lt;%- url_for(post.path) %&gt;#more&quot;&gt;&lt;%= __('article.more') %&gt;&lt;/a&gt;</code>中的<code>article.more</code></p>
+<img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303301446451.png" alt="删除‘article.more’字样" style="zoom:50%;">
+<p>搞定，现在你可以把原来文章中的 <code>&lt;!--more--&gt;</code> 删了，以后也不用再写了。</p>
 ]]></content>
       <categories>
-        <category>C.商贾贸易</category>
-        <category>b.每周总结</category>
+        <category>hexo博客建设</category>
+        <category>总体配置</category>
       </categories>
       <tags>
-        <tag>商品期货</tag>
+        <tag>hexo博客</tag>
       </tags>
   </entry>
   <entry>
-    <title>三月最后一周（3.31），本周亏大了</title>
-    <url>/posts/20230331223221-588772fe.html</url>
-    <content><![CDATA[<p>本周（3.27-3.31号）是三月的最后一周，操作却亏了7000块!</p>
-<span id="more"></span>
-<h2 id="交易"><a class="markdownIt-Anchor" href="#交易"></a> 交易</h2>
-<p>本周我就没好好交易，心不在焉的，不专注。</p>
-<p>今晚姐姐带俩孩子来家里，陪她们玩去，待总结。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312236485.png" alt="202303312236账户规模"></p>
-<p>今晚的收入￥780，需要扣除21块的佣金，759元净利润</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312238518.png" alt="0331夜盘收入"></p>
-<h2 id="生活"><a class="markdownIt-Anchor" href="#生活"></a> 生活</h2>
-<p>每天陪老婆出去遛弯，随着预产期越来越近，我很焦虑，好在溜达的时候可以散散心。</p>
-<p>这个季节的北京很美，走到哪里都是花。</p>
-<p><img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20230331225554678.png" alt="小区里的花"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312253747.png" alt="小区里的花"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312254924.png" alt="小区里的花"></p>
+    <title>wiki主题新建多级分类目录的方法</title>
+    <url>/posts/20230218101108-a1cefd1d.html</url>
+    <content><![CDATA[<h3 id="wikitten主题简称wiki主题后同开设多级分类目录的方法"><a class="markdownIt-Anchor" href="#wikitten主题简称wiki主题后同开设多级分类目录的方法"></a> wikitten主题（简称wiki主题，后同）开设多级分类目录的方法。</h3>
+<p>方法很简单，在模板之中都已经设计好多级分类的使用方法，在写博客的时候只需要在文件头设置即可。</p>
+<p>例如，本篇博文是属于<code>hexo博客建设</code>分类下的，那就</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">categories:</span><br><span class="line">  - hexo博客建设</span><br><span class="line">  - wikitten主题</span><br></pre></td></tr></table></figure>
+<p>出来后效果就是</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303311018806.png" alt="多级别文件夹效果"></p>
+<p>注意，最多支持四级。</p>
 ]]></content>
       <categories>
-        <category>C.商贾贸易</category>
-        <category>b.每周总结</category>
+        <category>hexo博客建设</category>
+        <category>wikitten主题</category>
       </categories>
       <tags>
-        <tag>投机</tag>
+        <tag>hexo博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>wiki主题添加分享到微博</title>
+    <url>/posts/20230218095110-5a6474cc.html</url>
+    <content><![CDATA[<h2 id="在hexo中使用wiki主题时添加百度分享的方法"><a class="markdownIt-Anchor" href="#在hexo中使用wiki主题时添加百度分享的方法"></a> 在hexo中使用wiki主题时添加百度分享的方法。</h2>
+<p>网上查找在hexo中添加链接分享的方法是，查到的都是用next主题的，<br>
+用wiki主题时，如何添加分享并没有介绍。</p>
+<p>自己翻了一下代码，发现wikitten主题的结构非常清楚。</p>
+<h3 id="第一步"><a class="markdownIt-Anchor" href="#第一步"></a> 第一步</h3>
+<p>在_config.xml中的share选项中的几个分享的选项</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Share</span><br><span class="line">share: bdshare # options: jiathis, bdshare, addtoany, default</span><br></pre></td></tr></table></figure>
+<h3 id="第二步"><a class="markdownIt-Anchor" href="#第二步"></a> 第二步</h3>
+<p>在\themes\Wiki\layout\share文件夹中都有对应的文件。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303310953757.jpeg" alt="share文件夹中的文件"></p>
+<h3 id="第三步"><a class="markdownIt-Anchor" href="#第三步"></a> 第三步</h3>
+<p>打开bdshare.ejs 可以把现在已经不存在的开心网，腾讯微博的链接去掉，只保留qq空间，新浪微博和微信。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;div class=&quot;bdsharebuttonbox&quot;&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_more&quot; data-cmd=&quot;more&quot;&gt;  分享到：&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_qzone&quot; data-cmd=&quot;qzone&quot; title=&quot;分享到QQ空间&quot;&gt;QQ空间&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_tsina&quot; data-cmd=&quot;tsina&quot; title=&quot;分享到新浪微博&quot;&gt;新浪微博&lt;/a&gt;</span><br><span class="line">    &lt;a href=&quot;#&quot; class=&quot;bds_weixin&quot; data-cmd=&quot;weixin&quot; title=&quot;分享到微信&quot;&gt;微信&lt;/a&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+<p>之后把保存的bdshare.ejs文件<code>复制并放到</code>主题目录下的<code>\themes\Wiki\layout\common</code>下</p>
+<h3 id="第四步"><a class="markdownIt-Anchor" href="#第四步"></a> 第四步</h3>
+<p>修改common目录下的article.ejs（article.ejs就是决定着hexo生成的静态文件的布局）。<br>
+把分享链接放到文章的标题栏的日期的位置</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;div class=&quot;article-meta&quot;&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/category&#x27;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/tag&#x27;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;post/date&#x27;, &#123; class_name: &#x27;article-date&#x27;, date_format: null &#125;) %&gt;</span><br><span class="line">    &lt;%- partial(&#x27;share/bdshare&#x27;) %&gt;</span><br><span class="line">    &lt;% if (theme.plugins.busuanzi_count) &#123; %&gt;</span><br><span class="line">        &lt;i class=&quot;fa fa-bar-chart&quot;&gt;&lt;/i&gt;</span><br><span class="line">        &lt;span id=&quot;busuanzi_container_site_pv&quot;&gt;&lt;span id=&quot;busuanzi_value_page_pv&quot;&gt;&lt;/span&gt;&lt;/span&gt;    </span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">    &lt;% if (theme.history_control.enable) &#123; </span><br><span class="line">        let repertory_address = `$&#123;theme.history_control.server_link&#125;/$&#123;theme.history_control.user&#125;/$&#123;theme.history_control.repertory&#125;`;</span><br><span class="line">        let file_path = `$&#123;theme.history_control.branch&#125;/source/$&#123;post.source&#125;`;%&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/raw/$&#123;file_path&#125;` %&gt;&#x27;&gt; Source &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/edit/$&#123;file_path&#125;` %&gt;&#x27;&gt; Edit &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">        &lt;div class=&quot;article-meta-button&quot;&gt;</span><br><span class="line">            &lt;a href=&#x27;&lt;%= `$&#123;repertory_address&#125;/commits/$&#123;file_path&#125;` %&gt;&#x27;&gt; History &lt;/a&gt;</span><br><span class="line">        &lt;/div&gt;</span><br><span class="line">    &lt;% &#125; %&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+<p>找到<code>&lt;%- partial('post/date', &#123; class_name: 'article-date', date_format: null &#125;) %&gt;</code>,然后把<code>&lt;%- partial('share/bdshare') %&gt;</code>放到它后面，并保存。</p>
+<p>完成。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303311002710.png" alt="效果"></p>
+]]></content>
+      <categories>
+        <category>hexo博客建设</category>
+        <category>wikitten主题</category>
+      </categories>
+      <tags>
+        <tag>hexo博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>wiki主题的本地搜索</title>
+    <url>/posts/20230401225237-cdbc5704.html</url>
+    <content><![CDATA[<p>wiki主题很棒，我决定就用这个主题了。</p>
+<p>之前配置时由于我将<code>永久连接</code>设置为<code>essay-:.html</code>，essay是文章的意思，我自定义的一个“前缀词”，这样设置后，文章地址就是<code>https://域名/essay-xxxxxx.html</code>这样的，很好用，简单，但在使用wiki主题时遇到本地搜索时无法转向文章连接的问题</p>
+<h2 id="遇到的问题"><a class="markdownIt-Anchor" href="#遇到的问题"></a> 遇到的问题</h2>
+<p>具体错误为</p>
+<p>如搜索某个关键词后点击文章出现的连接为<code>https://essay-af71958ebe31.html/</code>这地址没有GitHub的前缀，无法打开，</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304012305951.png" alt="无法打开的本地搜索后连接"></p>
+<p>完整的文章链接应该是<code>https://kisma77.github.io/essay-af71958ebe31.html</code>，也就是缺少<code>https://name.github.io/</code></p>
+<h2 id="解决方法或过程"><a class="markdownIt-Anchor" href="#解决方法或过程"></a> 解决方法或过程</h2>
+<p>期间也检查、重新安装了插件<code>hexo-generator-json-content</code>，不知道问题出在哪里，还去给主题的作者留言请教，但暂时没得到回复，一直无法解决问题。</p>
+<p>今晚我修改<code>_config.yml</code>的<code>永久连接</code>，将原来的<code>permalink: /essay-:hash.html</code>改为<code>posts/:date:abbrlink.html</code>,居然可以本地搜索了，真是<strong>无心插柳解决了问题</strong></p>
+<h2 id="思考"><a class="markdownIt-Anchor" href="#思考"></a> 思考</h2>
+<p>（当然，对于不懂代码的我来说，这个“思考”有点滑稽，但有必要记录，我想并不是每一个人都懂代码，也许有跟我一样既不懂代码，也正好遇到这个问题的人）</p>
+<p>本地搜索时，程序可能会去‘post’文件夹内搜索（提取），我之前是把‘post’改为了自定义的‘essay’，因此无法显示正确的地址连接。（哈，不懂代码的人的思考，实在是滑稽！但好在问题解决了）。</p>
+<p>以前在解决<code>永久连接</code>这个问题时，网上看到的一些方法里会说：<code>“..‘post/’可有可无，删掉也可以”</code>这样的介绍，我的经验告诉我，这种说法会导致本地搜索时出问题。</p>
+<p>更多“永久连接”的信息，请阅读hexo官网：<a href="https://hexo.io/zh-cn/docs/permalinks">永久链接（Permalinks）</a>.</p>
+]]></content>
+      <categories>
+        <category>hexo博客建设</category>
+        <category>wikitten主题</category>
+      </categories>
+      <tags>
+        <tag>hexo博客</tag>
       </tags>
   </entry>
   <entry>
@@ -1909,47 +1867,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
         <tag>概率</tag>
         <tag>统计</tag>
         <tag>数理思维</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>要聚焦，过多选择会降低幸福感</title>
-    <url>/posts/20230301110843-dc02ff82.html</url>
-    <content><![CDATA[<p>“过多的自由”反而会导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会带来<strong>信息超载</strong>，会导致人们无所适从，带来更多后悔的机会。</p>
-<h2 id="过多选择的代价"><a class="markdownIt-Anchor" href="#过多选择的代价"></a> 过多选择的代价</h2>
-<p>像自由和自我决定这样的好东西人们会嫌多吗?心理学家施瓦茨认为，个人主义的现代文化存在“过度的自由”，反而导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会导致人们无所适从，或像施瓦茨所说的“自由的专制”。从30种果酱或巧克力中做出选择的人们表示出的选择满意度，比那些从6种中做出选择的人们的反而低。更多的选择可能会带来信息超载，也带来更多后悔的机会。和那些仅仅依循课程学习的人相比，自己选择下学期学习课程的学生，更少为重要的考试而努力，且更容易被游戏和杂志所吸引。另一项研究发现，可以在一系列消费清单中进行选择的学生更少购买口味寻常却健康的饮料。所以，在从星巴克1900款产品组合或超级市场4000项产品中进行选择时，你将对自己的选择更不满意，反而更倾向回家吃冰箱里的冰淇淋。<br>
-心理学家阐释了选择是如何强化后悔的。如果让员工们免费去巴黎或者去夏威夷旅行，他们会非常高兴；但是，如果让他们在两者之间进行选择，他们可能就不那么高兴了。选择巴黎的人会后悔他们无法得到阳光的温暖和海水的滋润，选择夏威夷的人会后悔他们将欣赏不到那些壮观的博物馆。最近的另一项研究也发现了同样的问题：来自11所大学的毕业生花了很多时间去寻找和评价各种各样的工作机会，但却以高薪和低满足感而告终。<br>
-在其他实验中，人们对无法反悔的选择（比如“最后大甩卖”中的选择决定）的满意度比对可以反悔的选择（当允许退款和更换时）的满意度要高。可笑的是，人们似乎喜欢和愿意为推翻这种选择的自由而付出代价。尽管这种自由可能会让你产生不满意。<br>
-该原则可以解释一种奇怪的社会现象：美国国家调查数据显示，过去人们对无法反悔的婚姻(“一次性成交”) 表示了更高的满意度。现在，尽管有了更多的婚姻自由，人们却对他们拥有的婚姻表现出较低的满意度。<br>
-自我控制的研究让我们相信坚持不懈和希望等这样一些传统美德。但是，班杜拉认为[[自我效能感]] 由诸如“你拥有通往成功的一切”这样的社会说服和“我认为我能，我认为我能”这样的自我说服来支持榜样——也就是看到其他类似的努力获得成功的例子——也可以提高自我效能感。但自我效能的主要来源是对成功的体验。“成功构筑了有力的效能信念”。如果你在减肥、戒烟或提高学习成绩方面通过努力获得了成功，你的自我效能感就会增强。<br>
-一个由鲍迈斯特领导的研究小组主张“仅仅为他们是他们自己而称赞孩子，简直是在使赞扬贬值‘。最好通过“认可好的表现来表达赞扬和增强自尊······当个体行为表现更好时，自尊会得增强，而其结果又会强化好的行为和进步。那些结果同时也有益于个体的幸福和社会的进步。</p>
-<p>1.为人们提供较小的选择范围可能比为他们提供较大的选择范围更能给他们带来满足感。<br>
-2.心理学家认为，之所以不能达到最佳的决策水平，在很大程度上是由于认知超载（cognitive overload），即当可以利用的信息淹没了可以利用的认知加工过程时所发生的情景。<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
-<table>
-<thead>
-<tr>
-<th style="text-align:left">扩展阅读<br>哈佛丹尼尔·吉尔布特（Daniel Gilbert)论：不可撤销之承诺的益处<br>我以前认为做出决断之后还能改变主意是有好处的，在2002年，我改变了这一想法。我和简·艾伯特(JaneEbert)发现人们不能撤销他们的决定时通常会更快乐。实验中参与者能撤销他们的决定时，他们就会思考自己决定的利弊。而不能撤销决定时.他们就会将注意力集中于这个决定有利的一面，而忽视不利的一面。<br>同样，决定不可撤销比可以更改会令他们更满足。讽刺的是，参与者并未意识到这一点，他们都强烈倾向于希望可以改变决定。现在，直至这一刻我依然相信婚姻源自于爱。但是这些实验启示我，原来婚姻也可能引起爱。如果你认真地看待这些研究资料，你就要去实践它。所以我知道这个结果的时候，我就向女友求婚了。她答应了我。事实证明我做的决定是正确的当她变成我的老婆之后，我更爱她了。</th>
-</tr>
-</thead>
-</table>
-<h1 id="过多的选择会降低幸福感这一现象也可以用在学习上"><a class="markdownIt-Anchor" href="#过多的选择会降低幸福感这一现象也可以用在学习上"></a> “过多的选择会降低幸福感”这一现象也可以用在学习上。</h1>
-<p>学习任何一门学科，最好选择并且只选择一套体系化的教材，聚焦完成这套教材的学习。可能一开始的时候我们会对教材的语言风格不习惯，坚持学它一段时间后大脑就开始习惯了。我的经验是如果每天学习1、2个小时，一个来月就习惯了，如果每天的时间充裕一些，一周就可以。如果是看教学视频，先不着急一上来就拿个小本本跟着学，先听几P，不要在意听得懂听不懂，先让授课老师的声音在我们的脑子里跑马，很快就能习惯老师的说话风格。而且这种先听的方式，就像是看书时先看目录一样，听1、2遍后我们对课程的框架就有点眉目了，这时候再认真学就容易多了。当然这是我的经验之谈，不见得每个人都适用。</p>
-<p>学习时，教材、老师，切勿贪多。今天北大老师、明天清华教授、后天国科大教授、然后又到B站MIT、哈佛……网盘爆满、收藏夹爆满、资料太多，精力分散，最终没有一样能学成的。</p>
-<p>学习时间要保证1小时以上，务必连续且有利于集中注意力的环境，再且要每天坚持，学习赢者通吃，输者一无所有。必须坚持学习，必须累积直至从量变到质变。如果没有到达质变这一步，量变这一环节投入的再多再大，时间一过，会全部忘记，你根本记不住。</p>
-<p>参考：</p>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p>《社会心理学（第11版）》作者 戴维·迈尔斯，人民邮电出版社。P59-60 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
-]]></content>
-      <categories>
-        <category>C.商贾贸易</category>
-        <category>c.慢投细思</category>
-      </categories>
-      <tags>
-        <tag>认知心理学</tag>
       </tags>
   </entry>
   <entry>
@@ -3074,71 +2991,6 @@ shells 发表于 2011-11-24 06:44</p>
       </tags>
   </entry>
   <entry>
-    <title>商品期货投机获利的秘诀</title>
-    <url>/posts/20230306235727-158f51b8.html</url>
-    <content><![CDATA[<p>There are two primacy says we make money trading, catching a big price move with a small position or having a large position and catching a small move.</p>
-<p>交易获利基本上有两种方法：用小的头寸捕捉到一次大的价格波动；或者用大的头寸捕捉一次小的价格波动。</p>
-<p>期货交易的诀窍是：别做短线。你交易的时间周期越短，赚的钱越少。</p>
-<p>这听起来很让人失望，但却是真的。想想你以前的交易，有哪天获得过超额利润呢？如果你够走运，这种事情又能重复多少次呢？</p>
-<p>获利的普遍规则和投机的普遍规则是一样的：</p>
-<p><strong>获利需要靠时间来积累</strong></p>
-<p>这是个基础的算数题：一个短线交易者只有几个小时来捕捉一个大的价格波动来获利。</p>
-<p>绝大多数来市场的散户都喜欢短线交易，时间从一开始就对他不利。他入场与离场的时间必须精确，根本就没有犯错的余地。 短线交易者要想大幅获利的唯一出路就是持有一个很大的仓位，因为他没办法捕捉到大的价格波动过程。</p>
-<p>这有个简单的例子：我能在铁矿石期货上建立5手头寸，并持有到下个月获利3万元。但是持有5手铁矿石头寸想在明天就获利3万元是绝没有可能的。想在明天就在铁矿石期货上获利3万元，只能去持有一个很重的仓位。</p>
-<p>这些数字是关联的，是简单的函数关系：短线交易者从市场里拿走大幅利润的唯一办法就是持有大额头寸。 因而也就有了问题。如果你持有大额头寸，你也就有可能遭遇大额亏损。在我的5手铁矿石头寸上，我可以像个傻瓜那样持有仓位直到出现3万元的亏损，我也可能被提前止损出局遭受5000块的亏损。</p>
-<p>对短线交易者而言，风险/回报率是个灾难。平均盈利与他们的平均亏损几乎相当。</p>
-<p>想赢得多就得赌得大。但是赌得大在特定时间可以确定的就是会输得多……在这样一个游戏里，一笔亏损就能搞垮你。</p>
-<p>你需要知道：趋势是一切获利的根本。没有趋势就没有获利。趋势是时间&amp;空间的函数，因此，你在一笔交易里能停留的时间越久，那么你能捕捉到的趋势波幅就越大。</p>
-<p>日内交易者将他们自己置于明显的不利地位。时间是他们的敌人，他们必须在日末退出市场，他们也限制了自己能够捕捉的价格波幅。而头寸交易者懂得时间是他们的盟友，也因此获益良多。 这条规则会一直有效，直到永远。 成功的交易者知道市场在1分钟内变化不了多少，5分钟内变化会大一些，60分钟内变化比5分钟还大，1天、1周内的变动会更大。失败的交易者只想在很短的时间段内进行交易，自然限制了获利的潜力。 按照上面的定义，这些人限制了自己获利的潜力，却导致了无限的亏损，所以就会有那么多人在短线交易方面表现差劲。他们在经纪商或者交易系统推销员的鼓动下，被不断低买高卖获利的假想所蒙蔽，最终却陷入了亏损的困境。</p>
-<p>因为有杠杆，人们又喜欢短线交易（有许许多多的人是做日内交易），这导致一个残酷的事实：绝大部分小资金者，最后的结局一定是出局的。</p>
-<p>还记得吗？长袖善舞，多钱善贾。</p>
-]]></content>
-      <categories>
-        <category>C.商贾贸易</category>
-        <category>c.慢投细思</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>3.20 记一次成功地从“红灯策略”中获利</title>
-    <url>/posts/20230320153028-c9eeb6a.html</url>
-    <content><![CDATA[<p>今天是周一，上午开始做空棕榈油2305合约，每张单子盈利1980元。但过程并不容易。</p>
-<p>早上9点开盘后，价格上涨至0.3%附近，我看涨起来了，去做多，随后快速出现了亏损，于是，做空，但随后又出现了亏损，我胡乱操作了两次，都是亏损.</p>
-<span id="more"></span>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538448.png" alt="棕榈交易"></p>
-<p>后来我突然想起<a href="https://kisma77.github.io/posts/20230223222915-f73d33d.html">百分百红灯策略</a>,转而做空，随后盈利，一直到收盘都没平仓。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538780.png" alt="棕榈交易"></p>
-<p>白白浪费了460块钱，还有20块钱的佣金。</p>
-<p>红灯策略违背直觉，需要多加练习，但今天即使想起执行红灯策略，并立即按照策略执行，挽回了损失。</p>
-]]></content>
-      <categories>
-        <category>C.商贾贸易</category>
-        <category>c.慢投细思</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>3.24有赚，开心</title>
-    <url>/posts/20230324014512-4ad5160b.html</url>
-    <content><![CDATA[<p>今晚赚了450元。</p>
-<p>明天（24号）上午估计不会出摊，下午要去五路居选孕妇照，完事后要去金源看看婴儿车。</p>
-<span id="more"></span>
-<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303240148248.png" alt="3.23夜盘收益"></p>
-<p>截止目前孕检、产包必需品花费￥9000左右</p>
-]]></content>
-      <categories>
-        <category>C.商贾贸易</category>
-        <category>a.每日记录</category>
-      </categories>
-      <tags>
-        <tag>商品期货</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>思考“拿住不乱抛”</title>
     <url>/posts/20230324110549-5055215f.html</url>
     <content><![CDATA[<p>很多人买入后拿不住股票。怎样才能拿的住？你从何时能做到的？从最初交易经历了多久？哪些关键事改变了你？</p>
@@ -3192,6 +3044,154 @@ shells 发表于 2011-11-24 06:44</p>
       </tags>
   </entry>
   <entry>
+    <title>商品期货投机获利的秘诀</title>
+    <url>/posts/20230306235727-158f51b8.html</url>
+    <content><![CDATA[<p>There are two primacy says we make money trading, catching a big price move with a small position or having a large position and catching a small move.</p>
+<p>交易获利基本上有两种方法：用小的头寸捕捉到一次大的价格波动；或者用大的头寸捕捉一次小的价格波动。</p>
+<p>期货交易的诀窍是：别做短线。你交易的时间周期越短，赚的钱越少。</p>
+<p>这听起来很让人失望，但却是真的。想想你以前的交易，有哪天获得过超额利润呢？如果你够走运，这种事情又能重复多少次呢？</p>
+<p>获利的普遍规则和投机的普遍规则是一样的：</p>
+<p><strong>获利需要靠时间来积累</strong></p>
+<p>这是个基础的算数题：一个短线交易者只有几个小时来捕捉一个大的价格波动来获利。</p>
+<p>绝大多数来市场的散户都喜欢短线交易，时间从一开始就对他不利。他入场与离场的时间必须精确，根本就没有犯错的余地。 短线交易者要想大幅获利的唯一出路就是持有一个很大的仓位，因为他没办法捕捉到大的价格波动过程。</p>
+<p>这有个简单的例子：我能在铁矿石期货上建立5手头寸，并持有到下个月获利3万元。但是持有5手铁矿石头寸想在明天就获利3万元是绝没有可能的。想在明天就在铁矿石期货上获利3万元，只能去持有一个很重的仓位。</p>
+<p>这些数字是关联的，是简单的函数关系：短线交易者从市场里拿走大幅利润的唯一办法就是持有大额头寸。 因而也就有了问题。如果你持有大额头寸，你也就有可能遭遇大额亏损。在我的5手铁矿石头寸上，我可以像个傻瓜那样持有仓位直到出现3万元的亏损，我也可能被提前止损出局遭受5000块的亏损。</p>
+<p>对短线交易者而言，风险/回报率是个灾难。平均盈利与他们的平均亏损几乎相当。</p>
+<p>想赢得多就得赌得大。但是赌得大在特定时间可以确定的就是会输得多……在这样一个游戏里，一笔亏损就能搞垮你。</p>
+<p>你需要知道：趋势是一切获利的根本。没有趋势就没有获利。趋势是时间&amp;空间的函数，因此，你在一笔交易里能停留的时间越久，那么你能捕捉到的趋势波幅就越大。</p>
+<p>日内交易者将他们自己置于明显的不利地位。时间是他们的敌人，他们必须在日末退出市场，他们也限制了自己能够捕捉的价格波幅。而头寸交易者懂得时间是他们的盟友，也因此获益良多。 这条规则会一直有效，直到永远。 成功的交易者知道市场在1分钟内变化不了多少，5分钟内变化会大一些，60分钟内变化比5分钟还大，1天、1周内的变动会更大。失败的交易者只想在很短的时间段内进行交易，自然限制了获利的潜力。 按照上面的定义，这些人限制了自己获利的潜力，却导致了无限的亏损，所以就会有那么多人在短线交易方面表现差劲。他们在经纪商或者交易系统推销员的鼓动下，被不断低买高卖获利的假想所蒙蔽，最终却陷入了亏损的困境。</p>
+<p>因为有杠杆，人们又喜欢短线交易（有许许多多的人是做日内交易），这导致一个残酷的事实：绝大部分小资金者，最后的结局一定是出局的。</p>
+<p>还记得吗？长袖善舞，多钱善贾。</p>
+]]></content>
+      <categories>
+        <category>C.商贾贸易</category>
+        <category>c.慢投细思</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三月最后一周（3.31），本周亏大了</title>
+    <url>/posts/20230331223221-588772fe.html</url>
+    <content><![CDATA[<p>本周（3.27-3.31号）是三月的最后一周，操作却亏了7000块!</p>
+<span id="more"></span>
+<h2 id="交易"><a class="markdownIt-Anchor" href="#交易"></a> 交易</h2>
+<p>本周我就没好好交易，心不在焉的，不专注。</p>
+<p>今晚姐姐带俩孩子来家里，陪她们玩去，待总结。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312236485.png" alt="202303312236账户规模"></p>
+<p>今晚的收入￥780，需要扣除21块的佣金，759元净利润</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312238518.png" alt="0331夜盘收入"></p>
+<h2 id="生活"><a class="markdownIt-Anchor" href="#生活"></a> 生活</h2>
+<p>每天陪老婆出去遛弯，随着预产期越来越近，我很焦虑，好在溜达的时候可以散散心。</p>
+<p>这个季节的北京很美，走到哪里都是花。</p>
+<p><img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20230331225554678.png" alt="小区里的花"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312253747.png" alt="小区里的花"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303312254924.png" alt="小区里的花"></p>
+]]></content>
+      <categories>
+        <category>C.商贾贸易</category>
+        <category>b.每周总结</category>
+      </categories>
+      <tags>
+        <tag>投机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>要聚焦，过多选择会降低幸福感</title>
+    <url>/posts/20230301110843-dc02ff82.html</url>
+    <content><![CDATA[<p>“过多的自由”反而会导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会带来<strong>信息超载</strong>，会导致人们无所适从，带来更多后悔的机会。</p>
+<h2 id="过多选择的代价"><a class="markdownIt-Anchor" href="#过多选择的代价"></a> 过多选择的代价</h2>
+<p>像自由和自我决定这样的好东西人们会嫌多吗?心理学家施瓦茨认为，个人主义的现代文化存在“过度的自由”，反而导致人们生活满意度下降和临床抑郁症的增多。过多的选择可能会导致人们无所适从，或像施瓦茨所说的“自由的专制”。从30种果酱或巧克力中做出选择的人们表示出的选择满意度，比那些从6种中做出选择的人们的反而低。更多的选择可能会带来信息超载，也带来更多后悔的机会。和那些仅仅依循课程学习的人相比，自己选择下学期学习课程的学生，更少为重要的考试而努力，且更容易被游戏和杂志所吸引。另一项研究发现，可以在一系列消费清单中进行选择的学生更少购买口味寻常却健康的饮料。所以，在从星巴克1900款产品组合或超级市场4000项产品中进行选择时，你将对自己的选择更不满意，反而更倾向回家吃冰箱里的冰淇淋。<br>
+心理学家阐释了选择是如何强化后悔的。如果让员工们免费去巴黎或者去夏威夷旅行，他们会非常高兴；但是，如果让他们在两者之间进行选择，他们可能就不那么高兴了。选择巴黎的人会后悔他们无法得到阳光的温暖和海水的滋润，选择夏威夷的人会后悔他们将欣赏不到那些壮观的博物馆。最近的另一项研究也发现了同样的问题：来自11所大学的毕业生花了很多时间去寻找和评价各种各样的工作机会，但却以高薪和低满足感而告终。<br>
+在其他实验中，人们对无法反悔的选择（比如“最后大甩卖”中的选择决定）的满意度比对可以反悔的选择（当允许退款和更换时）的满意度要高。可笑的是，人们似乎喜欢和愿意为推翻这种选择的自由而付出代价。尽管这种自由可能会让你产生不满意。<br>
+该原则可以解释一种奇怪的社会现象：美国国家调查数据显示，过去人们对无法反悔的婚姻(“一次性成交”) 表示了更高的满意度。现在，尽管有了更多的婚姻自由，人们却对他们拥有的婚姻表现出较低的满意度。<br>
+自我控制的研究让我们相信坚持不懈和希望等这样一些传统美德。但是，班杜拉认为[[自我效能感]] 由诸如“你拥有通往成功的一切”这样的社会说服和“我认为我能，我认为我能”这样的自我说服来支持榜样——也就是看到其他类似的努力获得成功的例子——也可以提高自我效能感。但自我效能的主要来源是对成功的体验。“成功构筑了有力的效能信念”。如果你在减肥、戒烟或提高学习成绩方面通过努力获得了成功，你的自我效能感就会增强。<br>
+一个由鲍迈斯特领导的研究小组主张“仅仅为他们是他们自己而称赞孩子，简直是在使赞扬贬值‘。最好通过“认可好的表现来表达赞扬和增强自尊······当个体行为表现更好时，自尊会得增强，而其结果又会强化好的行为和进步。那些结果同时也有益于个体的幸福和社会的进步。</p>
+<p>1.为人们提供较小的选择范围可能比为他们提供较大的选择范围更能给他们带来满足感。<br>
+2.心理学家认为，之所以不能达到最佳的决策水平，在很大程度上是由于认知超载（cognitive overload），即当可以利用的信息淹没了可以利用的认知加工过程时所发生的情景。<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">扩展阅读<br>哈佛丹尼尔·吉尔布特（Daniel Gilbert)论：不可撤销之承诺的益处<br>我以前认为做出决断之后还能改变主意是有好处的，在2002年，我改变了这一想法。我和简·艾伯特(JaneEbert)发现人们不能撤销他们的决定时通常会更快乐。实验中参与者能撤销他们的决定时，他们就会思考自己决定的利弊。而不能撤销决定时.他们就会将注意力集中于这个决定有利的一面，而忽视不利的一面。<br>同样，决定不可撤销比可以更改会令他们更满足。讽刺的是，参与者并未意识到这一点，他们都强烈倾向于希望可以改变决定。现在，直至这一刻我依然相信婚姻源自于爱。但是这些实验启示我，原来婚姻也可能引起爱。如果你认真地看待这些研究资料，你就要去实践它。所以我知道这个结果的时候，我就向女友求婚了。她答应了我。事实证明我做的决定是正确的当她变成我的老婆之后，我更爱她了。</th>
+</tr>
+</thead>
+</table>
+<h1 id="过多的选择会降低幸福感这一现象也可以用在学习上"><a class="markdownIt-Anchor" href="#过多的选择会降低幸福感这一现象也可以用在学习上"></a> “过多的选择会降低幸福感”这一现象也可以用在学习上。</h1>
+<p>学习任何一门学科，最好选择并且只选择一套体系化的教材，聚焦完成这套教材的学习。可能一开始的时候我们会对教材的语言风格不习惯，坚持学它一段时间后大脑就开始习惯了。我的经验是如果每天学习1、2个小时，一个来月就习惯了，如果每天的时间充裕一些，一周就可以。如果是看教学视频，先不着急一上来就拿个小本本跟着学，先听几P，不要在意听得懂听不懂，先让授课老师的声音在我们的脑子里跑马，很快就能习惯老师的说话风格。而且这种先听的方式，就像是看书时先看目录一样，听1、2遍后我们对课程的框架就有点眉目了，这时候再认真学就容易多了。当然这是我的经验之谈，不见得每个人都适用。</p>
+<p>学习时，教材、老师，切勿贪多。今天北大老师、明天清华教授、后天国科大教授、然后又到B站MIT、哈佛……网盘爆满、收藏夹爆满、资料太多，精力分散，最终没有一样能学成的。</p>
+<p>学习时间要保证1小时以上，务必连续且有利于集中注意力的环境，再且要每天坚持，学习赢者通吃，输者一无所有。必须坚持学习，必须累积直至从量变到质变。如果没有到达质变这一步，量变这一环节投入的再多再大，时间一过，会全部忘记，你根本记不住。</p>
+<p>参考：</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>《社会心理学（第11版）》作者 戴维·迈尔斯，人民邮电出版社。P59-60 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+      <categories>
+        <category>C.商贾贸易</category>
+        <category>c.慢投细思</category>
+      </categories>
+      <tags>
+        <tag>认知心理学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3月第三周（3.24）小结</title>
+    <url>/posts/20230324235206-5cb45f8d.html</url>
+    <content><![CDATA[<p>本周盈利4804元，共交了264元佣金，净利润4540元，算下来收益率是7%。</p>
+<p>共交了264元佣金，与利润相比，高了。主要是因为我操作的频率高了！</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303250116294.png" alt="账户规模图"></p>
+]]></content>
+      <categories>
+        <category>C.商贾贸易</category>
+        <category>b.每周总结</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3.20 记一次成功地从“红灯策略”中获利</title>
+    <url>/posts/20230320153028-c9eeb6a.html</url>
+    <content><![CDATA[<p>今天是周一，上午开始做空棕榈油2305合约，每张单子盈利1980元。但过程并不容易。</p>
+<p>早上9点开盘后，价格上涨至0.3%附近，我看涨起来了，去做多，随后快速出现了亏损，于是，做空，但随后又出现了亏损，我胡乱操作了两次，都是亏损.</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538448.png" alt="棕榈交易"></p>
+<p>后来我突然想起<a href="https://kisma77.github.io/posts/20230223222915-f73d33d.html">百分百红灯策略</a>,转而做空，随后盈利，一直到收盘都没平仓。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303201538780.png" alt="棕榈交易"></p>
+<p>白白浪费了460块钱，还有20块钱的佣金。</p>
+<p>红灯策略违背直觉，需要多加练习，但今天即使想起执行红灯策略，并立即按照策略执行，挽回了损失。</p>
+]]></content>
+      <categories>
+        <category>C.商贾贸易</category>
+        <category>c.慢投细思</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3.24有赚，开心</title>
+    <url>/posts/20230324014512-4ad5160b.html</url>
+    <content><![CDATA[<p>今晚赚了450元。</p>
+<p>明天（24号）上午估计不会出摊，下午要去五路居选孕妇照，完事后要去金源看看婴儿车。</p>
+<span id="more"></span>
+<p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202303240148248.png" alt="3.23夜盘收益"></p>
+<p>截止目前孕检、产包必需品花费￥9000左右</p>
+]]></content>
+      <categories>
+        <category>C.商贾贸易</category>
+        <category>a.每日记录</category>
+      </categories>
+      <tags>
+        <tag>商品期货</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>3.21账户到7万了</title>
     <url>/posts/20230321150404-d6f02f35.html</url>
     <content><![CDATA[<p>今天账户站上7万</p>
@@ -3212,7 +3212,21 @@ shells 发表于 2011-11-24 06:44</p>
     <url>/posts/20230404150001-decc9030.html</url>
     <content><![CDATA[<p>盈利了点，嘿嘿</p>
 <p><img src="https://s1.ax1x.com/2023/04/04/pp4R0yT.png" alt="4月4号账户"></p>
-<p><img src="https://wx2.sinaimg.cn/mw2000/008oh1kjly1h9qy8a84bhj30gr0gbq3j.jpg" alt="测试把微博当图床"></p>
+<hr>
+<p>`曾经刻意的读过很多遍斯坦利·克罗的期货交易策略和克罗谈交易，以及能搜罗到的任何有关他的东西，因为他自称是杰西·利物默的隔世弟子，而他所崇拜的那个人正好是我一直以来的精神偶像。但我一直没有真正的理解他，尤其是他引以为豪的“坐守长线”----我就坐在那里，一直坐得纹风不动。</p>
+<p>我一直觉得那是不可理喻的交易方式，在我没有学会计算爆仓需要多少仓位和反向幅度之前，我是不可理喻是这么没激情的交易方式是怎么让他赚钱的，在我学会计算只要33%的胜率和超过3倍的赔率就能赚到大钱的赌场法则之后，我的不可理喻是一个正常回档就可能把重仓打爆轻仓打残何况还有大量的几乎接近1：1幅度的回档他凭什么就知道自己一定能挺得过去。</p>
+<p>研究了他的操作，我没有得到什么收获，除了一些技术上的东西，但是那不是我需要的。又研究了巴菲特的持股，仍然没有明白何以能“一直坐在那里”，虽然好像有些模糊的部分理解了巴菲特何以能“坐守长线”，但克罗不是巴菲特。</p>
+<p>我仍是继续自己的赌博式交易：50%胜率*2倍赔率，任何一个超过标准值就是赚，同时超过就是大赚。三重滤网法则下的切入点与紧贴止损的保护,从T+0到T+1/1+的倒来倒去，倒也其乐融融，尝到不少甜头，忘了探究克罗的长线。只是心里始终有些不安，我知道自己还缺了重要的一课，这门课的老师叫斯坦利·克罗。</p>
+<p>我一直没有想过从资金/仓位管理的角度来考虑长线问题。因为我始终都没有资金/仓位管理的观念，我都是一律重仓，至少半仓。因为我的操作周期很紧，而我的止损更紧。短线波动的微薄利润积累，低于半仓那就是扯淡的操作。我认真研究了杰西·利物默的数次爆仓，也认真研究了自己的数次爆仓，我仍然没有资金/仓位管理的概念，但是我用“50<em>2”（胜率</em>赔率）的赌场法则解决了利物默如何可以不爆仓，也为自己的不控制仓位找到了理由，但是这让我更迷惑于克罗的“坐守长线”----我几乎是坚信，克罗一定会被打爆。</p>
+<p>道理很简单，胜率是有限的，而长线更是靠大赔率来制胜。长线的仓位，即使在70%胜率的超级高手，只要错一次，就可能爆了，因为既然是长线，就必然止损设的很大。而连续做错2–3次，是很正常的事情，无论他是什么样的高手高高手。期货、外汇的长线作手，被打爆的尤其多，大多就是连错两/三次，最后方向做对但是重仓死在回档里。</p>
+<p>只有一手，就持一张单。轻仓长持。</p>
+<p>说不清在哪里看到这句话的，看的时候也没有在意，但是偶尔在脑子里回想克罗的交易记录，不知道是为什么，突然一下就想通了。原来就是仓位的问题。</p>
+<p>巴菲特有句著名的话：“长期来说，股市是称重机”。这句话适用于任何市场。基本分析是很难，很复杂，但是常识就一点也不复杂了。就说连豆，那一年的东北豆农把现货豆卖到了比成本还低一毛多钱，这个价格让豆农喝西北风去啊，结果大家都自己在自个院里建仓库储藏起来不卖了。到了这个份上，常识就说这里是大底了。谷贱伤农，如果这个产业或者产品还能继续延续，如果豆农们今后还会继续种大豆，那么这个价格就是历史性的低价，否则就意味着这个产业或者产品的消亡。就在豆农都不愿意再种大豆的第二年，美国大豆占据了中国大豆市场的半壁江山，并且把连豆变成了芝加哥的影子市场，而连豆当年见到历史大底，从此开始了至今数年（甚至也许是未来十数年、数十年）的长牛走势。其他的也是同样的道理，包括股市、汇市，都是如此，依据常识而不是精确的数据分析，就可以得到重要的结论。只要不是以江恩艾略特之流作为人生目标的死心眼儿，做到这一点不是很难的事情。所以找到“坐守长线”的起点，这不是很难的事情。</p>
+<p>难在如何坚持，如何面对反复的回撤，如何面对可能出现的接近1：1的回撤。</p>
+<p>这里有两个问题：第一是心态，如何让自己不会对这个长线仓位太在意，不会做“每天把昨天种下去的秧苗拔出来看看”这样的蠢事。第二是安全，如何让自己不会被正常的或者不正常的回档，把自己的仓位打爆。</p>
+<p>所以就是轻仓长持。</p>
+<p>在既有持仓已经获得自我保护能力，能自己照顾自己之后，再逐渐金字塔加码，而且仍是轻仓加码，直到新加码的仓位再次获得自我保护，才接着进行下一次金字塔的加码。这才是长线。</p>
+<p>只有足够低的仓位，才能做到这一点。这就是斯坦利·克罗为什么能“一直坐在那里”，并且坐出千万身家的原因所在。感谢被打爆的长线作手们，是他们从反面证实了这是长线操作的不二法则。`</p>
 ]]></content>
       <categories>
         <category>C.商贾贸易</category>
@@ -3275,43 +3289,6 @@ shells 发表于 2011-11-24 06:44</p>
       </tags>
   </entry>
   <entry>
-    <title>不确定性原理的前世今生·数学篇（一）</title>
-    <url>/posts/20230308224703-f3c03b31.html</url>
-    <content><![CDATA[<p>在现代数学中有一个很容易被外行误解的词汇：信号 (signal)。当数学家们说起「一个信号」的时候，他们脑海中想到的并不是交通指示灯所发出的闪烁光芒或者手机屏幕顶部的天线图案，而是一段可以具体数字化的信息，可以是声音，可以是图像，也可是遥感测量数据。简单地说，它是一个函数，定义在通常的一维或者多维空间之上。譬如一段声音就是一个定义在一维空间上的函数，自变量是时间，因变量是声音的强度，一幅图像是定义在二维空间上的函数，自变量是横轴和纵轴坐标，因变量是图像像素的色彩和明暗，如此等等。</p>
-<p>在数学上，关于一个信号最基本的问题在于如何将它表示和描述出来。按照上面所说的办法，把一个信号理解成一个定义在时间或空间上的函数是一种自然而然的表示方式，但是它对理解这一信号的内容来说常常不够。例如一段声音，如果单纯按照定义在时间上的函数来表示，它画出来是这个样子的：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303082249225.png" alt="信号"></p>
-<p>这通常被称为波形图。毫无疑问，它包含了关于这段声音的全部信息。但是同样毫无疑问的是，这些信息几乎没法从上面这个「函数」中直接看出来，事实上，它只不过是巴赫的小提琴无伴奏 Partita No.3 的序曲开头几个小节。下面是巴赫的手稿，从某种意义上说来，它也构成了对上面那段声音的一个「描述」：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303082250451.png" alt="Partita No.3"></p>
-<p>这两种描述之间的关系是怎样的呢？第一种描述刻划的是具体的信号数值，第二种描述刻划的是声音的高低（即声音震动的频率）。人们直到十九世纪才渐渐意识到，在这两种描述之间，事实上存在着一种对偶的关系，而这一点并不显然。</p>
-<p>1807 年，法国数学家傅立叶 (J. Fourier) 在一篇向巴黎科学院递交的革命性的论文 Mémoire sur la propagation de la chaleur dans les corps solides （《固体中的热传播》）中，提出了一个崭新的观念：任何一个函数都可以表达为一系列不同频率的简谐振动（即简单的三角函数）的叠加。有趣的是，这结论是他研究热传导问题的一个副产品。这篇论文经拉格朗日 (J. Lagrange)、拉普拉斯 (P-S. Laplace) 和勒让德 (A-M. Legendre) 等人审阅后被拒绝了，原因是他的思想过于粗糙且极不严密。1811 年傅立叶递交了修改后的论文，这一次论文获得了科学院的奖金，但是仍然因为缺乏严密性而被拒绝刊载在科学院的《报告》中。傅立叶对此耿耿于怀，直到 1824 年他本人成为了科学院的秘书，才得以把他 1811 年的论文原封不动地发表在《报告》里。</p>
-<p>用今天的语言来描述，傅立叶的发现实际上是在说：任何一个信号都可以用两种方式来表达，一种就是通常意义上的表达，自变量是时间或者空间的坐标，因变量是信号在该处的强度，另一种则是把一个信号「展开」成不同频率的简单三角函数（简谐振动）的叠加，于是这就相当于把它看作是定义在所有频率所组成的空间（称为频域空间）上的另一个函数，自变量是不同的频率，因变量是该频率所对应的简谐振动的幅度。</p>
-<p>这两个函数一个定义在时域（或空域）上，一个定义在频域上，看起来的样子通常截然不同，但是它们是在以完全不同的方式殊途同归地描述着同一个信号。它们就象是两种不同的语言，乍一听完全不相干，但是其实可以精确地互相翻译。在数学上，这种翻译的过程被称为「傅立叶变换」。</p>
-<p>傅立叶变换是一个数学上极为精美的对象：</p>
-<ul>
-<li>它是完全可逆的，任何能量有限的时域或空域信号都存在唯一的频域表达，反之亦然。</li>
-<li>它完全不损伤信号的内在结构：任何两个信号之间有多少相关程度（即内积），它们的频域表达之间也一定有同样多的相关程度。</li>
-<li>它不改变信号之间的关联性：一组信号收敛到一个特定的极限，它们的频域表达也一定收敛到那个极限函数的频域表达。</li>
-</ul>
-<p>傅立叶变换就象是把信号彻底打乱之后以最面目全非的方式复述出来，而一切信息都还原封不动的存在着。要是科幻小说作家了解这一点，他们本来可以多出多少有趣的素材啊。</p>
-<p>在傅立叶变换的所有这些数学性质中，最不寻常的是这样一种特性：一个在时域或空域上看起来很复杂的信号（譬如一段声音或者一幅图像）通常在频域上的表达会很简单。这里「简单」的意思是说作为频域上的函数，它只集中在很小一块区域内，而很大一部分数值都接近于零。例如下图是一张人脸和它对应的傅立叶变换，可以看出，所有的频域信号差不多都分布在中心周围，而大部分周边区域都是黑色的（即零）。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303082251075.png" alt></p>
-<p>这是一个意味深长的事实，它说明一个在空域中看起来占满全空间的信号，从频域中看起来很可能只不过占用了极小一块区域，而大部分频率是被浪费了的。这就导出了一个极为有用的结论：一个看起来信息量很大的信号，其实可以只用少得多的数据来加以描述。只要对它先做傅立叶变换，然后只记录那些不接近零的频域信息就可以了，这样数据量就可以大大减少。</p>
-<p>基本上，这正是今天大多数数据压缩方法的基础思想。在互联网时代，大量的多媒体信息需要在尽量节省带宽和时间的前提下被传输，所以数据压缩从来都是最核心的问题之一。而今天几乎所有流行的数据压缩格式，无论是声音的 mp3 格式还是图像的 jpg 格式，都是利用傅立叶变换才得以发明的。从这个意义上说来，几乎全部现代信息社会都建立在傅立叶的理论的基础之上。</p>
-<p>这当然是傅立叶本人也始料未及的。</p>
-<p>下一篇<a href="https://mahong77.github.io/posts/c3d6d7e9.html">不确定性原理的前世今生·数学篇（二）</a></p>
-<hr>
-<p>本文转载自<a href="http://imaginary.farmostwood.net/542.html">不确定性原理的前世今生 · 数学篇（一）</a>,  <a href="http://imaginary.farmostwood.net/">原作者博客</a></p>
-]]></content>
-      <categories>
-        <category>D.它山之石</category>
-        <category>经典网文</category>
-        <category>不确定性原理的前世今生</category>
-      </categories>
-      <tags>
-        <tag>数学</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>不确定性原理的前世今生·数学篇（完）</title>
     <url>/posts/20230308232204-9dea350e.html</url>
     <content><![CDATA[<p>到二十世纪末，人们对「信号」这个词的理解已经发生了微妙的变化。如果在二十世纪上半叶的时候提到一个信号，人们还倾向于将它理解为一个连续的函数。而到下半叶，信号已经越来越多地对应于一个离散的数组。毫无疑问，这是电子计算机革命的后果。</p>
@@ -3342,6 +3319,43 @@ shells 发表于 2011-11-24 06:44</p>
 <p>四篇雄文完结。</p>
 <hr>
 <p>本文转载自<a href="http://imaginary.farmostwood.net/559.html">不确定性原理的前世今生 · 数学篇（完）</a>,  <a href="http://imaginary.farmostwood.net/">原作者博客</a></p>
+]]></content>
+      <categories>
+        <category>D.它山之石</category>
+        <category>经典网文</category>
+        <category>不确定性原理的前世今生</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>不确定性原理的前世今生·数学篇（一）</title>
+    <url>/posts/20230308224703-f3c03b31.html</url>
+    <content><![CDATA[<p>在现代数学中有一个很容易被外行误解的词汇：信号 (signal)。当数学家们说起「一个信号」的时候，他们脑海中想到的并不是交通指示灯所发出的闪烁光芒或者手机屏幕顶部的天线图案，而是一段可以具体数字化的信息，可以是声音，可以是图像，也可是遥感测量数据。简单地说，它是一个函数，定义在通常的一维或者多维空间之上。譬如一段声音就是一个定义在一维空间上的函数，自变量是时间，因变量是声音的强度，一幅图像是定义在二维空间上的函数，自变量是横轴和纵轴坐标，因变量是图像像素的色彩和明暗，如此等等。</p>
+<p>在数学上，关于一个信号最基本的问题在于如何将它表示和描述出来。按照上面所说的办法，把一个信号理解成一个定义在时间或空间上的函数是一种自然而然的表示方式，但是它对理解这一信号的内容来说常常不够。例如一段声音，如果单纯按照定义在时间上的函数来表示，它画出来是这个样子的：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303082249225.png" alt="信号"></p>
+<p>这通常被称为波形图。毫无疑问，它包含了关于这段声音的全部信息。但是同样毫无疑问的是，这些信息几乎没法从上面这个「函数」中直接看出来，事实上，它只不过是巴赫的小提琴无伴奏 Partita No.3 的序曲开头几个小节。下面是巴赫的手稿，从某种意义上说来，它也构成了对上面那段声音的一个「描述」：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303082250451.png" alt="Partita No.3"></p>
+<p>这两种描述之间的关系是怎样的呢？第一种描述刻划的是具体的信号数值，第二种描述刻划的是声音的高低（即声音震动的频率）。人们直到十九世纪才渐渐意识到，在这两种描述之间，事实上存在着一种对偶的关系，而这一点并不显然。</p>
+<p>1807 年，法国数学家傅立叶 (J. Fourier) 在一篇向巴黎科学院递交的革命性的论文 Mémoire sur la propagation de la chaleur dans les corps solides （《固体中的热传播》）中，提出了一个崭新的观念：任何一个函数都可以表达为一系列不同频率的简谐振动（即简单的三角函数）的叠加。有趣的是，这结论是他研究热传导问题的一个副产品。这篇论文经拉格朗日 (J. Lagrange)、拉普拉斯 (P-S. Laplace) 和勒让德 (A-M. Legendre) 等人审阅后被拒绝了，原因是他的思想过于粗糙且极不严密。1811 年傅立叶递交了修改后的论文，这一次论文获得了科学院的奖金，但是仍然因为缺乏严密性而被拒绝刊载在科学院的《报告》中。傅立叶对此耿耿于怀，直到 1824 年他本人成为了科学院的秘书，才得以把他 1811 年的论文原封不动地发表在《报告》里。</p>
+<p>用今天的语言来描述，傅立叶的发现实际上是在说：任何一个信号都可以用两种方式来表达，一种就是通常意义上的表达，自变量是时间或者空间的坐标，因变量是信号在该处的强度，另一种则是把一个信号「展开」成不同频率的简单三角函数（简谐振动）的叠加，于是这就相当于把它看作是定义在所有频率所组成的空间（称为频域空间）上的另一个函数，自变量是不同的频率，因变量是该频率所对应的简谐振动的幅度。</p>
+<p>这两个函数一个定义在时域（或空域）上，一个定义在频域上，看起来的样子通常截然不同，但是它们是在以完全不同的方式殊途同归地描述着同一个信号。它们就象是两种不同的语言，乍一听完全不相干，但是其实可以精确地互相翻译。在数学上，这种翻译的过程被称为「傅立叶变换」。</p>
+<p>傅立叶变换是一个数学上极为精美的对象：</p>
+<ul>
+<li>它是完全可逆的，任何能量有限的时域或空域信号都存在唯一的频域表达，反之亦然。</li>
+<li>它完全不损伤信号的内在结构：任何两个信号之间有多少相关程度（即内积），它们的频域表达之间也一定有同样多的相关程度。</li>
+<li>它不改变信号之间的关联性：一组信号收敛到一个特定的极限，它们的频域表达也一定收敛到那个极限函数的频域表达。</li>
+</ul>
+<p>傅立叶变换就象是把信号彻底打乱之后以最面目全非的方式复述出来，而一切信息都还原封不动的存在着。要是科幻小说作家了解这一点，他们本来可以多出多少有趣的素材啊。</p>
+<p>在傅立叶变换的所有这些数学性质中，最不寻常的是这样一种特性：一个在时域或空域上看起来很复杂的信号（譬如一段声音或者一幅图像）通常在频域上的表达会很简单。这里「简单」的意思是说作为频域上的函数，它只集中在很小一块区域内，而很大一部分数值都接近于零。例如下图是一张人脸和它对应的傅立叶变换，可以看出，所有的频域信号差不多都分布在中心周围，而大部分周边区域都是黑色的（即零）。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/mahong77/pic/202303082251075.png" alt></p>
+<p>这是一个意味深长的事实，它说明一个在空域中看起来占满全空间的信号，从频域中看起来很可能只不过占用了极小一块区域，而大部分频率是被浪费了的。这就导出了一个极为有用的结论：一个看起来信息量很大的信号，其实可以只用少得多的数据来加以描述。只要对它先做傅立叶变换，然后只记录那些不接近零的频域信息就可以了，这样数据量就可以大大减少。</p>
+<p>基本上，这正是今天大多数数据压缩方法的基础思想。在互联网时代，大量的多媒体信息需要在尽量节省带宽和时间的前提下被传输，所以数据压缩从来都是最核心的问题之一。而今天几乎所有流行的数据压缩格式，无论是声音的 mp3 格式还是图像的 jpg 格式，都是利用傅立叶变换才得以发明的。从这个意义上说来，几乎全部现代信息社会都建立在傅立叶的理论的基础之上。</p>
+<p>这当然是傅立叶本人也始料未及的。</p>
+<p>下一篇<a href="https://mahong77.github.io/posts/c3d6d7e9.html">不确定性原理的前世今生·数学篇（二）</a></p>
+<hr>
+<p>本文转载自<a href="http://imaginary.farmostwood.net/542.html">不确定性原理的前世今生 · 数学篇（一）</a>,  <a href="http://imaginary.farmostwood.net/">原作者博客</a></p>
 ]]></content>
       <categories>
         <category>D.它山之石</category>
@@ -3408,6 +3422,35 @@ shells 发表于 2011-11-24 06:44</p>
       </tags>
   </entry>
   <entry>
+    <title>404</title>
+    <url>/404/index.html</url>
+    <content><![CDATA[<!DOCTYPE HTML>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8;">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="robots" content="all">
+  <meta name="robots" content="index,follow">
+  <link rel="stylesheet" type="text/css" href="https://qzone.qq.com/gy/404/style/404style.css">
+</head>
+<body>
+  <script type="text/plain" src="https://www.qq.com/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="回到我的主页">
+  </script>
+  <script src="https://qzone.qq.com/gy/404/data.js" charset="utf-8"></script>
+  <script src="https://qzone.qq.com/gy/404/page.js" charset="utf-8"></script>
+</body>
+</html>
+]]></content>
+  </entry>
+  <entry>
+    <title>传达室</title>
+    <url>/Message/index.html</url>
+    <content><![CDATA[<p>言简意赅的</p>
+<script src="https://utteranc.es/client.js" repo="kisma77/kisma77.github.io" issue-term="pathname" label="Comment" theme="preferred-color-scheme" crossorigin="anonymous" async>
+</script>
+]]></content>
+  </entry>
+  <entry>
     <title>在线工具</title>
     <url>/HHS/index.html</url>
     <content><![CDATA[<p>在线思维导图</p>
@@ -3432,40 +3475,6 @@ shells 发表于 2011-11-24 06:44</p>
 ]]></content>
   </entry>
   <entry>
-    <title>传达室</title>
-    <url>/Message/index.html</url>
-    <content><![CDATA[<p>言简意赅的</p>
-<script src="https://utteranc.es/client.js" repo="kisma77/kisma77.github.io" issue-term="pathname" label="Comment" theme="preferred-color-scheme" crossorigin="anonymous" async>
-</script>
-]]></content>
-  </entry>
-  <entry>
-    <title>404</title>
-    <url>/404/index.html</url>
-    <content><![CDATA[<!DOCTYPE HTML>
-<html>
-<head>
-  <meta http-equiv="content-type" content="text/html;charset=utf-8;">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="robots" content="all">
-  <meta name="robots" content="index,follow">
-  <link rel="stylesheet" type="text/css" href="https://qzone.qq.com/gy/404/style/404style.css">
-</head>
-<body>
-  <script type="text/plain" src="https://www.qq.com/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="回到我的主页">
-  </script>
-  <script src="https://qzone.qq.com/gy/404/data.js" charset="utf-8"></script>
-  <script src="https://qzone.qq.com/gy/404/page.js" charset="utf-8"></script>
-</body>
-</html>
-]]></content>
-  </entry>
-  <entry>
-    <title>Categories</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>留声室</title>
     <url>/about/index.html</url>
     <content><![CDATA[<p>这个博客是我写东西的地方。</p>
@@ -3476,13 +3485,18 @@ shells 发表于 2011-11-24 06:44</p>
 ]]></content>
   </entry>
   <entry>
-    <title>search</title>
-    <url>/search/index.html</url>
+    <title>Categories</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Tags</title>
     <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>search</title>
+    <url>/search/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
