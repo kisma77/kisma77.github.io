@@ -118,7 +118,7 @@ body,
 body {
   color: #565a5f;
   background: #fff;
-  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  font: 18px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 a {
@@ -367,7 +367,7 @@ code {
 #search-form-wrap {
   height: 40px;
   line-height: 40px;
-  padding: 4px 15px;
+  padding: -10px 15px;
 }
 .header-inner #logo,
 #main-nav {
@@ -422,11 +422,11 @@ code {
 }
 .header-sub ul li a {
   display: inline-block;
-  line-height: 36px;
+  line-height: 20px;
 }
 .header-sub .main-nav-link {
   display: inline-block;
-  line-height: 36px;
+  line-height: 20px;
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
   #header-sub {
@@ -466,9 +466,9 @@ code {
 }
 .nav-icon {
   text-align: center;
-  font-size: 14px;
-  width: 14px;
-  height: 14px;
+  font-size: 18px;
+  width: 18px;
+  height: 18px;
   position: relative;
   cursor: pointer;
   height: 40px !important;
@@ -568,7 +568,7 @@ code {
   line-height: 1.6em;
   outline: none !important;
   background: none !important;
-  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  font: 18px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   border: 1px solid #fff !important;
 }
 .search-form-input:focus,
@@ -593,7 +593,7 @@ code {
 }
 #main-nav-mobile .menu {
   margin: 0;
-  height: 36px;
+  height: 20px;
 }
 #main-nav-mobile .menu:before,
 #main-nav-mobile .menu:after {
@@ -607,9 +607,9 @@ code {
   display: none;
   padding: 0 10px;
   margin-right: 15px;
-  height: 30px;
-  line-height: 30px;
-  border-radius: 15px;
+  height: 14px;
+  line-height: 14px;
+  border-radius: 7px;
 }
 @media screen and (max-width: 559px) {
   #main-nav-mobile .menu .search-form-input {
@@ -677,7 +677,7 @@ code {
   font-weight: 600;
 }
 #profile .inner .base-info #location {
-  font-size: 12px;
+  font-size: 16px;
   margin-top: 5px;
   color: #9a9ea3;
 }
@@ -722,11 +722,11 @@ code {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  font-size: 20px;
+  font-size: 24px;
 }
 #profile .inner .article-info .article-info-block span {
   display: block;
-  font-size: 14px;
+  font-size: 18px;
   text-transform: uppercase;
 }
 #profile .inner .article-info .article-info-block:first-child {
@@ -737,7 +737,7 @@ code {
 }
 #profile .inner .social-links > table td {
   text-align: center;
-  font-size: 24px;
+  font-size: 28px;
 }
 #profile .inner .social-links > table td a {
   position: relative;
@@ -1041,7 +1041,7 @@ div.article-meta-button a:hover {
   position: relative;
 }
 .article-entry blockquote footer {
-  font-size: 14px;
+  font-size: 18px;
   margin: 1.6em 0;
   font-family: "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
 }
@@ -1578,7 +1578,7 @@ ol.toc {
 .layout-wrap-inner.list-categories ul li,
 .layout-wrap-inner.list-categories ul .category-list-child {
   padding: 10px 0;
-  font-size: 14px;
+  font-size: 18px;
   border-bottom: 1px solid border-color;
 }
 .layout-wrap-inner.list-categories ul li a,
@@ -1750,7 +1750,7 @@ ol.toc {
   padding: 20px 0;
   border-top: 1px solid #fff;
   color: #565a5f;
-  font-size: 16px;
+  font-size: 20px;
   text-align: center;
 }
 #footer .outer {
@@ -1899,7 +1899,7 @@ ol.toc {
 .widget ul .category-list-child,
 .widget ol .category-list-child {
   padding: 10px 0;
-  font-size: 14px;
+  font-size: 18px;
   border-bottom: 1px solid border-color;
 }
 .widget ul li a,
@@ -2262,9 +2262,9 @@ ol.toc {
   display: block;
   overflow-x: auto;
   padding: 15px 20px;
-  font-size: 14px;
+  font-size: 18px;
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
-  line-height: 22.400000000000002px;
+  line-height: 28.8px;
 }
 .highlight table {
   margin: 0;
