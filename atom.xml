@@ -6,7 +6,7 @@
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
   
   <link href="http://kisma77.github.io/"/>
-  <updated>2023-04-07T18:14:06.025Z</updated>
+  <updated>2023-04-07T17:52:21.764Z</updated>
   <id>http://kisma77.github.io/</id>
   
   <author>
@@ -15,36 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>A.账户规模</title>
-    <link href="http://kisma77.github.io/posts/20230408014424-62332146.html"/>
-    <id>http://kisma77.github.io/posts/20230408014424-62332146.html</id>
-    <published>2023-04-07T17:44:24.000Z</published>
-    <updated>2023-04-07T18:14:06.025Z</updated>
-    
-    <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center">日期</th><th style="text-align:center">当期账户</th><th style="text-align:center">当期盈亏</th><th style="text-align:center">佣金支出</th></tr></thead><tbody><tr><td style="text-align:center">2023.4.03</td><td style="text-align:center">67394</td><td style="text-align:center">-452</td><td style="text-align:center">30</td></tr><tr><td style="text-align:center">2023.4.04</td><td style="text-align:center">67709</td><td style="text-align:center">315</td><td style="text-align:center">35.7</td></tr><tr><td style="text-align:center">2023.4.05</td><td style="text-align:center">68903</td><td style="text-align:center">1194</td><td style="text-align:center">25</td></tr><tr><td style="text-align:center">2023.4.06</td><td style="text-align:center">69260</td><td style="text-align:center">357</td><td style="text-align:center">8.7</td></tr><tr><td style="text-align:center">2023.4.07</td><td style="text-align:center">70266</td><td style="text-align:center">1006</td><td style="text-align:center">2.5</td></tr></tbody></table><p><em>单位：元</em></p><div id="echarts3404" style="width: 81%;height: 400px;margin: 0 auto"></div><script type="text/javascript">        // 基于准备好的dom，初始化echarts实例        var myChart = echarts.init(document.getElementById('echarts3404'));        // 指定图表的配置项和数据        var option = {    tooltip : {        trigger: 'axis',        axisPointer : {            // 坐标轴指示器，坐标轴触发有效            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'        }    },    legend: {        data:['利润', '支出', '收入']    },    grid: {        left: '3%',        right: '4%',        bottom: '3%',        containLabel: true    },    xAxis : [        {            type : 'value'        }    ],    yAxis : [        {            type : 'category',            axisTick : {show: false},            data : ['周一','周二','周三','周四','周五']        }    ],    series : [        {            name:'利润',            type:'bar',            itemStyle : {                normal: {                    label: {show: true, position: 'inside'}                }            },            data:[67394, 67709, 68903, 69260, 70266, 220, 210]        },        {            name:'收入',            type:'bar',            stack: '总量',            itemStyle: {                normal: {                    label : {show: true}                }            },            data:[67394, 67709, 68903, 69260, 70266, 220, 210]        },        {            name:'支出',            type:'bar',            stack: '总量',            itemStyle: {normal: {                label : {show: true, position: 'left'}            }},            data:[-452, 315, 1194, 357, 1006]        }    ]};        // 使用刚指定的配置项和数据显示图表。        myChart.setOption(option);</script><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;日期&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;当期账户&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;当期盈亏&lt;/th&gt;
-&lt;</summary>
-      
-    
-    
-    
-    <category term="C.商贾贸易" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
-    
-    
-    <category term="投机" scheme="http://kisma77.github.io/tags/%E6%8A%95%E6%9C%BA/"/>
-    
-  </entry>
   
   <entry>
     <title>4月第一周，盈利2872元</title>
@@ -588,6 +558,34 @@ tonictqm 发表于 2011-11-11 14:18&lt;/li&gt;
     
     
     <category term="认知" scheme="http://kisma77.github.io/tags/%E8%AE%A4%E7%9F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4.03 夜盘赚了￥539，但没做好</title>
+    <link href="http://kisma77.github.io/posts/20230403230848-ed97c871.html"/>
+    <id>http://kisma77.github.io/posts/20230403230848-ed97c871.html</id>
+    <published>2023-04-03T15:08:48.000Z</published>
+    <updated>2023-04-06T02:23:04.444Z</updated>
+    
+    <content type="html"><![CDATA[<p>白天收盘时持有2张多单浮亏980元，晚上高开，赚了500多块钱，目前账户67394，又掉下7万来了。</p><p>棕榈最近200来天实在难做。</p><p><img src="https://cdn.jsdelivr.net/gh/kisma77/pic/202304032316431.png" alt="4月3号夜盘收盘时账户"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;白天收盘时持有2张多单浮亏980元，晚上高开，赚了500多块钱，目前账户67394，又掉下7万来了。&lt;/p&gt;
+&lt;p&gt;棕榈最近200来天实在难做。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/kisma77/pic/2023040</summary>
+      
+    
+    
+    
+    <category term="C.商贾贸易" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
+    
+    <category term="每日记录" scheme="http://kisma77.github.io/categories/C-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="交易" scheme="http://kisma77.github.io/tags/%E4%BA%A4%E6%98%93/"/>
     
   </entry>
   
