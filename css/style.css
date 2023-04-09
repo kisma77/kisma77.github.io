@@ -274,7 +274,7 @@ code {
 }
 .article-entry hr,
 .widget hr {
-  border: 1px dashed #405c70;
+  border: 1px dashed #f5f5f5;
 }
 .article-entry strong,
 .widget strong {
@@ -403,7 +403,7 @@ code {
   margin-top: -20px;
 }
 .header-sub {
-  border-top: 1px solid #405c70;
+  border-top: 1px solid #f5f5f5;
 }
 .header-sub ul {
   margin: 0 15px;
@@ -569,7 +569,7 @@ code {
   outline: none !important;
   background: none !important;
   font: 18px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
-  border: 1px solid #405c70 !important;
+  border: 1px solid #f5f5f5 !important;
 }
 .search-form-input:focus,
 .search-form-input.ins-search-input:focus,
@@ -636,7 +636,7 @@ code {
 }
 .profile-block {
   padding: 15px 20px;
-  border-bottom: 1px solid #405c70;
+  border-bottom: 1px solid #f5f5f5;
 }
 .profile-block:last-child {
   border-bottom: none;
@@ -730,7 +730,7 @@ code {
   text-transform: uppercase;
 }
 #profile .inner .article-info .article-info-block:first-child {
-  border-right: 1px solid #405c70;
+  border-right: 1px solid #f5f5f5;
 }
 #profile .inner .social-links > table {
   width: 100%;
@@ -804,7 +804,7 @@ code {
 }
 #profile.card .profile-inner:after {
   z-index: 0;
-  border-color: transparent transparent #2f4b5f transparent;
+  border-color: transparent transparent #e4e4e4 transparent;
 }
 article {
   padding: 3px;
@@ -1013,11 +1013,11 @@ div.article-meta-button a:hover {
 }
 .article-entry th {
   font-weight: bold;
-  border-bottom: 3px solid #405c70;
+  border-bottom: 3px solid #f5f5f5;
   padding-bottom: 0.5em;
 }
 .article-entry td {
-  border-bottom: 1px solid #405c70;
+  border-bottom: 1px solid #f5f5f5;
   padding: 10px 0;
 }
 .article-entry blockquote {
@@ -1108,7 +1108,7 @@ div .article-more-link {
 .article-footer {
   font-size: 0.85em;
   line-height: 1.6em;
-  border-top: 1px solid #405c70;
+  border-top: 1px solid #f5f5f5;
   padding-top: 1.6em;
   margin: 0 20px 20px;
 }
@@ -1247,7 +1247,7 @@ div .article-more-link {
   padding: 0 10px;
   color: #565a5f;
   outline: none;
-  border: 1px solid #405c70;
+  border: 1px solid #f5f5f5;
   border-radius: 3px 3px 0 0;
   height: 36px;
   line-height: 36px;
@@ -1663,7 +1663,7 @@ ol.toc {
 }
 .timeline-wrap {
   margin: 40px 20px 40px 40px;
-  border-left: 3px solid #405c70;
+  border-left: 3px solid #f5f5f5;
 }
 @media screen and (max-width: 559px) {
   .timeline-wrap {
@@ -1748,7 +1748,7 @@ ol.toc {
 }
 #footer {
   padding: 20px 0;
-  border-top: 1px solid #405c70;
+  border-top: 1px solid #f5f5f5;
   color: #565a5f;
   font-size: 20px;
   text-align: center;
