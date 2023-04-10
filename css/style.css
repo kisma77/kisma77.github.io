@@ -9,6 +9,27 @@ body:after {
 body:after {
   clear: both;
 }
+table th {
+  font-size: 20px; /*表头字符大小*/
+  font-weight: bold; /*加粗*/
+  text-align: center; /*内容居中，加上 !important 避免被 Markdown 样式覆盖*/
+  background: rgba(64,92,112,0.3); /*背景色，颜色透明度*/
+}
+table {
+  width: 100%; /*表格宽度*/
+  max-width: 65em; /*表格最大宽度，避免表格过宽*/
+  border: 1px dashed #405c70; /*表格外边框设置，solid是实线*/
+  margin: 1px auto; /*外边距*/
+  border-collapse: collapse; /*使用单一线条的边框*/
+  empty-cells: show; /*单元格无内容依旧绘制边框*/
+}
+table th,
+table td {
+  height: 25px; /*统一每一行的默认高度*/
+  font-size: 13px; /*行内字符大小*/
+  border: 1px dashed #405c70; /*内部边框样式，这里dashed是虚线/
+  padding: 0 1px; /*内边距*/
+}
 html,
 body,
 div,
@@ -274,7 +295,7 @@ code {
 }
 .article-entry hr,
 .widget hr {
-  border: 1px dashed #fff;
+  border: 1px dashed #b0c4de;
 }
 .article-entry strong,
 .widget strong {
@@ -403,7 +424,7 @@ code {
   margin-top: -20px;
 }
 .header-sub {
-  border-top: 1px solid #fff;
+  border-top: 1px solid #b0c4de;
 }
 .header-sub ul {
   margin: 0 15px;
@@ -569,7 +590,7 @@ code {
   outline: none !important;
   background: none !important;
   font: 18px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
-  border: 1px solid #fff !important;
+  border: 1px solid #b0c4de !important;
 }
 .search-form-input:focus,
 .search-form-input.ins-search-input:focus,
@@ -636,7 +657,7 @@ code {
 }
 .profile-block {
   padding: 15px 20px;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #b0c4de;
 }
 .profile-block:last-child {
   border-bottom: none;
@@ -730,7 +751,7 @@ code {
   text-transform: uppercase;
 }
 #profile .inner .article-info .article-info-block:first-child {
-  border-right: 1px solid #fff;
+  border-right: 1px solid #b0c4de;
 }
 #profile .inner .social-links > table {
   width: 100%;
@@ -804,7 +825,7 @@ code {
 }
 #profile.card .profile-inner:after {
   z-index: 0;
-  border-color: transparent transparent #eee transparent;
+  border-color: transparent transparent #9fb3cd transparent;
 }
 article {
   padding: 3px;
@@ -1013,11 +1034,11 @@ div.article-meta-button a:hover {
 }
 .article-entry th {
   font-weight: bold;
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid #b0c4de;
   padding-bottom: 0.5em;
 }
 .article-entry td {
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #b0c4de;
   padding: 10px 0;
 }
 .article-entry blockquote {
@@ -1108,7 +1129,7 @@ div .article-more-link {
 .article-footer {
   font-size: 0.85em;
   line-height: 1.6em;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #b0c4de;
   padding-top: 1.6em;
   margin: 0 20px 20px;
 }
@@ -1247,7 +1268,7 @@ div .article-more-link {
   padding: 0 10px;
   color: #565a5f;
   outline: none;
-  border: 1px solid #fff;
+  border: 1px solid #b0c4de;
   border-radius: 3px 3px 0 0;
   height: 36px;
   line-height: 36px;
@@ -1663,7 +1684,7 @@ ol.toc {
 }
 .timeline-wrap {
   margin: 40px 20px 40px 40px;
-  border-left: 3px solid #fff;
+  border-left: 3px solid #b0c4de;
 }
 @media screen and (max-width: 559px) {
   .timeline-wrap {
@@ -1748,7 +1769,7 @@ ol.toc {
 }
 #footer {
   padding: 20px 0;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #b0c4de;
   color: #565a5f;
   font-size: 20px;
   text-align: center;
