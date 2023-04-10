@@ -16,8 +16,8 @@ table th {
   background: rgba(64,92,112,0.3); /*背景色，颜色透明度*/
 }
 table {
-  width: 100%; /*表格宽度*/
-  max-width: 65em; /*表格最大宽度，避免表格过宽*/
+  width: 15%; /*表格宽度*/
+  max-width: 50em; /*表格最大宽度，避免表格过宽*/
   border: 1px dashed #405c70; /*表格外边框设置，solid是实线*/
   margin: 1px auto; /*外边距*/
   border-collapse: collapse; /*使用单一线条的边框*/
