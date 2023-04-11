@@ -72,7 +72,6 @@ http://kisma77.github.io/posts/20230310215642-b10f8abc.html
 http://kisma77.github.io/posts/20230309004727-971ead65.html
 http://kisma77.github.io/posts/20230221160759-c7d3d543.html
 http://kisma77.github.io/posts/20230218234305-aea9dc95.html
-http://kisma77.github.io/posts/20230409231013-ab1b8bed.html
 http://kisma77.github.io/posts/20230227110132-cb0418b7.html
 http://kisma77.github.io/posts/20230305231934-cbfed0a9.html
 http://kisma77.github.io/posts/20230402100627-9cc92f78.html
@@ -90,8 +89,8 @@ http://kisma77.github.io/categories/index.html
 http://kisma77.github.io/tags/index.html
 http://kisma77.github.io/
 http://kisma77.github.io/categories/A-%E8%AE%A4%E7%9F%A5%E6%80%9D%E7%BB%B4/
-http://kisma77.github.io/categories/A-%E8%AE%A4%E7%9F%A5%E6%80%9D%E7%BB%B4/%E5%BF%83%E7%90%86%E5%AD%A6/
 http://kisma77.github.io/categories/A-%E8%AE%A4%E7%9F%A5%E6%80%9D%E7%BB%B4/%E6%95%B0%E7%90%86%E6%80%9D%E7%BB%B4/
+http://kisma77.github.io/categories/A-%E8%AE%A4%E7%9F%A5%E6%80%9D%E7%BB%B4/%E5%BF%83%E7%90%86%E5%AD%A6/
 http://kisma77.github.io/categories/A-%E8%AE%A4%E7%9F%A5%E6%80%9D%E7%BB%B4/%E7%B3%BB%E7%BB%9F%E6%80%9D%E7%BB%B4/
 http://kisma77.github.io/categories/B-%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/
 http://kisma77.github.io/categories/hexo%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/
