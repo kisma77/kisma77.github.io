@@ -102,7 +102,7 @@
     
         <div id="toc" class="toc-article">
         <strong class="toc-title">article.catalogue</strong>
-            <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E6%AD%A5%E9%AA%A4%E4%B8%80%EF%BC%9A%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84CSS%E6%96%87%E4%BB%B6"><span class="toc-number">1.</span> <span class="toc-text">步骤一：创建自定义的CSS文件</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E6%AD%A5%E9%AA%A4%E4%BA%8C%EF%BC%9A%E9%85%8D%E7%BD%AE%E8%A1%A8%E6%A0%BC%E6%A0%B7%E5%BC%8F"><span class="toc-number">2.</span> <span class="toc-text">步骤二：配置表格样式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%95%88%E6%9E%9C"><span class="toc-number">2.0.1.</span> <span class="toc-text">效果</span></a></li></ol></li></ol></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E6%AD%A5%E9%AA%A4%E4%B8%80%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84css%E6%96%87%E4%BB%B6"><span class="toc-number">1.</span> <span class="toc-text"> 步骤一：创建自定义的CSS文件</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E6%AD%A5%E9%AA%A4%E4%BA%8C%E9%85%8D%E7%BD%AE%E8%A1%A8%E6%A0%BC%E6%A0%B7%E5%BC%8F"><span class="toc-number">2.</span> <span class="toc-text"> 步骤二：配置表格样式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%95%88%E6%9E%9C"><span class="toc-number">2.0.1.</span> <span class="toc-text"> 效果</span></a></li></ol></li></ol></li></ol>
         </div>
     
 
@@ -110,18 +110,18 @@
     <p>尽管我对博客的各项功能是“尽量简单，别过度优化”这样‘能用就行’的态度，但hexo里的表格很不美观。</p>
 <p>通过网上学习后，知道了怎么适当优化，记录在此，一共两步。</p>
 <span id="more"></span>
-
 <p>以我使用的wiki主题为例</p>
-<h1 id="步骤一：创建自定义的CSS文件"><a href="#步骤一：创建自定义的CSS文件" class="headerlink" title="步骤一：创建自定义的CSS文件"></a>步骤一：创建自定义的CSS文件</h1><p>在<code>\themes\wiki\source\css\style.styl</code>中添加一行内容。</p>
+<h1 id="步骤一创建自定义的css文件"><a class="markdownIt-Anchor" href="#步骤一创建自定义的css文件"></a> 步骤一：创建自定义的CSS文件</h1>
+<p>在<code>\themes\wiki\source\css\style.styl</code>中添加一行内容。</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">@import &quot;_table/table&quot;</span><br></pre></td></tr></table></figure>
-
 <p><img src="https://xqimg.imedao.com/1876b85b3a16d703fe76be38.png!raw.jpg" alt="style.styl中增加"></p>
-<p>在这一步中，不一定必须以“_table&#x2F;table”来建文件夹以及.styl文件，名字可以自定义，我是按照‘表格’的英文来定义的，像next主题就是在<code>themes/next/source/css/main.styl</code>中添加这行代码，而next主题有<code>_custom/</code>因此这里就是<code>@import &quot;_custom/table&quot;</code>,然后去<code>_custom</code>文件夹下新建<code>table.styl</code>文件。</p>
-<h1 id="步骤二：配置表格样式"><a href="#步骤二：配置表格样式" class="headerlink" title="步骤二：配置表格样式"></a>步骤二：配置表格样式</h1><p>在<code>themes/wiki/source/css</code>目录下创建<code>_table&quot;</code>文件夹。再进入该文件夹创建名为<code>table.styl</code>文件， 将下列代码拷贝进去。</p>
+<p>在这一步中，不一定必须以“_table/table”来建文件夹以及.styl文件，名字可以自定义，我是按照‘表格’的英文来定义的，像next主题就是在<code>themes/next/source/css/main.styl</code>中添加这行代码，而next主题有<code>_custom/</code>因此这里就是<code>@import &quot;_custom/table&quot;</code>,然后去<code>_custom</code>文件夹下新建<code>table.styl</code>文件。</p>
+<h1 id="步骤二配置表格样式"><a class="markdownIt-Anchor" href="#步骤二配置表格样式"></a> 步骤二：配置表格样式</h1>
+<p>在<code>themes/wiki/source/css</code>目录下创建<code>_table&quot;</code>文件夹。再进入该文件夹创建名为<code>table.styl</code>文件， 将下列代码拷贝进去。</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">table th &#123;</span><br><span class="line">    font-size: 20px;  /*表头字符大小*/</span><br><span class="line">    font-weight: bold; /*加粗*/</span><br><span class="line">    text-align: center ; /*内容居中/</span><br><span class="line">    background: rgba(64,92,112,0.3); /*背景色，颜色透明度*/</span><br><span class="line">&#125;</span><br><span class="line">table &#123;</span><br><span class="line">    width: 100%; /*表格宽度*/</span><br><span class="line">    max-width: 65em; /*表格最大宽度，避免表格过宽*/</span><br><span class="line">    border: 1px dashed#405c70; /*表格外边框设置，solid是实线*/</span><br><span class="line">    margin: 1px auto; /*外边距*/</span><br><span class="line">    border-collapse: collapse; /*使用单一线条的边框*/</span><br><span class="line">    empty-cells: show; /*单元格无内容依旧绘制边框*/</span><br><span class="line">&#125;</span><br><span class="line">table th,</span><br><span class="line">table td &#123;</span><br><span class="line">  height: 25px; /*统一每一行的默认高度*/</span><br><span class="line">  font-size: 13px;  /*行内字符大小*/</span><br><span class="line">  border: 1px dashed#405c70; /*内部边框样式，这里dashed是虚线/</span><br><span class="line">  padding: 0 1px; /*内边距*/</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
 <p>可以根据注释修改自己的需求。</p>
-<h3 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h3><p><img src="https://xqimg.imedao.com/1876b9389f26bd53fa98f03b.png!raw.jpg" alt="优化后的表格示意"></p>
+<h3 id="效果"><a class="markdownIt-Anchor" href="#效果"></a> 效果</h3>
+<p><img src="https://xqimg.imedao.com/1876b9389f26bd53fa98f03b.png!raw.jpg" alt="优化后的表格示意"></p>
 <table>
 <thead>
 <tr>
@@ -130,11 +130,7 @@
 <th>表头3</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>内容1</td>
-<td>内容2</td>
-<td>内容3</td>
-</tr>
+<tbody>
 <tr>
 <td>内容1</td>
 <td>内容2</td>
@@ -145,109 +141,117 @@
 <td>内容2</td>
 <td>内容3</td>
 </tr>
-</tbody></table>
+<tr>
+<td>内容1</td>
+<td>内容2</td>
+<td>内容3</td>
+</tr>
+</tbody>
+</table>
 <p>对于不懂代码的我来说，这样的优化就很好了。</p>
 <p>表格可以先在Excel里做好，直接粘贴过来</p>
 <table>
 <thead>
 <tr>
-<th align="center">1</th>
-<th align="center">2</th>
-<th align="center">4</th>
-<th align="center">8</th>
+<th style="text-align:center">1</th>
+<th style="text-align:center">2</th>
+<th style="text-align:center">4</th>
+<th style="text-align:center">8</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">256</td>
-<td align="center">512</td>
-<td align="center">1024</td>
-<td align="center">2048</td>
+<tbody>
+<tr>
+<td style="text-align:center">256</td>
+<td style="text-align:center">512</td>
+<td style="text-align:center">1024</td>
+<td style="text-align:center">2048</td>
 </tr>
 <tr>
-<td align="center">65536</td>
-<td align="center">131072</td>
-<td align="center">262144</td>
-<td align="center">524288</td>
+<td style="text-align:center">65536</td>
+<td style="text-align:center">131072</td>
+<td style="text-align:center">262144</td>
+<td style="text-align:center">524288</td>
 </tr>
 <tr>
-<td align="center">16777216</td>
-<td align="center">33554432</td>
-<td align="center">67108864</td>
-<td align="center">134217728</td>
+<td style="text-align:center">16777216</td>
+<td style="text-align:center">33554432</td>
+<td style="text-align:center">67108864</td>
+<td style="text-align:center">134217728</td>
 </tr>
 <tr>
-<td align="center">4294967296</td>
-<td align="center">8589934592</td>
-<td align="center">17179869184</td>
-<td align="center">34359738368</td>
+<td style="text-align:center">4294967296</td>
+<td style="text-align:center">8589934592</td>
+<td style="text-align:center">17179869184</td>
+<td style="text-align:center">34359738368</td>
 </tr>
 <tr>
-<td align="center">1099511627776</td>
-<td align="center">2199023255552</td>
-<td align="center">4398046511104</td>
-<td align="center">8796093022208</td>
+<td style="text-align:center">1099511627776</td>
+<td style="text-align:center">2199023255552</td>
+<td style="text-align:center">4398046511104</td>
+<td style="text-align:center">8796093022208</td>
 </tr>
 <tr>
-<td align="center">281474976710656</td>
-<td align="center">562949953421312</td>
-<td align="center">1125899906842620</td>
-<td align="center">2251799813685250</td>
+<td style="text-align:center">281474976710656</td>
+<td style="text-align:center">562949953421312</td>
+<td style="text-align:center">1125899906842620</td>
+<td style="text-align:center">2251799813685250</td>
 </tr>
 <tr>
-<td align="center">72057594037927900</td>
-<td align="center">144115188075856000</td>
-<td align="center">288230376151712000</td>
-<td align="center">576460752303423000</td>
+<td style="text-align:center">72057594037927900</td>
+<td style="text-align:center">144115188075856000</td>
+<td style="text-align:center">288230376151712000</td>
+<td style="text-align:center">576460752303423000</td>
 </tr>
 <tr>
-<td align="center">16</td>
-<td align="center">32</td>
-<td align="center">64</td>
-<td align="center">128</td>
+<td style="text-align:center">16</td>
+<td style="text-align:center">32</td>
+<td style="text-align:center">64</td>
+<td style="text-align:center">128</td>
 </tr>
 <tr>
-<td align="center">4096</td>
-<td align="center">8192</td>
-<td align="center">16384</td>
-<td align="center">32768</td>
+<td style="text-align:center">4096</td>
+<td style="text-align:center">8192</td>
+<td style="text-align:center">16384</td>
+<td style="text-align:center">32768</td>
 </tr>
 <tr>
-<td align="center">1048576</td>
-<td align="center">2097152</td>
-<td align="center">4194304</td>
-<td align="center">8388608</td>
+<td style="text-align:center">1048576</td>
+<td style="text-align:center">2097152</td>
+<td style="text-align:center">4194304</td>
+<td style="text-align:center">8388608</td>
 </tr>
 <tr>
-<td align="center">268435456</td>
-<td align="center">536870912</td>
-<td align="center">1073741824</td>
-<td align="center">2147483648</td>
+<td style="text-align:center">268435456</td>
+<td style="text-align:center">536870912</td>
+<td style="text-align:center">1073741824</td>
+<td style="text-align:center">2147483648</td>
 </tr>
 <tr>
-<td align="center">68719476736</td>
-<td align="center">137438953472</td>
-<td align="center">274877906944</td>
-<td align="center">549755813888</td>
+<td style="text-align:center">68719476736</td>
+<td style="text-align:center">137438953472</td>
+<td style="text-align:center">274877906944</td>
+<td style="text-align:center">549755813888</td>
 </tr>
 <tr>
-<td align="center">17592186044416</td>
-<td align="center">35184372088832</td>
-<td align="center">70368744177664</td>
-<td align="center">140737488355328</td>
+<td style="text-align:center">17592186044416</td>
+<td style="text-align:center">35184372088832</td>
+<td style="text-align:center">70368744177664</td>
+<td style="text-align:center">140737488355328</td>
 </tr>
 <tr>
-<td align="center">4503599627370500</td>
-<td align="center">9007199254740990</td>
-<td align="center">18014398509482000</td>
-<td align="center">36028797018964000</td>
+<td style="text-align:center">4503599627370500</td>
+<td style="text-align:center">9007199254740990</td>
+<td style="text-align:center">18014398509482000</td>
+<td style="text-align:center">36028797018964000</td>
 </tr>
 <tr>
-<td align="center">1152921504606850000</td>
-<td align="center">2305843009213690000</td>
-<td align="center">4611686018427390000</td>
-<td align="center">9223372036854780000</td>
+<td style="text-align:center">1152921504606850000</td>
+<td style="text-align:center">2305843009213690000</td>
+<td style="text-align:center">4611686018427390000</td>
+<td style="text-align:center">9223372036854780000</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 <p><font color="SlateGray" size="2">—全文完—</font></p>
 
     </div>
@@ -255,7 +259,7 @@
 	
 	
     <footer class="article-footer">
-      <a data-url="http://kisma77.github.io/posts/20230219220315-470f98b1.html" data-id="clgcd5aqb002eboj9hm6p77w5" data-title="hexo博客内的表格轻度优化" class="article-share-link">分享</a>
+      <a data-url="http://kisma77.github.io/posts/20230219220315-470f98b1.html" data-id="clgcd84q1002e4oj9e08e5omx" data-title="hexo博客内的表格轻度优化" class="article-share-link">分享</a>
       
       
       
