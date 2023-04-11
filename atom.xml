@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>云端夜市</title>
   
-  <subtitle>生活就像一盒巧克力,你永远不知道会得到什么。</subtitle>
+  <subtitle>生活就像一盒巧克力</subtitle>
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
   
   <link href="http://kisma77.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://kisma77.github.io/</id>
   
   <author>
-    <name>斯人</name>
+    <name>kisma</name>
     
   </author>
   
