@@ -6,7 +6,7 @@
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
   
   <link href="http://kisma77.github.io/"/>
-  <updated>2023-04-11T17:59:53.520Z</updated>
+  <updated>2023-04-12T01:19:18.608Z</updated>
   <id>http://kisma77.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://kisma77.github.io/posts/20230412013148-f74e2ec.html"/>
     <id>http://kisma77.github.io/posts/20230412013148-f74e2ec.html</id>
     <published>2023-04-11T17:31:48.000Z</published>
-    <updated>2023-04-11T17:59:53.520Z</updated>
+    <updated>2023-04-12T01:19:18.608Z</updated>
     
-    <content type="html"><![CDATA[<p>这个问题困扰着我，需要解决，网上大多数人都是做短线甚至是日内交易的，可以说无答案。做模型回测的基本都选择<code>指数</code>作为回测对象，一直以来，我以及绝大部分的人是看<code>主链</code>或者<code>主力合约</code>来做的。</p><p>指数与主力或主链有时候存在很大的差异，但我发现看指数对方向的判断很有帮助，我决定看<code>指数</code>来做了试试。</p><span id="more"></span><p>比如纯碱</p><p>指数是这样的，按照这个<code>参数</code>，在3月7号就出现了做空信号，其后一直在下跌</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOhIgK.png" alt="纯碱指数"></p><p>然而主链是这样的，3月7号并没有出现做空<code>信号</code>，下图中那个很大的<code>跳空缺口</code>是由2305合约换月到2309合约造成的。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOh7uD.png" alt="纯碱主链"></p><p>也就是在3月7号之前[12.5~3.24]交易的都是2305合约，是这样的。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOh536.png" alt="纯碱2305"></p><p>从3月27号（周一）开始，<code>主力合约</code>由2305换做了2309，是这样的。图上可以看出，与指数不同，又一个回弹</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOhojO.png" alt="纯碱2309"></p><p>2309有一个小反弹，但%还不小。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppO49KS.png" alt="sa2309局部"></p><p>但指数就没有这个反弹，不过在3/21那一天指数有一个较大的<font color="RED" size="5">上涨K，3.44%</font>的涨幅。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppO4A5n.png" alt="sa指数局部"></p><p>从某种意义上来说，“意外”不可避免，后面指数看起来丝滑一些，但前面3.21那个K很容易受伤，这就需要仓位控制。</p><p>不过从整体的趋势性来看，指数明显比主链或主力合约要好一些。</p><p>不单单是这个品种。</p><p>当然，有些品种指数没法看，比如鸡蛋就没法看指数，适合短线。</p><p>因此，中长线交易适合看指数。</p><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
+    <content type="html"><![CDATA[<p>这个问题困扰着我，需要解决，网上大多数人都是做短线甚至是日内交易的，可以说无答案。做模型回测的基本都选择<code>指数</code>作为回测对象，一直以来，我以及绝大部分的人是看<code>主链</code>或者<code>主力合约</code>来做的。</p><p>指数与主力或主链有时候存在很大的差异，但我发现看指数对方向的判断很有帮助，我决定看<code>指数</code>来做了试试。</p><span id="more"></span><p>比如纯碱</p><p>指数是这样的，按照这个<code>参数</code>，在3月7号就出现了做空信号，其后一直在下跌</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOhIgK.png" alt="纯碱指数"></p><p>然而主链是这样的，3月7号并没有出现做空<code>信号</code>，下图中那个很大的<code>跳空缺口</code>是由2305合约换月到2309合约造成的。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOh7uD.png" alt="纯碱主链"></p><p>也就是在3月7号之前[12.5~3.24]交易的都是2305合约，是这样的。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOh536.png" alt="纯碱2305"></p><p>从3月27号（周一）开始，<code>主力合约</code>由2305换做了2309，是这样的。图上可以看出，与指数不同，又一个回弹</p><p><img src="https://s1.ax1x.com/2023/04/12/ppOhojO.png" alt="纯碱2309"></p><p>2309有一个小反弹，但%还不小。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppO49KS.png" alt="sa2309局部"></p><p>但指数就没有这个反弹，不过在3/21那一天指数有一个较大的<font color="RED" size="5">上涨K，3.44%</font>的涨幅。</p><p><img src="https://s1.ax1x.com/2023/04/12/ppO4A5n.png" alt="sa指数局部"></p><p>从某种意义上来说，<strong>“意外”不可避免</strong>，后面指数看起来丝滑一些，但前面3.21那个K很容易受伤，这就需要仓位控制。</p><p>不过从整体的趋势性来看，指数明显比主链或主力合约要好一些，不单单是这个品种。当然，有些品种指数没法看，比如鸡蛋就没法看指数，适合短线。</p><h2 id="结论"><a class="markdownIt-Anchor" href="#结论"></a> 结论：</h2><ul><li>指数在大方向的辨识上跟具有参考价值，适合中长线投资者。</li><li>可以专一一些，指数或主链任选其一，专注做一个，要防止选此念彼，不然会造成矛盾心理。</li></ul><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;这个问题困扰着我，需要解决，网上大多数人都是做短线甚至是日内交易的，可以说无答案。做模型回测的基本都选择&lt;code&gt;指数&lt;/code&gt;作为回测对象，一直以来，我以及绝大部分的人是看&lt;code&gt;主链&lt;/code&gt;或者&lt;code&gt;主力合约&lt;/code&gt;来做的。&lt;/p&gt;
