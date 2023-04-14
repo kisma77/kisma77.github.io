@@ -6,7 +6,7 @@
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
   
   <link href="http://kisma77.github.io/"/>
-  <updated>2023-04-13T18:26:46.295Z</updated>
+  <updated>2023-04-14T07:44:07.393Z</updated>
   <id>http://kisma77.github.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>四月第2周：亏了79块钱，交了425块佣金</title>
+    <link href="http://kisma77.github.io/posts/0414/d756289d.html"/>
+    <id>http://kisma77.github.io/posts/0414/d756289d.html</id>
+    <published>2023-04-14T07:37:34.000Z</published>
+    <updated>2023-04-14T07:44:07.393Z</updated>
+    
+    <content type="html"><![CDATA[<p>本周将账户本金转出1.5万，一周下来没赚到钱，亏了79块钱，还交了425块钱佣金，例外账户少了504块钱。佣金真的是旱涝保收啊。</p><span id="more"></span><p>本周最大的亏损是周二（11号），那天亏了1717元，今天尾盘棉花突然下跌，盈利500多变亏损796元，这两笔加起来亏了<font color="lime" size="4">2513元</font>，其它几笔盈利加起来是2434元，最后一算账，亏79元+425元的佣金，一周时间、精力功亏一篑，最后倒亏504元。</p><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本周将账户本金转出1.5万，一周下来没赚到钱，亏了79块钱，还交了425块钱佣金，例外账户少了504块钱。佣金真的是旱涝保收啊。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="B.商贾贸易" scheme="http://kisma77.github.io/categories/B-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
+    
+    <category term="每周总结" scheme="http://kisma77.github.io/categories/B-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>4.14遇到棉花尾盘大跌，浮亏1150元</title>
+    <link href="http://kisma77.github.io/posts/0414/fd7883dd.html"/>
+    <id>http://kisma77.github.io/posts/0414/fd7883dd.html</id>
+    <published>2023-04-14T07:02:37.000Z</published>
+    <updated>2023-04-14T07:47:55.951Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨晚盈利500块，今天白天早上买了一张棉花多单做多，一直持有没动（这很好，今天没有频繁交易！），但天不遂人愿，到了14:28时突然下跌（这种叫突然跳水），本来赚几百块的持仓一下亏钱了。</p><span id="more"></span><p>我注意到的时候浮亏300多，，我还想着昨晚夜盘有500多的盈利，到收盘多少能剩下点利润，但很快就亏到了500，吞掉了昨天的利润。但我并没有平仓，因为今天我决定<code>尝尝拿到收盘的滋味</code>，甚至通过分析，我认为价格在我的<code>多头区间</code>里，有望能多拿一段时间，多赚一些钱。</p><p>到了14:43的时候，我看账面浮亏500多，鬼使神差的点开了交易界面，在14:44那里加仓了一张多单（也就是浮亏时为了摊平亏损补仓），到收盘时浮亏1150元。</p><p><img src="https://s1.ax1x.com/2023/04/14/ppz2uuT.png" alt="CF20230414分时图"></p><p><img src="https://s1.ax1x.com/2023/04/14/ppzgwhn.png" alt="图片"></p><p><img src="https://s1.ax1x.com/2023/04/14/ppzgdts.png" alt="账面浮亏1150"></p><p>没平仓是因日线周期里的价格还在我定义的<code>多头区间</code>里</p><p><img src="https://s1.ax1x.com/2023/04/14/ppz2mvV.png" alt="棉花日线图"></p><p><img src="https://s1.ax1x.com/2023/04/14/ppz2eg0.png" alt="棉花周K"></p><p>今天的问题是<font color="lime" size="4">企图摊平亏损而无意识补仓</font>，今天我是感受到这真的是无意识的坏习惯，看到浮亏后大脑潜意识第一时间想到的是去摊平，于是立刻就去打开账户补仓了，补完仓亏的更多时我才意识到刚才补仓不对，意识里的<code>不能为了摊平亏损补仓</code>戒律才出现。——刚才它们去哪里了呢？</p><p>用福格模型来设计，要减少补仓的提醒，还要增加补仓这个动作的难度。</p><ol><li><strong>减少提醒的方法</strong>：不登录账户，不看盈亏，尤其是不在盘中看账户。</li><li><strong>增加补仓的动作难度</strong>：可以设置<code>确认委托</code>，增加登录难度、设置<code>最大持仓量</code>等</li></ol><p><img src="https://s1.ax1x.com/2023/04/14/ppzW6nf.png" alt="增加交易动作难度"></p><ol start="3"><li>在醒目位置（如电脑旁）帖<code>不能为了摊平补仓</code>的纸条，以提示自己别这样做。</li></ol><p>今天虽然亏了，由盈变亏，但白天持仓一直没动很棒，虽然<code>因持仓不动盈利变亏损</code>，但坚持住了一天没频繁交易，要鼓励一下，一会儿奖励自己一根巧克力雪糕！</p><p>摊平补仓是坏习惯，要罚，扣除半根雪糕+扫地拖地，希望我以后能记住别摊平补仓。</p><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;昨晚盈利500块，今天白天早上买了一张棉花多单做多，一直持有没动（这很好，今天没有频繁交易！），但天不遂人愿，到了14:28时突然下跌（这种叫突然跳水），本来赚几百块的持仓一下亏钱了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="B.商贾贸易" scheme="http://kisma77.github.io/categories/B-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
+    
+    <category term="每日记录" scheme="http://kisma77.github.io/categories/B-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>【思考】用福格行为模型来设计减少频繁交易</title>
@@ -393,48 +435,6 @@
     <category term="交易书籍" scheme="http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/"/>
     
     <category term="《系统交易方法》" scheme="http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/%E3%80%8A%E7%B3%BB%E7%BB%9F%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95%E3%80%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>4.08周六逛龙潭中湖公园</title>
-    <link href="http://kisma77.github.io/posts/0408/6a8e48e2.html"/>
-    <id>http://kisma77.github.io/posts/0408/6a8e48e2.html</id>
-    <published>2023-04-08T12:11:59.000Z</published>
-    <updated>2023-04-13T01:43:47.855Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天周六，我们去姐姐家吃午饭，岳母烙的油饼，很香，吃完后和姐姐一家去逛了龙潭中湖公园，岳父岳母在家没去。</p><span id="more"></span><p>公园位于龙潭湖公园马路对面，原北京游乐园，我们坐8路公共汽车几站地就到，这个园原来是北京游乐园，2010年停止营业后，经过改造，现在变更为‘龙潭中湖公园’，对老百姓免费开放，扫二维码登记即可入园。</p><p><img src="https://youimg1.c-ctrip.com/target/0102x120009362pto06D1_W_1024_0_Q90.jpg" alt="公园正门"></p><p>正门这图是我网上找来的，今天去的时候我没拍到正门。</p><p>下面几张是我自己拍的。</p><p><img src="https://s1.ax1x.com/2023/04/08/ppHl6hQ.jpg" alt="龙潭中湖公园1"></p><p>这个摩天轮是公园地标了，不过现在已&quot;不营业&quot;了<img src="https://s1.ax1x.com/2023/04/08/ppHlD78.jpg" alt="龙潭中湖公园2"></p><p><img src="https://s1.ax1x.com/2023/04/08/ppHlsAS.jpg" alt="龙潭中湖公园3"></p><p><img src="https://s1.ax1x.com/2023/04/08/ppHlgpj.jpg" alt="龙潭中湖公园4"></p><p><img src="https://s1.ax1x.com/2023/04/08/ppHlytg.jpg" alt="龙潭中湖公园5"></p><p>近处的摩天轮和远处的中国尊</p><p><img src="https://s1.ax1x.com/2023/04/08/ppHlWXq.jpg" alt="龙潭中湖公园6"></p><p><img src="https://s1.ax1x.com/2023/04/08/ppHl4BV.jpg" alt="龙潭中湖公园7"></p><p>俩外甥园中用草串起来当“车”玩，我借机给外甥女说你们真棒，咱中国的甲骨文里的‘车’字就跟你们做的‘车’很像。</p><p><img src="https://s1.ax1x.com/2023/04/08/ppH3wo8.jpg" alt="用草串起来当“车”玩"></p><p><img src="https://5b0988e595225.cdn.sohucs.com/images/20181223/5ab9af92f06a4a4ab258ba65abefb6e5.jpeg" alt="甲骨文中的‘车字’"></p><p>下午回来后俩外甥（曦曦和诺诺）跟着我们回家，玩了一会儿后我们又一起送回去，顺便蹭饭。哈哈</p><p>不过媳妇吃面血糖升得高，我在家里给煮好了意大利面带过去，也不远，穿过一个小区就是姐姐家。</p><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;今天周六，我们去姐姐家吃午饭，岳母烙的油饼，很香，吃完后和姐姐一家去逛了龙潭中湖公园，岳父岳母在家没去。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="A.生活日记" scheme="http://kisma77.github.io/categories/A-%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>4月第一周：回血2872元，重上7万元</title>
-    <link href="http://kisma77.github.io/posts/0407/9a99b2b7.html"/>
-    <id>http://kisma77.github.io/posts/0407/9a99b2b7.html</id>
-    <published>2023-04-07T15:02:00.000Z</published>
-    <updated>2023-04-13T01:47:01.699Z</updated>
-    
-    <content type="html"><![CDATA[<p>今晚夜盘赚了200块钱，哈哈。蚊子肉。</p><p>本周[4/3-4/7]期间有清明节，停盘一个白天交易日和一个夜盘交易日，只有四天交易。</p><p>4月3号夜盘收盘时账户本金为￥67394.00，</p><span id="more"></span><img src="https://s1.ax1x.com/2023/04/07/pp7n7mF.png" alt="4/3账户规模" style="zoom:33%;"><p>今晚夜盘收盘账户为￥70266.00</p><img src="https://s1.ax1x.com/2023/04/07/pp7noOU.png" alt="4/7夜盘收盘账户规模" style="zoom:50%;"><p>本周利润为<font color="RED" size="4">2872.00</font>元，这个利润是已扣除了103元佣金的净利润，此盈利仅代表本周，其实还在亏损，还没回复到上周水平，所以称为“回血”更合适。</p><p>账户经历前几天大亏一次，本周有所回升。</p><img src="https://s1.ax1x.com/2023/04/07/pp7nvSx.png" alt="账户监控表" style="zoom:50%;"><p>本周做了一次棉花。</p><p>我还是没梳理出“为什么拿不住”，但隐隐约约感知到问题，还需要抽空梳理。</p><hr><p>昨天看到一张西湖的图，很美，保存在这里，我已经五六年没去过西湖了，最近3年多，哪儿都没去过，几乎天天在家里。</p><p><img src="https://s1.ax1x.com/2023/04/07/pp7nHw4.jpg" alt="杭州西湖"></p><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;今晚夜盘赚了200块钱，哈哈。蚊子肉。&lt;/p&gt;
-&lt;p&gt;本周[4/3-4/7]期间有清明节，停盘一个白天交易日和一个夜盘交易日，只有四天交易。&lt;/p&gt;
-&lt;p&gt;4月3号夜盘收盘时账户本金为￥67394.00，&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="B.商贾贸易" scheme="http://kisma77.github.io/categories/B-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/"/>
-    
-    <category term="每周总结" scheme="http://kisma77.github.io/categories/B-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
     
     
   </entry>
