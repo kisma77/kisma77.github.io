@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kisma77.github.io/posts/0403/62332146.html</loc>
-    
-    <lastmod>2023-04-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kisma77.github.io/posts/0417/2a62dfaa.html</loc>
     
     <lastmod>2023-04-17</lastmod>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>http://kisma77.github.io/posts/0409/57829e5d.html</loc>
+    
+    <lastmod>2023-04-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisma77.github.io/posts/0403/62332146.html</loc>
     
     <lastmod>2023-04-17</lastmod>
     
@@ -1254,7 +1254,21 @@
   </url>
   
   <url>
+    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E5%A4%A7%E5%B8%88%E5%90%8D%E7%AF%87/</loc>
+    <lastmod>2023-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://kisma77.github.io/categories/B-%E5%95%86%E8%B4%BE%E8%B4%B8%E6%98%93/</loc>
+    <lastmod>2023-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E5%A4%A7%E5%B8%88%E5%90%8D%E7%AF%87/%E5%9B%BD%E5%A4%96%E5%A4%A7%E5%B8%88/</loc>
     <lastmod>2023-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1282,28 +1296,7 @@
   </url>
   
   <url>
-    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E5%A4%A7%E5%B8%88%E5%90%8D%E7%AF%87/</loc>
-    <lastmod>2023-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/</loc>
-    <lastmod>2023-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E5%A4%A7%E5%B8%88%E5%90%8D%E7%AF%87/%E5%9B%BD%E5%A4%96%E5%A4%A7%E5%B8%88/</loc>
-    <lastmod>2023-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/%E3%80%8A%E6%AF%8F%E6%97%A5%E4%BA%A4%E6%98%93%E8%AE%AD%E7%BB%83%E3%80%8B/</loc>
     <lastmod>2023-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1317,6 +1310,13 @@
   </url>
   
   <url>
+    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/%E3%80%8A%E7%B3%BB%E7%BB%9F%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95%E3%80%8B/</loc>
+    <lastmod>2023-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E6%95%B0%E7%90%86%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2023-04-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1324,7 +1324,7 @@
   </url>
   
   <url>
-    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/%E3%80%8A%E7%B3%BB%E7%BB%9F%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95%E3%80%8B/</loc>
+    <loc>http://kisma77.github.io/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/%E3%80%8A%E6%AF%8F%E6%97%A5%E4%BA%A4%E6%98%93%E8%AE%AD%E7%BB%83%E3%80%8B/</loc>
     <lastmod>2023-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
