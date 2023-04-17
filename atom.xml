@@ -6,7 +6,7 @@
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
   
   <link href="http://kisma77.github.io/"/>
-  <updated>2023-04-17T15:57:12.569Z</updated>
+  <updated>2023-04-17T16:13:23.436Z</updated>
   <id>http://kisma77.github.io/</id>
   
   <author>
@@ -17,16 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>参数没有那么重要</title>
+    <title>参数没有那么重要，微调更是毫无意义</title>
     <link href="http://kisma77.github.io/posts/0417/1ce04ab8.html"/>
     <id>http://kisma77.github.io/posts/0417/1ce04ab8.html</id>
     <published>2023-04-17T15:56:28.000Z</published>
-    <updated>2023-04-17T15:57:12.569Z</updated>
+    <updated>2023-04-17T16:13:23.436Z</updated>
     
-    <content type="html"><![CDATA[<p>参数没有想象中的重要。</p><span id="more"></span><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
+    <content type="html"><![CDATA[<p>统计结果显示，参数没有想象中的重要，微调更是毫无意义。包括我之前在内的光大散户都陷入了“优化陷阱”。</p><span id="more"></span><p>之前阅读了《期货市场计算机分析指南》，书中列举了不同指标、不同参数下的统计结果，得出“指标参数没有想象中的那么重要”。</p><p>今晚阅读《走出技术分析陷阱》一书，里面也说参数微调意义不大。</p><p>我对沪深300等品种做了统计后也得出类似的结果。</p><p>在《Building Reliable Trading Systems》一书中也测试指标的，印象深的是移动平均线的这个结论。</p><p><img src="https://s1.ax1x.com/2023/04/18/p9PaYeH.png" alt="Building Reliable Trading Systems"></p><p><font color="SlateGray" size="2">—全文完—</font></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;参数没有想象中的重要。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;统计结果显示，参数没有想象中的重要，微调更是毫无意义。包括我之前在内的光大散户都陷入了“优化陷阱”。&lt;/p&gt;</summary>
     
     
     
