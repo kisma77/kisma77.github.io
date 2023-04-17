@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang=zh>
+<head>
+    <meta charset="utf-8">
+    
+    <title>走出技术分析的陷阱：第2编 | ...Tim...ing...</title>
+    
+    
+        <meta name="keywords" content="走出技术分析的陷阱：第2编" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="续第一编技术分析的陷阱后，本编主要介绍机械系统">
+<meta property="og:type" content="article">
+<meta property="og:title" content="走出技术分析的陷阱：第2编">
+<meta property="og:url" content="http://kisma77.github.io/posts/0409/57829e5d.html">
+<meta property="og:site_name" content="...Tim...ing...">
+<meta property="og:description" content="续第一编技术分析的陷阱后，本编主要介绍机械系统">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://s1.ax1x.com/2023/04/17/p9CIstP.png">
+<meta property="og:image" content="https://s1.ax1x.com/2023/04/17/p9CIwmd.png">
+<meta property="og:image" content="https://s1.ax1x.com/2023/04/17/p9CIaOH.png">
+<meta property="og:image" content="https://s1.ax1x.com/2023/04/17/p9CIrkt.png">
+<meta property="article:published_time" content="2023-04-08T17:34:13.000Z">
+<meta property="article:modified_time" content="2023-04-17T07:41:55.658Z">
+<meta property="article:author" content="Tim">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://s1.ax1x.com/2023/04/17/p9CIstP.png">
+    
+
+    
+
+    
+        <link rel="icon" href="/favicon.ico" />
+    
+
+    
+<link rel="stylesheet" href="/libs/font-awesome/css/font-awesome.min.css">
+
+    
+<link rel="stylesheet" href="/libs/open-sans/styles.css">
+
+    
+<link rel="stylesheet" href="/libs/source-code-pro/styles.css">
+
+
+    
+<link rel="stylesheet" href="/css/style.css">
+
+    
+<script src="/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    
+<script src="/libs/jquery/plugins/cookie/1.4.1/jquery.cookie.js"></script>
+
+    
+    
+        
+<link rel="stylesheet" href="/libs/lightgallery/css/lightgallery.min.css">
+
+    
+    
+        
+<link rel="stylesheet" href="/libs/justified-gallery/justifiedGallery.min.css">
+
+    
+    
+    
+    
+
+
+    
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    
+
+<meta name="generator" content="Hexo 6.3.0"><link rel="alternate" href="/atom.xml" title="...Tim...ing..." type="application/atom+xml">
+</head>
+
+<body>
+    <div id="container">
+        <header id="header">
+    <div id="header-main" class="header-inner">
+        <div class="outer">
+            <a href="/" id="logo">
+                <i class="logo"></i>
+                <span class="site-title">...Tim...ing...</span>
+            </a>
+            <nav id="main-nav">
+                
+                    <a class="main-nav-link" href="/">首页</a>
+                
+                    <a class="main-nav-link" href="/archives">归档</a>
+                
+                    <a class="main-nav-link" href="/about">关于</a>
+                
+            </nav>
+            
+            <div id="search-form-wrap">
+
+    <form class="search-form">
+        <input type="text" class="ins-search-input search-form-input" placeholder="搜索" />
+        <button type="submit" class="search-form-submit"></button>
+    </form>
+    <div class="ins-search">
+    <div class="ins-search-mask"></div>
+    <div class="ins-search-container">
+        <div class="ins-input-wrapper">
+            <input type="text" class="ins-search-input" placeholder="想要查找什么..." />
+            <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
+        </div>
+        <div class="ins-section-wrapper">
+            <div class="ins-section-container"></div>
+        </div>
+    </div>
+</div>
+<script>
+(function (window) {
+    var INSIGHT_CONFIG = {
+        TRANSLATION: {
+            POSTS: '文章',
+            PAGES: '页面',
+            CATEGORIES: '分类',
+            TAGS: '标签',
+            UNTITLED: '(未命名)',
+        },
+        ROOT_URL: '/',
+        CONTENT_URL: '/content.json',
+    };
+    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
+})(window);
+</script>
+
+<script src="/js/insight.js"></script>
+
+
+</div>
+
+        </div>
+    </div>
+    <div id="main-nav-mobile" class="header-sub header-inner">
+        <table class="menu outer">
+            <tr>
+                
+                    <td><a class="main-nav-link" href="/">首页</a></td>
+                
+                    <td><a class="main-nav-link" href="/archives">归档</a></td>
+                
+                    <td><a class="main-nav-link" href="/about">关于</a></td>
+                
+                <td>
+                    
+    <div class="search-form">
+        <input type="text" class="ins-search-input search-form-input" placeholder="搜索" />
+    </div>
+
+                </td>
+            </tr>
+        </table>
+    </div>
+</header>
+
+        <div class="outer">
+            
+            
+                <aside id="sidebar">
+   
+        
+    <div class="widget-wrap" id='categories'>
+        <h3 class="widget-title">
+            <span>分类</span>
+            &nbsp;
+            <a id='allExpand' href="#">
+                <i class="fa fa-angle-double-down fa-2x"></i>
+            </a>
+        </h3>
+        
+        
+        
+         <ul class="unstyled" id="tree" > 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            A.生活日记
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0218/aea9dc95.html">2.18 见到宝宝的样子了！</a></li>  <li class="file"><a href="/posts/0310/b10f8abc.html">3.10 忆一段往事</a></li>  <li class="file"><a href="/posts/0313/e7a2cd04.html">3.13 房子定下来了</a></li>  <li class="file"><a href="/posts/0316/c10642a6.html">3.16 今天收拾东西，准备搬家</a></li>  <li class="file"><a href="/posts/0319/e763f81d.html">3.19 从西二旗搬到了崇文门</a></li>  <li class="file"><a href="/posts/0321/119a607d.html">3.21 今天开始申请准生证</a></li>  <li class="file"><a href="/posts/0322/12332498.html">3.22 单日最大跌幅里赚点零头</a></li>  <li class="file"><a href="/posts/0324/2bfa5e50.html">3.24 今天去选孕妇照，回来两人下了馆子</a></li>  <li class="file"><a href="/posts/0327/16cf6a91.html">3.27 和老婆一起逛胡同</a></li>  <li class="file"><a href="/posts/0330/b7a81f3c.html">3.30 颐和园美景</a></li>  <li class="file"><a href="/posts/0331/45aca943.html">3.31 如能运行，切勿动它</a></li>  <li class="file"><a href="/posts/0401/51fee0ff.html">4.01 姐姐带孩子来家里玩</a></li>  <li class="file"><a href="/posts/0402/ac1fba5f.html">4.02 去姐姐家蹭饭，及人生路的关键几步</a></li>  <li class="file"><a href="/posts/0405/cf6fe8dd.html">4.05 清明节选择睡觉</a></li>  <li class="file"><a href="/posts/0406/6d0556a1.html">4.06 宝宝的胎动越来越猛</a></li>  <li class="file"><a href="/posts/0408/6a8e48e2.html">4.08周六逛龙潭中湖公园</a></li>  <li class="file"><a href="/posts/0410/a601fe3a.html">4.10今天去医院做胎心监护</a></li>  <li class="file"><a href="/posts/0414/4e1243db.html">4.14周五，沙尘暴终于过去了，下楼遛弯了</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            B.商贾贸易
+                        </a>
+                         <ul class="unstyled" id="tree" > 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            慢投细思
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0217/ba03907e.html">认知和一致性</a></li>  <li class="file"><a href="/posts/0217/970352b4.html">习惯与习惯化</a></li>  <li class="file"><a href="/posts/0217/5ac6f809.html">学习</a></li>  <li class="file"><a href="/posts/0217/620b60c7.html">学习之：工具性学习</a></li>  <li class="file"><a href="/posts/0217/e03f77d.html">学习之：观察性学习</a></li>  <li class="file"><a href="/posts/0217/f5e3c4bd.html">由频率谈交易</a></li>  <li class="file"><a href="/posts/0217/24b99b2b.html">期望与重心</a></li>  <li class="file"><a href="/posts/0217/c155f4d6.html">由目标谈交易目标</a></li>  <li class="file"><a href="/posts/0217/27ba230c.html">从概率谈资金管理的必要性</a></li>  <li class="file"><a href="/posts/0217/afa62016.html">规划谬误</a></li>  <li class="file"><a href="/posts/0217/db9a4c96.html">祖母的规矩</a></li>  <li class="file"><a href="/posts/0217/5a34b96d.html">如何科学定目标</a></li>  <li class="file"><a href="/posts/0217/6034efb5.html">关于机会</a></li>  <li class="file"><a href="/posts/0217/a57fd2d.html">由价值观谈交易</a></li>  <li class="file"><a href="/posts/0217/33762f10.html">由容错率谈仓位</a></li>  <li class="file"><a href="/posts/0217/cbfed0a9.html">文科话概率核心</a></li>  <li class="file"><a href="/posts/0217/ecce70be.html">态度系统</a></li>  <li class="file"><a href="/posts/0223/73655e03.html">改变的本质</a></li>  <li class="file"><a href="/posts/0223/730aad8e.html">打雪仗思维</a></li>  <li class="file"><a href="/posts/0301/dc02ff82.html">要聚焦，过多选择会降低幸福感</a></li>  <li class="file"><a href="/posts/0306/158f51b8.html">商品期货投机获利的秘诀</a></li>  <li class="file"><a href="/posts/0320/c9eeb6a.html">3.20 记一次成功地从“红灯策略”中获利</a></li>  <li class="file"><a href="/posts/0321/cbc671e5.html">如何锻炼交易中不紧张的能力？</a></li>  <li class="file"><a href="/posts/0321/22cb1254.html">运气在投资中扮演着重要角色</a></li>  <li class="file"><a href="/posts/0325/33a3ff6c.html">聪明人为什么会下笨功夫？</a></li>  <li class="file"><a href="/posts/0404/62c91493.html">杀鸡要用牛刀</a></li>  <li class="file"><a href="/posts/0405/cb0418b7.html">长袖善舞,多钱善贾</a></li>  <li class="file"><a href="/posts/0411/e508e97b.html">容易忘记的“初心”</a></li>  <li class="file"><a href="/posts/0412/7b3163ff.html">运气不好的表现</a></li>  <li class="file"><a href="/posts/0412/f74e2ec.html">关于期货交易中看指数还是看主力合约的思考</a></li>  <li class="file"><a href="/posts/0413/7271ec22.html">对“学习”作一点扩展</a></li>  <li class="file"><a href="/posts/0414/75c7533.html">【思考】用福格行为模型来设计减少频繁交易</a></li>  <li class="file"><a href="/posts/0415/5a86a423.html">转载游戏容易让人上瘾的知乎文章</a></li>  <li class="file"><a href="/posts/0415/6dcf1c8f.html">由数学里的“当且仅当”想到的</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            每周总结
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0324/5cb45f8d.html">3月第3周（3.24）小结</a></li>  <li class="file"><a href="/posts/0331/588772fe.html">3月最后一周（3.31），本周亏大了</a></li>  <li class="file"><a href="/posts/0407/9a99b2b7.html">4月第1周：回血2872元，重上7万元</a></li>  <li class="file"><a href="/posts/0414/d756289d.html">四月第2周：亏了79块钱，交了425块佣金</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            每日记录
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0321/d6f02f35.html">3.21账户到7万了</a></li>  <li class="file"><a href="/posts/0323/c3bb505b.html">3.23虽盈利，还是丢了西瓜</a></li>  <li class="file"><a href="/posts/0324/4ad5160b.html">3.24有赚，开心</a></li>  <li class="file"><a href="/posts/0403/aeee92ef.html">4.03 又犯了“摊平”之错</a></li>  <li class="file"><a href="/posts/0403/ed97c871.html">4.03 夜盘赚了￥539，但没做好</a></li>  <li class="file"><a href="/posts/0404/decc9030.html">4.04 小盈利</a></li>  <li class="file"><a href="/posts/0406/4eb3de51.html">4.06 今日盈利1194.5</a></li>  <li class="file"><a href="/posts/0406/d2caddba.html">4.06 夜市小赚357元</a></li>  <li class="file"><a href="/posts/0407/667f9ed3.html">4.07 账户重回7万</a></li>  <li class="file"><a href="/posts/0410/63d65d1c.html">4.10 夜盘帮券商打一晚上临工</a></li>  <li class="file"><a href="/posts/0411/54282837.html">4.11着魔了，狂操作，大亏1700！</a></li>  <li class="file"><a href="/posts/0412/fd3f8ed9.html">4.12盈利840元，出金1.5万</a></li>  <li class="file"><a href="/posts/0412/afde095c.html">4.12夜盘盈利700元</a></li>  <li class="file"><a href="/posts/0413/8dfc52cc.html">4.13今日盈利1000余元</a></li>  <li class="file"><a href="/posts/0413/99f84a66.html">4.13夜盘获利500块，思考了盯盘导致频繁交易</a></li>  <li class="file"><a href="/posts/0414/fd7883dd.html">4.14遇到棉花尾盘大跌，浮亏1150元</a></li>  <li class="file"><a href="/posts/0414/d09f3d1b.html">4.14夜盘，亏640块还是赚了708块？</a></li>  <li class="file"><a href="/posts/0417/2a62dfaa.html">4.17本周开门红，盈利1000余元</a></li>  </ul> 
+                    </li> 
+                     </ul> 
+                    </li> 
+                    
+                    <li class="directory open">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder-open"></i>
+                            &nbsp;
+                            C.阅读得间
+                        </a>
+                         <ul class="unstyled" id="tree" > 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            《心理学》相关
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0223/f73d33d.html">百分百红灯策略</a></li>  <li class="file"><a href="/posts/0225/2b53d151.html">关于“耐心”</a></li>  <li class="file"><a href="/posts/0410/29884731.html">“某某人”统计学</a></li>  <li class="file"><a href="/posts/0412/aaed3e4b.html">两篇心理学“自我破坏”的文章</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory open">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder-open"></i>
+                            &nbsp;
+                            交易书籍
+                        </a>
+                         <ul class="unstyled" id="tree" > 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            《每日交易训练》
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0409/990fd482.html">每日交易训练第1章</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            《系统交易方法》
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0409/ad9bd9a.html">系统交易方法1</a></li>  <li class="file"><a href="/posts/0409/a051dea.html">系统交易方法2</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory open">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder-open"></i>
+                            &nbsp;
+                            《走出技术分析的陷阱》
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file active"><a href="/posts/0409/57829e5d.html">走出技术分析的陷阱：第2编</a></li>  <li class="file"><a href="/posts/0409/af249deb.html">走出技术分析的陷阱：第1编</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            《高概率交易》
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0405/534a33c5.html">《高概率交易》第一部分</a></li>  <li class="file"><a href="/posts/0405/534a33c5.html">《高概率交易》第5部分：自律与过度交易</a></li>  </ul> 
+                    </li> 
+                     </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            大师名篇
+                        </a>
+                         <ul class="unstyled" id="tree" > 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            国外大师
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0323/f501a894.html">笛卡尔的四条准则</a></li>  </ul> 
+                    </li> 
+                     </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            数理思维
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0403/9b5e16cd.html">数学的思维方式</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            数理知识
+                        </a>
+                         <ul class="unstyled" id="tree" > 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            《预测：方法与实践》
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0409/d43be724.html">预测：方法与实践</a></li>  </ul> 
+                    </li> 
+                     </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            论坛帖子集
+                        </a>
+                         <ul class="unstyled" id="tree" > 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            专一投机大局观系列
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0404/f9d58008.html">大局观</a></li>  <li class="file"><a href="/posts/0406/49f81cb.html">大局观系列二：沪铜1201和白糖1205俩例子讲解</a></li>  <li class="file"><a href="/posts/0406/8efcdcfa.html">大局观系列三：帖中互动集</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            刀疤老二系列
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0405/4c86651.html">刀疤老二系列1：成败在自己、操盘规划、风报比...</a></li>  <li class="file"><a href="/posts/0406/2efa9c62.html">刀疤老二系列2：五个案例讲解</a></li>  <li class="file"><a href="/posts/0406/5d304a8c.html">刀疤老二系列3：加码哲学</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            零散帖子
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0405/966159e3.html">微斯人相关</a></li>  <li class="file"><a href="/posts/0405/cc53406b.html">我不是教你赌</a></li>  </ul> 
+                    </li> 
+                     </ul> 
+                    </li> 
+                     <li class="file"><a href="/posts/0221/8f410ef1.html">学习的乐趣</a></li>  <li class="file"><a href="/posts/0223/82fe7a0.html">Stacey矩阵</a></li>  <li class="file"><a href="/posts/0223/7e1b48e3.html">人容易掉进优化陷阱</a></li>  <li class="file"><a href="/posts/0331/d24b4fc3.html">为什么很多聪明人却过不好生活</a></li>  </ul> 
+                    </li> 
+                    
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            心智代码库
+                        </a>
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/posts/0217/2c447b62.html">A.心智代码库</a></li>  <li class="file"><a href="/posts/0217/37380759.html">相关性</a></li>  <li class="file"><a href="/posts/0217/85e81b7.html">行为</a></li>  <li class="file"><a href="/posts/0217/b9fde245.html">观念</a></li>  <li class="file"><a href="/posts/0217/2c28fead.html">信念</a></li>  <li class="file"><a href="/posts/0217/6a2f4da.html">自信</a></li>  <li class="file"><a href="/posts/0217/a8a2726.html">自卑情结</a></li>  <li class="file"><a href="/posts/0217/ae3e7c99.html">信任</a></li>  <li class="file"><a href="/posts/0217/27463847.html">评价</a></li>  <li class="file"><a href="/posts/0217/c0812ed7.html">情绪</a></li>  <li class="file"><a href="/posts/0217/9a4e4cf7.html">矛盾心理</a></li>  <li class="file"><a href="/posts/0217/35a7d39a.html">自我控制</a></li>  <li class="file"><a href="/posts/0217/21e075fe.html">注意</a></li>  <li class="file"><a href="/posts/0217/dfed81dd.html">动机</a></li>  <li class="file"><a href="/posts/0217/d124a61e.html">思维模型</a></li>  <li class="file"><a href="/posts/0217/974c4117.html">期望</a></li>  <li class="file"><a href="/posts/0217/bc35be02.html">需要</a></li>  <li class="file"><a href="/posts/0217/ecbb0e45.html">系统</a></li>  <li class="file"><a href="/posts/0217/9df8f1b.html">专注</a></li>  <li class="file"><a href="/posts/0217/a6385971.html">自我效能</a></li>  <li class="file"><a href="/posts/0217/e1695e12.html">计划行为</a></li>  <li class="file"><a href="/posts/0217/138ada36.html">去习惯化</a></li>  <li class="file"><a href="/posts/0217/3f4c9a06.html">元认知</a></li>  <li class="file"><a href="/posts/0217/46ecb7c9.html">兴趣</a></li>  <li class="file"><a href="/posts/0223/a8c8c632.html">神经可塑性</a></li>  <li class="file"><a href="/posts/0301/58c91a4c.html">什么是交易策略</a></li>  </ul> 
+                    </li> 
+                     <li class="file"><a href="/posts/0403/62332146.html">云端夜市营业状况</a></li>  </ul> 
+    </div>
+    <script>
+        $(document).ready(function() {
+            var iconFolderOpenClass  = 'fa-folder-open';
+            var iconFolderCloseClass = 'fa-folder';
+            var iconAllExpandClass = 'fa-angle-double-down';
+            var iconAllPackClass = 'fa-angle-double-up';
+            // Handle directory-tree expansion:
+            // 左键单独展开目录
+            $(document).on('click', '#categories a[data-role="directory"]', function (event) {
+                event.preventDefault();
+
+                var icon = $(this).children('.fa');
+                var expanded = icon.hasClass(iconFolderOpenClass);
+                var subtree = $(this).siblings('ul');
+                icon.removeClass(iconFolderOpenClass).removeClass(iconFolderCloseClass);
+                if (expanded) {
+                    if (typeof subtree != 'undefined') {
+                        subtree.slideUp({ duration: 100 });
+                    }
+                    icon.addClass(iconFolderCloseClass);
+                } else {
+                    if (typeof subtree != 'undefined') {
+                        subtree.slideDown({ duration: 100 });
+                    }
+                    icon.addClass(iconFolderOpenClass);
+                }
+            });
+            // 右键展开下属所有目录
+            $('#categories a[data-role="directory"]').bind("contextmenu", function(event){
+                event.preventDefault();
+                
+                var icon = $(this).children('.fa');
+                var expanded = icon.hasClass(iconFolderOpenClass);
+                var listNode = $(this).siblings('ul');
+                var subtrees = $.merge(listNode.find('li ul'), listNode);
+                var icons = $.merge(listNode.find('.fa'), icon);
+                icons.removeClass(iconFolderOpenClass).removeClass(iconFolderCloseClass);
+                if(expanded) {
+                    subtrees.slideUp({ duration: 100 });
+                    icons.addClass(iconFolderCloseClass);
+                } else {
+                    subtrees.slideDown({ duration: 100 });
+                    icons.addClass(iconFolderOpenClass);
+                }
+            })
+            // 展开关闭所有目录按钮
+            $(document).on('click', '#allExpand', function (event) {
+                event.preventDefault();
+                
+                var icon = $(this).children('.fa');
+                var expanded = icon.hasClass(iconAllExpandClass);
+                icon.removeClass(iconAllExpandClass).removeClass(iconAllPackClass);
+                if(expanded) {
+                    $('#sidebar .fa.fa-folder').removeClass('fa-folder').addClass('fa-folder-open')
+                    $('#categories li ul').slideDown({ duration: 100 });
+                    icon.addClass(iconAllPackClass);
+                } else {
+                    $('#sidebar .fa.fa-folder-open').removeClass('fa-folder-open').addClass('fa-folder')
+                    $('#categories li ul').slideUp({ duration: 100 });
+                    icon.addClass(iconAllExpandClass);
+                }
+            });  
+        });
+    </script>
+
+    
+    <div id="toTop" class="fa fa-angle-up"></div>
+</aside>
+            
+            <section id="main"><article id="post-C.阅读得间/经典书籍/走出技术分析的陷阱/走出技术分析的陷阱：第2编" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                				
+                    <div class="article-meta">
+                         
+    <div class="article-category">
+    	<i class="fa fa-folder"></i>
+        <a class="article-category-link" href="/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/">C.阅读得间</a><i class="fa fa-angle-right"></i><a class="article-category-link" href="/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/">交易书籍</a><i class="fa fa-angle-right"></i><a class="article-category-link" href="/categories/C-%E9%98%85%E8%AF%BB%E5%BE%97%E9%97%B4/%E4%BA%A4%E6%98%93%E4%B9%A6%E7%B1%8D/%E3%80%8A%E8%B5%B0%E5%87%BA%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90%E7%9A%84%E9%99%B7%E9%98%B1%E3%80%8B/">《走出技术分析的陷阱》</a>
+    </div>
+
+                         
+                         
+    <div class="article-date">
+        <i class="fa fa-calendar"></i>
+        <a href="/posts/0409/57829e5d.html">
+            <time datetime="2023-04-08T17:34:13.000Z" itemprop="datePublished">2023-04-09</time>
+        </a>
+    </div>
+
+						 
+                         
+                             <i class="fa fa-bar-chart"></i>
+                             <span id="busuanzi_container_site_pv"><span id="busuanzi_value_page_pv"></span></span>    
+                         
+                         
+                         </div>
+                
+                
+    
+        <h1 class="article-title" itemprop="name">
+            走出技术分析的陷阱：第2编
+        </h1>
+    
+
+            </header>
+        
+        
+            <div class="article-entry" itemprop="articleBody">
+             
+             
+    
+        <div id="toc" class="toc-article">
+        <strong class="toc-title">文章目录</strong>
+            <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E7%AC%AC%E4%BA%8C%E7%BC%96-%E6%9C%BA%E6%A2%B0%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F"><span class="toc-number">1.</span> <span class="toc-text"> 第二编 机械交易系统</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B8%83%E7%AB%A0-%E4%BA%86%E8%A7%A3%E6%9C%BA%E6%A2%B0%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F"><span class="toc-number">1.1.</span> <span class="toc-text"> 第七章 了解机械交易系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%85%AB%E7%AB%A0-%E8%B5%84%E9%87%91%E6%9B%B2%E7%BA%BF%E5%92%8C%E6%9C%80%E5%A4%A7%E8%B5%84%E9%87%91%E5%9B%9E%E6%92%A4"><span class="toc-number">1.2.</span> <span class="toc-text"> 第八章 资金曲线和最大资金回撤</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E5%A6%82%E4%BD%95%E5%BA%A6%E9%87%8F%E4%BD%A0%E7%9A%84%E4%BA%A4%E6%98%93%E7%BB%A9%E6%95%88"><span class="toc-number">1.3.</span> <span class="toc-text"> 第九章 如何度量你的交易绩效</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E7%AB%A0-%E6%94%B6%E7%9B%8A%E5%88%86%E5%B8%83%E5%92%8C%E8%B5%84%E9%87%91%E5%9B%9E%E6%92%A4%E5%88%86"><span class="toc-number">1.4.</span> <span class="toc-text"> 第十章 收益分布和资金回撤分</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%82%E6%95%B0%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B5%8B%E8%AF%95"><span class="toc-number">1.5.</span> <span class="toc-text"> 第十一章系统的参数稳定性测试</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%E4%B8%8D%E5%90%8C%E8%82%A1%E7%A5%A8%E9%97%B4%E7%9A%84%E6%B5%8B%E8%AF%95"><span class="toc-number">1.6.</span> <span class="toc-text"> 第十二章不同股票间的测试</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%A8%A1%E6%8B%9F"><span class="toc-number">1.7.</span> <span class="toc-text"> 第十三章蒙特卡洛模拟</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E7%AC%AC%E4%B8%89%E7%BC%9613-50%E5%9D%87%E7%BA%BF%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F"><span class="toc-number">2.</span> <span class="toc-text"> 第三编13-50均线交易系统</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0%E6%88%98%E8%83%9C%E6%8C%87%E6%95%B0"><span class="toc-number">2.1.</span> <span class="toc-text"> 第十四章战胜指数</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A013-50%E5%9D%87%E7%BA%BF%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F"><span class="toc-number">2.2.</span> <span class="toc-text"> 第十五章13-50均线交易系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A013-50%E5%9D%87%E7%BA%BF%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%94%B6%E7%9B%8A%E5%92%8C%E8%B5%84%E9%87%91%E5%9B%9E%E6%92%A4%E5%88%86%E6%9E%90"><span class="toc-number">2.3.</span> <span class="toc-text"> 第十六章13-50均线交易系统的收益和资金回撤分析</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A013-50%E5%9D%87%E7%BA%BF%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90"><span class="toc-number">2.4.</span> <span class="toc-text"> 第十七章13-50均线交易系统的稳定性分析</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0%E5%A4%A9%E8%B7%AF%E5%8E%86%E7%A8%8B"><span class="toc-number">2.5.</span> <span class="toc-text"> 第十八章天路历程</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E4%B9%9D%E7%AB%A013-50%E5%9D%87%E7%BA%BF%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%BF%A0%E5%91%8A"><span class="toc-number">2.6.</span> <span class="toc-text"> 第十九章13-50均线交易系统的忠告</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%BA%8C%E5%8D%81%E7%AB%A0%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%AA%97%E5%B1%80"><span class="toc-number">2.7.</span> <span class="toc-text"> 第二十章交易系统的骗局</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E7%AB%A0%E5%85%B6%E4%BB%96%E5%BF%A0%E5%91%8A"><span class="toc-number">2.8.</span> <span class="toc-text"> 第二十一章其他忠告</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E7%AB%A0%E8%80%83%E8%99%91%E6%9C%9F%E8%B4%A7%E4%BA%A4%E6%98%93"><span class="toc-number">2.9.</span> <span class="toc-text"> 第二十二章考虑期货交易</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E7%AC%AC%E5%9B%9B%E7%BC%9613-50%E5%9D%87%E7%BA%BF%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E5%9C%A8%E5%9B%9B%E4%B8%AAetf%E5%9F%BA%E9%87%91%E4%B8%AD%E7%9A%84%E4%BA%A4%E6%98%93"><span class="toc-number">3.</span> <span class="toc-text"> 第四编13-50均线交易系统在四个ETF基金中的交易</span></a></li></ol>
+        </div>
+    
+
+
+    <p>续<a href="https://kisma77.github.io/posts/0409/af249deb.html">第一编技术分析的陷阱</a>后，本编主要介绍机械系统</p>
+<span id="more"></span>
+<h1 id="第二编-机械交易系统"><a class="markdownIt-Anchor" href="#第二编-机械交易系统"></a> 第二编 机械交易系统</h1>
+<h2 id="第七章-了解机械交易系统"><a class="markdownIt-Anchor" href="#第七章-了解机械交易系统"></a> 第七章 了解机械交易系统</h2>
+<p>机械交易系统在台湾被称为程式化交易，国内期货界习惯于称之为程序化交易，国外称之为Mechanical Trading System,直译过来就是机械交易系统。其中Trading System是交易系统的意思，Mechanical当然就是机械的意思了，但请注意，这个词也有呆板的意思。<br>
+其实每个做交易的人都有一套自己的交易系统。 大多数人使用的是自由心证交易法 (主观交易法)。自由心证交易方法这个词听起来很陌生，其实就是想在什么时候买就在什么时候买，想在什么时候卖就在什么时候卖，想买多少股就买多少股，今天可以按照均线交叉的方式进场，明天可以按照RSI超卖出场，出了利空，可以全卖掉，也可以卖掉三分之一或者一半，总之一切全都由自己的主观判断决定。<br>
+与自由心证交易方法对应的是机械交易法，它需要首先建立一个机械交易系统。这种交易系统一般来说由固定的买入规则卖出规则、资金管理规则等组成。而在机械交易系统中，这些规则都是经过统计检验，并预设好的，以后出现买入信号、卖出信号时，即可直接按照信号操作。之所以称之为机械，是因为我们只要按照信号去操作就可以了，不用去理会基本面和其他交易系统之外的东西。<br>
+不知道大家有没有这种感觉，在翻看以前的股票走势时，图形特别清楚。如果当初按照某个原则操作，比如均线金叉等，很容易就能赚到钱。事情是这样吗?也是也不是。<br>
+为什么说也是呢。因为的确存在一些交易系统，不但可以赢利，而且利润非常丰厚。按照这种交易系统的规则买入卖出，远远比一般人操作的绩效要好。但是优秀的交易系统非常难得，开发出来很是不容易，所以其拥有者一般不会轻易示人。<br>
+为什么说也不是呢?因为更多信号看起来不错，实际上是禁不起统计检验的。比如我们前面说的那些K线形态。我们在观察图形的时候，大脑会有意识地寻找自己想要看到的东西，而忽略掉不想看到的。实际上，很多技术分析书上所讲的方法，哪怕是很多经典的指标，其实际交易的效果，都没有我们想象的那么好。<br>
+当我们浏览股票的历史走势时，不管所用的方法是否真的具有统计优势，赚钱之路在很多时候看起来都非常清晰。而面对当下的走势，却又是一片迷茫。相信很多朋友都有过这种经验。为什么会这样呢?<br>
+原因有很多。这里先讲最重要的一个。<br>
+当我们看一幅K线图时，一眼就可以看到很多天的数据，这些K线并不是一根一根出现的，而是一起影响我们视觉的。更准确地说，当你检验某个信号是否有效时，其实我们都会无意识地更关注K线图右侧的数据，即该信号的结果会怎样。期间的K线变化过程会被K线图右侧的结果淡化。不经过仔细思考和检验的话，我们会倾向于认为该信号是有效的。如果证明信号有效的图形看得多的话(很多书都是按照这种方式写的)，则我们对该信号的信心会得到更多的强化。<br>
+其实问题远没有这么简单。结果固然重要，但期间的过程更重要，而我们却把它忽略掉了。假设某个买入信号真的很成功，但是是又经过了几天大幅度的震荡，才走出一波上涨行情的。请问，在大幅震仓的情况下，你的心情会不受影响吗?在实际的操作中，我们中的大多数人是带着这种忐忑不安的心情度过震仓这几天的，这是一个非常容易犯错的时期。但是，在我们看图时，因为所有的K线都是一起进入我们视觉的，所以这些心理变化都被忽略掉了。至少，看着后面的行情，我们会不知不觉地淡化这种折磨。除了震仓之外，还有一种情况是出现利空。比如这只股票某天晚上公布了一个利空消息，你可能觉得大事不好，第二天开盘趁着跌幅还不大，马上卖出。结果收盘时却收了大阳线。或者小幅跌了几天之后，又涨了回来。现在，麻烦出现了，到底是不是该买回来?<br>
+我认为，玩股票或者期货，与其说是技术游戏，还不如说是心理游戏。<br>
+为什么会有机械交易系统这种方法，简单地说，就是为了避免出现类似这种情况。在机械交易系统中，这些情况一律都不考虑。系统如果没有发出卖出信号，那很简单，就是持仓不动。系统如果发出卖出信号，哪怕同时出现天大的利好消息，也不能留了。<br>
+机械交易系统在国内其实还远未起步。在国外却很早就有据我所知，最少30年了。其实国外的基金，股票共同基金也好避险基金也好，期货基金也好，都在执行着某个机械交易系统很多国内的基金其实也一样，只是机械化的程度高低有所不同罢了。即便是不采用机械化系统交易的基金，也会按照这个趋势发展，早晚会如此。尤其是股指期货开出来之后。<br>
+为什么基金会按照机械交易系统进行操作呢?或者说机械交易系统有什么好处呢?<br>
+1.机械化交易系统会克服人的贪婪和恐惧。我们都知道操作股票或者期货，贪焚和恐惧是最大的敌人。因为交易系统有明确客观的信号，所以如果你真的相信你的交易系统，按照交易系统的信号进行交易的话，那么尽管心中还是有贪婪和恐惧的感觉，但是实际的交易结果却不会受到这两者的影响。<br>
+2.机械化交易系统会克服信息过量的问题。这个就是我们前面所说的。其实，在交易股票或者期货时，我们不只是面对信息不对称 (即我们不知道基金或者所谓的庄家背后在想什么)，还要面对信息过量。在短时间之内，我们无法辨清这些信息的真伪，也来不及过滤并消化这些信息。比如大盘第二天的走势，如果你想听别人的看法，网上一找就是一大堆，有说涨的，有说跌的，看看大家写的，都挺有理，你说你信谁。信自己?你要真的很相信自己，你就不会看网上那些东西了。而机械系统交易者很简单，什么都不看，爱涨就涨，爱跌就跌，爱调印花税就调，爱降息就降，系统没有卖出信号，就是持仓不动，系统没发出买入信号，就是不买。<br>
+3.机械化交易系统可以不费力气地操作多只股票或者多个期货品种 (我后面再告诉你这一点有多么的好)。如果要负责点的话，自由心证交易者不但应该每天都监视所持有股票的走势，还要处理这些股票当天晚上有可能公布的信息。如果同时持有20只股票，那你就惨了。各个股票的相关性有可能很大 (其实也没想象中的大，要不然大盘涨时，为什么很多股票却不涨，不过跌的时候好像一起跌)，而在期货市场中，机械化交易系统的这一优势就更可以发挥得淋漓尽致了。除非遇到极端的暴涨暴跌，各个期货品种之间的相关性没有股票那么强。比如金属、农产品、能源，听听名字就知道，影响它们的因素并不完全一样。<br>
+4.机械化交易系统具有统计优势。这是机械化交易系统可以赢利的保证。<br>
+什么是统计优势呢?在这里我们要把这个问题解决掉。下面的内容请务必理解。实在不懂，就多看几遍。<br>
+我们可以举个例子。比如A和B玩掷骰子的游戏，他们的资金都是100块，每次下注1元。赔率是1:1。即A赢一次，B给A一块钱，B赢一次，A给B一块钱。骰子是6面体，我们假设它没有问题，则出现1到6的概率是一样的。<br>
+第一种情况，如果子的1、2、3朝上，算A赢，4、5、6朝上，算B赢。这个游戏是公平的，谁赢钱的概率都是一样大的，A<br>
+和B都没有统计优势。但是加上手续费，两个人都会输钱。第二种情况，如果1、2、3、4算A赢，5、6算B赢的话那A就有三分之二的机会赢B，而B只有三分之一的机会赢A。B在某一次或许可能会赢A，甚至可能会连续几次赢A，但是如果玩的次数足够多的话，那么B是一定会输给A的，如果B足够理性的话，那就不应该跟A玩这个游戏。所以我们说，A具有统计优势。<br>
+一个好的机械交易系统必定是具有统计优势的。如果没有统计优势，比如我们前面提到过的K线组合，在短期里，某笔交易可能会让你获利丰厚，但在长期里却会害了你，因为如果不断地按照这个模式操作下去的话，其结果必定是亏损的。<br>
+第三种情况，为了好算账，我们假设有个正一百面体 (其实没有这样的多面体，为了说明问题，我们假设有)，出现1到51算A赢，52到100算B赢。由于前一种情况中，A的统计优势太明显，所以B不会跟A玩。现在这种情况则不同，你发现A还是有统计优势，但是B也有很多机会赢A。B的兴致会比刚才高很多。如果你是B，你会去玩吗?<br>
+坦白地说，即便A有统计优势，如果只玩一次，A的优势不那么明显。但是如果玩100次，那A平均会赢1块钱。玩1000次，A平均会赢10块钱。尽管赌场里没有这个游戏，但是赌场的获利原理与此相同。现在有个问题要你回答，你知道赌场为什么是24小时营业的吗?对，赌场是为了增加赌博次数，因为次数越多，赌场的统计优势就越稳定。<br>
+第四种情况，现在我们再把第二种情况变化一下，因为原来的条件下A的统计优势太明显了。现在变成这样，1赔2。即1、2、3、4算A赢，A每赢一次，B给A一元钱。5、6算B赢，B每赢一次，A给B两元钱。假设你是B，你玩不玩呢?你应该自已算得出来，这样一来A和B的优势又一样大了。但是请注意，现在与刚才的情况有什么不同呢?换一个问法，A和B的胜率谁大?很明显，A的胜率大。就是说，现在A赢钱的次数会很多，但是每次赢的都很少，B虽然赢钱的次数少，但是每次的赢利比A多一倍。尽管A和B都不比对手有优势，如果一定让你选，你愿意当A还是愿意当B。我是愿意当A，因为尽管和B的优势一样大，但是A的胜率比较好，心情好的时候多。<br>
+第五种情况，其他条件同第四种情况，唯独赔率变成1:3即1、2、3、4算A赢，A每赢一次，B给A一元钱。5、6算B赢，B每赢一次，A给B三元钱。你说A和B谁有优势?当然是B。如果不断地玩下去，B一定会赢利。但是不要忘记，此时A的胜率仍然高过B，但只要玩得次数足够多，那A一定会输给B。你一定要理解这种情况，因为，以后我们的顺势交易系统就是基于这个原理的。一般来说，顺势交易系统的胜率只在30%~45%之间，有的系统胜率甚至只有百分之十几，但是依然可以赚钱。你知道为什么了吗?<br>
+第六种情况，其他条件同第五种情况，唯独B下注的时候会把赌注全部压下去，而不是每次1元钱。此时，B虽然有统计优势，但是如果输了，B就一无所有，无法再玩下去了。理解了这个，你就理解了资金管理为什么很重要了。有时，尽管你的交易方法具有优势，但是下注的金额处理不好的话，也会使得你的优势无法发挥出来。<br>
+5.机械交易系统对行情反应迅速。比如一只股票在10元的位置面临突破，我们计划价格超过10元的时候就买入。10.0510.10都可以接受。但是第二天开盘价为10.60元，直接突破如果是自由心证交易方法，此时难免有人会犹豫，因为很多人对最近的价格会有适应性问题。看惯了9.95、9.98，很难立即接受10.60的价格。而这一犹豫，往往会错失良机。等价格在10.60元附近盘整几天之后，我们又很容易接受这个价格了，因为看多了这个价格，我们也就对它适应了。其实对于买入来讲，我们完全可以选择不买，不介入这只股票。但是如果情况刚好相反，是卖出信号的话，一旦没有及时卖掉，价格又跌了很多，被深套，问题就大了。<br>
+当然，交易系统的信号不是绝对准确的，虽然开盘价格为10.60元，但是完全有可能在几分钟之内跌回到10.00元。但是我们敢在10.60元果断地买入，是因为我们清楚自己这么做会有统计优势，即使这一笔会使我们亏损，但是长期做下去，结果还是会赢利。其实股价跌回来的因素早已经考虑在内了。<br>
+尽管有着如此之多的优势，但机械交易系统还是有缺点的最典型的是，虽然机械交易系统可以明确地发出买入卖出信号看似很简单，但执行起来却并不容易。其中最主要的原因是很多成功的交易系统和交易策略，与人性是相反的。当价格上涨时，我们有过早平仓、先落袋为安的倾向;当价格下跌时，我们有犹豫不决、无法果断止损的倾向。这使得我们在执行某些信号时，心里会觉得非常别扭。还有这种情况，我们心里明明看空，觉得还要跌，但系统却发出了买入信号，此时很难真的下手买入。不过根据我的经验，很多你不敢执行的信号，事后往往会被证明都是最好的信号。如果你要真的相信一个系统的话，那就要相信它具备统计优势。既然有统计优势，这笔交易无非是你要执行的几百笔甚至几千笔交易中的一笔，只要最后的结果是赢利的，那这一笔的赢亏真的很重要吗?</p>
+<h2 id="第八章-资金曲线和最大资金回撤"><a class="markdownIt-Anchor" href="#第八章-资金曲线和最大资金回撤"></a> 第八章 资金曲线和最大资金回撤</h2>
+<p>其实不管是不是采用机械交易系统，只要有逐笔的交易记都可以做出统计数据来。机械交易系统由于有客观的买入卖录，出信号，所以相对比较容易。<br>
+最简单的办法，你可以使用Excel。为了简单起见，我们假设A交易者只交易一只股票600058，五矿发展。他的期初资金为10万元，买入时，满仓买入(为了留出手续费，我们假设他以98%的资金进场) ，卖出时，全部卖出，不考虑手续费和滑价。其数年来的交易记录如表8-1。第一列是交易编号。1个编号表示1笔交易。1笔交易是指一个来回，包括买入和卖出。<br>
+第二列是持仓方向。表示做多还是做空。这个在期货交易中很重要。由于股票交易的融券业务实际上也是做空，所以最好还是把这一列写出来。<br>
+第三列是股票名称。这个简单。如果你愿意的话，也可以加一列股票代码。<br>
+第四列是进场日期。之所以不用买入日期这个词，是因为如果遇到融券交易或者期货中的做空交易的话，实际上它首先是以卖出行为进入交易的。<br>
+第五列进场价格。也好理解<br>
+第六列交易股数。也没问题。<br>
+第七列是出场日期。<br>
+第八列是出场价格<br>
+由于我们采用全进全出的方式，所以卖出的股数与买入的股数相同。也许你喜欢分批进场，或者分批出场。其实这样也很简单，无非再添几行罢了。我们这么做，只是为了说明问题时方便一点。<br>
+第九列收益率。<br>
+第十列净利润。这两列由于有赢有亏，所以有时会是负数。第十一列资金。记录的是该笔交易完成后，账户的资产是多少。<br>
+有两个问题还需要说明一下。<br>
+首先，实际的交易是有成本的。如果你能再列出一列“交易成本”这个项目，会更好。它应该包括手续费、印花税，上海证交所还有过户费。这张表中我没列出这个项目，主要还是为了说明问题简单一点。但是你如果记录自己的交易的话，强烈建议你单独列出这个项目。如果觉得太麻烦，则可以在利润里减去一买一卖所支付的这些成本。我还建议你能在完成数笔交易之后，把手续费的总和计算一下，再同利润比一比，就会明白，在证券公司工作有多幸福。<br>
+其次，还有个滑价的问题，比如你计划10元买入某只股票但是价格变动得太快，以至于不得不花10.05元才能成交。这样实际成交的价格比计划成交的价格高了0.5%。卖出时也有同样的问题，尽管你计划10元钱卖出某只股票，但是由于价格跌得太快，导致你不得不在9.95元卖出。这样我们又少卖了0.5%。在我们这张表格中，由于进场价格和出场价格填的是实际成交的价格，已经考虑了滑价。<br>
+进行模拟和统计的时候，我绝对不主张忽略手续费和滑价。国内讨论机械交易系统的专著还不是很多，国外销售的某些交易系统中，很多都用小字注明:不考虑滑价和手续费。这种测试是信不着的，尤其是短线交易系统。进出频繁会导致很高的交易成本。相当数量看似赢利很多的交易系统，一旦在测试中加入滑价和手续费，都会变成亏损的系统。</p>
+<p><img src="https://s1.ax1x.com/2023/04/17/p9CIstP.png" alt="图8-1"><br>
+现在我们要做的很重要的一件事就是画出资金曲线。这回定要使用Excel了。手工画，很难画得准确，因为账户的资金并不总是整数，很多时候都会有零头。<br>
+先打开你所建立的这个Excel文件，点选最后一列。如图8-1，8-2。</p>
+<p>如图8-2，我们选第三个折线图，在子图表类型中，选择上图中的那个就可以了。直接点完成。就会出现图8-3。</p>
+<p><img src="https://s1.ax1x.com/2023/04/17/p9CIwmd.png" alt="图8-3"></p>
+<p>如果觉得该图的标题叫资金比较别扭，可以在上图的白色区域点击右键，选“图表”选项，如图8-4，把图表标题改成资金曲线就可以了。<br>
+<img src="https://s1.ax1x.com/2023/04/17/p9CIaOH.png" alt="图8-4"><br>
+<img src="https://s1.ax1x.com/2023/04/17/p9CIrkt.png" alt="图8-5"></p>
+<p>弄好以后，就是这样，如图8-5。这张图，说明了A交易者的资金变化情况。期初资金是100000元，期末资金是1392117元，净利润1292117元 (扣掉期初资金10万)，赢利将近13倍。你会发现，图8-5的左边比较平缓波动不大，右侧则比较陡峭。</p>
+<p>这给了我们一个错觉。请把鼠标移动到第四个点上，就会看到该点显示出71861.00。还记得期初资金是10万吗?一开始就遇到连续4笔交易，该账户亏损将近30%。我这里不是说我们不该接受这30%的资金回撤。而是说这个变化在上图中几乎看不出来。<br>
+那怎么才能把这段看清楚呢?答案是把纵轴设为对数刻度。原理是这样的:比如10、100、1000三个数字。从10到100，是10倍，从100到1000也是10倍。如果按照上图来算的话，从100到1000的距离要比从10到100的距离长很多。这样就会使得10到100中间的变化被图形压缩得很小。而取了对数之后，计算结果是1、2、3，从1到2的距离与从2到3的距离是一样长的，即从10到100和从100到1000的距离也是一样长了。<br>
+在Excel中，如果你想保留上一张图，那就重新再建立一张和上图一模一样的图好了，然后点纵轴，选坐标轴格式，出现图8-6<br>
+再选“刻度”标签，然后把下面的钩钩都去掉。把最小值和最大值填上合适的数字。再勾选下面的对数刻度选项。如图8-7。现在点“确定”就可以了。出现图8-8。<br>
+![[Pasted image 20230417111711.png]]<br>
+![[Pasted image 20230417111720.png]]<br>
+看到了吗?纵轴上1万到10万的距离与10万到100万的距离是·样的。这样就方便我们看出曲线真正的变化率了。<br>
+让我们先说点题外话，无可否认，这对我们的心理不可能一点影响都没有。而且请注意表中的时间，这四笔交易从1997年10月到1999年4月，一共将近1年半的时间。如果这是你选择的操作系统，你能不怀疑系统的有效性吗?事实上，第五笔交易就全赚回来了，但这已经是1999年10月的事情了。<br>
+![[Pasted image 20230417111752.png]]<br>
+试想有人向你推销这个系统，告诉你，这个系统15年大约可以赚到13倍。你会购买吗?也许你觉得这个业绩也没什么了不起，也许你操作得更好，但是请看看周围的人，我相信绝大多数人做不出这个成绩来。<br>
+再回到原来的话题，15年，13倍，尽管没骗你。但是事情却没这么简单。因为执行该系统，一开始就亏了将近30%。而且2年之后才翻回来。这两年中你会想些什么呢?<br>
+现在我们有了资金曲线，该理解第二个问题了，最大资金回撤。<br>
+前面的例子中，我们只谈论了一次规模为资金将近30%左右的资金回撤。其实在实际交易者，如果上升的话，资金曲线也不会上升得一帆风顺。就是说，要经历很多次资金回撤。其中最大的一次就称为最大资金回撤。比如:期初为1万元的投资，期末为1.8万元，赢利为80%。但是期间账户的资金曾经历过两次回调，如图8-9，则最大的MXDD为60%。<br>
+我们在接受一个系统或者策略时，首先当然要看它的赢利能力，如果赢利能力还满意的话，第二个要看的就是它在历史上最大的资金回撤是多少。我们能不能接受这个最大资金回撤。它会指导我们在采用系统交易时，先做好最坏的打算。这里还有个问题，从历史数据测试中得到的最大资金回撤，在未来的行情中不会被超越吗?当然会，其实真正的最大资金回撤不是出现在过去，而是出现在未来。即使不是这样，也但愿不是这样，从理性的角度讲，我们还是应该时刻做好承受它的准备，这个问题我们以后还要详细讨论。<br>
+说真的，投资最难的不是投资方法，而是对投资过程中出现的资金最大回撤的心理承受力。在统计上，赚钱的投资方法已经是很难找到，但是很多人即使拿着赚钱的方法依然会亏钱。原因就是对资金最大回撤没有一个正确的估计和心理准备，没有注意资金管理。所以从某种意义上讲，同技术游戏相比，投资更是心理游戏。<br>
+最大资金回撤，无论是对主观交易，还是采用机械交易系统，这都是个无比重要的概念。机械交易系统还有个好处在于虽然不能说预测它，但是可以度量它，所以在采用一个交易系统时，我们最好能把以前的最大资金回撤再乘以1.5，并时刻做好迎接它的准备，虽然谁都不愿意。</p>
+<h2 id="第九章-如何度量你的交易绩效"><a class="markdownIt-Anchor" href="#第九章-如何度量你的交易绩效"></a> 第九章 如何度量你的交易绩效</h2>
+<h2 id="第十章-收益分布和资金回撤分"><a class="markdownIt-Anchor" href="#第十章-收益分布和资金回撤分"></a> 第十章 收益分布和资金回撤分</h2>
+<h2 id="第十一章系统的参数稳定性测试"><a class="markdownIt-Anchor" href="#第十一章系统的参数稳定性测试"></a> 第十一章系统的参数稳定性测试</h2>
+<h2 id="第十二章不同股票间的测试"><a class="markdownIt-Anchor" href="#第十二章不同股票间的测试"></a> 第十二章不同股票间的测试</h2>
+<h2 id="第十三章蒙特卡洛模拟"><a class="markdownIt-Anchor" href="#第十三章蒙特卡洛模拟"></a> 第十三章蒙特卡洛模拟</h2>
+<h1 id="第三编13-50均线交易系统"><a class="markdownIt-Anchor" href="#第三编13-50均线交易系统"></a> 第三编13-50均线交易系统</h1>
+<h2 id="第十四章战胜指数"><a class="markdownIt-Anchor" href="#第十四章战胜指数"></a> 第十四章战胜指数</h2>
+<h2 id="第十五章13-50均线交易系统"><a class="markdownIt-Anchor" href="#第十五章13-50均线交易系统"></a> 第十五章13-50均线交易系统</h2>
+<h2 id="第十六章13-50均线交易系统的收益和资金回撤分析"><a class="markdownIt-Anchor" href="#第十六章13-50均线交易系统的收益和资金回撤分析"></a> 第十六章13-50均线交易系统的收益和资金回撤分析</h2>
+<h2 id="第十七章13-50均线交易系统的稳定性分析"><a class="markdownIt-Anchor" href="#第十七章13-50均线交易系统的稳定性分析"></a> 第十七章13-50均线交易系统的稳定性分析</h2>
+<h2 id="第十八章天路历程"><a class="markdownIt-Anchor" href="#第十八章天路历程"></a> 第十八章天路历程</h2>
+<h2 id="第十九章13-50均线交易系统的忠告"><a class="markdownIt-Anchor" href="#第十九章13-50均线交易系统的忠告"></a> 第十九章13-50均线交易系统的忠告</h2>
+<h2 id="第二十章交易系统的骗局"><a class="markdownIt-Anchor" href="#第二十章交易系统的骗局"></a> 第二十章交易系统的骗局</h2>
+<h2 id="第二十一章其他忠告"><a class="markdownIt-Anchor" href="#第二十一章其他忠告"></a> 第二十一章其他忠告</h2>
+<h2 id="第二十二章考虑期货交易"><a class="markdownIt-Anchor" href="#第二十二章考虑期货交易"></a> 第二十二章考虑期货交易</h2>
+<h1 id="第四编13-50均线交易系统在四个etf基金中的交易"><a class="markdownIt-Anchor" href="#第四编13-50均线交易系统在四个etf基金中的交易"></a> 第四编13-50均线交易系统在四个ETF基金中的交易</h1>
+<p>第二十三章说在前面<br>
+第二十四章上证50ETF<br>
+第二十五章上证180ETF<br>
+第二十六章深100ETF<br>
+第二十七章中小板ETF<br>
+第二十八章ETF基金组合交易绩效</p>
+<p><font color="SlateGray" size="2">—全文完—</font></p>
+
+    </div>
+
+        <footer class="article-footer">
+        </footer>
+    </div>
+</article>
+
+
+    
+<nav id="article-nav">
+    
+        <a href="/posts/0409/af249deb.html" id="article-nav-newer" class="article-nav-link-wrap">
+            <strong class="article-nav-caption">上一篇</strong>
+            <div class="article-nav-title">
+                
+                    走出技术分析的陷阱：第1编
+                
+            </div>
+        </a>
+    
+    
+        <a href="/posts/0409/d43be724.html" id="article-nav-older" class="article-nav-link-wrap">
+            <strong class="article-nav-caption">下一篇</strong>
+            <div class="article-nav-title">预测：方法与实践</div>
+        </a>
+    
+</nav>
+
+
+
+
+
+    
+    
+
+
+
+
+<!-- baidu url auto push script -->
+<script type="text/javascript">
+    !function(){var e=/([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi,r=window.location.href,o=document.referrer;if(!e.test(r)){var n="//api.share.baidu.com/s.gif";o?(n+="?r="+encodeURIComponent(document.referrer),r&&(n+="&l="+r)):r&&(n+="?l="+r);var t=new Image;t.src=n}}(window);
+</script>     
+</section>
+        </div>
+        <footer id="footer">
+    <div class="outer">
+        <div id="footer-info" class="inner">
+            Tim &copy; 2023 
+			<br> 人生就是一个泊松过程
+			<br> 要善于等待,并在等待中做好准备.
+            
+                <br>
+                <span id="busuanzi_container_site_pv"><i class="fa fa-eye"></i> <span id="busuanzi_value_site_pv"></span></span>
+                &nbsp;|&nbsp;
+                <span id="busuanzi_container_site_pv"><i class="fa fa-user"></i> <span id="busuanzi_value_site_uv"></span></span>
+            
+        </div>
+    </div>
+</footer>
+
+        
+
+    
+        
+<script src="/libs/lightgallery/js/lightgallery.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-thumbnail.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-pager.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-autoplay.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-fullscreen.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-zoom.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-hash.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-share.min.js"></script>
+
+        
+<script src="/libs/lightgallery/js/lg-video.min.js"></script>
+
+    
+    
+        
+<script src="/libs/justified-gallery/jquery.justifiedGallery.min.js"></script>
+
+    
+    
+        <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true,
+            TeX: {
+                equationNumbers: {
+                  autoNumber: 'AMS'
+                }
+            }
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
+
+
+<!-- Custom Scripts -->
+
+<script src="/js/main.js"></script>
+
+
+    </div>
+</body>
+</html>
