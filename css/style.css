@@ -264,7 +264,7 @@ code {
 .archive-article,
 .timeline-row .content,
 #toTop {
-  background: #fff;
+  background: #333;
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.05);
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
@@ -367,7 +367,7 @@ code {
   font-weight: bold;
 }
 #header {
-  background: #fff;
+  background: #333332;
   position: relative;
 }
 #header a,
@@ -1865,7 +1865,7 @@ ol.toc {
   margin: -21px -21px 10px -21px;
   padding: 0 20px;
   line-height: 30px;
-  border: 1px solid #666;
+  border: 1px solid #333;
   border-radius: 4px 4px 0 0;
 }
 .widget-wrap h3 a {
@@ -1949,7 +1949,7 @@ ol.toc {
 }
 .widget ul:not(#recent-post) li a:before,
 .widget ol:not(#recent-post) li a:before {
-  color: #ccc;
+  color: #f00;
   content: "\f0da";
   font-size: 12px;
   margin-right: 6px;
@@ -1969,7 +1969,7 @@ ol.toc {
   text-align: center;
   width: 60px;
   height: 60px;
-  color: #fff;
+  color: Red;
   font-size: 50px;
   line-height: 55px;
   background: #dcdcdc;
@@ -2069,7 +2069,7 @@ ol.toc {
   transition: all 0.2s ease;
 }
 #recent-post li .item-inner .item-date {
-  color: #aaa;
+  color: #f00;
   font-size: 13px;
   text-transform: uppercase;
 }
@@ -2126,7 +2126,7 @@ ol.toc {
   text-decoration: none;
 }
 #categories li a:focus:before {
-  content: "◔";
+  content: "▶";
   float: left;
   margin-left: -13px;
   font-weight: bold;
@@ -2171,7 +2171,7 @@ ol.toc {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 12px 28px 12px 20px;
-  border-bottom: 1px solid #e2e2e2;
+  border-bottom: 1px solid #333;
   font-family: "Microsoft Yahei Light", "Microsoft Yahei", Helvetica, Arial, sans-serif;
 }
 .ins-close {
@@ -2206,7 +2206,7 @@ ol.toc {
     margin: 0;
     width: 100%;
     height: 100%;
-    background: #f7f7f7;
+    background: #333;
   }
 }
 .ins-section-wrapper {
@@ -2219,7 +2219,7 @@ ol.toc {
 }
 .ins-section-container {
   position: relative;
-  background: #f7f7f7;
+  background: #333;
 }
 .ins-section {
   font-size: 14px;
@@ -2231,7 +2231,7 @@ ol.toc {
 }
 .ins-section .ins-section-header {
   color: #9a9a9a;
-  border-bottom: 1px solid #e2e2e2;
+  border-bottom: 1px solid #333;
 }
 .ins-section .ins-slug {
   margin-left: 5px;
