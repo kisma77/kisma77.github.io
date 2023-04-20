@@ -2081,7 +2081,7 @@ ol.toc {
 }
 #categories {
   text-shadow: 0 0px 0 #333;
-  font-size: 12px;
+  font-size: 10px;
 }
 #categories ul {
   margin-bottom: 0;
@@ -2165,7 +2165,7 @@ ol.toc {
   box-shadow: none;
   font-weight: 200;
   border-radius: 0;
-  background: #fff;
+  background: Gray;
   line-height: 20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -2186,7 +2186,7 @@ ol.toc {
   display: inline-block;
 }
 .ins-close:hover {
-  color: #006bde;
+  color: #3cb371;
 }
 .ins-search-container {
   left: 50%;
@@ -2206,7 +2206,7 @@ ol.toc {
     margin: 0;
     width: 100%;
     height: 100%;
-    background: #f7f7f7;
+    background: #000;
   }
 }
 .ins-section-wrapper {
@@ -2219,7 +2219,7 @@ ol.toc {
 }
 .ins-section-container {
   position: relative;
-  background: #f7f7f7;
+  background: #000;
 }
 .ins-section {
   font-size: 14px;
@@ -2230,12 +2230,12 @@ ol.toc {
   padding: 8px 15px;
 }
 .ins-section .ins-section-header {
-  color: #9a9a9a;
+  color: #3cb371;
   border-bottom: 1px solid #e2e2e2;
 }
 .ins-section .ins-slug {
   margin-left: 5px;
-  color: #9a9a9a;
+  color: #3cb371;
 }
 .ins-section .ins-slug:before {
   content: '(';
@@ -2255,13 +2255,13 @@ ol.toc {
 .ins-section .ins-search-item .ins-search-preview {
   height: 18px;
   font-size: 12px;
-  color: #9a9a9a;
+  color: #3cb371;
   margin: 5px 0 0 20px;
 }
 .ins-section .ins-search-item:hover,
 .ins-section .ins-search-item.active {
   color: #fff;
-  background: #006bde;
+  background: #3cb371;
 }
 .ins-section .ins-search-item:hover .ins-slug,
 .ins-section .ins-search-item.active .ins-slug,
