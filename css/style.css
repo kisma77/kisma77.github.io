@@ -154,7 +154,7 @@ code {
   color: #00fa9a;
   padding: 8px 8px;
   font-size: 0.75em;
-  border-radius: 1px;
+  border-radius: 6px;
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
   background-color: #333337;
 }
@@ -264,7 +264,7 @@ code {
 .archive-article,
 .timeline-row .content,
 #toTop {
-  background: #333;
+  background: #222;
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.05);
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
@@ -367,7 +367,7 @@ code {
   font-weight: bold;
 }
 #header {
-  background: #333;
+  background: #222;
   position: relative;
 }
 #header a,
@@ -837,7 +837,7 @@ article {
 }
 .article-inner {
   overflow: hidden;
-  background: #676969;
+  background: #222;
   border-radius: 4px;
   border: 1px solid #333;
 }
@@ -923,10 +923,10 @@ div.article-meta-button a:hover {
   line-height: 30px;
   border: 1px solid #333;
   border-radius: 4px 4px 0 0;
-  color: #696969;
+  color: #333;
 }
 .article-inner .article-meta a {
-  color: #696969;
+  color: #000003;
 }
 .article-category .fa-angle-right {
   margin: 0 5px;
@@ -2069,7 +2069,7 @@ ol.toc {
   transition: all 0.2s ease;
 }
 #recent-post li .item-inner .item-date {
-  color: #f00;
+  color: #222;
   font-size: 13px;
   text-transform: uppercase;
 }
@@ -2080,7 +2080,7 @@ ol.toc {
   color: #00fa9a;
 }
 #categories {
-  text-shadow: 0 0px 0 #333;
+  text-shadow: 0 0px 0 #222;
   font-size: 10px;
 }
 #categories ul {
