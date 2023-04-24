@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>...Tim...ing...</title>
+  <title>泡芙随笔</title>
   
   <subtitle>生活就像一盒巧克力</subtitle>
   <link href="http://kisma77.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://kisma77.github.io/</id>
   
   <author>
-    <name>Tim</name>
+    <name>泡芙先生</name>
     
   </author>
   
