@@ -1664,7 +1664,7 @@ ol.toc {
 }
 #page-nav a {
   color: #d3d3d3;
-  text-decoration: none;
+  text-decoration: underline;
 }
 #page-nav a:hover {
   color: #fff;
