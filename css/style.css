@@ -137,7 +137,7 @@ body,
   height: 100%;
 }
 body {
-  color: #dcdcdc;
+  color: #a9a9a9;
   background: #333;
   font: 16px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -234,7 +234,7 @@ code {
 .layout-wrap-inner.tag-cloud a:visited,
 .timeline-row .content h1 a:visited,
 .timeline-row-major .title a:visited {
-  color: #dcdcdc;
+  color: #a9a9a9;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
@@ -377,7 +377,7 @@ code {
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 #header a:hover {
   color: #87cefa;
@@ -577,7 +577,7 @@ code {
   width: 200px;
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: #dcdcdc;
+  color: #a9a9a9;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
@@ -700,7 +700,7 @@ code {
 #profile .inner .base-info #location {
   font-size: 14px;
   margin-top: 5px;
-  color: #fff;
+  color: #ededed;
 }
 #profile .inner .base-info #location .fa {
   margin-right: 5px;
@@ -766,10 +766,10 @@ code {
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 #profile .inner .social-links > table td a:hover {
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 #profile .inner .social-links > table td a.tooltip:hover:after {
   right: -50%;
@@ -854,12 +854,12 @@ article {
 }
 .article-title {
   font-size: 2em;
-  color: #dcdcdc;
+  color: #a9a9a9;
   text-decoration: none;
   line-height: 1.3em;
 }
 a.article-title:visited {
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 a.article-title:hover {
   color: #87cefa;
@@ -894,7 +894,7 @@ a.article-title:hover {
   margin-right: 3px;
 }
 .article-meta a {
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 .article-meta a:hover {
   color: #87cefa;
@@ -935,7 +935,7 @@ div.article-meta-button a:hover {
   content: "#";
 }
 .article-entry {
-  color: #dcdcdc;
+  color: #a9a9a9;
   padding: 0 20px;
   line-height: 1.5em;
 }
@@ -1146,7 +1146,7 @@ div .article-more-link {
   text-decoration: none;
 }
 .article-footer a:hover {
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 .article-comment-link {
   float: right;
@@ -1192,7 +1192,7 @@ div .article-more-link {
     margin-left: -4px;
     content: "";
     border-radius: 50%;
-    background: #fefefe;
+    background: #cbcbcb;
   }
 }
 .article-nav-link-wrap {
@@ -1206,7 +1206,7 @@ div .article-more-link {
   display: block;
 }
 .article-nav-link-wrap:hover {
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 @media screen and (min-width: 1200px) {
   .article-nav-link-wrap {
@@ -1232,7 +1232,7 @@ div .article-more-link {
   letter-spacing: 2px;
   line-height: 1em;
   font-weight: bold;
-  color: #dcdcdc;
+  color: #a9a9a9;
   text-transform: uppercase;
 }
 #article-nav-newer .article-nav-caption {
@@ -1241,7 +1241,7 @@ div .article-more-link {
 .article-nav-title {
   font-size: 0.85em;
   margin-top: 0.5em;
-  color: #dcdcdc;
+  color: #a9a9a9;
   line-height: 1.5em;
 }
 .article-share-box {
@@ -1266,7 +1266,7 @@ div .article-more-link {
   box-sizing: border-box;
   font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   padding: 0 10px;
-  color: #dcdcdc;
+  color: #a9a9a9;
   outline: none;
   border: 1px solid #333;
   border-radius: 3px 3px 0 0;
@@ -1493,7 +1493,7 @@ ol.toc {
 .archive-category-wrap .archive-year,
 .archive-tag-wrap .archive-year,
 .layout-title .archive-year {
-  color: #dcdcdc;
+  color: #a9a9a9;
 }
 .archive-year-wrap .archive-year:hover,
 .archive-category-wrap .archive-year:hover,
@@ -1679,7 +1679,7 @@ ol.toc {
   }
 }
 #page-nav .current {
-  color: #dcdcdc;
+  color: #a9a9a9;
   font-weight: bold;
 }
 .timeline-wrap {
@@ -1751,7 +1751,7 @@ ol.toc {
 }
 .timeline-row .content .article-meta {
   font-size: 12px;
-  color: #fff;
+  color: #dcdcdc;
   border-top: 1px solid #f7f7f7;
   background-color: rgba(244,246,247,0.2);
 }
@@ -1770,7 +1770,7 @@ ol.toc {
 #footer {
   padding: 20px 0;
   border-top: 1px solid #333;
-  color: #dcdcdc;
+  color: #a9a9a9;
   font-size: 18px;
   text-align: center;
 }
@@ -1972,7 +1972,7 @@ ol.toc {
   color: Red;
   font-size: 50px;
   line-height: 55px;
-  background: #dcdcdc;
+  background: #a9a9a9;
   opacity: 0.8;
   border-radius: 4px;
   bottom: 20px;
