@@ -138,19 +138,19 @@ body,
 }
 body {
   color: #000;
-  background: #a8a8a8;
+  background: #f5f5f5;
   font: 16px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 a {
   color: #800000;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:visited {
   color: #800000;
 }
 code {
-  margin: 0 0.5px;
+  margin: 0 0.65px;
   color: #000;
   padding: 6px 5px;
   font-size: 0.5em;
@@ -264,7 +264,7 @@ code {
 .archive-article,
 .timeline-row .content,
 #toTop {
-  background: #a8a8a8;
+  background: #f5f5f5;
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.05);
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
@@ -295,7 +295,7 @@ code {
 }
 .article-entry hr,
 .widget hr {
-  border: 1px dashed #333;
+  border: 1px dashed #f5f5f5;
 }
 .article-entry strong,
 .widget strong {
@@ -424,7 +424,7 @@ code {
   margin-top: -20.5px;
 }
 .header-sub {
-  border-top: 1px solid #333;
+  border-top: 1px solid #f5f5f5;
 }
 .header-sub ul {
   margin: 0 15px;
@@ -590,7 +590,7 @@ code {
   outline: none !important;
   background: none !important;
   font: 16px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
-  border: 1px solid #333 !important;
+  border: 1px solid #f5f5f5 !important;
 }
 .search-form-input:focus,
 .search-form-input.ins-search-input:focus,
@@ -657,7 +657,7 @@ code {
 }
 .profile-block {
   padding: 15px 20px;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #f5f5f5;
 }
 .profile-block:last-child {
   border-bottom: none;
@@ -678,7 +678,7 @@ code {
 #profile .inner {
   margin-top: 40px;
   background: #fff;
-  border: 4px solid #a8a8a8;
+  border: 4px solid #f5f5f5;
   border-radius: 4px;
 }
 #profile .inner .base-info #avatar {
@@ -751,7 +751,7 @@ code {
   text-transform: uppercase;
 }
 #profile .inner .article-info .article-info-block:first-child {
-  border-right: 1px solid #333;
+  border-right: 1px solid #f5f5f5;
 }
 #profile .inner .social-links > table {
   width: 100%;
@@ -825,21 +825,21 @@ code {
 }
 #profile.card .profile-inner:after {
   z-index: 0;
-  border-color: transparent transparent #222 transparent;
+  border-color: transparent transparent #e4e4e4 transparent;
 }
 article {
   padding: 3px;
   border-radius: 4px;
-  background-color: #a8a8a8;
+  background-color: #f5f5f5;
 }
 .article {
   margin: 40px 0;
 }
 .article-inner {
   overflow: hidden;
-  background: #f5f5f5;
+  background: #fff;
   border-radius: 2px;
-  border: 1px solid #333;
+  border: 1px solid #f5f5f5;
 }
 .article-banner {
   width: 100%;
@@ -908,7 +908,7 @@ div.article-meta-button a {
   padding: 4px 8px;
   margin: 2px 0;
   font-size: 100%;
-  background: #333;
+  background: #f5f5f5;
   border-radius: 3px;
   text-transform: none;
 }
@@ -917,16 +917,16 @@ div.article-meta-button a:hover {
 }
 .article-inner .article-meta {
   line-height: 20px;
-  background: #333;
+  background: #708090;
   margin: 0px -21px 20px -21px;
   padding: 0 20px;
   line-height: 30px;
-  border: 1px solid #a8a8a8;
+  border: 1px solid #f5f5f5;
   border-radius: 2px 2px 0 0;
   color: #333;
 }
 .article-inner .article-meta a {
-  color: #a8a8a8;
+  color: #333;
 }
 .article-category .fa-angle-right {
   margin: 0 5px;
@@ -1034,11 +1034,11 @@ div.article-meta-button a:hover {
 }
 .article-entry th {
   font-weight: bold;
-  border-bottom: 3px solid #333;
+  border-bottom: 3px solid #f5f5f5;
   padding-bottom: 0.5em;
 }
 .article-entry td {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #f5f5f5;
   padding: 10px 0;
 }
 .article-entry blockquote {
@@ -1047,15 +1047,15 @@ div.article-meta-button a:hover {
   font-size: 1.1em;
   margin: 0 -20px;
   padding: 5px 2px 1px 30px;
-  background: #a8a8a8;
-  border-left: 3px solid #00008b;
+  background: #f5f5f5;
+  border-left: 3px solid #708090;
 }
 .article-entry blockquote:before {
   top: 10px;
   left: -25px;
   float: left;
   content: "\f10d";
-  color: #00008b;
+  color: #708090;
   font-size: 10px;
   font-family: FontAwesome;
   text-align: center;
@@ -1115,7 +1115,7 @@ div .article-more-link {
   line-height: 1em;
   padding: 6px 15px;
   border-radius: 15px;
-  background: #a8a8a8;
+  background: #f5f5f5;
   color: #c0c0c0;
   text-shadow: 0 0 #000;
   text-decoration: none;
@@ -1129,7 +1129,7 @@ div .article-more-link {
 .article-footer {
   font-size: 0.85em;
   line-height: 1.5em;
-  border-top: 1px solid #333;
+  border-top: 1px solid #f5f5f5;
   padding-top: 1.5em;
   margin: 0 20px 20px;
 }
@@ -1268,13 +1268,13 @@ div .article-more-link {
   padding: 0 10px;
   color: #000;
   outline: none;
-  border: 1px solid #333;
+  border: 1px solid #f5f5f5;
   border-radius: 3px 3px 0 0;
   height: 36px;
   line-height: 36px;
 }
 .article-share-links {
-  background: #a8a8a8;
+  background: #f5f5f5;
 }
 .article-share-links:before,
 .article-share-links:after {
@@ -1684,7 +1684,7 @@ ol.toc {
 }
 .timeline-wrap {
   margin: 40px 20px 40px 40px;
-  border-left: 3px solid #333;
+  border-left: 3px solid #f5f5f5;
 }
 @media screen and (max-width: 559px) {
   .timeline-wrap {
@@ -1769,7 +1769,7 @@ ol.toc {
 }
 #footer {
   padding: 20px 0;
-  border-top: 1px solid #333;
+  border-top: 1px solid #f5f5f5;
   color: #000;
   font-size: 18px;
   text-align: center;
@@ -1854,14 +1854,14 @@ ol.toc {
 }
 .widget-wrap {
   margin: 40px 0;
-  background-color: #b9b9b9;
-  border: 4px solid #a8a8a8;
+  background-color: #f7f7f7;
+  border: 4px solid #f5f5f5;
   border-radius: 4px;
   padding: 20px;
 }
 .widget-wrap h3 {
   line-height: 20px;
-  background: #333;
+  background: #708090;
   margin: -21px -21px 10px -21px;
   padding: 0 20px;
   line-height: 30px;
@@ -1875,7 +1875,7 @@ ol.toc {
 .widget-wrap h3 a,
 .widget-wrap h3 span {
   border-radius: 4px 4px 0 0;
-  background: #b9b9b9;
+  background: #f7f7f7;
   font-size: 15px;
   line-height: 18px;
   padding: 5px 10px;
@@ -2165,7 +2165,7 @@ ol.toc {
   box-shadow: none;
   font-weight: 200;
   border-radius: 0;
-  background: Gray;
+  background: #f5f5f5;
   line-height: 20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -2206,7 +2206,7 @@ ol.toc {
     margin: 0;
     width: 100%;
     height: 100%;
-    background: #a8a8a8;
+    background: #f5f5f5;
   }
 }
 .ins-section-wrapper {
@@ -2219,7 +2219,7 @@ ol.toc {
 }
 .ins-section-container {
   position: relative;
-  background: #a8a8a8;
+  background: #f5f5f5;
 }
 .ins-section {
   font-size: 14px;
